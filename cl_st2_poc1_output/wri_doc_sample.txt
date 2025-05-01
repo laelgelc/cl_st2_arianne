@@ -1,0 +1,62 @@
+This Earth month, help create a healthier, more hopeful planet
+Donate now
+Main navigation
+Donate
+Quick Links
+Main navigation
+Footer menu - secondary
+Mega Menu
+Filter Your Site Experience by Topic
+Applying the filters below will filter all articles, data, insights and projects by the topic area you select.
+Search WRI.org
+Not sure where to find something? Search all of the site's content.
+Tree Cover Is Still Declining Overall in Latin America, but New Data Shows Where It’s Coming Back
+Countries in Latin America and the Caribbean have major goals to restore their degraded landscapes.
+Forest loss has been a decades-long problem, with the region losing nearly 15 million hectares of trees (1.2% of the total) from 2015 to 2023. However, recognizing the importance of forests for both people and nature, 18 countries have committed to protect and restore over 50 million hectares of degraded and deforested land by 2030 as part ofInitiative 20x20.
+With five years left to achieve the goal, how are countries doing?
+For a long time, measuring progress on restoration has been a difficult task, due to lack of consistent and credible data. But for the first time, new satellite data can “see” year to year where trees are growing, where they remain standing and where they’re disappearing.
+Produced by the University of Maryland,this dataenables us to determine the dynamics of tree cover change across Latin America from 2015 to 2023. While it is not a perfect proxy for measuring restoration progress — satellites can’t tell whether tree cover gain is due to planned restoration, natural regrowth or industrial plantations — we can combine it with other datasets to get some insights.
+The data shows that while Latin America overall lost more tree cover than it gained from 2015 to 2023, progress is being made compared to historical trends. Among the 18 countries participating in Initiative 20x20, three countries gained tree cover from 2015 to 2023, 10 remained neutral and five experienced losses.
+But looking strictly at the amount of tree cover a country had in 2023 compared to 2015 does not tell the entire story.The dynamics of yearly changes in tree cover and where those changes are happening can reveal a lot about progress on restoration and conservation. For example, in some countries, gains in tree cover were mainly from increased plantations, which don’t always benefit the environment.
+Here are five key insights from the data:
+1) Tree cover is very stable from year to year in some countries, but fluctuates significantly in others.
+With the new data, we can see whether there is more, less or the same amount of tree cover in 2023 compared to 2015. Our analysis shows that 13 of the 18 countries studied had about the same or more tree cover in 2023 as compared to 2015.
+However, this “net neutral” status could result from very different scenarios: It could mean that tree cover remained largely unchanged over the time period; or it could mean that large swaths of tree cover were lost, but then replaced by an equivalent amount of gain elsewhere.
+In terms of ecosystem health, unchanged tree cover is better. It means that old-growth forests remain standing to provide habitat for plants and animals, sequester carbon, protect water supplies and offer other critical services. Once forests are cut down, it can take decades for new trees to grow large enough to provide these services.
+For example, tree cover in Costa Rica and Panama was very stable from 2015 to 2023, with only minor changes from year to year. Meanwhile, in Chile and Nicaragua, tree cover fluctuated tens of thousands of hectares from year to year, even though the countries’ total amount of tree cover in 2023 was roughly the same as in 2015.
+These patterns reflect different dynamics. Chile, Nicaragua and the other countries where tree cover is more dynamic have more plantations or “working” forests that are continually harvested and regrown, as well as higher instances of disturbances like fire or hurricanes that cause losses which then naturally regenerate. The stability in Costa Rica and Panama points to greater forest conservation and fewer natural or human-caused disturbances.
+2) Tree cover is expanding on farms.
+Proportionally, croplands experienced the highest net gains in tree cover of any other landscape — nearly 300,000 hectares, or a 24% increase relative to 2015 tree cover levels. The majority of this net gain was concentrated in seven of the 18 studied countries: Argentina, Brazil, Chile, Dominican Republic, Mexico, Paraguay and Uruguay.
+While we can’t determine exactly what is going on in all these cases, some of this gain is from agroforestry and sustainable agriculture, including integrating trees with crops to stabilize soils and increase productivity. But most is likely due to plantation establishment, such as for timber, rubber and oil palm. For example, Uruguay saw a significant amount of gain in tree cover from 2015 to 2023, but it occurred primarily in the form of plantations.
+While plantations can be beneficial when they take deforestation pressure off of natural forests or improve the productivity of formerly degraded lands, they can also be detrimental. For example, if plantations replace natural forests with monocultures or are planted in areas that do not naturally support forests, such as native grasslands, they can harm biodiversity, water availability and soil quality. These types of plantations are not usually considered restoration.
+3) Many cities are becoming greener.
+Two-thirds (12 of 18) of countries studied had net tree cover gain in cities and near other built infrastructure, such as along major roads and highways.Trees in urban areasprovide cooling shade, clean the air by filtering out pollutants, and create inviting spaces for people to enjoy time outdoors.
+Two countries — Nicaragua and Colombia — led the way on “greening” their developed areas, with net tree cover gains of 3% and 2%, respectively. For example, Cali, Colombia was recently certified by the UN’s Food and Agriculture Organization (FAO) and Arbor Day Foundation as one of the “Tree Cities of the World” due to itsnetwork of urban forests and green spaceswithin the city, which promote biodiversity and improve the quality of life for residents.
+4) Protected areas are often the best way to conserve forests — when they’re effectively managed.
+Across all countries, 95% of tree cover inside protected areas was stable — meaning no gains, losses or disturbances occurred between 2015 and 2023. This indicates that establishing protected areas is often an effective way to conserve forests.
+Peru, Ecuador and Chile had the most stable forests inside their protected areas, with more than 98% of the interior forest area showing no change.
+However, in three countries — Nicaragua, Honduras and Guatemala — tree cover inside protected areas was more unstable than other areas, ranging from only 75%-80%. Net forest loss in these countries was actually higher inside protected areas than outside. While some of the observed forest loss may be due to natural disasters, policies and their enforcement deserve a closer look in these nations.
+5) National policies to incentivize restoration show positive results.
+El Salvador and Guatemala have implemented unique, government-led programs that both prioritize and finance restoration. Data suggests these programs are having a positive impact on tree cover gain.
+El Salvador was the only one of 18 countries to experience net tree cover gain across all land types, including inside protected areas. Deforestation has been a problem in El Salvador for decades; it lostall but 6%of its native forest cover by the 1970s. Though the country started with less tree cover than others in 2015, the data clearly shows that trees are coming back everywhere. These positive trends are at least in part due to political support for restoration, such as the government’sEnvironmental Incentives and Disincentives Programof 2022, which rewards sustainable activities and discourages landscape degradation. Newer policies, like the 2024Environmental Assessment Systemto better evaluate the impacts of human activities on the environment and the 2025National Program for the Restoration of Ecosystems and Productive Landscapes, should further encourage restoration.
+Guatemala has also seen positive results. The Guatemalan government implemented its PROBOSQUE program in 2017, providing finance to smallholder farmers to conserve, plant and maintain trees on their lands. Analysis of mapped PROBOSQUE sites established between 2017 and 2020 show that 20,600 hectares of tree cover were stable and there was net gain of 830 hectares as of 2023. Continuing the PROBOSQUE incentives program, along with its associated mapping and monitoring, could help further support farmers and trees.
+Using Data to Inform Progress and Spur More Restoration
+Using this data, national and local governments can better identify successful programs or where change is needed. For example, in Guatemala, while PROBOSQUE has helped improve tree cover on farmers’ lands, forests inside the country’s protected areas are still being lost. Because the data shows the bigger picture of what’s happening to trees throughout the country, it can be used to monitor and inform policies and incentives.
+Improved documentation of where restoration is occurring is also essential. We now have the data to see tree cover change, but we still need more information about where to look to assess progress against restoration goals and determine whether restoration efforts are actually producing healthier and more resilient ecosystems — which is ultimately the goal. Combining this data with on-the-ground documentation will enable people to better assess where countries stand on restoring their degraded landscapes.
+In the 10 years of Initiative 20x20, an important lesson learned is that it takes many actors and a coalition of projects, policies and incentives working together to build momentum for success. Improving access and availability of data to monitor change is one more tool that can help support sustainable landscapes well into the future.
+Relevant Work
+7 Ways Governments Can Invest in Farmer-led Land Restoration
+Seeing the Trees Outside of Dense Forests Just Got Easier
+Smarter Farm Subsidies Can Drive Ecosystem Restoration
+Timber Harvesting and Climate Change Are Depleting Europe's Mature Forests
+How You Can Help
+WRI relies on the generosity of donors like you to turn research into action. You can support our work by making a gift today or exploring other ways to give.
+Stay Informed
+Footer menu - main
+Footer menu - secondary
+Footer menu - Offices
+Footer menu - Additional
+World Resources Institute10 G Street NESuite 800Washington DC 20002+1 (202) 729-7600
+Social menu
+© 2025 World Resources Institute
+Envision a world where everyone can enjoy clean air, walkable cities, vibrant landscapes, nutritious food and affordable energy.
