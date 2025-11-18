@@ -1,0 +1,18 @@
+© Grant Linley
+Four years ago, catastrophic wildfires tore through Australia’s southern and east coasts causing widespread damage to people and wildlife, the impacts of which the nation will feel for years to come. More than 24.7 million acres of land—an area about the size of Kentucky—burned, and an estimated 3 billion animals were harmed or killed, including important native wildlife such as kangaroos, wallabies, koalas, wombats, and echidnas.
+In response, WWF-Australia, WWF-US, and Conservation International, supported by a $1 million grant from Google’s philanthropic arm Google.org, launched Eyes on Recovery, the most extensive post-fire monitoring program ever initiated in Australia. With a range of on-ground partners, the Eyes on Recovery team deployed camera traps in eight fire-affected regions to better understand the disaster’s impacts and how species are recovering. These data help provide a more complete picture of affected ecosystems that can inform how experts on the ground work to manage the recovery process.
+© WWF-US / Emma Spencer
+More than 1,100 cameras have been deployed across Australia as part of this project, resulting in over 7 million images over the past two years. The images allow us to answer questions about the status of species like the Kangaroo Island dunnart in South Australia, brush-tailed rock wallabies in Queensland, and koalas on the north coast of New South Wales.
+Given the sheer number of images, the project turned to Wildlife Insights to sort and analyze the pictures. This groundbreaking cloud platform uses artificial intelligence to identify the animals detected in each photo. As part of this initiative, Wildlife Insights implemented an updated AI model, specifically trained to identify more than 150 different Australian species. And a new online tool built by Eyes on Recovery and integrated with Wildlife Insights allows land managers and researchers to explore and compare data across sites.
+The monitoring data have already helped experts determine when and where to manage invasive species and the timing and location of prescribed burns. The technology also helped detect threatened species for the first time at some sites, allowing experts to plan their recovery.
+In the coming years, data from Eyes on Recovery will help us take action to make native wildlife more resilient to wildfires, such as increasing habitat connectivity so that animals can easily move from burnt areas to unburnt habitat. We hope these actions will help ensure the conservation of Australia’s wildlife, even in the face of future fires.
+Take a look at some of the amazing wildlife captured by the Eyes on Recovery camera traps!
+© Kangaroo Island Landscape Board
+© Courtesy of Aaron Greenville/University of Sydney
+© Science for Wildlife
+© Courtesy of the Kangaroo Island Landscape Board
+© Kangaroo Island Landscape Board
+© Southern Ark
+© Kangaroo Island Landscape Board
+© Courtesy of Aaron Greenville/University of Sydney
+Learn more about Eyes on Recovery.
