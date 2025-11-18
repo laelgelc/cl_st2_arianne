@@ -1,9 +1,7 @@
 The voice of rural communities is frequently missing from mainstream climate science, even though they are all on the front lines of the climate crisis . This was the motivation to create Climate Crowd , which first got started in 2014. Since then, Climate Crowd has grown to include data from over 30 countries in addition to on-the-ground projects that help people and nature adapt to a changing climate. These projects are informed, designed, and implemented hand in hand with rural communities around the world. A big focus of the projects is improved water security, for example, through rainwater harvesting, drip irrigation, fog catchers, solar-powered boreholes, and greywater recycling. Other projects focus on climate-smart agriculture, alternative livelihoods, education for schools, reforestation, clean cookstoves, and weather stations.
 The Climate Crowd methodology is to provide training and guidance to local partners who work with communities to collect data using a key informant survey. The Climate Crowd team then analyzes the data, compiling summary reports that highlight key trends. The findings are then presented back to the communities, and we work with them to co-design and implement on-the-ground projects to address climate vulnerabilities using funding from Climate Crowd.
 As the climate changes and communities adapt, Climate Crowd wants to help them do so in ways that benefit both people and nature. The number of partners we work with and the geographies we work in are growing rapidly, so be sure to check in regularly at wwfclimatecrowd.org .
-© WWF
 This report is a compilation of 15 Climate Crowd projects implemented in eight countries, helping to build the resilience of people and nature to a changing climate.
-© WWF-Madagascar
 Create sustainable alternative livelihoods for coastal communities that build resilience to changing rainfall patterns and reduce pressure on fisheries.
 Reduced abundance of fish
 Increased reliance on destructive fishing practices and equipment
@@ -20,7 +18,6 @@ Reduced pressure on fisheries
 32 households involved in beekeeping
 42 households involved in seaweed farming
 Increased involvement of women in income-generating activities
-© Greenline Africa
 Support community water and food security during prolonged drought, and combat widespread deforestation.
 Widespread water insecurity
 Crop loss from prolonged drought and increasing pest prevalence
@@ -38,7 +35,6 @@ One borehole pump upgraded to solar power
 15 clean cookstoves installed
 Drip irrigation installed in a community garden
 Automated weather station installed
-© WWF-Kenya
 Decrease human-wildlife conflict over access to water and pasture during periods of drought.
 Reduced availability of freshwater pasture
 Death and malnourishment of livestock due to water scarcity and reduced pasture availability
