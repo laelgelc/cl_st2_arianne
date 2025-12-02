@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 2016, the author visited Ecuador's Amazon, witnessing Indigenous and farmer communities poisoned by Chevron's oil waste, which caused cancer, birth defects, and contamination exceeding legal standards. After winning a $9.5 billion judgment in Ecuadorian courts, upheld on appeals, Chevron refused payment and launched retaliatory attacks on lawyer Steven Donziger, including a US RICO case under Judge Kaplan. Kaplan accepted false testimony from a paid witness, barred pollution evidence, and imposed home detention on Donziger for contempt, highlighting corporate intimidation against environmental advocates.

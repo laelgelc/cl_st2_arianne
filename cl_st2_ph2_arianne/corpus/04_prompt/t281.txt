@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses escalating wildfires worldwide, from Turkey and Greece to Russia, Brazil, the US, Canada, Italy, and Lebanon, fueled by climate change, extreme heat, and drought. These fires destroy forests, wildlife, and carbon storage, worsening emissions and air quality amid the COVID-19 pandemic. It highlights illegal Amazon fires under Bolsonaro, massive US and Canadian blazes, and smoke reaching distant areas. Greenpeace calls for phasing out fossil fuels, ending subsidies, protecting forests with Indigenous guidance, and urgent climate action, coinciding with the IPCC's report on fossil fuels' role in weather extremes.

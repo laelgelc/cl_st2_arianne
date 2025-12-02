@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Activists disrupted the African Energy Summit in London to highlight neo-colonial oil extraction in Africa, exacerbating poverty in formerly colonized nations. Focus centers on Canadian firm ReconAfrica's planned drilling in Namibia and Botswana's Kavango region, including the Okavango Delta, risking massive CO2 emissions equivalent to one-sixth of the global carbon budget and breaching Paris Agreement goals. This threatens biodiversity, endangered species like cheetahs and rhinos, local water supplies, tourism, and Indigenous San communities' livelihoods. Youth and Indigenous activists, including Ina-Marie Shikongo and Q7 Beckett, demand a halt, citing lack of consultation and potential devastation.

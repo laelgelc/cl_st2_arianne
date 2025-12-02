@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's blog post discusses the origins of Pride in the 1969 Stonewall Riots, rooted in protests against inequality, and its links to climate justice, as marginalized communities suffer most from environmental crises. The organization celebrates diversity and supports LGBTQ+ rights for a just future. Since 2018, Greenpeace has joined Pride events worldwide, starting in Amsterdam, followed by Brazil in 2019 amid high violence rates, Mexico City with advancing equal rights laws, and Taiwan in 2020 during the pandemic to highlight social and environmental justice connections. They pledge ongoing solidarity.

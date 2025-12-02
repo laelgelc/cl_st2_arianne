@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 2022, notable environmental wins included the Philippines' Commission on Human Rights declaring climate change a human rights issue and holding corporations accountable; the EU proposing a law against SLAPPs to protect advocates; the UN General Assembly affirming the right to a healthy environment; California banning new oil and gas wells near communities; the EU's deforestation law requiring supply chain traceability; Canada rejecting an Arctic iron mine expansion to protect Inuit lands; global calls for a deep sea mining moratorium; a UN resolution for a plastics treaty; and court victories in Argentina, South Africa, and Indonesia against oil exploration and for clean air.

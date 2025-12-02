@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+2018 is declared the climate year amid fires, soaring temperatures, hurricanes, and IPCC confirmation of a changing world worsening ahead. The Climate Vulnerable Forum’s Virtual Summit, hosted by the Marshall Islands, showcases leadership from vulnerable developing countries, including the Marshalls' plan for 100% renewables and net-zero emissions by 2050. The CVF, comprising frontline nations, influenced the Paris Agreement and 1.5-degree goal. This online summit precedes COP24, urging major polluters and governments to act urgently on climate change.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the Paris Agreement's goal to limit global warming to 1.5°C, requiring radical changes across industries. While the electricity sector advances with renewables supplying over 20% of EU power, transport emissions rise due to increasing car sales, especially SUVs. A Greenpeace-commissioned study by German researchers predicts that without intervention, electric vehicle adoption won't suffice, necessitating a ban on new petrol and diesel car sales in Europe by 2028 to stay within the sector's carbon budget. Norway exemplifies rapid EV growth through incentives, aiming for zero-emission cars by 2025. It advocates broader solutions like bike lanes, affordable public transport, and car sharing for sustainability.

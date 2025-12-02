@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post argues that focusing solely on shark fin soup misrepresents the reasons for the annual killing of 100 million sharks, which has caused a 70% population decline over 50 years. It highlights a broader $1 billion global market for shark meat, oil, and cartilage, driven by destructive fishing practices like purse seine nets, longlines, and trawling in countries including France, Spain, Iran, Sri Lanka, South Korea, Japan, China, and the US. Blaming one dish unfairly targets certain groups. Solutions include catch limits, 30% ocean protection by 2030, global sanctuaries, and import regulations, emphasizing sharks' role in ocean health and Greenpeace's efforts to raise awareness.

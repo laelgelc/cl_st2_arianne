@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Khanty people of Western Siberia have lived in harmony with nature for centuries, but oil industry expansion is seizing their land, causing animal deaths from spills and loss of reindeer pastures. Regulations in Russia should align with international norms respecting Indigenous rights to prevent conflicts. A UN delegation visits March 17-21; sending letters can inform them. The Sopochin family, Khanty reindeer herders, rely on vast ancestral lands for grazing, hunting, fishing, and gathering, but Gazprom Neft's subsidiary plans oil extraction, building roads without consultation, threatening calving areas and water sources. Such conflicts are typical and inevitable.

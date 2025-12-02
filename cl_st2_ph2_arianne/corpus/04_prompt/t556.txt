@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Governments are convening at the UN in New York for the third round of negotiations on a Global Ocean Treaty, crucial for establishing ocean sanctuaries to protect marine life from climate change, pollution, overfishing, and destructive industries. The treaty could enable recovery of ocean habitats. Nearly 1.8 million people have signed a petition urging strong action, countering industry lobbyists. Greenpeace's campaign in NYC includes occupying Times Square with whale and turtle displays, a giant whale sculpture at the UN entrance, Javier Bardem's speech to negotiators, and personalized posters at their hotel.

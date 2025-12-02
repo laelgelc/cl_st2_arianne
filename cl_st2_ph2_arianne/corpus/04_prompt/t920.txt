@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace highlights an OSPAR meeting in Gothenburg where delegates from 15 European countries discuss establishing a pie-shaped Arctic Marine Protected Area in international waters north of Greenland, comparable in size to the UK. This area is vital for ice-dependent species like polar bears, walruses, and harp seals amid rapid Arctic warming and sea ice melt, potentially leading to ice-free summers by 2030. Currently, less than 1.5% of the Arctic Ocean is protected, with none in international waters. Norway, Iceland, and Denmark have resisted, citing technical issues, but the proposal has improved. Greenpeace hosts an exhibition to urge delegates, backed by over seven million supporters, to finalize protection for future generations and invites signing a declaration.

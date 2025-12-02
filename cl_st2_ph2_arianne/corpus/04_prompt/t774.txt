@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how climate change disproportionately impacts women, empowering them to lead the climate justice movement through storytelling and activism. Joanna Sustento, a Typhoon Haiyan survivor who lost family, advocates holding carbon companies accountable and emphasizes safe environments as a human right. Desiree Llanos Dee uses personal stories to humanize climate effects, connect global communities, and build collective action. Greenpeace sailor Hettie amplifies vulnerable voices via ship tours, like in Tacloban. The post celebrates women's resilience, urging support for their fight against climate injustice.

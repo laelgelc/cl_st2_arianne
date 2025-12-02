@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post raises alarm over the disappearance of Brazilian Indigenista Bruno Araújo Pereira and journalist Dom Phillips in the Amazon's Javari Valley while documenting the region. It calls for authorities to investigate amid growing fears for their safety, attributing increased dangers to Bolsonaro's government, which fosters illegal deforestation, fires, mining, leniency on crimes, sabotaged enforcement, and weakened environmental laws. Agribusiness advances laws rewarding land-grabbing and threatening Indigenous lands. Greenpeace urges solidarity with Indigenous Peoples to protect the Amazon from destruction for agriculture, amid climate and biodiversity crises, and commits to defending Indigenous rights.

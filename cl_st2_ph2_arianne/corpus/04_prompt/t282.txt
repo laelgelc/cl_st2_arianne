@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On July 25, 2020, the Wakashio bulk carrier, operated by Mitsui OSK Lines (MOL) and fueled by BP, ran aground near Mauritius, leaking nearly 1,000 tonnes of toxic oil into a pristine lagoon, devastating fisheries, tourism, and ecosystems. The disaster killed over 50 whales and dolphins, three tugboat crew members, and prompted locals to combat the spill with improvised means. The Mauritian government sank part of the ship in a whale nursing ground, withheld information on oil type, ecological damage, and compensation, and shielded corporations. The post criticizes the unregulated shipping and fossil fuel industries for ongoing emissions and disasters, urging support for youth activism and stricter regulations like designating sensitive sea areas.

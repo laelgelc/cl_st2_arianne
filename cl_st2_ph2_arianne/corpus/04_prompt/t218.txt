@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace highlighted activists' courageous efforts in 2021 amid the pandemic and climate crisis, including blocking a fossil gas vessel in Spain, protesting a sunken gas rig in Croatia, urging fossil fuel phase-out in the US, and women demanding climate justice in Vanuatu. At COP26, protests targeted greenwashing, with global actions calling for bolder measures. Other efforts included painting a plane in France to denounce aviation greenwashing, projecting on a German power plant, Indigenous land demarcation in Brazil, and an "oligarchy monster" installation in Indonesia. Thanks were given to supporters, with images in the media library.

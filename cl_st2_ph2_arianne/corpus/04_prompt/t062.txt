@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post introduces the African concept of "Ubuntu," emphasizing a universal bond connecting humanity for collective salvation. It highlights the Greenpeace Alternative Futures Project, where young artists from countries like Zambia, South Africa, Chile, Kenya, Indonesia, Panama, and Australia used AI to visualize green, fair futures amid global inequality. Artists shared visions of diversity, community, and potential, with quotes reflecting personal inspirations and AI's role in democratizing creativity. The post encourages daring to dream together for a better world respecting people and the earth.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post argues that overconsumption of fashion, driven by online shopping, fails to bring lasting happiness, as new purchases quickly lose appeal. A survey reveals many people, including two-thirds in Hong Kong and 60% in China, own more than needed, spending hours daily on impulse buys to relieve stress or boredom. However, excitement fades fast, leading to guilt and emptiness. Advertisers exploit desires for self-worth, trapping people in "stuffocation"—a cycle of materialism harming the planet. To break free, slow down: pause before buying, sleep on decisions, and opt for nature over malls.

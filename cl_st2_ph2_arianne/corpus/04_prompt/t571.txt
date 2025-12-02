@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+June was the hottest month on record, with July poised to follow, featuring extreme heat in Europe (up to 45.6°C in France) and India (over 50°C, causing deaths and potential future uninhabitability). European leaders delay fossil fuel transition due to economic concerns, yet net zero emissions could create jobs, yield health benefits, and save trillions. Global protests, like those saving Hambach Forest and Fridays for Future, demand action. Greenpeace's Unite for Climate tour across Europe exposes barriers, connects opposition, and highlights impacts. By 2050, 75% of cities face shifted climates; heat exposure rises, with coal driving 46% of global CO2 emissions.

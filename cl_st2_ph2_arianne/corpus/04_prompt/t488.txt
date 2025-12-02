@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Mwende, a smallholder farmer in Kitui County, Kenya, grows green grams, cowpeas, maize, and millet on her three-acre plot to support her family's livelihood and school fees. After three years of drought, heavy rains promised a bumper harvest, but on February 3, a massive desert locust swarm invaded her farm. She spent days chasing them away by swinging an iron sheet, a common local method. This outbreak, the worst in decades, is worsened by climate-driven cyclones creating breeding conditions. Swarms devour vast vegetation, and eggs threaten further invasions with upcoming rains. Farmers urge urgent government action against this climate-exacerbated crisis.

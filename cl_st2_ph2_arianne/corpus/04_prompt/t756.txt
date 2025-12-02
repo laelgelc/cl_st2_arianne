@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Karipuna Indigenous people in Rondônia, Brazil, with only 58 members left, face severe threats from illegal loggers and land grabbers invading their 152,930-hectare protected Amazon territory, ratified in 1998. Surrounded by deforestation and cattle farms, they endure death threats amid Brazil's status as the deadliest country for environmental defenders. A FUNAI office was recently burned, leaving them vulnerable. Over 1,000 hectares were deforested in early 2017. Collaborating with Greenpeace Brazil and CIMI, they use satellite monitoring to combat invasions. Leader Adriano will address the UN in New York to amplify their plight and protect their community and forest.

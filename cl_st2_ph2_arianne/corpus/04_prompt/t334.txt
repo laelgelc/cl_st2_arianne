@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques Coca-Cola's iconic 1971 "Hilltop" commercial, contrasting its nostalgic image with the company's role in plastic pollution. It highlights how Coca-Cola's single-use plastics disproportionately harm low-income and communities of color, contributing to climate change, health issues, and social injustice. Named the world's worst plastic polluter for the third year in 2020, Coca-Cola is accused of relying on recycling myths while fueling a fossil fuel petrochemical expansion that risks high emissions and missing the 1.5°C climate goal. The post urges Coca-Cola to end its fossil fuel ties, stop single-use plastics, and invest in refill and reuse systems.

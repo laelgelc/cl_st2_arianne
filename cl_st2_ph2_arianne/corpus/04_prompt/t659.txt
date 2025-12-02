@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Yakup Çetinkaya, radio operator on Greenpeace ship Esperanza, describes two non-violent actions against dirty palm oil destroying Indonesian rainforests, home to orangutans and other species. Forest fires for palm oil production emit CO2, harm human health via smoke, and contribute to climate change. Wilmar, the largest palm oil trader, failed sustainability promises. Esperanza followed tanker Stolt Tenacity from Indonesia to Europe. Six activists boarded it, were detained 33 hours, and released in Spain. Near Rotterdam, Dutch activists hung banners saying "Stop dirty palm oil" despite crew resistance and cold, demanding Wilmar and brands like Oreo protect forests.

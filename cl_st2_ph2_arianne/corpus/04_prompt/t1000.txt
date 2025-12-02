@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Bob Hunter, a founder of Greenpeace, died on May 2, 2005, from cancer. Born in 1941 in Winnipeg, he was a rebellious journalist who quit his Vancouver Sun column to join the 1971 voyage against a U.S. nuclear test off Amchitka, coining "Greenpeace" and sparking global environmental activism. As president from 1973-1977, he pioneered "media mindbombs" and actions like dyeing seal pups and confronting whalers. Later, he hosted TV shows, authored books including "Warriors of the Rainbow," and inspired with humor, optimism, and the Cree myth of rainbow warriors.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Katie Camosy, Senior Video Producer at Greenpeace USA, joined the Greenpeace ship Esperanza on its Pole to Pole expedition to the Sargasso Sea in the North Atlantic, aiming to highlight why it needs protection under the Global Oceans Treaty. As Visuals Lead, she enlisted underwater photographers Tavish Campbell and Shane Gross to capture the ecosystem's biodiversity. The sea appears sparse from the surface, with only occasional seabirds or flying fish visible, requiring deeper exploration. Using blackwater photography, the divers descended 30 meters at night over 4,000-meter depths, encountering larval and adult creatures migrating from the mesopelagic zone.

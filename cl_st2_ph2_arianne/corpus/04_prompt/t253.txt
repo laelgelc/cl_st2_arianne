@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+This blog post highlights stories of individuals and organizations building sustainable food systems and supporting Indigenous communities. It features Langit Collective, a Malaysian social enterprise founded by Melisa Lim and friends to promote heirloom rice from the Lun Bawang community in Sarawak. By buying rice at farmers' doorsteps and paying over twice local market prices, it improves livelihoods, encourages sustainable practices like hand-harvesting and pesticide reduction, and preserves over 300 heirloom varieties. The collective also developed a low-cost Food Forest module for resettled Indigenous families in West Malaysia, enabling 40 households to grow 24 vegetable varieties. The pandemic exposed food system vulnerabilities but showed traditional farming's resilience.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Russia surveyed World Cup host cities on air pollution measures, highlighting vehicle emissions as the primary concern, with high resident dissatisfaction in places like Moscow (82%), St. Petersburg (77%), and Kazan (60%). Positive steps include Moscow's restrictions on low-emission vehicles, EV charging stations, and bike paths; St. Petersburg's electric transport and bike infrastructure; Rostov-on-Don's critique of road expansion; and Yekaterinburg's sustainable options. However, Samara and Volgograd lack serious action, Sochi rejects recommendations, and Nizhny Novgorod and Saransk didn't respond. Greenpeace plans to hold authorities accountable and urges joining the clean air movement.

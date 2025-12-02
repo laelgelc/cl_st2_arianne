@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes a Greenpeace campaigner's participation in Amsterdam's largest Pride Walk, marching with Queers4Climate NL, Extinction Rebellion, and Greenpeace to support LGBTQIA+ rights amid the climate crisis. It emphasizes Pride as a protest, not a party, and highlights how climate disasters disproportionately affect LGBTQIA+ communities, increasing homelessness risks and hate, as seen in Fiji where cyclones are blamed on sodomy. Greenpeace fights for a just, diverse society, opposes polluters' greenwashing, and invites LGBTQIA+ climate activists to join, noting the movement's strength in inclusivity.

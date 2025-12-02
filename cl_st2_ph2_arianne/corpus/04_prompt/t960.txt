@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the urgent need for increased funding for Antarctic scientific research and conservation amid rapid environmental changes, but urges scrutiny of funding sources. It criticizes Aker Biomarine, a major krill fishing company, for announcing a new research fund, labeling it as potential greenwashing. Krill is described as a keystone species essential to the Southern Ocean ecosystem, supporting whales, penguins, seals, and other wildlife. The post expresses concerns over krill harvesting for supplements and animal feed, its unsustainability amid climate change and ocean acidification, and references a Greenpeace paper opposing certification of Aker's fishery.

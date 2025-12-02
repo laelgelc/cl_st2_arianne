@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the global sand crisis driven by urban expansion and construction demands, which extract billions of tonnes annually from rivers, lakes, and oceans. It details environmental harms like habitat destruction, species decline (e.g., dolphins, turtles, porpoises, birds), erosion, saltwater intrusion, disease breeding, and fishing community losses in regions including Cambodia, Vietnam, China, Africa, Mozambique, and India. Infrastructure failures, such as bridge collapses, are noted, alongside illegal mining and trade. Projections indicate sand use doubling by 2060, exacerbating unsustainable development akin to over-fishing.

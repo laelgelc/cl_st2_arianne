@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace activists worldwide protested retailers this week, from Colombia to Hong Kong, Canada to Switzerland, demanding an end to single-use plastics and investment in refill and reuse systems, emphasizing there's no "away" for throwaway items. Actions included demonstrations, in-store protests, and petition deliveries. The Reuse Revolution involves people globally replacing single-use plastics with reusables, with over 5 million urging companies and governments to act against plastic pollution. Companies offer false solutions like paper or bioplastics and flawed recycling. Retailers must remove single-use plastics, commit to refill systems, and drive change with brands. Join the #ReuseRevolution.

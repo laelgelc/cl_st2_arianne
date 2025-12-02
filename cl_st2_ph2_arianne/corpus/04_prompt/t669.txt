@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Annisa Rahmawaiti, a Greenpeace Indonesia forest campaigner, highlights companies' role in rainforest destruction for palm oil. Greenpeace activists delivered a giant cookie to Mondelez, Oreo's maker, urging it to stop sourcing from rainforest destroyers like Wilmar International. Despite a 2010 promise to end supply chain deforestation by 2020, Mondelez's suppliers cleared over 70,000 hectares of rainforest from 2015-2017, including 25,000 hectares of orangutan habitat. She calls for Mondelez to cut ties with Wilmar, emphasizes sustainable palm oil production, and urges supporters to join the campaign to protect Indonesia's forests and combat climate change.

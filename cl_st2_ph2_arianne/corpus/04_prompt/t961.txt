@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the lesser-known Boreal Forest, the planet's largest ecosystem and carbon absorber, spanning North America, Russia, Japan, and Scandinavia. It focuses on threats to the Canadian portion from Resolute Forest Products, which logs in Indigenous territories without consent, destroys endangered woodland caribou habitat, and sued Greenpeace and staff for $7 million in 2013 to silence exposure of these practices. The post calls for 100,000 people worldwide to #StandForForests and message Resolute CEO Richard Garneau to spotlight the issue.

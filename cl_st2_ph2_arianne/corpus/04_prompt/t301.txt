@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace International hosted a May live conversation on extractivism in Latin America and community resistance, featuring speakers Rosario Coll and Sophie Schroder from Greenpeace's Collective Climate Action project. As part of a Roundtable Discussion series, journalist Stefanía Dommarco moderated a panel including Gustavo Huici, Riccardo Tiddi, Juan Sarmiento Lobo, Lorena Donaire, and Alejandra Jiménez Ramírez, who shared experiences combating deep sea oil exploration, deforestation, mining, water access issues, and fracking. The discussion highlighted Latin America's role as a key environmental battleground, intertwining fights for sovereignty, equity, human rights, and global movement alliances amid the climate crisis.

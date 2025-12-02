@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights PFC pollution from DuPont facilities, sharing stories of Dutch couple Jan and Ineke van Genderen, who have elevated PFOA blood levels near the Dordrecht plant, and US residents Gwen and Earl Botkin, affected by Ohio River contamination. It details a class action lawsuit exposing DuPont's cover-up of PFOA's health risks, linked to diseases like high cholesterol, cancers, and thyroid issues. Greenpeace partners for protests, hearings, and investigations, noting PFOA's replacement with hazardous shorter-chain PFCs and urging support to combat toxic chemicals.

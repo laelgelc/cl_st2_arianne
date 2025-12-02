@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post addresses the confusion between individual actions and systemic change for environmental crises, emphasizing that both are essential and interconnected. Individual efforts, like using tote bags or reducing meat consumption, won't immediately solve global issues but can empower people, build resilient communities, and inspire others, as seen with Rosa Parks and Greta Thunberg. It urges avoiding shaming for small steps while encouraging escalation to collective actions, such as demanding corporate accountability and policy changes. Systemic shifts in mindsets and economies are vital for survival, combining personal courage with broader responsibilities.

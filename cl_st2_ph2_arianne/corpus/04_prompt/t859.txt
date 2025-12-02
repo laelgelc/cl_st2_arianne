@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Great Northern Forest, also known as the boreal forest or Taiga, forms a vast green belt around the Arctic, storing more carbon in its soil than tropical forests to combat climate change. It shelters species like the Siberian Tiger, bears, and salamanders. The forest endures extreme seasonal shifts, with Siberian winters dropping to -35°C and summers reaching 25.5°C. Animals adapt through color changes, antifreeze-like chemicals, and hibernation, while conifers like pine and spruce resist freezing with low-sap needles and sunlight-absorbing shapes. Protecting these ancient trees is crucial; join the effort.

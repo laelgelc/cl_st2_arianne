@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes a recently clearcut logging site in the Great Northern Forest, where ancient trees have been reduced to a barren wasteland, destroying habitats for insects, birds, mushrooms, and lichen. Forest campaigner Lina Burnelius from Greenpeace Nordic blames Essity, producer of Tempo and the world's second-largest tissue company, for sourcing pulp from suppliers expanding into critical biodiversity-rich forests in Sweden, Finland, and Russia. It urges Essity to protect these areas by using sustainable forestry outside critical landscapes and recycled materials, calling on readers to demand a cleaner supply chain.

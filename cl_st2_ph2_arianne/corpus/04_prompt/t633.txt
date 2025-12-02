@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes how Vale's dam collapse has contaminated the Paraopeba River with toxic mud and heavy metals like nickel, mercury, lead, zinc, and cadmium, rendering 40 km of the river dead due to high turbidity and lack of oxygen. Locals, including couple Jair and Conceição, have abandoned fishing there, opting for an artificial dam instead. Residents express deep sadness over the loss of fish species and the river's beauty. The city of Pará de Minas declared an emergency as the river is its water source, profoundly altering community routines.

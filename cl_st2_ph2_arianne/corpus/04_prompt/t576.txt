@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post argues that effective beach cleanups require holding companies accountable for single-use plastic pollution, rather than focusing solely on consumer behavior or waste management. It describes Greenpeace Greece's September brand audit on Charakas beach, where volunteers collected three truckloads of plastic, identifying brands on 3000 items. A revisit in April revealed significant plastic return, highlighting the need to reduce single-use plastics at the source through refill and reuse systems. It praises global cleanup efforts but calls for systemic change by auditing brands, using the Break Free From Plastic toolkit.

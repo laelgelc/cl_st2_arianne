@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post announces the conclusion of litigations between Resolute Forest Products and Greenpeace entities, referencing a joint statement. It urges speaking up to pressure companies on forest impacts, citing examples like Kimberly-Clark, Procter & Gamble, Hewlett-Packard, and 3M adopting policies that challenge suppliers like Resolute. Greenpeace challenges Rite Aid, a major Resolute customer, to implement a meaningful paper policy, as it ignores forest destruction links despite outreach. It calls for public messages to Rite Aid via social media. The post highlights the Boreal Forest's role in carbon absorption, biodiversity, and Indigenous territories, threatened by Resolute's logging, caribou habitat destruction, and non-consensual operations, amid an ongoing lawsuit against Greenpeace Canada.

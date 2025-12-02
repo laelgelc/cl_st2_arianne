@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post affirms the urgent ecological crisis highlighted by activists and scientists, but advocates patience as respect for its complexity, avoiding simplistic solutions. Drawing on Donella Meadows and Russell Ackoff, it contrasts inactivists, reactivists, and preactivists with interactivists who envision and create sustainable futures through commitment and vision. Patience aligns with Taoist harmony, preventing backlash, as exemplified by Gandhi's non-violent approach and calm crisis responses like firefighters. Governments and media are criticized for procrastination and disinformation. The author argues urgency and patience coexist, enabling thoughtful action amid uncertainty, supported by personal experience and references to yin-yang balance.

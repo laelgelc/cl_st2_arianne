@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights international outrage over Putin's invasion of Ukraine and calls for solidarity through donations, protests, and support for refugees. It urges banks and investors like Credit Suisse, Schroders, Pictet, East Capital, Carnegie Fonder, Intesa SanPaolo, UniCredit, Société Générale, Raiffeisen Bank International, and UBS to stop funding Russian fossil fuels, which finance the war. Protests target banks in Vienna and Czech Republic. It emphasizes redirecting money from conflict-fueling fossil fuels to renewables for peace, noting European institutions' role in building Putin's power.

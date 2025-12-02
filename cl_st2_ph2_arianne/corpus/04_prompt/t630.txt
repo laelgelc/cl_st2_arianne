@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes Greenpeace activists in Patagonia blocking trucks at an illegal dump where Shell and Total discard fracking waste onto soil near residential areas and water supplies, following an investigation that warned the companies. It highlights Patagonia's natural beauty and indigenous communities, contrasts this with oil executives' profit-driven views, and references past victories against Big Oil in the Amazon Reef, Great Australian Bight, New Zealand, Alaskan Arctic, and pipelines. Citing the IPCC report on catastrophic climate risks, it urges keeping oil in the ground and joining the global People Vs Oil movement.

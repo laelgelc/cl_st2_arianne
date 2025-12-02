@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses declining meat consumption in Europe, prompting the meat and dairy industries to use advertising to reverse the trend. It reveals that the EU spent €252.4 million in public funds over five years on promoting these products—more than on fruits and vegetables—through campaigns like “Love pork!” and “Become a beefatarian!”, ignoring health, ecological, and animal welfare concerns. Scientists advise reducing meat and dairy intake to protect health and the planet from pandemics, climate damage, and nature destruction. The post calls for redirecting funds to promote fruits, vegetables, and support small-scale, ecological farmers.

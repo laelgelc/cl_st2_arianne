@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+After nearly two decades of negotiations, the United Nations has agreed on a historic Global Ocean Treaty, marking a major conservation victory that prioritizes nature over geopolitics. The treaty, now set for technical editing, translation, and adoption, provides a framework for protecting 30% of the world's oceans by 2030 through global sanctuaries, essential for combating climate change, ensuring food security for billions, and supporting livelihoods. Key contributors included civil society, governments like Small Island States, the G77, EU, US, UK, and China, plus over 5.5 million petition signers. While more work is needed to implement it, this achievement highlights the power of collective action.

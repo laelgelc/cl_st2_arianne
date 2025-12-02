@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques "Net Zero" pledges as deceptive and insufficient for addressing the climate crisis, arguing they assume emissions can be offset by carbon removal elsewhere, ignoring limited resources like land for reforestation and the permanence of fossil carbon once released. It highlights how cheap carbon credits enable business-as-usual for corporations, burdening marginalized communities unjustly. The post calls for separate, transparent targets: rapid reductions in fossil fuel and industrial emissions, land-use impacts like deforestation and meat/dairy production, and rights-based nature protection. It urges immediate fossil fuel cuts over unproven technologies like CCS, emphasizing collaboration across society to avoid tipping points.

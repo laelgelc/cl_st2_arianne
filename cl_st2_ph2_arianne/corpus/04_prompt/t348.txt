@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Polish climate activists, including at least five over 18, face accusations of breaking environmental law for using megaphones during Fridays for Future demonstrations at the December European Council summit, where they demanded higher EU 2030 greenhouse gas reduction targets. Underage participants received special guardians, and some experienced police visits, court summons, and probation checks. Activists report stress, uncertainty, and repression, with potential severe consequences like reform school. They plan to appeal to foreign embassies for support, highlighting Poland's high intimidation amid its coal dependency and air pollution deaths.

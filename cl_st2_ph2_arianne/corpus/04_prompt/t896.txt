@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post promotes World Meat Free Day as an opportunity to reflect on how eating habits affect personal health and the planet, highlighting animal agriculture's role in water pollution, deforestation, and climate change. It emphasizes that daily food choices can reform the system and features plant-based recipes from Greenpeace ship chef Daniel Bravo Garibi: lentil ceviche and purslane salad with citrus vinaigrette, with links to written recipes, videos, and Spanish versions. Chef Daniel, a Greenpeace volunteer since 2003, advocates for sustainable food procurement and reduced meat consumption. Readers are invited to try the recipes, share their own, and pledge change.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights modern slavery in the fishing industry, particularly affecting migrant workers from Indonesia and the Philippines, amid inhumane conditions exposed by media. It discusses how transshipment enables prolonged isolation at sea, facilitating forced labor and exploitation. Governments are criticized for failing to protect these workers. Greenpeace Southeast Asia's report, “Seabound: The Journey to Modern Slavery on the High Seas,” features fishers' testimonials on deceptive agencies, economic desperation, language barriers in contracts, and distant water fishing driven by overfishing. It urges ASEAN states to enforce laws, address discrimination, and promote ethical practices on Human Rights Day.

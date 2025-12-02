@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Amazon Reef, a vital and diverse ecosystem between Brazil and French Guiana, features a unique reef at up to 200 meters depth and was the site of a 2018 victory by 2 million people against oil giant Total. Now threatened by BP's efforts since 2016 to drill there, potential oil spills could devastate regions beyond Brazil, including mangroves, the reef, and species like whales and turtles, while exacerbating the climate crisis. Governments have a chance to adopt a strong Global Ocean Treaty for protection. Greenpeace's Pole to Pole expedition will document the area for five weeks to highlight its importance and urge action against oil companies. Join by signing the petition.

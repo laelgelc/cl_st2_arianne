@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace activists aboard the Esperanza confronted the Explorer II, a vessel in Thai Union's supply chain, in the Indian Ocean. They blacked out its 80 high-powered lights with eco-friendly paint and pursued it after it fled the Coco de Mer seamount. The ship anchors and uses lights to attract marine life for fishing vessels to net indiscriminately. Owned by Albacora Group, it supplies brands like John West. Activists have removed similar destructive gear for weeks. A summit banned such lights, highlighting overfishing's harm to oceans and communities, urging a movement for change.

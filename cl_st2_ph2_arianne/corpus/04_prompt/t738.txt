@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace revisited the Amazon Reef with the Esperanza ship to explore its extent, facing rough seas and strong currents. Initially estimated at 9,500 square kilometers, recent studies suggest it spans up to 56,000 square kilometers in deep waters at the Amazon River's mouth. They discovered reef formations in Total's drilling blocks, contradicting the company's claims, prompting a prosecutor to recommend denying Total's license. Expeditions in French Guiana revealed connected reefs, highlighting risks of oil spills crossing borders. Over 2 million supporters oppose drilling; the post urges signing a petition to protect the reef.

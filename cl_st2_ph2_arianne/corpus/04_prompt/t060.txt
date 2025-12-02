@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Yanomami Land, Brazil's largest Indigenous territory bordering Venezuela, houses 20,000 Indigenous people but is invaded by 20,000 illegal miners, causing environmental destruction, river pollution, and a humanitarian crisis. Mercury use poisons food sources and water, leading to severe health issues and deaths, while miners spread diseases like malaria (11,530 cases in 2022) and malnutrition, especially among children. Illegal mining surged 1,963% from 2019-2021 under Bolsonaro, with a 150-km illegal road observed in 2022 facilitating further damage. The new Lula government, with the Ministry of Indigenous Peoples and leader Sônia Guajajara, signals commitment to systemic protections for Indigenous rights and Amazon inhabitants.

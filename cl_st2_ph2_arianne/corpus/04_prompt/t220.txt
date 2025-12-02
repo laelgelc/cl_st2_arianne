@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+A new Greenpeace Russia and University of Maryland study warns that without urgent measures, most of Earth's wild forests—Intact Forest Landscapes (IFLs) over 50,000 hectares without settlements or roads—will vanish in 20 years. From 2000-2020, 12% were lost, equivalent to three Spains, with a third projected gone by 2050. Climate crisis exacerbates losses in northern regions like Russia, Canada, and Alaska through extended fires and droughts. Brazil's Amazon faces rapid degradation from industrial animal farming and land-grabbing, displacing Indigenous communities. Increasing losses occur in the DRC, Indonesia, and tropical South America, while Canada and the USA have reduced rates. Solutions include halting wood harvesting projects, ending industrial meat, dairy, soy, and palm oil production, avoiding fragmentation, recognizing Indigenous rights, and prioritizing people over corporate profits. Wild forests store carbon, house Indigenous cultures, provide habitats, and prevent erosion and floods.

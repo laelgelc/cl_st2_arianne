@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes the author's upbringing in a diverse, religiously vibrant South African township marked by cultural insularity and struggles with constitutional diversity. It highlights rising hate crimes against the LGBTQIA+ community, prompting presidential action, amid climate change effects like water scarcity, migration, reduced productivity, food insecurity, and hunger affecting 40% of South Africans. Religion is portrayed as a tool for manipulation, diverting blame from corporate greed to marginalized groups for "end times" signs like droughts, floods, and locusts, as confirmed by IPCC reports. It calls for grassroots sensitization and equitable futures prioritizing people over profit.

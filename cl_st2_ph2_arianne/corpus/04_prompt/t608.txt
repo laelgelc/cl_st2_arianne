@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace advocates for affordable clothing free from hazardous chemicals. They launched the Detox My Fashion campaign in 2011 and suspended textile product sales in 2012 until transparent proof of chemical-free production. Since then, 80 companies committed to eliminating hazardous chemicals by 2020. The "Destination Zero" report highlights progress in transparency and supply chain improvements, sparking industry initiatives. A 2018 pilot demonstrated feasible Detox-compliant production. From April 2019, Greenpeace trials a new standard for merchandise like t-shirts and bags, using best practices and third-party tools for chemical elimination and transparency, with selected suppliers. The suspension remains broadly in place.

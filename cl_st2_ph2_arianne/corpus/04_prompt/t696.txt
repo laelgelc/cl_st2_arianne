@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The International Whaling Commission (IWC) meeting in Brazil brings together government delegates and NGOs every two years. Key issues include a polarized debate on whaling, with pro-whaling nations seeking to undermine the commercial whaling ban, amid recent controversy over Iceland's killing of hybrid blue whales. Competing visions for the IWC's future are Japan's 'Way Forward' proposal to legitimize commercial whaling and Brazil's 'Florianopolis Declaration' to focus on conservation and whales' role in oceans. A proposed South Atlantic Whale Sanctuary faces political resistance. Greenpeace experts are defending the ban, supporting the sanctuary, and advocating for a conservation-oriented IWC.

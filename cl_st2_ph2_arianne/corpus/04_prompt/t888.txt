@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace Arctic campaign, launched in 2013, has mobilized over eight million people worldwide to establish a protected sanctuary around the North Pole and halt destructive industries like oil drilling. It forced Shell into retreat, highlighted issues through actions like the Russian protest by 30 activists, and reduced Arctic drilling prospects. Dramatic events included turning back an icebreaker in Portland and bicycle rallies in Bangkok. Behind the scenes, it increased financial and reputational risks for companies, weakened corporate-political ties, and shifted some Arctic nations toward protection. The movement aims to respect Indigenous Peoples and inspire global change.

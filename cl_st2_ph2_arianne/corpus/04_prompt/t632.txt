@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post details the devastating impacts of seismic surveys and oil exploration in Russia's Usinsk region, including polluted waters, deforestation, disappearing fish and wildlife, and houses shaken by explosions. Locals describe muddy brooks from road construction, loss of berry-picking and hunting paths, and health risks from oil spills like the 1994 disaster that contaminated the Pechora River. Villagers protest careless operations by Lukoil-Komi, fearing further environmental destruction and emphasizing the land's value for their livelihoods over oil extraction.

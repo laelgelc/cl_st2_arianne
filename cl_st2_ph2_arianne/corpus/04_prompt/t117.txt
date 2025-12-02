@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses air pollution as a major global health risk, highlighting WHO's 2021 tightened PM 2.5 guidelines to 5 µg/m3 annually. It details Greenpeace campaigns: In Malaysia, advocacy against haze led to a human rights complaint, roundtable, and viral art interventions. In Turkey, efforts with NGOs shut down coal plants and push for WHO alignment, amid high fossil fuel reliance and 30,000 annual deaths. In Indonesia, a Jakarta lawsuit against officials for inaction resulted in a 2021 verdict ordering air quality improvements, followed by appeals. In Thailand, petitions and a lawsuit prompted a 2023 PM 2.5 standard revision to 37.5 µg/m3 daily. It emphasizes citizen unity for clean air.

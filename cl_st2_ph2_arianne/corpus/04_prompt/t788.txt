@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post ranks Antarctic penguins in a countdown for Penguin Awareness Day, highlighting their adaptations while promoting a Greenpeace campaign for an Antarctic Ocean Sanctuary. Chinstrap penguins appear squat and serious, resembling helmet-wearers. Macaroni penguins, monogamous crested cousins of Rockhoppers, nest on the Antarctic Peninsula and feed on krill. Gentoo penguins feature white head patches, brush-like tails, loud trumpeting calls, and swim at speeds up to 36 km/h, diving hundreds of times daily. Emperor penguins, the largest, dive deepest, use bubbles for hydrodynamics, and huddle as dads to protect eggs in winter. Adélie penguins top the list as tough, adorable rock-nest builders using pebbles for mating and society.

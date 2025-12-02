@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques economic growth for ignoring costs like ecosystem destruction, citing the rebound effect where efficiency boosts consumption. It draws parallels to nature's limits, where unchecked growth leads to overshoot and collapse, as seen in history and biology. The degrowth movement advocates reducing material throughput for sustainability and equity, distinguishing it from non-material growth like ideas or diversity. It emphasizes conservation, simplification, and sharing resources, warning that wealthy nations export growth's harms to poorer ones, and promotes richer lives through community and creativity rather than consumption.

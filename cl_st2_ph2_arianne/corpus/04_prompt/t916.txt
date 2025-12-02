@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post celebrates the International Day of Forests on March 21, urging reduced meat consumption and highlighting eight global people-powered fights against forest threats. It discusses climate-driven fires destroying ancient Tasmanian forests; a proposed mega-dam endangering the Amazon's Tapajós River and Munduruku Indigenous People; illegal logging threatening China's giant pandas, prompting protective strategies; canceled oil drilling in Argentina's Calilegua National Park; calls to maintain a logging moratorium in the Congo Basin; deforestation in Indonesia for palm oil; protection of 85% of Canada's Great Bear Rainforest; and demands to stop Amazon cattle ranching linked to deforestation. It notes 80% of world's forests are degraded and invites sharing forest celebrations.

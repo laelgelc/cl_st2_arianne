@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace staff in Helsinki, inspired by a documentation trip, discussed the stunning beauty and logging devastation of the Great Northern Forest. This vast forest spans Canada, Scandinavia, and Russia, holding nearly a quarter of the world's trees, storing more carbon than tropical rainforests, and serving as home to Indigenous peoples like the Sami and Cree, plus diverse wildlife. Only 3% is protected, with logging turning it into disposable products, risking it becoming a carbon bomb. They urge protection to combat climate change and offer an AR app experience via Arilyn to virtually explore its wonders and threats.

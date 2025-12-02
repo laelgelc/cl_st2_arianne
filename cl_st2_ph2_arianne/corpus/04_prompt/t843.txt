@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Samsung has committed to recycling recalled Galaxy Note 7 phones by refurbishing unsold units, repurposing components like cameras, and extracting raw materials environmentally after global Greenpeace campaigns, including petitions, online actions, and protests. The company will join EU research for eco-friendly smartphone recycling. The post highlights electronics industry issues: wasteful production of short-lived devices, e-waste, coal-powered factories, and hazardous chemicals harming workers and environments. It urges IT firms to adopt sustainable, repairable, closed-loop models powered by renewables. Greenpeace will monitor Samsung's promises and score brands on repairability.

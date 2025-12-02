@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace urges world leaders to attend the CBD COP15 in Montreal to combat the biodiversity crisis and prevent mass extinctions. It calls for ambitious protections, including safeguarding 30% of land and seas by 2030, recognizing Indigenous rights, and centering Indigenous Peoples in decision-making and funding. The post emphasizes implementation across nations, especially funding for those impacted by colonialism, and highlights the crisis's severity akin to climate change, yet its relative obscurity risks failure without greater political participation. Biodiversity is vital for health, economies, and climate solutions, prompting an open invitation to leaders to act.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+West African women fish processors, facing job losses from expanding fishmeal factories, gathered in Dakar on World Fisheries Day to protest. These factories process fresh fish into meal for animals in Europe and Asia, threatening livelihoods, food security, and marine ecosystems while contradicting UN sustainable development goals. In Senegal, fisheries provide over 600,000 jobs and 70% of animal protein needs. Women urge the government to halt new factories, stop using edible fish for meal, and support their businesses with refrigerating units instead, as artisanal processing creates far more jobs than factories.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace celebrates a major victory where 526,000 supporters forced Volkswagen (VW) to reverse its opposition to EU laws mandating more efficient cars, reducing CO2 emissions and oil dependence. For two years, VW lobbied against strong targets, but a viral Star Wars parody ad, protests by activists dressed as stormtroopers, and direct actions at car shows pressured VW to support climate goals. This cuts pollution linked to climate change, protects areas like the Arctic, and signals the end of inefficient combustion engines, with VW committing to be the world's greenest car company.

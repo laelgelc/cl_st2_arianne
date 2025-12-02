@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post urges Council of Europe states to recognize the human right to a clean, healthy, and sustainable environment at the Reykjavik Summit on May 16-17, 2023, addressing a gap in the European human rights framework amid the triple planetary crisis of pollution, climate change, and biodiversity loss. It highlights threats like air pollution killing 1,200 children annually in Europe and war-related environmental harms. The UN has affirmed this right, and a dedicated protocol to the European Convention on Human Rights would enhance protection, climate action, legal certainty, and safeguards for environmental defenders. Readers are encouraged to tweet representatives and sign up for campaign updates.

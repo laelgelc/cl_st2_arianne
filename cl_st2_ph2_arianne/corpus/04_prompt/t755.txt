@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the pervasive issue of plastic pollution on beaches, with microplastics, bags, and cups contaminating sand and surf. It emphasizes the right to clean water free from plastic, urging 2018 as the year to break free. Single-use plastics, produced by companies like Coca-Cola and Nestlé, fill oceans, choke marine life, and enter drinking water and food. Recycling is insufficient as over 90% of plastic isn't recycled and production rises. It calls for corporations to reduce plastic output and invites readers to join a global movement by signing petitions and using upcoming tools.

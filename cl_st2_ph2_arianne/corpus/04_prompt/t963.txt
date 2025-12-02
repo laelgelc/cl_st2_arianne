@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+A major review highlights how tropical deforestation harms agriculture by altering temperature and rainfall patterns, creating drier, warmer conditions that increase risks to food production locally and globally. Forests drive the water cycle through evapotranspiration, providing cooling and moisture that sustains rainfall. Examples include a predicted 25% drop in Amazon soy yields, reduced US Midwest rainfall from Amazon or Central African deforestation, and intensified West African monsoons with 2-4°C temperature rises and up to 50% rainfall reductions from Congo basin loss. Avoiding deforestation and restoring forests is crucial for climate regulation, biodiversity, and food security.

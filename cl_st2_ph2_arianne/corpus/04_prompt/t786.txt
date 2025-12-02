@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On Penguin Awareness Day, penguins appeared waddling in diverse locations worldwide, from ice skating in Stockholm and tap dancing in London to trekking in Turkey, marching in Tokyo, roaming Israel's deserts, and swimming in the Dead Sea, all to support an Antarctic ocean sanctuary. This sanctuary would protect penguins, whales, and seals by barring industrial fishing vessels that harvest krill, essential for Antarctic life. Healthy oceans sustain wildlife, mitigate climate change, and ensure food security for billions. Readers are invited to join the movement to safeguard penguins' home, allowing them to continue waddling forever.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Scientists have reported the Arctic sea ice minimum at its second-lowest level since measurements began, signaling urgent climate breakdown. The post calls for joining 3 million people to demand governments protect at least 30% of oceans by 2030, as the Arctic could be summer ice-free by 2035. Healthy oceans store carbon and build resilience; the Arctic is a priority area. Greenpeace's Arctic Sunrise ship is witnessing the crisis. Marginalized communities, especially in the Global South, suffer most from ocean destruction. Leaders at the UN Biodiversity Summit must act to protect oceans and people. The author urges unrelenting action to safeguard the planet.

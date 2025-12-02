@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post encourages people to check in to the Weddell Sea on Facebook to highlight its preciousness and the need for Antarctic protection, joining a global effort. Written by Aakash Naik, a digital campaigner, it contrasts this with typical check-ins and promotes creating the world's largest ocean sanctuary this year to safeguard penguins, whales, and seals from industrial fishing vessels depleting krill near colonies and feeding areas. Mass check-ins can spark conversations and awareness. Instructions include searching for Weddell Sea, posting a comment, and sharing a petition link at www.protecttheantarctic.org.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Victorine Che Thöner reflects on her first sea action aboard the Greenpeace ship Arctic Sunrise, protesting Shell's "red monster" FPSO headed to extract oil from the Penguins field in the North Sea. She describes feeling scared yet excited, angry at fossil fuel greed and government inaction causing avertable disasters in places like Cameroon, and worried about climate impacts on future generations. Despite seasickness, she finds elation in global resistance by communities, women, and youth demanding an end to fossil fuels, accountability for loss and damage, and a just transition to clean energy.

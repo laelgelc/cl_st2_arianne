@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses intensifying global fire seasons due to climate crisis-driven rising temperatures drying out forests. In Siberia, extreme heat, oil spills from thawing permafrost, and unfought fires have burned over 22 million hectares. Brazil's deliberate fires for agriculture, worsened by Bolsonaro's policies, threaten Indigenous Peoples. Argentina's Paraná Delta and Cordoba fires, intentional for farming and real estate, are exacerbated by severe drought. California's massive blazes, sparked by heatwaves and lightning, force evacuations, worsen air quality amid COVID-19, and disproportionately affect Black, Brown, and Indigenous communities. It urges bold local and global action to protect forests and people.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post urges Europeans to push for stronger EU climate action, highlighting the bloc's responsibility for 22% of historic emissions. It criticizes the draft Climate Law for a weak 2030 target (needing at least 65% reduction for 1.5°C warming), failure to phase out fossil fuel subsidies, address animal farming's 12-17% emissions share, or ban new petrol/diesel cars by 2028. The €1 trillion Sustainable Investment Plan is deemed insufficient and potentially supportive of fossil fuels. It calls for public pressure on national leaders via marches and contacts to strengthen the law and European Green Deal, addressing root economic causes.

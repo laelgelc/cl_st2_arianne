@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Katarina Sevä, a Sámi reindeer herder, describes how her family's centuries-old forest reindeer herding is threatened by extensive logging that reduces grazing land and vital hanging lichen, causing reindeer to have poorer antlers, lower weight, and altered behavior. State-owned Sveaskog has ended long-standing consultations without explanation, ignores objections, logs important areas including those previously agreed to protect, and builds roads without providing maps. Demands for resumed consultations and forest preservation are unmet, prompting a call to halt all logging in Muonio Sámi district until talks restart to secure the future of reindeer husbandry.

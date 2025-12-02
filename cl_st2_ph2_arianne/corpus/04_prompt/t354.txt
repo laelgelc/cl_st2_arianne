@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post links the fight against the climate crisis to global equality, emphasizing women's powerful global engagement in advancing climate and environmental protection. It features women from Greenpeace worldwide sharing their daily work and desired changes, celebrating them on International Women’s Day and beyond. The term 'women' includes trans, non-binary, and cisgender individuals. Readers are invited to share inspirations and watch 50 video messages. It highlights Elena Keil (Project Assistant), Anabela Angelovska (content producer/filmmaker), and Karla Stretz (online-editor) from Greenpeace Germany's “50 Years Greenpeace International” team.

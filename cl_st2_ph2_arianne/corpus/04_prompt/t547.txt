@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes BP's oil drilling plans in the Amazon Reef region since 2013, highlighting decisions made without considering negatives. It details Greenpeace's documentation of whale migration and breeding, including the first underwater footage of Bryde’s Rorqual in French Guiana, and sightings of sailfishes, spotted dolphins, false killer whales, pygmy killer whales, silky sharks, and Melon head dolphins. Despite evidence of the reef's extent and vulnerability, and IBAMA's 2018 license denial due to oil spill risks, BP persists. It calls for a Global Ocean Treaty, BP's withdrawal, and action to protect this diverse ecosystem.

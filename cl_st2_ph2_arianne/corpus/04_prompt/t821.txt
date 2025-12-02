@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+After two years of Greenpeace's global campaign involving nearly 700,000 people, Thai Union, the world's largest tuna company owning brands like John West and Chicken of the Sea, has committed to reforms including reducing FAD use by 50% and doubling FAD-free fish supply by 2020, shifting to pole-and-line or troll-caught tuna, extending a moratorium on at-sea transshipment, ensuring observers on longline vessels to combat labor abuse, and developing a code of conduct. An independent audit is planned for next year. The post urges other companies to follow, supports sustainable fisheries, and calls for continued accountability to protect oceans and workers.

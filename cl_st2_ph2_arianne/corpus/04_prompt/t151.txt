@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights unbearable heat in India this summer, described by a Delhi roadside vendor as the worst day this year, disproportionately affecting the poor like daily wagers and vendors. It notes climate change worsens inequality globally, with governments accepting extreme weather as the new normal. It calls for world leaders to commit to ambitious climate and social equity actions. Specific events include India's record-hot March heatwave with low rainfall, floods killing 106 in Brazil, 700,000 affected in Assam, India, and deadly destruction in South Africa's KwaZulu-Natal.

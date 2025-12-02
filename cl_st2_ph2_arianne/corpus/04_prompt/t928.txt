@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Forests absorb CO2 and release oxygen but face alarming deforestation, with 14.5 million hectares lost yearly from 1990-2005, equivalent to one football pitch every two seconds, plus degradation and fragmentation. China's apathy hinders anti-illegal timber efforts despite EU cooperation since 2009. The EU must fully implement FLEGT measures, influence China, and address imports like palm oil and soy driving 80% of deforestation via agriculture. Recognizing the issue in 2013, the Commission is considering new policies for zero-deforestation supply chains by 2020, supporting governance, indigenous rights, and funding for forest protection. Concerns include incomplete enforcement in countries like Spain and risks of premature FLEGT approvals.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the culture of extravagant consumption leading to massive electronic waste, highlighting planned obsolescence in devices like iPhones, where companies such as Apple design hard-to-repair products and lobby against right-to-repair laws. It discusses destructive mining for minerals, short device lifespans, and annual e-waste exceeding 65 million tonnes. A Greenpeace report grades firms, praising HP, Dell, and Fairphone for repairability while criticizing Samsung and others. Solutions include shifting to circular production, policies for durability, and modest consumption to reduce ecological overshoot and support renewable energy growth.

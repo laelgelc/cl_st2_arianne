@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Seven years ago, Greenpeace launched the Detox My Fashion campaign to halt toxic chemical pollution from clothing production. Public actions led 80 companies, representing 15% of global output, to commit to eliminating hazardous chemicals by 2020, as detailed in the Destination Zero report. Brands like Zara, adidas, and Tesco are testing wastewater, substituting safer alternatives, and improving worker conditions in countries like China, Mexico, and Indonesia. Despite progress, fast fashion growth fuels waste and microplastic pollution. Join MAKE SMTHNG Week (Nov 23–Dec 2) for tutorials, events, and community action; buy less, repair, upcycle, and share clothes.

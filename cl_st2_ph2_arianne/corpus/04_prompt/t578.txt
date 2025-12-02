@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the deep ocean's bizarre creatures and mysterious hydrothermal vents, like the Lost City, discovered in 2000, which feature towering chimneys and unique life forms thriving in extreme conditions. These vents, possibly the origin of life on Earth through chemical reactions creating hydrocarbons, remain poorly understood. However, deep-sea mining licenses threaten to destroy them before full study. Greenpeace's Pole to Pole expedition visits the Lost City to advocate for protection against exploitation, urging public support to safeguard vulnerable marine habitats.

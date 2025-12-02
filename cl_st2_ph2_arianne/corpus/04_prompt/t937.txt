@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques consumerism, quoting Fight Club to illustrate how possessions trap people, and highlights the irony of buying unnecessary items like branded water or trinkets while billions lack basics. It introduces "The Story of a Spoon" as an appeal to slow down, consider a product's lifecycle—from production to disposal—and seek sustainable alternatives, recognizing our interdependence with nature. Positive changes are noted, including more reducing, reusing, recycling, stores avoiding plastic bags, and clothes exchanges. It urges readers to drive change at a product's beginning and end.

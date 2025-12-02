@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Fossil fuel companies pollute cultural spaces like sports, music festivals, arts, and museums through ads and sponsorships, misleading consumers and blocking climate action despite scientific warnings. European activists, with access to these headquartered oil giants, bear responsibility to challenge them, amplify voices of vulnerable frontline communities, and fight greenwashing. Grassroots groups are urging a #BanFossilAds, as activists like Mattina, Noëlie, Teresa, and Talissa highlight how such sponsorships distract from pollution, lobbying, and exploitation, calling for radical change to protect people and the planet.

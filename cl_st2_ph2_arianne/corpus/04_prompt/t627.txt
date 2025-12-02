@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Froilan Grate describes how plastic pollution originated in multinational companies' decisions to dump single-use plastics in areas lacking waste infrastructure, like the Philippines. Growing up in pristine Guimaras, he was shocked by Manila Bay's plastic-choked waters and joined GAIA to promote zero waste programs, enabling communities to reduce waste by up to 80% through segregation, composting, and recycling. However, 30% remains unmanageable, with communities demanding corporations like Nestlé and Unilever stop production. Grate joins Greenpeace's global ship tour to expose these firms and urge real action beyond empty promises, as part of the Break Free From Plastic movement.

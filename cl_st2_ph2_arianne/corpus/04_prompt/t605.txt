@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post details accusations against Monsanto for fraudulently promoting Roundup (glyphosate) as safe despite evidence linking it to non-Hodgkin's lymphoma in farmers, citing cases like Tralee Snape's. It describes falsified lab tests by firms like Craven Laboratories, manipulation of scientific data, ghostwriting favorable reviews, and bullying scientists and agencies such as IARC. Court rulings awarded billions in damages for negligence and cover-ups. The post references studies showing cancer risks, pesticide residues in food, nutritional decline in crops, and Bayer's acquisition amid mounting liabilities.

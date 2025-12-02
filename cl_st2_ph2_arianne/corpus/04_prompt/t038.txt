@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes Savio Carvalho's visit to Berap village in West Papua, where Indigenous leaders from the Namblong tribe are mapping clan boundaries to block palm oil plantation permits threatening their forests. It highlights a groundbreaking lawsuit by leader Hendrikus ‘Franky’ Woro challenging a Malaysian company's permit on traditional lands. At a Papuan cultural festival in Jakarta, young people discussed forest conservation, state violence, identity, and loss of local foods like sago. The post critiques global deforestation driven by capitalism for commodities, urges ending it to protect biodiversity, and emphasizes cultural resistance and transmitting Indigenous wisdom to youth for systemic change on World Forest Day.

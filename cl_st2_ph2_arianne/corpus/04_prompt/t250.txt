@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes the urgent need for immediate climate action at COP26 to meet the Paris Agreement's 1.5C goal, highlighting people power through activism and legal wins. It criticizes insufficient national emission plans, projecting 2.7C warming. Greenpeace demands: stopping all new fossil fuel projects and phasing out the industry with just transitions; ambitious plans to halve emissions by 2030 and reach net zero by 2050, led by rich nations; equitable cooperation rules rejecting carbon offsets as scams; and fulfilling $100 billion annual climate finance for vulnerable countries to support clean energy, adaptation, and damage compensation.

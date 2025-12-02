@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Spain activists installed a 12-meter train model at Barcelona-El Prat airport to protest the airline sector's impact and the planned expansion, which would damage wetlands and cost 1.7 million euros. The action highlights Europe's poor rail connectivity, urging investments in accessible, affordable trains over polluting planes and cars. It criticizes low-cost tourism and calls for 30 new cross-border connections by 2025, improved train compatibility, easier access for bikes and pets, airline subsidy cuts like kerosene taxes, and ending short-haul flights with viable train alternatives. A petition and video promote these demands.

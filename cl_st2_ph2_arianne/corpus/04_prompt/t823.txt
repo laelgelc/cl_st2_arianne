@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post envisions a world of durable, repairable electronics to save money and reduce environmental impacts like resource extraction, hazardous chemicals, energy use, and e-waste. It highlights repair-friendly products from Fairphone, Dell, and HP, urging brands like Apple and Samsung to design longer-lasting devices. However, a Greenpeace-iFixit assessment of over 40 recent smartphones, tablets, and laptops reveals trends making repairs difficult: soldered components, fragile glass designs (e.g., Samsung S8), hard-to-replace batteries (e.g., Samsung Galaxy S8, Apple MacBook), proprietary tools needed (e.g., Apple iPhone), and limited spare parts or manuals from most brands, with only Dell, Fairphone, and HP providing full access. It calls for joining the rethink-it.org movement.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the environmental and social impacts of smartphones since 2007, with 7.1 billion produced using over 60 elements, leading to significant mining and processing effects. It highlights 3 million metric tons of e-waste in 2014, with only 16% recycled, and notes that most models lack easily replaceable batteries, contributing to short device lifespans of about 2 years in the US. Manufacturing consumed 968 TWh of energy, equivalent to India's annual supply. It criticizes inefficient recycling, cites the Samsung Galaxy Note 7 recall, and urges a shift to a circular model, calling for petitions to Samsung for better repairability and recycling.

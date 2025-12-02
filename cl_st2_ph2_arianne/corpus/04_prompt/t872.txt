@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace and Nature and Youth filed a lawsuit in Oslo challenging Norway's 23rd licensing round, which granted oil companies like Statoil licenses for Arctic drilling, contradicting the Paris climate agreement and Norway's constitutional environmental protections. The case aims to halt exploratory wells, keep oil in the ground, and safeguard the Arctic for future generations. Supporters, including scientists, activists, and Indigenous leaders like James Hansen, Bill McKibben, and Bunna Lawrie, have gathered as 'Friends of the Case.' The post urges global supporters to add their names to demonstrate worldwide concern.

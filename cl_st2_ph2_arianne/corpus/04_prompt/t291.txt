@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Argentina's overflight revealed illegal deforestation in Chaco province, with 10,329 hectares cleared between November 2020 and July 2021, despite a provincial suspension of such activities. Bulldozers were observed operating in at least 10 sites. The Gran Chaco, South America's second-largest forest, supports diverse species and 4 million people, including Indigenous communities like Wichi and Qom, who depend on it for sustenance. Deforestation, driven by agriculture and livestock for export, exacerbates climate change, droughts, and storms, destroying biodiversity and Indigenous livelihoods. Enforcement of forest laws and collaboration with Indigenous expertise are urged to halt clearing and promote restoration.

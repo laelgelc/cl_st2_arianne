@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post marks the UN International Day for the Total Elimination of Nuclear Weapons, highlighting the 2017 Treaty on the Prohibition of Nuclear Weapons, adopted by 122 states and set to enter force in 2020 with 50 ratifications—currently at 15 ratifications and 60 signatures. It urges implementation to ban nuclear weapons, unlike prohibited biological and chemical ones, amid boycotts by nuclear-armed states but growing global pressure. The post recounts Hiroshima's devastation, nuclear weapons' indiscriminate harm and obsolescence against modern threats, rising expenditures despite reduced arsenals, proliferation risks, and the unfulfilled 1970 Non-Proliferation Treaty, calling for redirecting funds to human security and ending nuclear proliferation.

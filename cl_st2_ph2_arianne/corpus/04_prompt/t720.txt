@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes Energy Transfer Partners (ETP) for constructing the Dakota Access Pipeline (DAPL) without the Standing Rock Sioux Tribe's consent, bulldozing sacred sites, and ignoring government calls to halt. It details ETP's use of excessive force, arbitrary arrests, SLAPP suits against opponents including Greenpeace, and ties to TigerSwan for military-style tactics. ETP advocates anti-protest laws, seizes property, and has a poor safety record with frequent spills and fines. Greenpeace USA's report "Too Far, Too Often" urges banks to end financial ties with ETP due to its disregard for human rights.

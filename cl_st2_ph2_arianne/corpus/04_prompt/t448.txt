@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on lockdown experiences, like baking bread, highlighting appreciation for life's essentials. It cites crisis responses: Philippine cities using e-tricycles for food distribution, Brazil's Maricá doubling basic income, and Barcelona suspending municipal rent. It envisions post-pandemic cities with efficient public transport, urban gardens, no ads, fewer malls, universal access to housing and food, and community exchanges. It critiques consumerism, promotes Doughnut economics in Amsterdam's recovery, and notes global efforts like C40's pledge, bike lane expansions in Milan, Paris, and Bogotá, plus food initiatives in Freetown and Montreal.

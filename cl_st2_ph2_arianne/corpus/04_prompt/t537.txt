@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace live blog details global actions amid the climate emergency, highlighting the IPCC report on oceans and cryosphere urging accelerated efforts. It covers protests like graffiti in Lebanon, UN Summit responses, blockades against Shell in the Philippines and coal in Poland, climbers targeting Burger King in London and a Texas bridge, banners in Sweden and the Netherlands, and a car industry emissions report in Germany. It notes massive climate strikes with millions participating, Indigenous declarations for justice, and campaigns against deforestation-linked companies like fast food giants.

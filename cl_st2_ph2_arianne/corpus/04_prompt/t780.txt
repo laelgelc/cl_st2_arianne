@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's report "Justice for People and Planet" presents 20 case studies of corporate abuses on human and environmental rights, including deforestation, pollution, and Indigenous rights violations. It attributes these to governance gaps in global economic rules, enabled by political choices and corporate capture of institutions. The report proposes 10 Principles for Corporate Accountability, emphasizing people and environment over corporations, binding rules, due diligence, transparency, liability, access to remedy, and enforcement. Positive examples include France's risk prevention laws, Switzerland's referendum, and the UK's Modern Slavery Act. Greenpeace exposes misdeeds but praises positive corporate actions and offers alternatives.

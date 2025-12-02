@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace activists climbed the 14-storey EU Commission headquarters in Brussels to protest Europe's complicity in global forest destruction, unfurling a banner and spreading ashes symbolizing Amazon fires and indigenous struggles. The EU imports 36% of globally traded deforestation-linked products like beef, palm oil, and soy, accounting for over 10% of worldwide forest loss. Companies failed their 2010 promise to eliminate deforestation from supply chains by 2020. The post calls for a strong EU law banning such products and urges participation in the Commission's public consultation to demand action against deforestation and human rights abuses.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Ezra W. Smith, who illustrated the Nothing Extra project, has created a digital colouring book for Greenpeace Russia. The illustrations are free to download, print, and colour as desired. Each one is dedicated to a Greenpeace activity or project. Users can click on the images to obtain a downloadable version for printing.

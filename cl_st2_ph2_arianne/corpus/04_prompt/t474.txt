@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses coping with COVID-19's impacts on daily life and emphasizes systemic solutions while promoting community care through love and compassion. It lists eleven ways to support others safely: using social distancing alternatives, checking on isolated individuals, offering practical help like shopping deliveries, combating racism against those of Chinese descent, appreciating government financial aid, countering misinformation, suggesting rent freezes by landlords, fundraising for those affected, hosting virtual celebrations, sharing positive stories, preparing without hoarding, and frequent handwashing. It highlights exposed inequalities, calls against fossil fuel bailouts, and advocates for a green stimulus to build a resilient, caring society.

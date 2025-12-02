@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the global water crisis exacerbated by coal, highlighting Cape Town's near 'day zero' and ongoing scarcity for half a billion people worldwide. It explains coal's role in polluting and depleting water through mining, washing, and burning, releasing toxins into rivers and groundwater, as seen in Indonesia, India, China, and Australia. Coal-fired plants consume vast water volumes, diverting resources from essentials, and drive climate change, intensifying droughts. In contrast, wind and solar use minimal water and are cheaper alternatives.

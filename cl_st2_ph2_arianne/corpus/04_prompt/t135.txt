@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Emma Thompson recounts her Venice visit aboard Greenpeace's Rainbow Warrior, joining a protest dubbed the "Last Tour of Venice" to highlight climate risks like submersion from fossil fuels. She criticizes oil and gas companies for greenwashing via sponsorships in museums, universities, and sports to maintain social license. Citing successes like Harvard divesting and institutions dropping BP and Santos deals, she advocates banning fossil fuel ads like tobacco, referencing a European citizens' initiative and IPCC exposure of industry disinformation, with 450 scientists urging PR agencies to cease collaboration.

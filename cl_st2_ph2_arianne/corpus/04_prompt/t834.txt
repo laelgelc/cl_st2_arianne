@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's global forest campaign pressures companies to protect forests, achieving successes like protections in Canada, Brazil, and Indonesia. The Great Northern Forest campaign targets boreal forest destruction in Russia's Arkhangelsk region, with a report exposing logging of Intact Forest Landscapes by FSC-certified companies. FSC Russia acknowledges the need for industry transformation and customer pressure to establish the Dvinsky Forest Reserve. Greenpeace urges companies like Pomor Timber, Titan, and Arkhangelsk Pulp & Paper to support the reserve by June 2017, warning of potential contract suspensions and boycotts if they fail to act.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Oil companies are building dangerous pipelines across North America that threaten Indigenous rights, drinking water, wildlife, and contribute to climate change, including the Dakota Access Pipeline by Energy Transfer Partners, which is suing Greenpeace for $900 million, and the Trans Mountain Expansion risking orcas. These projects rely on funding from the 'Dirty Dozen' global banks like Citibank, Deutsche Bank, and others. The post urges people to pressure these banks by posting critical messages on their social media to damage their reputation and halt funding for such toxic pipelines.

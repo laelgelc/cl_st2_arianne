@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's ship Esperanza uses its reach and advanced technology, including solar-powered UAVs, an underwater ROV, and powerful binoculars, to locate and remove dozens of Fish Aggregating Devices (FADs) from the vast Indian Ocean, preventing bycatch deaths from reckless fishing vessels supplying Thai Union. Retrieved FAD components are returned to local artisanal fishermen or repurposed as solar-powered lamps and chargers. These actions challenge Thai Union's destructive practices at sea, with further efforts planned on land.

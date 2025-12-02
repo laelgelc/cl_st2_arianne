@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Bees are essential for ecosystems and food production, with three-quarters of global food crops and 84% of Europe's cultivated plants relying on pollinators like bees. They contribute €265 billion to crop pollination, but are vanishing due to pesticides such as neonics and industrial agriculture's toxic exposures and food source deprivation, risking food supplies and ecological balance. The European Commission proposed banning three bee-harming pesticides, with governments voting in May. The post urges a full ban on all such pesticides, proper testing of others, and calls on politicians to act to save pollinators.

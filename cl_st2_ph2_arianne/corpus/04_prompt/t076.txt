@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 2022, the world faced ongoing challenges as normalcy shifted, with nature unleashing record heat waves across Europe, Africa, America, and China, leading to wildfires, droughts, deaths, and dried-up lakes and rivers. Pakistan suffered its worst flooding, submerging one-third of the country and impacting 33 million people. Amid this Climate Emergency, urgent and courageous action is needed to save the planet for future generations. Through activists' and volunteers' collective will, governments can be pushed for action. Images of these efforts inspire hope in the ongoing fight for people and the planet.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Governments are failing on Paris Agreement climate promises, prompting thousands to seek justice through courts. The legal profession is mobilizing, with the International Bar Association's Model Statute aiding judges and lawyers in assessing evidence and enforcing rights to challenge governments and corporations. Greenpeace Southeast Asia offers a guide for public accountability. Over 600 cases are filed globally, including Urgenda's Dutch Supreme Court victory, Switzerland's Klimaseniorinnen appeal, and Norway's youth-led constitutional challenge. A Peoples’ Summit declaration demands access to justice, while Philippines holds companies like Exxon liable for climate impacts.

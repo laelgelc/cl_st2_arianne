@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the aviation industry's greenwashing, highlighting airlines' misleading claims of sustainability through false solutions like carbon offsetting, which fails to reduce emissions effectively, and sustainable aviation fuels (SAF), which are scarce, often unsustainable, and insufficient for decarbonization. It notes reliance on efficiency improvements and "net zero" myths that delay real action, while the sector benefits from subsidies and tax exemptions. To limit warming to 1.5°C, flights must decrease by 2% annually in Europe, with calls to ban fossil fuel ads, end subsidies, tax kerosene, and promote rail for a just transition.

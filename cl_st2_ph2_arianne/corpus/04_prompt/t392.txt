@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Jen Maman reflects on safety during the COVID-19 pandemic, feeling secure at home with her daughter while sharing global colleagues' experiences. Colleagues define safety as access to clean water, air, food, fair healthcare, government addressing inequalities, and climate action. The post critiques excessive military spending—e.g., one $3.4 billion submarine could fund 30 hospitals—and notes the US spends six times more on defense than education, despite declining global peace. It advocates redirecting funds to healthcare, clean energy, and community support for true safety, amid crises like pandemics, police violence, and environmental disasters.

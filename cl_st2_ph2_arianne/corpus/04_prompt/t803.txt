@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the urgency of climate change amid rising extreme weather, urging action over inaction. It criticizes Samsung Electronics for relying on dirty energy like coal, using only 1% renewables in production despite its massive scale—producing 400 million smartphones in 2016, supplying companies like Apple and Tesla, and earning $10 billion in profit. While rivals like Apple have switched to 100% renewables, Samsung is called to live up to its slogans by choosing renewables. The post, by Greenpeace's Insung Lee, rallies people to pressure Samsung to stop fueling climate change.

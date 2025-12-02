@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post details Greenpeace's 2017 radiation survey in Fukushima's contaminated areas, highlighting the ineffective decontamination program in places like Iitate and Namie. It notes recontamination from surrounding forests, vast nuclear waste generation (projected 30 million m³, stored at over 141,000 sites), and massive transports to interim sites in Okuma and Futaba. The post criticizes government pressure on evacuees to return amid ongoing risks, worker exploitation, and high costs, while urging acceptance of UNHRC recommendations for better support of affected citizens, especially women and children.

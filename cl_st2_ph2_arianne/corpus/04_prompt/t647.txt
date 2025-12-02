@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+2018 was an iconic year for Greenpeace’s ships, the Rainbow Warrior, Esperanza, and Arctic Sunrise, which sailed to locations including Antarctica, Hawaii, Taiwan, New Zealand, Papua's dense forests, and Australia's Great Southern Reef. The ships served as global flag bearers, participating in documentation and challenging actions. The post highlights the 10 best images from 2018 and notes that Sudhanshu Malhotra is a Multimedia Editor for Greenpeace International, based in Hong Kong, with an Instagram account to follow.

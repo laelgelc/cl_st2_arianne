@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the broken global food system, which harms health, the environment, and exacerbates inequality, while highlighting food waste amid widespread hunger. It features Supawut Boonmahathanakorn's initiative in Chiang Mai, Thailand, where his team transformed a 4,800-square-meter vacant dumping ground into an urban farm during the Covid-19 pandemic to combat food insecurity among the urban poor. With community and municipal support, the farm grows organic produce like morning glories and corn, shares harvests, sells excess for sustainability, supports soup kitchens, and offers educational spaces, demonstrating people-powered solutions for food sovereignty.

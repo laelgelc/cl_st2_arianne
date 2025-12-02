@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the crisis of plastic pollution in oceans, with eight million tonnes entering annually, turning them into "plastic soup." It explains how disposable plastics persist, breaking into microplastics that enter food chains, appearing in fish and sea salt, while larger pieces kill seabirds, fish, turtles, and whales through ingestion or entanglement. Emphasizing "Reduce, Reuse, Recycle," it offers five actions: refuse single-use plastics like bags and straws; avoid microbead cosmetics; buy and recycle plastics, advocating for facilities if needed; participate in beach cleans; and encourage others to join.

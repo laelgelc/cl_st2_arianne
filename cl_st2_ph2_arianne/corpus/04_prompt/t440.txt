@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+A diesel oil tank at the Nadezhda plant on Russia's Taymyr peninsula burst on May 29, spilling over 20,000 tonnes into local waterways, contaminating 20km and turning the Ambarnaya River red as it flows toward the sea. This major Arctic spill, operated by a Nornickel division in polluted Norilsk, was discovered late via media, prompting Putin's anger and a state of emergency. Greenpeace estimates damages exceeding RUB 10 billion, noting companies often evade liability and exploit Covid to weaken laws. It highlights fossil fuel risks in the Arctic, urging government audits, frequent inspections, and a green recovery package for a just transition from oil.

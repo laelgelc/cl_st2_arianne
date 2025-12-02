@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Treaty on the Prohibition of Nuclear Weapons (TPNW) entered into force on January 22, 2021, making nuclear weapons illegal under international law, akin to chemical and biological weapons. Adopted by 122 states in 2017 and ratified by 50 by October 2020, it prohibits production, possession, use, transfer, and financing. Greenpeace celebrates this milestone in its 50th anniversary year, honoring ICAN's role. Nuclear-armed states oppose it but face growing criticism and pressure. Priorities include universalizing the treaty through more ratifications, monitoring implementation, and mobilizing public support, as seen in high approval rates in countries like Finland and Belgium.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes a journey to Sungai Putri forest in Ketapang, Indonesia, highlighting the risks of peatland drainage through canal building by logging company PT MPK, which violates 2017 government sanctions. This drainage dries out peatlands, increasing forest fire risks like the 2015 tragedy, and affects local communities' rice paddies and water management. The forest supports diverse wildlife, including 900-1,200 orangutans threatened by habitat loss, with visits to a rehabilitation center underscoring extinction dangers. It emphasizes forests' vital role for human and animal life, urging community and government action to protect them.

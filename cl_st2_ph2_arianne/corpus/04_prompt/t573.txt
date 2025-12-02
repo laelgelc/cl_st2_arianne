@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace blog post debunks three myths promoted by deep sea mining companies: first, that it's a "green" solution for clean energy like renewables and electric vehicles, when it could worsen climate change by releasing stored carbon from seabed sediments; second, that it avoids human rights abuses in land mining, though it risks harming ocean-dependent communities and environments; third, that seabed minerals are essential for tech like smartphones, unsubstantiated by the IT sector. Instead, it advocates a circular economy with recycling, reduced metal use, and leadership from tech giants to protect oceans.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights an International Poster Contest for the Arctic, which received over 2000 submissions from over 40 countries to raise awareness of industrial threats like oil and destructive fishing, and to showcase Arctic species diversity. Posters aim to urge politicians to protect the region, with three winners joining Greenpeace in Svalbard. It also describes an Urban Art Festival in Barcelona where 35 artists from 8 countries painted 600 meters of walls interpreting the Arctic. The post quotes Einstein on contagious creativity and notes the contest ends April 30.

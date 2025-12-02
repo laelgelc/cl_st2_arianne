@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Julien Jreissati recounts experiencing the Beirut port explosion from his suburban apartment, caused by 2,750 tons of ammonium nitrate igniting, resulting in over 150 deaths, 5,000 injuries, and widespread destruction. He checked on loved ones and formed a Greenpeace MENA crisis team to ensure staff safety and consult experts on health risks from nitrogen dioxide and ozone pollution. Amid COVID-19 concerns, they developed safety guidelines and are investigating additional pollutants via satellite imagery. Lebanese solidarity is aiding recovery, with Greenpeace providing info on toxic dust and calling for Red Cross donations.

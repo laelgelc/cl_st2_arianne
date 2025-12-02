@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Orpha Novita Yoshua, a young Indigenous Namblong woman from Grime Nawa Valley in West Papua, Indonesia, writes to UN Biodiversity Secretary Elizabeth Maruma Mrema at COP15, emphasizing that forests in Papua, Kalimantan, and Sumatra are vital for biodiversity, climate protection, and Indigenous cultures. She warns of crises like species extinction and cultural loss if damaged. Describing her valley's rich ecosystem—including animals like cassowaries and birds of paradise, sago palms, and sacred forests—she gifts a symbolic Noken bag. Orpha condemns illegal clearing by palm oil company PT Permata Nusa Mandiri without consent, urging permit revocation amid government inaction.

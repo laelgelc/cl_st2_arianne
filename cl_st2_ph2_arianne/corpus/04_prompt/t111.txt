@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Karipuna People, nearly decimated in the 1970s with only eight survivors, now number 61 and inhabit 153,000 hectares of demarcated land in Brazil, which has suffered massive invasions by land grabbers and loggers, ranking ninth in deforestation from 2015-2021 with 4,700 hectares lost. Thirteen Karipuna, including elders, traveled to Brasília to deliver a "Cry for Help" letter to ambassadors from eight countries, the EU, and UN representatives, urging the EU to reject products from Amazon deforestation violating Indigenous rights and press Brazil to protect their territory amid death threats and resource loss. Chief André highlighted exported goods stained with Indigenous blood, while elders expressed fears of displacement.

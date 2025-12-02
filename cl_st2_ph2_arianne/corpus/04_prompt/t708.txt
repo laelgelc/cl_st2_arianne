@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace blog post, quoting Einstein on solving problems with new thinking, proposes a new economy prioritizing people and the environment over profit. Key principles include inclusivity for all, sharing resources via cooperatives and technologies like Blockchain, valuing experiences over consumerism, ensuring genuine sustainability through regeneration and waste reduction, limiting economic activity with regulations and fair trade, allowing more free time by reducing work hours, and spreading wealth through progressive taxes. It critiques systemic disconnections accelerated by technology, notes movements like Occupy Wall Street, and warns against hijacked sharing economies, urging visions for a hopeful, equitable future.

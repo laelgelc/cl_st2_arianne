@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses invisible revolutions challenging the socioeconomic system amid global crises, highlighting Brazil's semi-arid region and its endangered Caatinga biome. It features the ASA network of over 3,000 organizations promoting dignified lives through adaptation to water scarcity via over 1 million rainwater cisterns, community projects like re-Caatinga-ing degraded areas for agriculture, and prioritizing food security, native seeds, and civic participation. Women and youth benefit significantly, with emphasis on collective action, environmental care, and redefining economy as stewardship of the common home for a just future.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post links biodiversity loss to increased infectious disease risks, using COVID-19 as an example of how ecosystem destruction, deforestation, and wildlife trade expose humans to zoonotic threats. It emphasizes that this global issue requires cross-border solutions, advocating for the Convention on Biological Diversity's "protect 30" proposal to safeguard at least 30% of the world's land and oceans by 2030 through sanctuaries. Success depends on respecting indigenous rights, women's empowerment, community engagement, and international support for frontline communities to implement protections.

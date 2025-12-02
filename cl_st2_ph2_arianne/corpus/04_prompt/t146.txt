@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's Roots project in Chile collaborated with local communities, MODATIMA Women, and Finland's Sibelius Music Academy to create "Canto del Agua," a collective song protesting water privatization. The workshop, held in La Ligua amid the country's severe water crisis—attributed to looting, not just drought—involved musicians and activists sharing experiences of family devastation, migration, and territorial destruction. Activities included sound collection, rhythmic improvisation, and co-creation, culminating in a concert on World Day to Combat Desertification and Drought, followed by recording for digital promotion as an anthem for de-privatization.

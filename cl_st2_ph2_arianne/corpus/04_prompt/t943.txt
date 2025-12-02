@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes high seas transshipping in the Pacific Ocean, where motherships and refrigerated reefers enable fishing vessels to transfer catches at sea, allowing them to operate for months or years without entering ports. This practice facilitates overfishing, illegal fishing, labor abuse, and evasion of regulations, as highlighted by ILO reports on worker vulnerabilities and an Associated Press exposé on slave-caught fish. The FAO recommends prohibiting transshipping at sea, while Pacific fisheries require advance notice and ban it for purse seine vessels. The post urges ending transshipping to protect oceans, tuna stocks, and workers.

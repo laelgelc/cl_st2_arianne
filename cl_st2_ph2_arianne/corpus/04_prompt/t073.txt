@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses how rising fossil fuel prices exacerbate energy poverty, making heating unaffordable while companies reap record profits. It highlights health risks, including higher hospital admissions and respiratory illnesses in children, hypothermia and mental health issues in the elderly, and global deaths from indoor pollution (3.2 million annually) and cold (4.5 million). Nearly 1 billion lack electricity access, worsening in regions like Sub-Saharan Africa. It warns of up to 335,000 excess winter deaths in Europe and calls for taxing fossil profits to fund support, building renovations, and renewable energy to end dependence on fossil fuels.

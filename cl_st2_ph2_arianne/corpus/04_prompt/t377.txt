@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the deep sea's vast genetic resources, including viruses and anti-viral mechanisms in creatures like sea cucumbers, which inspired CRISPR technology for treating diseases and earning a 2020 Nobel Prize. It emphasizes that preserving these ecosystems is more profitable than mining, with marine biotechnology projected to reach USD 5.4 billion by 2027, far exceeding mining's USD 7 billion forecast. The post warns that deep-sea mining will destroy habitats and calls on governments and the UN to protect this "Common Heritage of Humankind" for future medical advances rather than short-term profits.

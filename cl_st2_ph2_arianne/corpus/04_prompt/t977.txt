@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace highlights how everyday wood surfaces may originate from illegal logging in the Democratic Republic of Congo's Congo Basin forests, where rampant illegal practices destroy environments and livelihoods. They traced a shipment of endangered Wengé wood, felled illegally by Bakri Bois Corporation, transported via the Congo River to Antwerp, sold to Bois d’Afrique Mondiale, and processed at Danzer Group's Czech facility—recently disassociated from the Forest Stewardship Council for human rights violations. The EU's 2013 Timber Regulation prohibits illegal timber, but enforcement is weak; Greenpeace urges investigations and seizures to protect forests and communities.

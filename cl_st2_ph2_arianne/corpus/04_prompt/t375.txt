@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The deep ocean harbors ancient coral reefs, underwater mountains, and long-lived sea creatures, offering clues to life's origins. A new industry seeks to mine the seabed for corporate profit, but scientists warn this could cause irreversible damage to marine life and carbon-storing processes, exacerbating the climate crisis. Amid negotiations for a Global Ocean Treaty, the industry lobbies governments, with an area the size of France and Germany already opened for exploration. Greenpeace investigations reveal a web of Global North-based companies exposing Global South sponsoring states to risks, undermining corporate claims. Activists reject this, urging protection over exploitation; watch Ocean Witness and support the treaty.

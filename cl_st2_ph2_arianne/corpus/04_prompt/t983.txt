@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Levi Strauss & Co. has committed to going toxic-free in response to demands from hundreds of thousands in Greenpeace's Detox campaign, joining 11 brands including Zara. The commitment follows a Greenpeace report and documentary highlighting pollution from clothing factories in Mexico and elsewhere. Levi’s will require major suppliers in China, Mexico, and the Global South to disclose pollution data by June 2013, seek non-hazardous alternatives, and adopt the precautionary principle. The campaign urges sharing the "Detox Fashion" video to pressure brands like Calvin Klein, GAP, and Victoria’s Secret to eliminate hazardous chemicals and stop polluting rivers.

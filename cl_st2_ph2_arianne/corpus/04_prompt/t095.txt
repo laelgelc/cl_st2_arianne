@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace blog post criticizes "The Roadmap to 1.5," launched at COP27 by agribusiness companies, as hollow pledges and greenwashing that ignore human rights abuses and labor violations in commodity production. It highlights failures of past deforestation commitments by firms like JBS, Marfrig, Cargill, and Wilmar, and ongoing destruction in regions like the Amazon, Cerrado, and Great Chaco. The post demands transformative changes, including ecosystem protection, restoration funded by companies, reduced demand for meat and biofuels, supply chain transparency, suspension of destroyers, and respect for Indigenous rights, without relying on carbon credits.

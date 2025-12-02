@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace UK has surveyed Scottish offshore oil and gas workers on the energy transition, revealing low morale and low awareness of Just Transition (only 9%), with workers seeking supported retraining for secure, well-paid jobs. The post emphasizes holding polluters accountable via the "polluter pays" principle and prioritizing Just Transition globally for fair climate action. It highlights solidarity between environmental and labor movements, such as support for striking workers and unions demanding decent jobs. At COP26, Greenpeace calls for ambitious commitments, while in the US, it backs Biden's jobs plan, the PRO Act, and unionized green jobs to build a just society.

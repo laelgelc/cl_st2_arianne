@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explores the interconnectedness of all things as key to combating planetary erosion, emphasizing feminist leaders from the global South advocating for economic transformation that prioritizes care work, social reproduction, and resilience for all life. It highlights calls to value women's invisible contributions, shift from extractive to reparative economies, end austerity, reform taxes and debt systems, and embrace Indigenous solutions like commons and degrowth. Indigenous voices stress protecting nature as home, urging recognition that interconnected problems demand interconnected solutions centered on care and respect.

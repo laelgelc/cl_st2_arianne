@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Indigenous Land Defenders in the Amazon face increasing threats to their lives and homes while protecting vital ecosystems. Greenpeace supports Indigenous rights globally and demands an end to profit-driven destruction. On May 26, illegal gold miners, emboldened by Brazil's Bolsonaro administration, attacked a Munduruku village with gunfire and arson, burning leader Maria Leusa's home. This follows ongoing violence, including the March destruction of an Indigenous women's association headquarters and attacks on Yanomami people. From 2008-2020, miners destroyed over 61 km² of Munduruku land, with 63% occurring in 2019-2020.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post urges preventing investments in destructive industries amid the COVID-19 health and economic crises, which deepen the chronic climate crisis, and instead directing public funds toward public health, planetary well-being, and a just transition to a harmonious, equitable future. It calls for holding leaders accountable, vigilance against exploitation via the 'shock doctrine,' and advocacy for cooperative, nature-aligned investments. Emphasizing compassion, courage, and community to combat the virus without blame or division, it highlights learning lessons to protect the vulnerable, building alliances, and prioritizing family and self-care, while noting that crises make the impossible possible—for better or worse.

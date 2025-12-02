@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post argues that humanity ignored historical warnings from Malthus, Mill, and Paul Ehrlich's 1968 book "The Population Bomb" about population growth exceeding Earth's ecological limits, leading to resource depletion, biodiversity collapse, and humanitarian crises. It critiques the Green Revolution for causing soil degradation, nitrogen cycle disruption, and global heating. Current issues include stagnating crop yields, declining fisheries, water scarcity affecting 850 million people, and rising malnutrition despite lower growth rates. The post urges addressing population stabilization and overconsumption to mitigate ecological destruction, emphasizing scale as a key driver.

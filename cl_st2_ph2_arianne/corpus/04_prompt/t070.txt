@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The COP15 UN Biodiversity Conference concluded with the Kunming-Montreal Agreement, hailed as historic but merely a starting point to halt mass extinction. It recognizes Indigenous Peoples, who protect 80% of Earth's biodiversity despite comprising 5% of humanity, emphasizing respect for their rights, territories, consent, and participation per the UN Declaration. Indigenous-led conservation must become standard. The agreement includes a 30% protection target for land and seas by 2030, but lacks exclusions for damaging activities and incorporates corporate schemes like nature-based solutions, risking exploitation. Finance commitments remain inadequate, requiring faster action, including a 2023 fund for developing countries and Indigenous Peoples, plus a Global Ocean Treaty. COP16 in Türkiye in 2024 will build on this.

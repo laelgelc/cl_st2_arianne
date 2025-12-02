@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+HD Hyundai Construction Equipment has pledged to halt sales of heavy machinery in Amazonas, Roraima, and Pará states, cease maintenance and parts supply, and terminate a dealership contract to prevent its excavators from aiding illegal gold mining in Kayapó, Munduruku, and Yanomami Indigenous territories. This follows a Greenpeace report revealing 176 excavators in these areas from 2021-2023, with 43% from HD HCE, the most popular brand among miners. Greenpeace campaigns, including press conferences and demonstrations, pressured the company. The decision is a victory for Indigenous peoples, but other manufacturers and the Brazilian government must also act to eradicate illegal mining.

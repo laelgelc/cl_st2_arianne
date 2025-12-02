@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the global shift from fossil fuels to renewable energy, questioning if it's fast enough to avert climate catastrophe. It criticizes Samsung Electronics for its mere 1% renewable energy use and slow plan to announce a strategy by August 2018, contrasting this with its quick Note7 recall. In South Korea, the government aims for 20% renewables by 2030, and the 2018 Winter Olympics will be 100% renewable, yet sponsor Samsung lags. A survey shows 85% of Koreans want companies to go fully renewable. The post urges Samsung to embrace renewables swiftly to avoid being on the wrong side of history and calls for petition signatures with #DoBiggerThings.

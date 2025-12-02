@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Kristian Sloth, a former journalist and Greenpeace Denmark Agricultural Campaigner, highlights stories from Danes living near industrial pig factories in a new documentary film. Neighbors report life-ruining stench causing shame during visits, inability to hang laundry, and green algae on homes from ammonia emissions. They experience health issues like headaches, stomach aches, diarrhea, and breathing difficulties from over 200 chemicals, including ammonia and methane, linked to respiratory diseases. Scientific studies confirm elevated risks of asthma, skin issues, and more. Homes bought before industrialization are now unsellable, with Denmark having over 3,000 such factories and the world's highest pigs per capita, reflecting a global problem.

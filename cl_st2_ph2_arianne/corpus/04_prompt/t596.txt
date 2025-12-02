@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes the urgency of addressing the climate crisis within a decade by phasing out diesel and petrol vehicles, highlighting that Europe's transport sector contributes over a quarter of CO2 emissions, with 45% from roads. It outlines six policy measures from research by the Ecologic Institute and Greenpeace Germany: banning internal combustion engine sales and mandating EV production quotas; expanding subsidized charging infrastructure; adapting incentives to market trends; using mixed policies like subsidies and mandates; taxing polluters while incentivizing EVs; and clearly communicating benefits. EVs are part of a broader shift toward reducing personal cars and boosting renewable-powered public transport, cycling, and walking.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace is embarking on an expedition aboard the ship Esperanza to the Sargasso Sea, a unique ecosystem in the Bermuda Triangle with clear waters and endemic life, now threatened by plastic pollution trapped in ocean gyres. Plastics harm wildlife like turtles, whales, and fish, entering the food chain. To aid recovery, they propose ocean sanctuaries under a new Global Ocean Treaty to protect against stresses such as overfishing, vessel traffic, and deep-sea mining, akin to resting during illness. They urge signing a petition and pressuring corporations to end single-use plastics.

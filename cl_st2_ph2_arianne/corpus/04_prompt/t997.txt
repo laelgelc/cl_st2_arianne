@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Jim Bohlen, a true Greenpeace founder, died on July 5, 2010, at age 84. Born in 1926 in New York City, he served as a US Navy radio operator, earned an engineering degree, and moved to Vancouver in the late 1960s as a Quaker opposing the Vietnam War. In 1968, he met Irving and Dorothy Stowe at an anti-war protest and joined the Sierra Club. In 1969, they formed the Don’t Make a Wave Committee against US nuclear tests at Amchitka. Inspired by his wife Marie’s idea, Bohlen announced plans to sail a boat there, leading to fundraising and the Phyllis Cormack voyage. The protest, renamed Greenpeace, delayed and ultimately ended the tests. Bohlen continued anti-nuclear activism into the 1980s, retired in 1987, and advocated renewable energy as a Green Party candidate. He is survived by his family and Greenpeace.

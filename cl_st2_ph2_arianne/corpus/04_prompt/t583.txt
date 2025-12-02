@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The HBO series on Chernobyl has topped IMDb's list for its accurate depiction of the 1986 disaster, including period details and residents' lack of awareness. However, the catastrophe's effects persist: 350,000 were evacuated, 5 million still live in contaminated areas, and WHO estimates 9,000 more deaths, while Greenpeace research suggests 100,000 from radiation-exacerbated cancers. Ten similar reactors operate in Russia. In places like Novozybkov, people consume and sell radioactive mushrooms and berries despite decontamination efforts. Nuclear power's errors impose long-term costs on ordinary people across generations.

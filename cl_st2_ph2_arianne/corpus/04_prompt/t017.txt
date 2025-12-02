@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In the Philippines, amid COVID-19 lockdowns causing hunger and unemployment, Patricia Non initiated the Maginhawa community pantry in April 2021 with a simple cart offering food on a "give what you can, take what you need" basis. The model spread to over 6,700 pantries nationwide, feeding thousands, including jeepney drivers, and connected small farmers like Rosalina Tagle with urban communities to prevent crop waste. It evolved into the BuyAnihan system emphasizing food sovereignty, local sourcing, and farmer support, despite challenges like red-tagging. The movement fosters mutual aid, resilience, and calls for government action on sustainable food access.

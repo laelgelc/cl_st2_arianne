@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Dr. Paul Johnston, a Greenpeace scientist, discusses the severe impacts of climate change, noting the planet will survive but in a altered state, with committed changes like sea level rise and food insecurity. He emphasizes acting now to minimize damage, rejects climate denial as delusional, warns against geoengineering as a false solution, and highlights progress in environmental protections. He advocates personal actions to reduce waste and influence others, supports the March for Science to defend evidence-based research, and expresses optimism amid challenges like fake news and funding cuts.

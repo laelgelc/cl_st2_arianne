@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how Europe's fossil fuel-dependent transport system exacerbates multiple crises, including climate change, inflation, energy price hikes, and wars funded by oil exports like Russia's. It notes transport's high costs for households, its role in 30% of EU greenhouse gas emissions, and environmental damage from oil extraction and false solutions like agrofuels. The post advocates draining oil from mobility by shifting to affordable public and active transport, decarbonizing by 2040, avoiding inefficient alternatives, and ensuring a fair transition through ending polluter subsidies and supporting workers.

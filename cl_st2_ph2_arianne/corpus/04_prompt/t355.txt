@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post warns that Earth's biodiversity is collapsing due to human pressures, comparable to past mass extinctions, and emphasizes nature's roles in providing food, air, water; regulating climate and nutrients; protecting against diseases; nourishing spirits; and enabling medical advances. It criticizes extractive capitalism, destructive industries like fossil fuels and industrial farming, and governments for prioritizing profits over solutions. It calls for rethinking production and consumption, protecting 30% of lands and oceans by 2030 through partnerships with Indigenous communities, and ambitious global agreements like CBD COP15 to restore balance and resilience.

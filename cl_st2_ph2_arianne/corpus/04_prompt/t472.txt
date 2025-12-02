@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post recounts the author's father's 1961 explanation of oil depletion, predicting peaks due to finite resources and rising extraction costs. It discusses current declines in global oil production, with peaks outside the US, Russia, and Saudi Arabia in 2017, and warnings of sharp drops in Russian and Saudi output. The US shale boom is portrayed as unsustainable, debt-fueled, and environmentally damaging, resembling a Ponzi scheme leading to bankruptcies. Tar sands projects are failing, and the industry faces investor withdrawal. The post urges transition to renewables amid economic and climate risks.

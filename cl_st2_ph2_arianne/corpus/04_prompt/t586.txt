@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the planet's unprecedented heating, with record temperatures and escalating climate disasters affecting regions worldwide. It urges reconsidering car use due to pollution and heat dangers, recommending public transport instead. Solutions include planting trees and flowers, adopting plant-based diets, avoiding plastics, and advocating for renewables. It promotes hope amid fear, encouraging protests against fossil fuels, demands for climate justice, and declarations of emergencies. Survival tips for extreme heat cover staying hydrated, eating lightly, slowing down, staying cool indoors, dressing lightly, building support networks, and organizing to combat climate change.

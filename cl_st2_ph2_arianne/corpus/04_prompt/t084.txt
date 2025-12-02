@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Europe faces a volatile energy crisis amid war, high prices, inflation, recession, and climate challenges, risking energy poverty this winter. The post urges reducing gas, oil, and electricity use, prioritizing industry through rationing and mandatory measures, as seen in the Netherlands' 25% gas cut. Transport reforms include affordable public transport tickets, banning short-haul flights and private jets, and efficient driving to save oil, emissions, and €63 billion. Promote heat pumps, insulation, and solar; tax fossil fuel windfall profits to aid vulnerable households. End fossil subsidies and expansion for a just transition to 100% renewables.

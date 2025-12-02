@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On International Workers’ Day, the blog celebrates workers' historical achievements like weekends off and sick pay, highlighting their resilience and collective power. It emphasizes Greenpeace's support for a just transition from polluting industries like fossil fuels and aviation to sustainable ones, ensuring fair treatment through social safety nets, re-training, employment guarantees, and union involvement. Polluters, especially fossil fuel companies, should fund this shift, as their denial tactics harm workers. The post calls for tailored policies, investments in green jobs, and collective action to achieve environmental and social justice.

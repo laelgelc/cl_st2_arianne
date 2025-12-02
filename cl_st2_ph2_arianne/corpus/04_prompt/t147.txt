@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Shein announced a $15m donation to a Ghana NGO aiding textile waste workers at the Copenhagen global fashion summit, but Greenpeace Germany campaigner Viola Wohlgemuth deems it greenwashing without business model changes. Shein's ultra-fast fashion produces cheap, disposable clothes that waste resources, exploit people and the environment, with returns often landfilled. Greenpeace research in Kenya and Tanzania revealed discarded clothes polluting dumps, rivers, and seas, mirroring Ghana's issues. Brands like Shein should adhere to the 'Polluter Pays' principle for global damages and shift to producing fewer, durable, repairable items via circular services to preserve resources.

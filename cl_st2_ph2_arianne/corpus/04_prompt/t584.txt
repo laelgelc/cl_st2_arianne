@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explores the intersection of LGBT rights and climate justice, emphasizing that oppressions are linked and advocacy requires addressing multiple identities for a just society. It shares personal stories from LGBT survivors of Typhoon Haiyan in the Philippines, including Arthur, who overcame discrimination to lead relief efforts; Nityalila, a musician who uses her voice for awareness and came out after facing climate impacts; and Pierce, who learned about intersectionality and privilege through others' horrific experiences. Contributors like Edwin Nichols highlight community power, drawing parallels to Stonewall riots and calling for solidarity against discrimination and climate crises.

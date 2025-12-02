@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Irving and Dorothy Stowe, pacifists influenced by Gandhi and Quaker ideals, fled the US due to opposition to the Vietnam War and nuclear testing, settling in Vancouver. They organized anti-war and ecological campaigns, forming the Don’t Make A Wave Committee to protest US nuclear tests on Amchitka Island. Inspired by a suggestion to sail into the test zone, they fundraised through concerts and chartered the boat Phyllis Cormack, renamed Greenpeace. Though the 1971 voyage didn't stop the blast, it galvanized global opposition, leading to the program's cancellation and the founding of the Greenpeace Foundation.

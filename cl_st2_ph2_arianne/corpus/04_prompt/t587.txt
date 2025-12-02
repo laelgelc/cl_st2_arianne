@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the severe impacts of factory farming on communities in Europe, sharing stories from France, Italy, Spain, and Denmark. Residents like Nicolas Mougel in France face toxic smells affecting family life, while anonymous N. links her rare eye cancer to a nearby farm. In Italy, Maura Cappi leads successful fights against expansions. Spanish farmer Ricardo Antón notes threats to ecosystems and small farms, and Danish resident Bente Joergensen suffers health issues from odors. It discusses pollution, climate emissions, and biodiversity loss, urging support for eco-farming and veggie alternatives via a global call to action.

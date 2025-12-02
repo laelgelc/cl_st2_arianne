@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the global air pollution crisis affecting cities beyond Beijing and Delhi, with many exceeding safe levels, largely due to fossil fuel vehicles. To mark EU’s Green Week, Greenpeace volunteers across Europe demanded change through street actions. Highlights include: Berlin volunteers demonstrating cars' dominance of 60% street space versus 3% for cyclists; Paris activists cheering cyclists in rain; Rome campaigners unfurling a banner urging politician Nicola Zingaretti to address toxic air; Moscow cyclists raising health awareness with Let’s Bike It; and Belgium protests like banners, bike-powered events, and flashmobs. Greenpeace plans ongoing pressure on governments and car companies, inviting sign-ups.

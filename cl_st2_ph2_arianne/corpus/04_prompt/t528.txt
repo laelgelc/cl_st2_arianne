@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Plastic pollution, originating from toxic fossil fuels, harms communities, animals like turtles and seabirds, and possibly human health worldwide. The Reuse Revolution counters this with innovative solutions emphasizing reduction and reuse, including zero-waste cities, water refill stations, discounts for reusable bags and mugs, and plastic-free markets. Individual actions, such as using reusable items and pressuring companies, build counterpower to throwaway culture. Companies admit their role but promote false solutions like paper, bioplastics, recycling, chemical recycling, and incineration. True progress requires corporations to reduce plastic footprints and invest in refill and reuse systems.

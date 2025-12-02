@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Nate Hagens, a former Wall Street executive turned ecology analyst, discusses his journey from finance to studying energy limits and founding the Institute for the Study of Energy & Our Future. He hosts podcasts like The Great Simplification, interviewing experts on ecological predicaments. Hagens explains "The Great Simplification" as the impending reversal of societal complexity due to declining fossil energy surplus, amid rising debt and environmental limits. He critiques energy blindness, notes renewables' inability to fully replace fossils, and advocates for local resiliency, reduced consumption, and ecological awareness to mitigate future harms.

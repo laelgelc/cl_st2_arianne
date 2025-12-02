@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In November, positive environmental developments included Greece achieving its first full reliance on renewable energy for five hours on October 5, marking progress in reducing fossil fuel dependence. New York advanced a ban on new gasoline-powered vehicles by 2035, mandating increasing zero-emission sales starting at 35% in 2026. Equinor postponed the Arctic's Wisting oil field, likely preventing its development and averting CO2 emissions. Jakarta residents won a second air pollution lawsuit appeal, obligating the government to set air quality standards and strategies. French President Macron endorsed banning deep sea mining at COP27, strengthening opposition to the practice.

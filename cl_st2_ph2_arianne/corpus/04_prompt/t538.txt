@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+A single student's act of courage sparked the global school strikes movement, now one of the largest climate actions worldwide, with young people protesting in countries including Vietnam, Kenya, Russia, Kosovo, Solomon Islands, Canada, Seychelles, Pakistan, Antarctica, Afghanistan, and Bangladesh. Students bravely demonstrate in cities like Kabul, Moscow, Karachi, and Ho Chi Minh, producing iconic images and expanding to new locations with each strike. This tribute honors these heroes amid the climate emergency, urging all to fight for a better planet for future generations.

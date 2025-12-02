@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes the World Economic Forum (WEF) in Davos for hypocrisy, as attendees arrive by private jets emitting massive CO2 while seeking capitalist solutions to problems like inequality and environmental exploitation caused by capitalism. It highlights Oxfam's report showing the richest 1% captured most post-2020 wealth and calls for wealth taxes. Advocating Indigenous wisdom and community-focused models over profit-driven ones, it urges taxing the rich, canceling debt, prioritizing well-being over GDP, and fostering multilateral cooperation for justice-based solutions. Community innovations in the Global South offer alternatives, excluding those most affected undermines WEF's efforts.

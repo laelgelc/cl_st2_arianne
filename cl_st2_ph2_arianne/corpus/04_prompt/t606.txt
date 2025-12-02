@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The 15th Free Land Camp in Brasília, Brazil, gathered over 4,000 Indigenous Peoples for the world's largest mobilization, featuring music, dances, rituals, knowledge exchange, and advocacy for rights. On the second day, leaders demanded government protection of their lands amid Bolsonaro's weakening of environmental laws. The event ended with a traditional march demonstrating peaceful resistance. The post highlights Indigenous Peoples' frontline role in protecting forests against deforestation, which exacerbates global extreme weather, and calls for supporting these guardians.

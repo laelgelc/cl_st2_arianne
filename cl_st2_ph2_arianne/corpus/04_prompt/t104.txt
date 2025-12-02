@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+COP27, the 27th UN Climate Summit in Sharm el-Sheikh, Egypt, from November 6-18, 2022, focuses on advancing climate justice and limiting warming to 1.5°C. Key priorities include establishing a loss and damage finance facility funded by polluting nations, rapidly phasing out fossil fuels with no new projects and just transitions, providing $100 billion annually for low-income countries' adaptation and decarbonization, and integrating nature protection with Indigenous involvement. The global climate movement must push governments for urgent action amid growing activism, as recent IPCC reports highlight escalating crises.

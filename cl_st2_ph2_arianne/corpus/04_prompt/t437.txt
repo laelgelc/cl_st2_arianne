@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses how COVID-19 has exacerbated food insecurity amid inequality and climate crises, warning of disruptions affecting billions. It critiques the broken industrial food system, driven by corporate interests, which wastes food while millions go hungry. Advocating food justice and sovereignty, it calls for valuing essential food workers, implementing social measures like universal basic income, and redirecting policies for ecological resilience. Practical actions include reducing waste, shifting to plant-based local diets, supporting urban agriculture and community-supported farming. Governments should treat food as a common good and fund transitions, with examples like Victoria, Canada's food-growing initiatives.

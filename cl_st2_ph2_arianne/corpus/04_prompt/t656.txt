@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Yewande Omotoso discusses climate change as a human rights crisis threatening rights to life, property, health, and culture, and highlights climate justice as a global movement using legal action to hold fossil fuel corporations and governments accountable. She describes inspiring cases, including the Philippines' investigation of "Carbon Majors," Swiss seniors challenging inadequate climate policies, South Africa's ruling against a coal plant, Colombian youth protecting the Amazon, and U.S. youth suing the government. Omotoso shares how these efforts combat overwhelm, inspiring action against the climate "monster."

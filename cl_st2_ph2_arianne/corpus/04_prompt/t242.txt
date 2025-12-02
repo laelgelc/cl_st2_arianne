@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explores Greenpeace's 50-year history of music collaborations, starting with a 1970 benefit concert featuring Joni Mitchell and James Taylor to fund the first expedition against nuclear tests. It highlights 1980s albums like the 1989 Soviet "Greenpeace: Breakthrough" with artists including U2 and Sting, 1990s anti-nuclear concerts, and modern efforts such as Ludovico Einaudi's 2016 Arctic performance, Thom Yorke's 2018 ocean track, and the 2017 Save Our Sounds project with nature recordings remixed into the "Soundtrack to the Future" album. Music inspires global action for environmental justice.

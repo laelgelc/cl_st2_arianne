@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the destructive impact of greedy palm oil companies on Indonesian forests, causing burning rainforests, species loss, and community displacement. It focuses on Papua's spectacular Birds of Paradise—around 40 species known for their beauty and behaviors—now threatened as the industry expands there. Street artists and volunteers worldwide are creating urban murals depicting these birds' plumage, dances, and traits to raise awareness of threats to Indonesian wildlife and inspire action. It urges artists, students, bird enthusiasts, and consumers to join the #WingsOfParadise movement, admire artworks, share them, and discuss forest protection.

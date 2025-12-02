@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights inspiring women fighting to hold oil, gas, coal, and cement companies like ExxonMobil, BP, Chevron, and Shell accountable for climate change impacts through the Philippines' Commission on Human Rights inquiry, initiated by a 2015 petition. Desiree Llanos Dee campaigns to connect carbon producers to affected communities' stories, inspired by the 2015 Rome-to-Paris Climate Walk. Kristin Casper, a climate lawyer, supports global efforts. Survivors Marielle Bacason, traumatized by Super Typhoon Haiyan in 2013, and Veronica “Derek” Cabe, impacted by Typhoon Ketsana in 2009, share testimonies emphasizing climate and gender justice, seeking accountability for future generations.

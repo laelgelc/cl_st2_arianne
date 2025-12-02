@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Jennifer Morgan, Greenpeace International's Executive Director, visited Svalbard to observe rapid Arctic changes from climate change, including melting ice and warming temperatures. She highlights industrial fishing's role in polluting shores with trash, mostly from fisheries, harming wildlife like reindeer, polar bears, and seabirds through entanglement and ingestion. A beach clean-up under the ‘Protect What You Love’ campaign raised awareness of destructive bottom trawling. She notes a voluntary industry agreement, brokered by Greenpeace, to avoid expanding cod fishing into untouched northern Barents Sea areas, but urges Norway to establish legal marine protections.

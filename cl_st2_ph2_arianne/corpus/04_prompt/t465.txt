@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on the unprecedented social isolation during the COVID-19 pandemic, comparing it to historical global crises, and compiles an essential ecology reading list for environmentalists in isolation. It describes key books, including Vandana Shiva's critique of industrial agriculture, Gregory Bateson's exploration of ecological thinking, Andrea Wulf's biography of Humboldt, William Catton's analysis of overshoot, the Tao Te Ching's environmental ethic, and Arne Naess's Deep Ecology anthology. Additional recommendations cover topics like biomimicry, ecological economics, and nature poetry, emphasizing direct communion with wild systems for deeper understanding.

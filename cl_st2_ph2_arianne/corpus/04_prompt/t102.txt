@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Youth voices from the Middle East, Africa, and beyond must be heard at COP27, as emphasized by Greenpeace MENA campaigner Nouhad Awwad on the United for Climate Justice ship tour. Over 400 youth climate leaders gathered in Tunisia to strengthen the movement, with some now sailing on the Rainbow Warrior in Egypt to advocate for Global South climate justice. These regions face severe impacts like droughts, floods, famine, desertification, and rising seas, while rich nations fail to provide needed financial support. The tour aims to deliver messages of hope, solidarity, and solutions, urging a transition from fossil fuels and climate justice to protect future generations.

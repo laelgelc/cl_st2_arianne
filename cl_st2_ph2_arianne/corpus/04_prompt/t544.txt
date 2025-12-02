@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the unsustainable, car-centric vision of future transport promoted by Hollywood and the industry, advocating instead for efficient public systems like trains, buses, and trams that reduce energy use and serve as a social safety net. It highlights successful networks in cities like Moscow, Beijing, and Auckland, and urges reducing cars to improve air quality and reclaim space, as seen in Los Angeles' vast parking areas. Shared electric vehicles are proposed for essential needs, alongside promoting walking and cycling, with examples from London and Copenhagen. It mentions a Frankfurt protest against the car industry's climate impact and calls for action via an open letter.

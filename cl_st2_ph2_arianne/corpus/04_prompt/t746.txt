@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes Rosatom's Akademik Lomonosov, the world's first floating nuclear power plant, now being towed to the Arctic to power fossil fuel extraction. It highlights risks including potential seawater explosions, hydrogen blasts, and radioactive contamination of marine wildlife and fish stocks, worsened by Arctic conditions. Historical nuclear incidents on submarines and icebreakers are cited, warning of increased accident risks from planned fleets. Nuclear waste will be stored onboard for years without secure land disposal. The plant lacks independent oversight, is vulnerable to tsunamis, cyclones, collisions, flooding, sinking, or grounding, potentially leaking radiation.

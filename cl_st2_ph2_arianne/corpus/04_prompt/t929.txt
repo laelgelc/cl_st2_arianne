@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Chiara Milford shares her experience avoiding new clothing purchases since 2014, opting for second-hand, inherited, or borrowed items. She embraces worn clothes, upcycling them, and highlights thrift-shopping's benefits like affordability and uniqueness, despite challenges in finding specific items. She promotes clothes swapping via social media to reduce production needs, and suggests setting personal goals, such as buying nothing on Black Friday or committing to wear items over 30 times. Critiquing disposable fashion's environmental harm, she advocates fixing, altering, and cherishing existing wardrobes for sustainable style.

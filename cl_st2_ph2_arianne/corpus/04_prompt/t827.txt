@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Authors, journalists, poets, and playwrights improve the planet by freely expressing ideas, as free speech is essential for positive change. Over 100 authors have pledged to defend free speech and those peacefully protecting forests, in response to multimillion-dollar lawsuits by Canadian company Resolute Forest Products aimed at silencing Greenpeace and Stand.earth's exposure of its controversial boreal forest logging. The post shares quotes from some authors, links to more signatories, and thanks supporters for celebrating freedom of expression and advocacy.

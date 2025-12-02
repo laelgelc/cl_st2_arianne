@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post challenges Pepsi to surpass Coca-Cola's commitment of 25% reusable or refillable packaging by 2030, noting Pepsi's current 0% and its pledge to set a reuse goal by end of 2022. It highlights the century-old rivalry, the plastic pollution crisis linked to climate change, and both companies' roles as top polluters via single-use plastics. Reuse systems are essential to reduce ocean waste, requiring infrastructure and collaboration. The author urges pressuring Pepsi's CEO before the May shareholder meeting for at least 50% by 2030.

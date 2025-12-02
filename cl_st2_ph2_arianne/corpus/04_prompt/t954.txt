@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the broken industrial food system, highlighting its chemical-intensive impacts on people, farmers, the planet, and animals. It urges individuals to drive change through actions like buying ecological, local, seasonal food, shopping at farmers' markets, and eating less meat, fostering a people-powered movement that influences markets and governments to support ecological farming. Examples of "food fails" include 269 tonnes of pesticides used globally per hour in 2007, one-third of global food wasted (enough to feed 149 million in Europe yearly), and 403,000 liters of water for one person's annual meat/dairy consumption. Ecological farming prioritizes people, health, biodiversity, and integrates science with local knowledge.

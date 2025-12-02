@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The IPCC report highlights the climate crisis as an oceans crisis, with healthy oceans vital for food, climate regulation, and carbon storage. CO2 emissions cause warming, ice melt, sea level rise, ocean acidification, and harm to ecosystems like coral reefs, exacerbated by overfishing, drilling, and plastic pollution. Governments must prioritize UN negotiations for a strong Global Ocean Treaty to create sanctuaries protecting 30% of oceans by 2030, aiding marine recovery. Leaders should accelerate shift to renewables, end deforestation, and cut emissions to zero. Join nearly two million calling for action.

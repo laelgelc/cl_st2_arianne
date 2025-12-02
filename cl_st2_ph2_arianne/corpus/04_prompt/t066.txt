@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Air pollution poses major health risks, with 99% of the global population exposed to unsafe levels per WHO guidelines. Greenpeace India launched the "Power The Pedal" campaign, providing bicycles to low-wage women in Delhi and Bengaluru for empowerment and cleaner transport, and delivered a petition with an art installation to revise air quality standards. In Indonesia, Greenpeace supported a successful lawsuit upholding citizens' right to clean air in Jakarta. In Malaysia, they filed a human rights complaint, created murals and art installations, and demanded a Clean Air Act via a banner. In Colombia, a clean air capsule highlighted pollution in Bogotá. The post emphasizes air quality as an equity issue and Greenpeace's global efforts.

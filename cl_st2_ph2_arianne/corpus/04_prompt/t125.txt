@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Amazon rainforest faces severe threats from intentional fires and deforestation, primarily driven by land grabbers, illegal loggers, miners, and cattle ranchers, emboldened by Bolsonaro's anti-environment policies since 2019. Deforestation has spiked, with 17% of the forest lost in 40 years, nearing a tipping point that could transform it into a savanna, harming biodiversity, Indigenous communities, and global climate. Key drivers include agribusiness and meat production. Solutions involve enforcing laws, designating protected areas, recognizing Indigenous lands, and ending deforestation in supply chains, with calls to support guardians like Indigenous Peoples and organizations such as Greenpeace.

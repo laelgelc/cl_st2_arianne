@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes that oceans provide half of Earth's oxygen and food for a billion people, while absorbing carbon to combat climate change. It highlights the need for a strong UN Ocean Treaty to create sanctuaries in unregulated open waters, where diverse marine life thrives amid mountains and trenches. A Greenpeace team aboard the Esperanza is embarking on a year-long North-to-South Pole expedition to document threats, conduct research, and advocate for protection. It calls for public support via a petition to counter industries weakening the treaty and implement a plan protecting one-third of oceans from destructive activities.

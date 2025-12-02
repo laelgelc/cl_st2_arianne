@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post profiles Chief Puraka and the Apurinã people in Caititu Indigenous Land, who value living in harmony with nature amid threats from deforestation for agribusiness, which consumes 70% of global freshwater and exacerbates water crises and extreme weather. It criticizes destruction-based economics that harms low-income communities and highlights low HDI in deforested areas like Pará. Pending bills risk legalizing land invasions and undermining indigenous rights. Alternatives include socio-biodiversity chains like managed fishing and nuts, agroforestry systems reviving traditions, and family farming for inclusive production. Broader impacts include continental droughts from reduced Amazon evaporation.

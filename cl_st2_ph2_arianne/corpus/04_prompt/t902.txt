@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Annet van Aarsen describes the North Sea's diving beauty, with clear waters, vibrant wrecks teeming with anemones, fish, crabs, lobsters, nudibranchs, and tube worms. Since starting in 2001 and her first North Sea dive in 2002, she has witnessed declines like vanishing cod and increasing ghost nets trapping marine life. In 2009, she began volunteer cleanups and documentation for awareness, joining the Ghost Fishing Foundation in 2012. Now aboard Greenpeace's Arctic Sunrise, nine divers are removing nets from Sylter Aussenriff wrecks, highlighting the area's need for real protection while showcasing its fragile ecosystem.

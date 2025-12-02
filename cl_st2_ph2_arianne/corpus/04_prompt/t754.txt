@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace expresses concern over Facebook's mishandling of user data, highlighted by the Cambridge Analytica scandal, which enabled election manipulation and threatens democracy, privacy, and a green future. While valuing social media for connecting supporters and organizing actions, they refuse to delete their pages and call for accountability from Facebook and governments to regulate data practices. The post critiques social media's business model of extensive data collection for targeted ads, noting risks like polarization. Greenpeace affirms it safeguards supporter data without selling it and urges action via Avaaz to enhance data privacy and democratic integrity.

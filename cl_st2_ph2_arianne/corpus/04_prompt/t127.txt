@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The DRC government auctioned 27 oil and three gas blocks overlapping sensitive ecosystems like peatlands and Virunga National Park, framing it as nationalism to boost the economy and prioritize people over wildlife. Critics argue this enriches elites, entrenches neo-colonialism benefiting foreign powers seeking Russian fuel alternatives, and harms communities through displacement, pollution, and disrupted livelihoods without consultation. True nationalism requires reimagining development via local manufacturing, solar energy, nature conservation, and eco-tourism to foster jobs, good governance, and equitable wealth distribution, questioning the current socio-economic model's effectiveness for Africa.

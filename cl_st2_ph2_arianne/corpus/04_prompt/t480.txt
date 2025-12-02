@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace celebrates International Women’s Day by highlighting female visual storytellers passionate about environmental issues. Profiles include Arati Kumar-Rao documenting South Asia’s rivers and biodiversity; Khadija Farah photographing climate impacts on Zanzibar seaweed farmers; Maki Hayashida exploring sustainable Japanese landscapes; Ore Huiying focusing on Mekong River communities; Eva Verbeeck capturing Africa’s climate crisis and U.S. water scarcity; Sarah Grohnert filming Maori bonds with land; Priya Thuvassery directing on Indian coral reefs; Teresa Camou Guerrero on Mexican corn farmers; Tali Kimelman on forest bathing; and Morgan Trimble on African wildlife conservation.

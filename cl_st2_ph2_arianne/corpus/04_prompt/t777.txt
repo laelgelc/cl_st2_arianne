@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes Samsung's launch of the S9 smartphone, noting it's behind rivals like Apple, Google, and Facebook, who have committed to 100% renewable energy and made progress. It highlights a 2015 study showing 66% of customers willing to pay more for sustainable brands, and a Greenpeace survey where 85% of over 8,000 supporters said they'd buy Samsung products if it led in sustainability. The post urges readers to post comments on Samsung's Facebook demanding a switch to renewables, emphasizing that 80% of gadget emissions come from manufacturing, mostly powered by coal and gas. It states Samsung uses only 1% renewable energy, with smartphone production from 2007-2017 equaling Japan's annual electricity use, amid 1.53 billion phones sold last year causing resource waste and e-waste.

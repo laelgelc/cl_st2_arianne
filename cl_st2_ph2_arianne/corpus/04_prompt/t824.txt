@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace delivered books containing over 500,000 signatures and community photos to major publishers in New York, urging them to support free speech and the Canadian boreal forest. The books represent calls for publishers like Macmillan, Penguin Random House, Simon & Schuster, and HarperCollins to address paper sourcing from Resolute Forest Products, which logs intact forests, lost FSC certification on over 6 million hectares, and sues environmental advocates. Receptions varied, with some publishers ignoring or refusing meetings. Hachette issued an open letter criticizing Resolute's actions and demanding improvements. Greenpeace vows to persist.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Virginia from San Mateo, Philippines, recounts how Typhoon Ketsana in 2009 flooded her home, destroying belongings and causing lasting trauma, though she considers herself lucky compared to those who lost loved ones. This experience led her to organize a petition to the Philippine Human Rights Commission, which found fossil fuel companies morally and legally liable for climate damage by misleading the public and blocking clean energy. Now a Greenpeace climate campaigner, she works with impacted communities facing crop losses, reduced catches, and income cuts, and is aboard the Arctic Sunrise blocking Shell, demanding they stop drilling and start paying for the injustice borne by those least responsible.

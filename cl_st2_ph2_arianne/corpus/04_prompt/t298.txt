@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post recounts the community resistance in Prachuab Khiri Khan (PKK), Thailand, against proposed coal-fired power plants starting in 1995. Locals, concerned about environmental impacts, lack of transparency in Environmental Impact Assessments, and illegal land acquisition, used non-violent tactics like protests, billboards, and signs to oppose the projects. Greenpeace Thailand supported the movement, including a 2000 Rainbow Warrior visit. Despite the 2004 assassination of leader Charoen Wataksorn, protests intensified, leading to the government's cancellation of the plants. PKK remains coal-free, thriving on fishing, farming, and tourism, inspiring ongoing activism.

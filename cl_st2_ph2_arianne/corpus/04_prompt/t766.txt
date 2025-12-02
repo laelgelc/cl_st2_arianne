@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Ten activists, including Greenpeace founder Rex Weyler and the children of founders Dorothy and Irving Stowe, peacefully blocked a Kinder Morgan construction site in Coast Salish territory near Vancouver, Canada, delaying a tar sands oil pipeline that violates Indigenous rights, threatens air and water, and contributes to climate change. They acted in solidarity with Indigenous communities to preserve ecological integrity. The group was arrested, joining a series of resistance actions, including a recent march of over 10,000 people. The post urges signing on to oppose Kinder Morgan and tar sands pipelines.

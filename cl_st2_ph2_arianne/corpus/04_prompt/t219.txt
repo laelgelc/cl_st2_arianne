@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace blog post celebrates 10 inspiring environmental wins in 2021 to foster hope and momentum for 2022. Highlights include Gambia's halt to a destructive fishmeal plant, New Zealand's rejection of seabed mining, China's pledge against new overseas coal projects, Russia's historic fine on Norilsk Nickel for an Arctic oil spill, Mexico's ban on GM corn and glyphosate phase-out, Shell's withdrawal from the UK's Cambo oil field, a Dutch court's order for Shell to cut emissions by 45% by 2030, cancellation of the Keystone XL pipeline, Indonesia's ruling to address Jakarta's air pollution, and France's court finding the state negligent on climate action.

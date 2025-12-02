@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Fast fashion's claimed circularity is a myth, as overproduced clothes from the Global North are exported as waste to the Global South, polluting environments and harming health. In Kenya, 2019 imports reached 185,000 tonnes, with 30-40% unusable, leading to 150-200 tonnes daily dumped or burnt, as seen in Dandora and along Nairobi River. Vendors report bales of Mitumba often contain poor-quality waste. To stop this, brands must produce fewer, durable, repairable clothes, end neocolonial dumping, and support local manufacturing. The EU strategy helps, but a global treaty is needed.

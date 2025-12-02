@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post advocates for trustworthy, ethical sourcing of food, wood, paper, and clothing free from animal cruelty, slavery, pesticides, toxic chemicals, and poor working conditions. It criticizes subsidies and market power held by corporations relying on pesticides, fertilizers, animal confinement, and deforestation-linked soy. The EU's free trade agreements, like Mercosur, harm local farmers, Indigenous rights, and promote monocultures over diverse crops. It urges individual actions: checking purchases, boycotting deforestation products, challenging governments via letters, votes, and petitions to debunk myths of free trade benefits. It highlights trade hypocrisy, including Trump's tariffs, EU protections, and the CAP enabling destructive agriculture.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post by psychologist Dr. Susie Burke discusses managing uncomfortable feelings about existential threats like the climate crisis, emphasizing they are appropriate and motivate action. It draws from Acceptance and Commitment Therapy, advising to notice, name, and make room for emotions like fear or grief. Strategies include completing the stress cycle through physical activity, crying, conversations, nature, or hugs; practicing present-moment grounding exercises (e.g., noticing senses); and acting on core values to reduce helplessness, such as efforts to curb fossil fuel reliance. Cultivating hope and raising expectations for solutions foster personal and collective impact.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post traces the history of climate science from ancient atomic theories to modern discoveries, highlighting key figures like Democritus, Fourier, Foote, Tyndall, Arrhenius, and Budyko. It details early warnings about fossil fuel emissions causing global heating, including 1960s reports from the American Petroleum Institute and Exxon predicting CO2 rise and temperature increases. Despite accurate forecasts and decades of international conferences since 1972, emissions have doubled, attributed to industry deceit, government failures, media cowardice, and societal consumption desires rather than scientific shortcomings. It also notes oil's military role and overlooked contributions by women scientists.

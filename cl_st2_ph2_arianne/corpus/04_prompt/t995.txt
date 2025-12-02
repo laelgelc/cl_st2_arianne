@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post commemorates the July 2010 deaths of Greenpeace founders Jim Bohlen, 84, and Dorothy Stowe, 89, highlighting their lives as agents of social change. It details Bohlen's pacifism shaped by Hiroshima, his immigration to Canada, and the founding of the Don't Make a Wave Committee, which led to Greenpeace's first anti-nuclear voyage to Amchitka. Stowe's background as a social worker, union leader, and peace activist is recounted, including her role in building coalitions and hosting meetings. The post discusses Greenpeace's origins in Vancouver's hybrid culture of U.S. immigrants, generational mixes, and media strategies, honoring core founding couples.

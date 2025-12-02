@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The X-Press-Pearl ship disaster in Sri Lanka caused charred debris, hazardous cargo, and billions of plastic nurdles to wash up on beaches, leading to a fishing ban in an 80km radius that devastated local fishermen's livelihoods, already strained by pandemic lockdowns and compounded by heavy rains and flooding. Photographer and activist Tashiya documented the crisis, highlighting chemical contamination, dead marine life, and long-term ecosystem damage. She urges stopping plastic production, shifting to a sustainable economy, holding corporations accountable, and addressing broader capitalist and climate risks for future prevention.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights oceans' critical role in absorbing 90% of excess heat, nearly one-third of methane and CO2 emissions, and producing 50-80% of atmospheric oxygen, with marine phytoplankton like Prochlorococcus outperforming tropical forests. Human activities such as overfishing, plastic pollution, and offshore oil/gas extraction impair oceans' climate mitigation functions, leading to altered currents, increased flood damages, and doubled El Niño frequency by century's end. Greenpeace demands a Global Ocean Treaty to protect 30% of oceans by 2030, bans on commercial whaling and seabed fossil fuel extraction, and an end to illegal fishing and contamination. The Arctic Sunrise ship investigates the Argentine Sea, and nearly five million have signed a petition for ocean protection.

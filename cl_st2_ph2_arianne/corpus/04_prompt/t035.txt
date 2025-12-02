@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Elisabeth Stern, from Swiss Senior Women for Climate Protection, expresses outrage at young climate activists facing condemnation while fossil fuel profiteers thrive. She highlights young people's growing pessimism about adapting to climate change and their pleas for intergenerational action. Driven by concern for future generations rather than personal survival, Stern details her lifelong commitment since 1977, emphasizing climate litigation as a tool to hold states and companies accountable. Their lawsuit to the European Court of Human Rights seeks to affirm climate protection as a human right, benefiting youth amid existential worries.

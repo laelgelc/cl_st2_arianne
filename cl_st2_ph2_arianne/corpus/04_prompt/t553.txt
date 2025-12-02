@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes the urgent climate emergency, including Amazon fires, melting ice caps, and threats to food and water. It highlights September events: the People’s Summit on Climate, Rights and Human Survival (Sept 18-19) in New York to prioritize rights in climate justice; student strikes on Sept 20 and 27 around the UN Climate Action Summit (Sept 23); the IPCC report on oceans and polar regions (Sept 25) urging a Global Oceans Treaty; the New York Declaration on Forests anniversary exposing corporate deforestation failures; protests at the Frankfurt Motor Show (Sept 11-15); and Greenpeace's global petition and New Zealand actions against oil drilling, calling for widespread involvement.

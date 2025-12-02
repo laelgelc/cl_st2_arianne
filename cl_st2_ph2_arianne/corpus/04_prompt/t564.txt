@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post celebrates Shark Week by highlighting lesser-known facts about sharks, noting their 400-million-year existence, survival of five mass extinctions, and recent discoveries like the tiny American Pocket Shark that secretes glow-in-the-dark liquid. It discusses sharks as frequent bycatch in fishing, entering a $1 billion global trade, with examples like excessive mako shark catches in the North Atlantic. Shark products, including liver oil-derived squalene, appear worldwide in supplements, cosmetics, and pet food, harming populations. It calls for a global oceans treaty to protect high seas, where only 1% of oceans are safeguarded, to aid shark recovery and marine ecosystems.

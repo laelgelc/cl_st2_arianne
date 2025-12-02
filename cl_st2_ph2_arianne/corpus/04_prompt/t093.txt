@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post warns that meeting Paris Agreement goals is increasingly unlikely, requiring emissions halved by decade's end. It highlights a new scramble for fossil fuels in Africa, triggered by Russia's war in Ukraine, with DRC oil blocks overlapping protected areas like Virunga National Park and carbon-rich peatlands, risking biodiversity and human rights without community consultation. Africa's oil has high carbon intensity, exacerbating climate injustice for vulnerable Global South communities facing floods and droughts. The IEA calls for no new fossil fuel investments. Insurers must end support for such projects, divest, and ensure human rights, as seen in actions by Munich Re and others, for planetary and business reasons.

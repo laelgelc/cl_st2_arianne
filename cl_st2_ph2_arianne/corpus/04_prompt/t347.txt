@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Industrial fishing is decimating ocean life, seabeds, wildlife, and food security for communities. The Indian Ocean Tuna Commission failed this week to agree on conservation measures for overfished yellowfin tuna, blocked by the EU and industrial interests from France and Spain prioritizing profits. This allows continued exploitation, threatening tuna collapse by 2024, sharks, and ecosystems, while harming small-scale fishers in places like Mauritius and Seychelles. Only 1% of oceans are protected, with 93% of fish populations overfished. A strong Global Ocean Treaty is needed to create sanctuaries; join calls to pressure governments.

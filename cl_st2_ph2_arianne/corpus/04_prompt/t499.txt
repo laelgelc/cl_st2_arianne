@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes tragic scenes from Australia's bushfires, including hundreds of people stranded on beaches amid raging fires, millions of hectares of forest reduced to ashes overnight, and the loss of about a billion wildlife over a few months. It declares these events a serious climate emergency, urging immediate action beyond mere discussion. The post invites viewers to examine accompanying images that witness the large-scale catastrophe unfolding in Australia during recent months.

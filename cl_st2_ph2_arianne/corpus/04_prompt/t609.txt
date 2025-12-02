@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Russia's research revealed widespread concern over air pollution in major cities, with 82% of Moscow residents and 77% in St. Petersburg dissatisfied with air quality, primarily blaming fossil-fuel vehicle emissions. The Russian government, prompted by the Human Rights Council, has proposed low-emission zones restricting vehicles below Euro-3 standards, instructing Moscow and St. Petersburg to develop implementation roadmaps. This breakthrough, supported by Greenpeace's 2017 transport scenario, aims to cut vehicle NO2 and CO2 emissions by 25%, following successful European models. Effective change requires enhancing public transport and bike infrastructure, as part of global green mobility efforts.

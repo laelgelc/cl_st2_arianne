@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Commercial whaling in the 20th century, using explosive harpoons and factory ships, nearly extincted major whale species, following historical overhunting patterns seen in rhinos and elephants. The International Whaling Commission (IWC), formed in 1946 by whaling nations to address declining catches, banned blue whale hunting in 1966 and imposed a global moratorium on commercial whaling in 1982, effective 1986, largely due to Greenpeace campaigns shifting public opinion. This ban marked a key conservation victory but faces threats from loopholes and pro-whaling efforts. Whales, vital for ocean health via carbon storage and nutrient recycling, now confront climate change, pollution, entanglement, and plastics; the IWC must prioritize these over whaling debates.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses upcoming UN negotiations on a Global Ocean Treaty, described as a historic "last chance for the oceans" to prioritize protection over business interests. It highlights the unprotected high seas, covering two-thirds of oceans, and the need for the treaty to enable Member States to create sanctuaries protecting at least 30% by 2030. Oceans are vital for life, providing habitat, food, and oxygen, but face threats from industrial fishing, plastic pollution, seafloor mining, and climate change. Greenpeace will advocate in New York for off-limits sanctuaries to allow marine life, including whales and corals, to recover. Currently, only 1% is protected.

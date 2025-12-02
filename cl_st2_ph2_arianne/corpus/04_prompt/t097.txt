@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The first week of COP27 in Sharm el-Sheikh was frustrating, marked by delays in funding discussions and unfulfilled $100 billion promises from richer nations to developing countries. Negotiations sidelined people and the planet, with richest countries blocking a Loss and Damage Finance Facility needed for climate impacts. The final text must name fossil fuels as the crisis's cause and commit to adequate financing. Positive developments included Loss and Damage on the agenda, France's call for a deep sea mining ban, growing support for fossil fuel phase-out, civil society protests, and exposure of 600 fossil fuel lobbyists. However, an agreement allows another decade of forest destruction.

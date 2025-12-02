@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post likens governments' failure to meet 2010 biodiversity targets to receiving poor exam results, noting that none were fully achieved, leaving nature at breaking point. It blames destructive industries like fossil fuels and industrial agriculture for intensifying pressures, with only 15% of forests intact and 3% of oceans free from human impact. The post criticizes political pollution by corporations and urges urgent shifts: ending subsidies for harmful sectors, transforming food production, creating ocean sanctuaries, and prioritizing green, just recovery packages. It calls for accountable national plans, funding, and public mobilization to protect nature and combat crises.

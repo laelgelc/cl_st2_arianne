@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the COVID-19 crisis and its links to environmental factors, emphasizing the "dilution effect" where biodiversity reduces disease spread. It highlights how deforestation, mining, and urbanization increase human contact with wildlife and viruses, as noted by expert Kate Jones. Climate change alters infectious disease patterns, with rising temperatures and extreme weather enabling pathogen spread via hosts like mosquitoes. Zoonotic diseases, comprising 75% of emerging ones, rise due to habitat loss. The post warns of risks to green transitions amid economic fallout and urges radical government actions for a sustainable post-pandemic world.

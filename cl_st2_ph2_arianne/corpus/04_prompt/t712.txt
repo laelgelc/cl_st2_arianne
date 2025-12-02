@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace’s Antarctic Ambassadors, comprising artists, actors, scientists, explorers, and others, are urging protection for the Antarctic, recognizing the shared responsibility to safeguard Earth’s fragile places. They have explored the Antarctic Ocean depths, interacted with penguins, engaged world leaders, and raised awareness that the region urgently needs help. They advocate for an Antarctic Ocean Sanctuary, the world’s largest protected area, to provide a safe haven for penguins, whales, and seals amid climate change, pollution, and overfishing. Healthy oceans support carbon cycling to mitigate climate impacts and ensure food security for billions, with Antarctic events affecting everyone globally.

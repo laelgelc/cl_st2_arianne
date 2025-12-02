@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights record-breaking temperatures in Antarctica (40°C above normal) and near the North Pole (30°C above), signaling rapid climate change impacts like heatwaves, wildfires, and floods affecting communities worldwide. It discusses the IPCC's upcoming third working group report on mitigation, set for April 4, focusing on emission reduction progress, pathways compatible with Paris Agreement goals, social factors in consumption, and options in sectors like energy, agriculture, transport, and industry. It calls for a rapid transition from fossil fuels, emphasizing science-based action ahead of COP27 and the October 2022 Synthesis Report.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Argentina, alongside allied organizations, filed a class action lawsuit against the government's approval of Equinor's seismic exploration in the Argentine Sea, citing unconstitutionality and risks to marine life and coastal communities. This sparked the #Atlanticazo movement with widespread protests. The Federal Court in Mar del Plata issued a precautionary measure suspending the project indefinitely, emphasizing the need for transparency, citizen participation, compliance with the Escazú Agreement, and a proper environmental impact assessment addressing cumulative effects and the precautionary principle. The ruling highlights dangers like oil spills and ecosystem harm, marking a victory for public action amid ongoing climate concerns.

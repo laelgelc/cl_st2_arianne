@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 2014, FSC members voted to protect the vast majority of Intact Forest Landscapes (IFLs) in certified areas, making FSC unique globally. The Congo Basin, the world's second-largest rainforest mostly in the DRC, remains largely intact, supporting 60 million people, wildlife like gorillas and bonobos, and serving as a major carbon reservoir. However, it faces degradation from industrial logging, roads, mining, and hydrocarbons, exacerbating poverty, conflict, and habitat loss. FSC's expansion into the region requires caution amid poor governance and human rights issues. Success demands high protection standards, community consent via FPIC, and benefits for locals, potentially transforming logging models in the Congo Basin and beyond.

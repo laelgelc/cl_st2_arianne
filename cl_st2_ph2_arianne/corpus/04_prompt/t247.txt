@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Good Food Community, founded in 2011 by Charlene Tan, is a social enterprise in the Philippines using the Community Shared Agriculture (CSA) model to connect smallholder organic farmers with Metro Manila consumers via prepaid subscriptions for weekly fresh produce deliveries. It emphasizes ecological farming without toxic chemicals, soil care, crop diversity, and regenerative practices to combat climate change and promote food sovereignty. During the pandemic, it adapted disrupted supply chains, supported farmers and hungry communities, and shifted focus to online household orders while pausing in-person events like Good Food Sundays. The initiative builds trust-based relationships and decentralizes resources for sustainable livelihoods.

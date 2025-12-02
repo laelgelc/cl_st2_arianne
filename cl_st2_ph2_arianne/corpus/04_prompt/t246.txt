@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes cities' crucial role in addressing the climate crisis, urging mayors and citizens to prioritize planetary and human health through resilient actions like improved public transport, bike lanes, local food access, and green spaces. It highlights urban vulnerabilities such as pollution, inequality, and heatwaves, exacerbated by climate change, with projections of rising temperatures and longer heatwaves in European cities. Noting that 55% of the global population lives in cities (rising to 68% by 2050) and they produce 70% of emissions, it calls for green policies to save up to $17 trillion by 2050 and demands immediate government action on World Cities Day to build sustainable, resilient urban futures.

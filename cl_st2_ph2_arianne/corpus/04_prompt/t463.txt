@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post offers tips for staying safe, healthy, and eco-friendly during the COVID-19 pandemic. It details proper mask usage, including selecting the right size, washing hands before wearing, ensuring a snug fit over nose, mouth, and chin, avoiding touches, and disposing responsibly to prevent pollution. It promotes plant-based diets to reduce greenhouse gas emissions, citing IPCC data, with recipe suggestions. Advice includes staying active at home through cooking, exercise, gardening, or stretching; practicing physical distancing; showing gratitude to frontlines; and self-care. Additional tips cover home zoning for virus prevention, pet care hygiene, and mask-wearing benefits.

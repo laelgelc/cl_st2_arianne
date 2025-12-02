@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Brazil's INPE reported 11,568 km² of Amazon deforestation from July 2021 to August 2022, equivalent to 1.6 million soccer fields. Under President Bolsonaro (2019-2022), 45,586 km² was lost—a 53% increase from 2015-2018—due to his anti-environment and anti-Indigenous policies, which enabled illegal logging, mining, and land-grabbing without recognizing new Indigenous Lands since 1988. The Amazon nears a tipping point, with parts emitting more carbon than storing; deforestation causes 40% of Brazil's emissions via fires, harming health amid COVID. Bolsonaro lost to Lula, who pledges protection and attended COP27, but must implement robust plans to curb destruction, protect Indigenous rights, and enforce accountability.

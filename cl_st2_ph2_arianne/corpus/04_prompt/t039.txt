@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The IPCC's Sixth Assessment Report highlights human-caused climate change intensifying weather extremes globally, with widespread impacts on ecosystems and vulnerable communities, who suffer most despite contributing least. Risks escalate at lower warming levels than previously thought, with current trajectories heading toward 3°C by 2100, threatening irreversible losses like ice sheet melt and species extinction. However, limiting warming to 1.5°C remains possible through urgent actions: halving emissions by 2030, rapid fossil fuel phase-out, renewable energy shifts, ecosystem restoration, and equitable finance. Transformative, inclusive changes across all sectors are essential for a sustainable future.

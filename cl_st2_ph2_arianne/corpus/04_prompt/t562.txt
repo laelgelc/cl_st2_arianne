@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes that better land use is essential for surviving the climate crisis. It highlights how industrial agriculture destroys forests and biodiversity, pushing species toward extinction, and calls for halting expansion, restoring natural areas, and adopting ecological farming to reduce chemicals and protect insects. It stresses respecting Indigenous Peoples' rights, as their lands preserve biodiversity. Intensive farming degrades soil, a key carbon store, while shifting to plant-based diets and less meat would improve efficiency, feed more people, enhance health, and cut emissions from agriculture and deforestation. Protecting forests and grasslands is vital for carbon sequestration and limiting warming to 1.5°C.

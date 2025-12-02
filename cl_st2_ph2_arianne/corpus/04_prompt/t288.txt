@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes real-life extreme weather events in 2021, including floods in Europe, New York, central China, and Uganda; heatwaves in Canada and Morocco; mudslides in Japan; and cloud bursts in India. It states that climate change is accelerating, increasing city vulnerability, and calls for early warning systems, coordinated responses, and bold action to halt the crisis. Extractive industries like fossil fuels and industrial agriculture are blamed for their colonial business models, greenwashing, and resistance to emission cuts. With 100 days to COP26, it urges world leaders to cap global temperatures at 1.5ºC.

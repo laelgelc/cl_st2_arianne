@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explains how healthy oceans combat climate change by absorbing CO2 through phytoplankton, which transfers carbon through the food chain to the ocean depths, and via seawater dissolution carried by currents, locking away billions of tonnes annually. Oceans also absorb over 90% of extra heat from global warming, cooling land but causing acidification, harm to marine life, supercharged storms, reef destruction, and rising sea levels. Protecting oceans, such as through sanctuaries, enhances these processes, while tackling climate change benefits oceans, emphasizing their mutual interdependence for stability.

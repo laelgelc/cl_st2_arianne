@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 2015, Greenpeace Mexico's campaign for healthy food showed promise, aiming to foster ecological farming that empowers farmers and respects consumers. The Esperanza ship's tour enabled scientists to sample for pesticides and fertilizers in Sinaloa and the Mexican Caribbean, with results expected soon. It also engaged food companies for transparency, backed by 50,000 consumers. In the Yucatan Peninsula, collaborations with Mayan communities, NGOs, and local governments highlighted traditional milpa systems. Yucatan's governor committed to a 2018 strategy supporting ecological farming based on diverse crops like corn, beans, and squash.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In Bolsonaro's Brazil, Indigenous Peoples' rights and lands face threats from the Marco Temporal loophole, which could legalize land theft by requiring proof of occupation during the 1988 constitution, and bill PL 490, which aims to open Indigenous territories for industrial agriculture and mining. This endangers isolated communities and ignores centuries of Indigenous presence. Greenpeace supports defending these rights, emphasizing Indigenous Peoples as forest guardians. APIB urges the Supreme Court to declare Marco Temporal unconstitutional, with proceedings resuming August 25. In June 2021, protesters in Brasília faced violence.

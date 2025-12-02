@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the ineffectiveness of protected areas in halting biodiversity decline, noting their massive expansion since 1965 yet accelerating losses in terrestrial and marine species. Authors Mora and Sale argue that "paper parks" fail due to poor management, poaching, development, pollution, and global warming, which transcend boundaries. It emphasizes ecosystems as dynamic, interconnected systems requiring systemic solutions beyond isolated protections, including limiting human population growth and consumption. Despite environmental efforts, biodiversity continues to plummet, urging a shift to embrace nature's complexity and enforce broader changes.

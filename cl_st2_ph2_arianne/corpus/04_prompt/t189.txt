@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Farzana Faruk Jhumu, a 22-year-old climate activist from Fridays for Future MAPA and FFF Bangladesh, criticizes global leaders at COP26 for failing to address the climate crisis and supporting fossil fuels, while Global South activists overcame travel barriers to demand justice. Frustrated by minimal progress on issues like climate debt and loss and damage, she highlights youth advocacy's role in challenging oppression. She promotes the March 25 global climate strike under #PeopleNotProfit, emphasizing people over corporate greed. Jhumu shares her journey inspired by Cyclone Sidr, community work, and sailing to COP on Greenpeace’s Rainbow Warrior, while addressing activist burnout through community support.

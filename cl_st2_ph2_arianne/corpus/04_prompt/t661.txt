@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's Southeast Asia tuna ranking, after three years of campaigning, now shows five companies with Green ratings for sustainable practices, up from nearly zero. The report highlights regional consumption of canned tuna, consumer unawareness of sourcing, and ocean threats like unsustainable fishing and juvenile tuna catches using FADs in Indonesia and the Philippines. It exposes industry double standards, where stricter sustainability applies to exports than local markets, and urges consumers to demand abuse-free tuna to protect oceans and ensure traceability.

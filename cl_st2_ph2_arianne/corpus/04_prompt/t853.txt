@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace has launched a campaign to protect the Amazon Reef, a unique 9,500-square-kilometer biome discovered in 2016 at the Amazon River mouth, featuring giant sponges and rhodolith in low-light, muddy waters spanning Brazil to French Guiana. The reef faces threats from oil exploration by Total and BP, with drilling blocks just eight kilometers away risking spills that could harm the ecosystem and endangered species like manatees, turtles, and otters. The Esperanza ship is embarking on an expedition to explore the reef underwater using submarines, urging supporters to demand companies abandon exploration.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Despite COVID-19 halting much of the world in 2020, Greenpeace activists documented global warming impacts from remote areas, with admirable commitment from ship crews, volunteers, and scientists. Highlighted images from ships Rainbow Warrior, Arctic Sunrise, and Esperanza include: Antarctic petrels near krill fishing; teen activist Mya-Rose Craig's northernmost climate strike in the Arctic; protests against Shell's North Sea oil platform; a flotilla and 62-hour blockade leading to Preem withdrawing its Swedish refinery expansion; demands for Denmark's oil/gas ban and wind power expansion; sea protection projections in Germany; and activists with Jason Momoa's "Aquaman" trident preparing to occupy a Danish oil rig.

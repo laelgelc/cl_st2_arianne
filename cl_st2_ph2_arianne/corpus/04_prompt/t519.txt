@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Four years after Angela Merkel committed Germany to a 40% greenhouse gas emissions cut by 2020 at the Paris Climate Agreement, three organic farming families—the Blohms, Lütke Schwienhorsts, and Backsens—are suing the government for climate inaction, marking the first such federal court defense. Germany has abandoned its targets amid rising temperatures impacting global agriculture. The Blohms face reduced apple yields and pest invasions, forcing cherry tree removal; the Lütke Schwienhorsts endure prolonged droughts threatening their business; and the Backsens confront rising sea levels endangering their island farm's future. Supporters are urged to join calls for accountability.

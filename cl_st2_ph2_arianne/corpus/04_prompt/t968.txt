@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace released a video urging LEGO to end its partnership with Shell, depicting a LEGO-built Arctic suffering an imagined oil spill. Shell's real Arctic drilling plans risk devastating the ecosystem. Created with agency Don’t Panic, the film features cameos from the LEGO Movie, Game of Thrones, and Santa Claus, aiming to pressure LEGO through widespread sharing. LEGO's ethical partner choices are questioned, as its environmental goals for children clash with Shell's pollution and Arctic threats. Greenpeace calls for LEGO to ditch Shell to protect the Arctic and kids.

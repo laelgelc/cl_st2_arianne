@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace revolutionized refrigeration by developing GreenFreeze in 1992 to replace ozone-depleting F-gases used in fridges, which were also potent greenhouse gases. Challenging chemical companies' monopoly, their German team created an efficient prototype using natural hydrocarbons with Foron. Supporters provided 70,000 pre-orders, leading to the first unit in 1993. European firms adopted it within a year, and Greenpeace made it open source, earning a UN award. Today, about one billion GreenFreeze fridges are in use worldwide, with nearly 80% of annual production expected to use the technology by 2020.

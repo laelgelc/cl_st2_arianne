@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how fast fashion from companies like H&M and Zara has doubled global clothing production to 100 billion garments annually, leading to shorter wear times, massive landfill waste, and overconsumption driven by low prices and emotional needs. It notes that doubling clothes' lifespan from one to two years cuts carbon emissions by 24% and saves resources like water and fossil fuels. The post urges rethinking our relationship with clothes to break the addiction, rediscover true fashion, and join the Fashion Revolution through events like sewing, upcycling, repairs, swaps, and secondhand shopping via Haulternatives, challenges, maps, and sharing clothing love stories.

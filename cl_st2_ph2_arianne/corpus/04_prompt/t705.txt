@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Sarah-Jeanne Royer, a French-Canadian postdoctoral scholar at the University of Hawaii's School of Ocean and Earth Science & Technology, reports that decomposing plastic produces a new source of greenhouse gas emissions not accounted for in prior climate models, with emissions projected to rise as plastic production and accumulation increase. These gases contribute to climate change effects like sea level rise, higher temperatures, ecosystem damage, and extreme weather. Low-density polyethylene, common in single-use plastics, emits the most, with ocean degradation increasing emissions up to 488 times over raw pellets, and land-based sunlight exposure causing even higher releases. To combat this, plastic production must be halted at the source.

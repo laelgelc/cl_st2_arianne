@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes that the climate crisis is real and urgent, calling for stopping pipelines with Indigenous-led resistance, achieving zero global emissions by halving them by 2030, and aligning government targets with 1.5°C limits for COP26. It urges financial institutions to divest from fossil fuels without greenwashing, fixing the food system by ending deforestation and promoting plant-based diets, transforming transport, protecting 30% of ecosystems, supporting Indigenous rights, preparing justly for impacts via the polluter pays principle, and ensuring solidarity through climate finance. It advocates a just transition from fossil fuels, no new investments, and leveraging COVID-19 for green recovery through people power.

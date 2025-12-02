@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+An open letter to Chancellor Merkel urges an immediate moratorium on tree felling in Hambach Forest until the Coal Commission proposes a just coal phase-out aligned with the Paris Agreement, ensuring RWE and North Rhine-Westphalia respect it. It calls for legally enshrining a 2030 coal phase-out in 2019 to meet 2020 climate targets. The letter highlights escalating conflicts, peaceful protests, and damage to Germany's climate reputation from forest destruction amid coal reliance. It notes investor support for 2030 OECD coal exit, recent extreme weather urgency, and Germany's emissions failures, positioning the nation to lead a socially just transition.

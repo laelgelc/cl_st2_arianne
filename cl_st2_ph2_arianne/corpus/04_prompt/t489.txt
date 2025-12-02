@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the seafood industry's hidden issues, including exploitation of migrant workers from Southeast Asia who face abuse, inhumane conditions, and isolation via transshipment. It discusses climate change's threats to oceans, such as warming and acidification, while noting healthy marine life can absorb carbon. Overfishing and illegal, unreported, unregulated (IUU) fishing, worth up to $23.5 billion annually, deplete stocks and harm biodiversity through destructive methods like bottom trawling, longlining, and purse seining with FADs. It impacts coastal communities' livelihoods and urges consumers to choose sustainable options and pressure governments for ethical fisheries management.

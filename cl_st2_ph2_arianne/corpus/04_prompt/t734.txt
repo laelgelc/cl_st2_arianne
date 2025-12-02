@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Various groups, including lavender farmers in France, beekeepers in Portugal, Romanian shepherds, Kenyan school children, Swedish Sámi youth, and islanders in Germany and Fiji, are demanding climate justice through legal actions. Swiss Senior Women for Climate Protection are suing their government for stronger GHG emission reductions to protect vulnerable elderly from heat impacts, with a court decision pending. In Norway, Greenpeace Nordic and Nature and Youth appeal against Arctic oil licenses, emphasizing rights to a healthy environment. Families from multiple countries sue the EU for weak emission targets violating rights to life, health, occupation, and property. The Urgenda case in the Netherlands requires ambitious climate action, with an appeal upcoming.

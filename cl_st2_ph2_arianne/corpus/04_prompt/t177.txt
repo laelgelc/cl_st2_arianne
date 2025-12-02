@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Biodiversity encompasses the vast variety of life on Earth, essential for interconnected survival, providing benefits like health, food security, and climate adaptation. The CBD COP15 in Kunming, China, Fall 2022, offers a critical opportunity for governments to adopt a new framework, including protecting 30% of lands and oceans by 2030, respecting Indigenous Peoples' rights, and securing finance and implementation plans to halt mass extinction. Amid a human-driven biodiversity crisis threatening one million species, with only 15% intact forests and 3% pristine oceans, loss exacerbates climate change and zoonotic diseases like COVID-19. Greenpeace advocates for ambitious outcomes.

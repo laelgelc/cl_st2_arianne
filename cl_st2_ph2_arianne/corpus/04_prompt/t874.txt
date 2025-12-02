@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+An anthrax outbreak in Russia's Yamal Peninsula killed over 2,000 reindeer, a 12-year-old boy, and led to evacuations of nearly 400 people, with over 100 hospitalized and 25 treated. Indigenous Nenets herder Alexey Nenyanga lost most of his reindeer, with belongings destroyed and uncertain compensation. The outbreak resulted from a hot summer melting permafrost, releasing century-old bacteria, exacerbated by authorities canceling annual vaccinations in 2007. Two years prior, extreme weather caused 58,000 reindeer to starve under iced tundra. Climate change threatens Indigenous survival in the region.

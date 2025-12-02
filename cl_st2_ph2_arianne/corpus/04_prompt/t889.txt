@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses an iPES-Food report outlining a roadmap to shift from industrial agriculture to sustainable, ecological farming. It criticizes monocultures for relying on toxic pesticides, fertilizers, and antibiotics, leading to environmental damage like soil loss, pollution, and pollinator decline, threatening long-term food security. Agroecological farming, proven worldwide, enhances resilience, biodiversity, and farmer incomes by working with nature. Barriers include corporate lobbying by pesticide and feed companies, privatized research favoring industry, and misconceptions that industrial methods are necessary to feed the world. It urges governments, businesses, producers, and consumers to collaborate for change.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Lidl, the world's second-largest discount supermarket, has committed to eliminating all hazardous chemicals from its textile production by January 1, 2020. Selling over one billion euros in textiles annually, Lidl ranks among Germany's top ten fashion retailers. This move benefits communities affected by toxic pollution and ensures a chemical-free future. Following Tchibo's similar announcement last month, it signals a growing industry trend toward quality over quantity. Various brands are adopting Detox due to global customer pressure, marking a victory for the four-year campaign and inspiring further progress.

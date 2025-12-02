@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace has used art and creativity for over 50 years to inspire environmental action, highlighting issues like plastic pollution, deforestation, and climate change. Examples include murals in Malaysia and global cities to protect rainforests from palm oil destruction; African Trash Masks ads to combat waste; an aerial dance in Taiwan depicting marine animals suffocating on plastic; a dance track from Papuan rainforest sounds; a giant plastic-choked whale at Italy's Viareggio Carnival; melting penguin ice sculptures worldwide for ocean protection; a symbolic march in Brazil against mining; rice field art in Thailand promoting sustainable farming; and a melting Vitruvian Man on Arctic ice to urge climate action.

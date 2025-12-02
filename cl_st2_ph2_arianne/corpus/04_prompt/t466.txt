@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post argues that the COVID-19 crisis provides lessons for addressing the climate emergency, emphasizing that post-pandemic choices will shape society, economy, health, and climate. It warns that polluters may ramp up emissions, but urges using financial aid for a just, green transition, investing in quality jobs, public services, and equity. It calls for fundamental shifts toward compassion and cooperation, building resilience against crises like health, climate, and inequality. While noting short-term emission drops, it stresses these will be temporary without action, and crises must be tackled together without undermining environmental efforts.

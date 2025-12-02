@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On International Day of Rural Women, Spain's Coordinadora Estatal Stop Ganadería Industrial protests against industrial farming's harm to people, animals, and the planet, challenging stereotypes of rural women as inactive. Women like Montse, Pilar, and Remedios emphasize the Coordinadora's role in uniting local groups to inform cities, coordinate efforts against big companies, and amplify rural voices. Remedios fought a pig farm in her town; Pilar opposes harmful models favoring organic farming; Montse decries reservoir pollution. Greenpeace Spain joins to highlight these women's organizing against industrial farming.

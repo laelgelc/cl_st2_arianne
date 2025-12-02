@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses how COVID-19, a zoonotic disease like SARS and avian flu, highlights vulnerabilities from industrial animal farming, which increases disease risks through cramped conditions. It emphasizes that environmental degradation, including deforestation and pollution, disrupts ecosystems that naturally shield against pandemics, while intact forests and oceans provide clean air, climate protection, and medical insights. For recovery, it advocates avoiding bailouts for destructive industries, supporting green jobs and sustainable food systems, banning wildlife trade, and prioritizing human and planetary health through collective action.

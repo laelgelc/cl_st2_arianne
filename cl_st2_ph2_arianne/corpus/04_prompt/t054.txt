@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Zhao Li recounts her childhood in Beijing, observing nature like cicada nymphs and hens, which fostered her curiosity. Inspired by Jane Goodall's story about chimpanzees, she aspired to environmentalism. In 2017, she interned at Greenpeace East Asia, becoming a researcher supporting climate campaigns using GIS and satellite analysis. She highlights public misinformation on climate change, urgent need for awareness, and witnessed Tibetan Plateau glacier retreat since 2008. Urban life obscures human reliance on nature, amid deforestation, habitat loss, and Amazon degradation turning it into a carbon emitter. Despite despair, she draws hope from Goodall to act.

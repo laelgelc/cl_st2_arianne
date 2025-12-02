@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how melting Arctic ice due to climate change enables oil companies and fishing fleets to exploit the region, urging action to tell the Norwegian government to protect Svalbard's ecosystem from destructive fishing. It details risks including bottom trawlers destroying seabed species like sea pens and corals, potentially eradicating unknown species; bycatch harming near-threatened Greenland sharks; discarded plastic gear entangling polar bears; underwater noise disrupting narwhals and beluga whales' communication and breeding; and reduced food for walruses, exacerbating stresses from ice loss in interconnected ecosystems.

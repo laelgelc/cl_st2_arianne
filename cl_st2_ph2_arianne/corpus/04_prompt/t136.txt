@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Cristiane Mazzetti recounts her 21-day expedition on the Manicoré River in the Amazon, supporting local communities' 16-year fight for territorial rights and forest protection. With scientists from INPA, they conducted biodiversity research on birds, mammals, botany, fish, reptiles, amphibians, and fossils, fostering exchanges between academic and traditional knowledge. Visits to communities highlighted sustainable practices like harvesting andiroba oil, açaí, cocoa, and cassava via agroforestry. A key achievement was the CDRU document granting land use rights, aiding efforts for a Sustainable Development Reserve. Despite threats from deforestation and land grabbing, the expedition renewed hope amid Brazil's environmental challenges.

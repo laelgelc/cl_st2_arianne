@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post advocates civil disobedience against financial systems fueling climate change, highlighting Greenpeace Sweden's refusal to pay portions of employer pension contributions to the state fund invested in fossil fuels. Instead, they deposit the money in a safe account until policies align with the Paris Agreement. It warns of stranded fossil fuel assets risking an economic meltdown like 2008, urges scaling up global divestment efforts by institutions and individuals, and cites a UN report needing $90 trillion for renewable solutions to meet climate goals. Readers are encouraged to sign a petition.

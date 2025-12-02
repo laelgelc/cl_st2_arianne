@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Fish aggregating devices (FADs), deployed in thousands, kill millions of non-target species and devastate marine life to supply companies like Thai Union. Composed of nets, metal, bamboo, buoys, ribbon, and beacons with batteries, solar panels, LEDs, and circuitry, they often become ocean trash or wash up on reefs. Greenpeace's Esperanza crew recovers and dismantles them in the Indian Ocean, upcycling components into shade shelters, solar-powered lamps for nighttime lighting or charging devices, and power supplies. Buoys go to coastal communities for artisanal fishing, solar panels to village tinkerers via an NGO. A guide is on instructables.com; share ideas via @gp_espy.

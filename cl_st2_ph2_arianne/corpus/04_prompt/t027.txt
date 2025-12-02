@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Roland Hipp, Managing Director of Greenpeace Germany, celebrates the end of nuclear power in Germany as a people-powered victory after decades of protests against reprocessing plants, waste transport, and new constructions. Key successes include stopping the Wackersdorf plant in 1989, banning waste shipments to Sellafield and La Hague in 2005 after Greenpeace exposed high radiation levels, and rejecting the unsuitable Gorleben repository. He highlights nuclear risks, citing Chernobyl and Fukushima, uranium dependency on Russia, and the lack of safe waste repositories worldwide, urging a shift to renewables for a secure future.

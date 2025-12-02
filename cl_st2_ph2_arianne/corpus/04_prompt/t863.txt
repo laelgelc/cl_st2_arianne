@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Black Friday and Cyber Monday drive billions in sales but generate massive waste, harming the environment through overconsumption, especially in fast fashion. Greenpeace advocates reducing consumption via "Buy Nothing Day" and calls for a "Time out for Fast Fashion," urging people to wear, repair, swap, and reuse clothes longer. Fashion brands should design for quality and longevity. Production pollutes water with toxins, and clothing lifecycles have shortened, leading to overload in second-hand markets and unviable recycling. Ultimately, most garments become waste, burned or landfilled.

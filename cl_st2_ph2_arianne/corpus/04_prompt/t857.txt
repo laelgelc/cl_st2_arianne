@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Japan urges families to switch to organic food to reduce synthetic pesticide exposure and fix the broken food system, emphasizing that consumer demand can improve availability and affordability. A study involved two families with children eating 100% organic for 10 days; urine tests showed significant pesticide level decreases, with higher initial levels in children, who are more vulnerable due to developing organs and higher doses per body weight. For a truly pesticide-free life, it recommends "eco food," which is locally grown, seasonal, nutritious, promotes biodiversity, and ensures fair pay for farmers.

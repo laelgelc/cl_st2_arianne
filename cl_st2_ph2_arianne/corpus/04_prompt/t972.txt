@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Primark has become the 20th global clothing company to commit to Detox, aiming to eliminate hazardous chemicals from clothes and waterways. The post emphasizes accountability, urging monitoring of progress and exposing greenwashing. Recent commitments include Primark and Burberry, with leaders like Mango and H&M advancing, while Nike and Disney lag. It calls for action from brands like Disney and American Apparel to Detox. Five steps outlined: admit the problem, identify and replace chemicals like NPEs, disclose discharges via public systems, and screen to blacklist hazardous substances by 2019.

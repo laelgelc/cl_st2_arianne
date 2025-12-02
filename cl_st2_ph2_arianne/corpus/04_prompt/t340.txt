@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Indigenous Karen leaders Prasert Pukad, Gip Tonnampetch, and Phanomphon Wanakhunsiri protested at Bangkok's Government House, demanding recognition of their ancestral rights in Bang Kloi – Jai Paen Din, within Kaeng Krachan National Park. They assert their community has sustainably inhabited and guarded the forests for generations before the park's 1981 establishment, using traditional shifting cultivation with rituals honoring Mother Earth. They decry government evictions, abuses, and failure to consult, vowing to fight for self-determination. Greenpeace Thailand supports them, emphasizing indigenous rights as essential for environmental conservation.

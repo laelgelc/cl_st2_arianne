@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace’s Ocean Ambassadors, comprising artists, actors, scientists, explorers, and others, emphasize the shared responsibility to protect Earth’s fragile places. They advocate for a strong Global Ocean Treaty and a vast network of new ocean sanctuaries worldwide to safeguard whales, turtles, dolphins, and other marine life from climate change, pollution, and overfishing. Healthy oceans cycle carbon to mitigate climate change impacts and ensure food security for billions, affecting people globally. This is written by Johanna Grant Axen, Global Head of Partnerships at Greenpeace Nordic.

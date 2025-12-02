@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights sustainable farming and fishing stories. In China, former city dweller Hou Xueying practices organic farming, using ducks to fertilize rice fields and selling produce online, while planning to educate children on food origins. Li Yang notes consumers can influence food safety by choosing ecological produce. In Thailand, fisherman Jirasak Meerit shifted from destructive methods after fish stocks declined, leading his community to adopt sustainable regulations like catching only mature sea animals, boosting catches. Films "A Sustainable Catch" and "Farmed With Love" are Real Food Films finalists.

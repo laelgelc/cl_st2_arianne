@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Thor S. Larsen, a pioneer in polar bear research since 1965, shares his experiences studying over 2,000 bears and magical moments like maternity den surveys in the Arctic. As a member of the IUCN Polar Bear Specialist Group, he helped initiate the 1973 Agreement on the Conservation of Polar Bears, banning most hunting with exceptions for indigenous communities. Today, bears face threats from retreating sea ice, hindering hunting and reproduction, declining den numbers in areas like Kong Karls Land and Wrangel Island, and pollution. Many subpopulations are declining, requiring international action on climate change and pollution, plus protections for denning areas.

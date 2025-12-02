@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how fossil fuel companies use ads and sponsorships to block climate action, echoing tobacco industry tactics. It references 450 scientists urging ad firms to drop fossil clients, the IPCC report criticizing corporate lobbying and advertising while recommending regulation, and over 500 academics demanding universities reject fossil fuel research funding to combat greenwashing. Examples include Gazprom's football sponsorship amid the Ukraine invasion. Greenpeace, with 36 organizations, launched a European Citizens’ Initiative for a tobacco-style fossil ad ban, needing 1 million signatures by October 2022 to push EU discussion and dismantle industry influence for peace and climate protection.

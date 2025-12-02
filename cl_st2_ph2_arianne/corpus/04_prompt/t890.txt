@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's Arctic Sunrise ship carried messages from eight million people urging Arctic protection from oil drilling and destructive fishing. Renowned pianist Ludovico Einaudi joined in Svalbard, composing and performing "Elegy for the Arctic" amid ice and a glacier to amplify these voices. Timed with the OSPAR Commission meeting in Tenerife, the event supports a proposal to safeguard 10% of the Arctic Ocean, amid urgency from melting ice and opposition from Norway, Denmark, and Iceland influenced by corporate interests. Reasons include unique wildlife, climate regulation, future generations, and guarding against greed.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Insurance companies warn about climate change risks but continue insuring and funding fossil fuel projects, with over $600 billion invested in such companies. Without insurance, many coal projects couldn't proceed, enabling 1,500 planned new plants that would expand global coal capacity by 42.7%. Progress includes 16 insurers divesting $22 billion from coal, and firms like AXA, Zurich, Allianz, and Swiss Re stopping coverage for new coal ventures. Greenpeace, via the Unfriend Coal network, demands insurers divest from coal, cease underwriting new projects, and shift to renewables, exposing laggards to drive change.

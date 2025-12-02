@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace volunteers from Asia, united by passion for climate justice, share inspiring stories of activism. Ronan from the Philippines advocates after Typhoon Haiyan, focusing on storytelling and policy. Hui Ling from Malaysia founded the local office and leads campaigns against pollution and deforestation. Tya from Indonesia fights forest fires as a volunteer firefighter. Amika from Thailand tackles plastic waste and climate impacts. Minseop from South Korea designs visuals for climate policy change post-floods. Neha from India promotes composting and clean air initiatives. They emphasize resilience, direct action, and community for environmental protection.

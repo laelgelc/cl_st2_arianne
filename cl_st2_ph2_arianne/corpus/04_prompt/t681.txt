@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post advocates for cities prioritizing people over cars, noting that over half the world's population lives in cities, projected to reach 70% by 2050. It highlights cars' negative impacts: noise, smell, space consumption, health risks from air pollution killing 4.2 million annually, and climate harm. A Greenpeace report warns only ten years remain to phase out fossil fuel vehicles. The vision includes clean, connected, community-focused cities with benefits like reduced pollution (e.g., Paris' 2015 car-free day cut nitrogen dioxide by 40% and noise by half), more green spaces, active transport infrastructure, and investments in renewable public transit and electric car sharing to cool urban areas.

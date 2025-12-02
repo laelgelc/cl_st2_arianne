@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how air pollution from burning fossil fuels increases risks of strokes, heart disease, lung cancer, asthma, and contributes to the climate emergency, causing an estimated 4.5 million deaths worldwide annually according to a new study. It calls for ending sales of new petrol and diesel cars, phasing out coal power stations, and signing a petition to demand #CleanAirNow and hold polluters accountable. People have protested in countries including Thailand, Romania, Bulgaria, Senegal, South Africa, India, Turkey, Cameroon, Indonesia, and Kenya on various dates in early 2020, with images shared.

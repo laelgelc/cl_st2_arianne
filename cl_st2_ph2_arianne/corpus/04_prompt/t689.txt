@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog discusses corporate power's influence on governments and international human rights law, highlighting Greenpeace's use of law to hold them accountable. It examines the zero draft of a proposed binding treaty on business and human rights, noting progress since 1992 when no consensus existed. The draft requires corporate due diligence, extends liability to subsidiaries and suppliers, and allows lawsuits in multiple jurisdictions, but limits apply only to transnational corporations, lacks direct business obligations, and fails to define specific human rights or counter corporate privileges like ISDS. It urges states to address shortcomings and calls for collective action to advance global accountability.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The People vs. Arctic Oil Trial has concluded after seven days, with judgment expected in early January 2018. Greenpeace and Nature and Youth argued that Norway's Arctic oil drilling violates Article 112 of the Constitution, granting rights to a healthy environment, and breaches Paris Agreement commitments to limit warming to 1.5°C. A UN Committee urged Norway to revise its policy due to climate change's disproportionate impact on women. Globally, climate justice cases advance in the US, Philippines, Germany, and Netherlands. Over half a million supported the trial, and Norway's Central Bank recommended divesting from oil and gas. The movement for accountability grows.

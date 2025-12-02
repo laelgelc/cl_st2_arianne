@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Waya Maweru, a student, barista, and Greenpeace Indonesia activist from Manado, shares childhood memories of Christmas visits to her grandmother in beautiful North Sulawesi, including a trip to Lembeh Island with views of Bitung and Mount Klabat. She laments Bitung's transformation into a site of forest destruction and her favorite brands' role in endangering habitats of the Cenderawasih bird, orangutans, and Sumatran tigers. Inspired on Kuta Beach in Bali, she commits to direct action, joining global activists on a rubber boat to demand Wilmar #DropDirtyPalmOil immediately for greener forests and free wildlife. She invites participation.

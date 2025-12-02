@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+During a Greenpeace field trip to the Amazon, visits to Porto Velho, Lábrea, and Humaitá revealed impacts of agribusiness expansion, including threats to agroextractivists forced off their lands, land accumulation, invasions of Indigenous territories, and preparations for soy plantations following timber removal and cattle ranching. Infrastructure projects like new bus lines, highways, and branches are expected to increase deforestation and people flow, mirroring destructive patterns in the Cerrado and Pará. Despite sad reports of violence and burned areas, encounters with sustainable development advocates offer hope; join the movement to stand with Amazon guardians.

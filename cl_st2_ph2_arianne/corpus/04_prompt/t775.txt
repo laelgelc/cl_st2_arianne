@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how industrial meat and dairy production harms the environment by causing forest destruction, water pollution, ocean dead zones, and climate change equivalent to all global transportation. It also links high meat consumption to health issues like cancer, heart disease, obesity, and diabetes, while plant-based diets could save millions of lives. Greenpeace envisions children as "Team Plant" to inspire change, urging governments to support ecological farming, reduce mega-farms, and promote plant-based school foods. It calls for reduced personal meat consumption and a global movement for a healthier food system and planet.

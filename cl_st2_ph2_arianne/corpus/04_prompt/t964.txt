@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post details fascinating facts about reindeer (Rangifer tarandus), also known as caribou. It describes their annually growing antlers, unique like fingerprints, covered in warm velvet. Reindeer milk is exceptionally rich, with 22% butterfat and 10% protein. Eyes change color seasonally from gold to blue. They are speedy runners, energy-efficient, and adapted for cold with hollow insulating hair, warming noses, and seasonal footpad changes. Males shed antlers in December, while females retain theirs; shed antlers provide minerals for other animals. Knees click, and air sacs enable unique vocalizations. The author is Trillia Fidei-Bagwell from Greenpeace's Arctic campaign.

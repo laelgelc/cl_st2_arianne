@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The COP26 Glasgow Agreement keeps the 1.5C goal alive, calling for 45% emissions cuts this decade and a weak phase-out of coal and fossil fuel subsidies—the first such mention in a COP text. However, it falls short on urgent action, insulting climate-vulnerable communities by failing to deliver promised funding for recovery, adaptation, and loss and damage. Offsets received a disappointing boost with loopholes endangering nature and Indigenous Peoples. Activists, Indigenous leaders, and youth, through protests and demands, pushed for progress. COP27 in Egypt must bring stronger targets and end fossil fuels.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses an updated Census of Earth’s Biomass, revealing humanity's disruption of species diversity through habitat loss, deforestation, and extinctions. Plants dominate over 80% of global biomass, mostly terrestrial, while animals comprise just 0.37%, with arthropods accounting for half of animal mass. Humans and livestock make up 96% of mammal biomass, far exceeding wild mammals. Human activities have halved global biomass since agriculture began, depleted fish stocks by 85-90%, destroyed 70% of forests, and caused insect declines via pesticides. It urges halting habitat destruction to preserve biodiversity.

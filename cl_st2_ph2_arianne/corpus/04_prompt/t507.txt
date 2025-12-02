@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights extreme weather events linked to climate change, such as droughts, floods, and fires worldwide, including melting Arctic and Antarctic ice. It details Greenpeace's analysis showing Indonesian peatland fires from 2015-2018 emitted CO2 equivalent to Russia's annual output, comparable to coal plants, yet unaccounted for by companies and countries. These "carbon bombs" cause toxic haze and global impacts. It criticizes sustainability leaders and global brands for indirect responsibility via palm oil supply chains, urging transparent action to stop burning, protect forests, and foster a green, peaceful world for future generations.

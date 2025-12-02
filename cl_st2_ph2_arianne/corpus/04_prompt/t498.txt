@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace UK, in collaboration with Aardman Animations and actors including Olivia Colman and Helen Mirren, released the short film "Turtle Journey," depicting a turtle family's struggle in a damaged ocean due to human activities like overfishing, oil drilling, plastic pollution, and climate breakdown. The film highlights oceans' role in absorbing emissions to combat the climate crisis and the need to protect at least a third of global oceans through UN-negotiated sanctuaries under a Global Ocean Treaty. It urges viewers to sign a petition and share the video to pressure governments for ocean protection, noting threats to sea turtles and faster marine species loss compared to land animals.

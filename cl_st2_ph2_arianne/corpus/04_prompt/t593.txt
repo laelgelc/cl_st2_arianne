@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Young people worldwide, including millennials like the author, are protesting and suing governments for climate inaction, demanding intergenerational justice and equal rights to a safe future. Successful cases include Colombia's Supreme Court ruling against Amazon deforestation violating human rights. Ongoing lawsuits in the US and Canada's Quebec province argue government policies infringe on youths' constitutional and equality rights. Courts in the Netherlands and New Zealand affirm judicial authority on climate issues. Youth combine legal actions with mobilizations like #FridaysForFuture to challenge the status quo and hold leaders accountable.

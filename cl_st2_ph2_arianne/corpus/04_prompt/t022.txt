@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on the fashion industry's environmental and social failures, highlighted by the author's experience with clothes waste in Kenya and the 10th anniversary of the Rana Plaza disaster in Bangladesh, where 1,134 workers died. It criticizes greenwashing through misleading labels like 'Sustainable' and 'Green', as detailed in a new Greenpeace report finding most claims unsubstantiated. Positive examples include brands like Vaude, Coop, Tchibo, H&M, and Calzedonia advancing traceability and durability. The post recounts Greenpeace's Detox campaign against toxic chemicals and calls for transparency, reduced waste, and a shift from fast fashion's linear model to true circularity.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post, set on Vancouver's skytrain with an ad promoting family planning for climate solutions, draws on Vaclav Smil's book "Growth" to argue that endless economic growth conflicts with biosphere limits, exacerbated by the rebound effect where efficiency increases resource use. It highlights human scale as the core issue behind crises like climate change and biodiversity loss, urging an end to growth by reducing waste, downsizing lifestyles, and addressing population through women's rights and contraception. The post critiques "green growth" myths and calls for systemic change to escape ecological overshoot.

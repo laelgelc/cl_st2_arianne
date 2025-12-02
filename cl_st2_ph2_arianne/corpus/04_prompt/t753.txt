@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the escalating plastic pollution crisis, where corporations wrap items like avocados and t-shirts in single-use plastic for convenience, with over 90% of plastics never recycled, leading to ocean debris choking marine life such as turtles, whales, and seabirds. It urges readers to share photos of excessive plastic packaging using #BreakFreeFromPlastic, tag companies, and join over one million people demanding corporate accountability. Global user-submitted photos are featured, motivating action to break free from such packaging in 2018.

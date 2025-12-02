@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on past large-scale climate marches in 2019 and notes how the global pandemic has enforced physical distancing, limiting street protests. However, activists worldwide continue demanding climate action through innovative means like online actions, trending hashtags such as #DigitalStrike by Fridays For Future, virtual and holographic marches, distanced physical protests, social media solidarity symbols, and home-projected banners using lights and shadows. It compiles inspiring examples, emphasizing that isolation won't silence voices, and urges turning the crisis into an opportunity for a better post-COVID future for people and the planet.

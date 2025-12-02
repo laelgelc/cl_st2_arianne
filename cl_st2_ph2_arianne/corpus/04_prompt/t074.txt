@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's ships are central to its activism, traveling worldwide and inspiring millions. In 2022, the organization bid farewell to the Esperanza and welcomed the Witness, joining the Rainbow Warrior and Arctic Sunrise. The ships have served as vessels of peace amid the Ukraine war. To honor the year, the post features inspiring photos of these iconic vessels on missions, protests, and campaigns to protect the planet and fight for environmental justice.

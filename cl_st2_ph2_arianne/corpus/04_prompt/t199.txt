@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post condemns Russia's invasion of Ukraine, highlighting the risks to people and the immense suffering in cities like Kyiv, Kharkiv, Kherson, and Mariupol. It notes over 1.5 million have fled, signaling a major humanitarian crisis. It lists organizations for support: UNHCR for refugees, Africans Rising for stranded Africans, Stand with Ukraine for protests, War Help for fleeing people, Ukrainian Red Cross for aid, People in Need for supplies, OutRight Action for LGBTQIA+ groups, Kyiv Independent for reporting, Blood Agents for blood donations, and Unicef for children and families. Authored by Safina Okumu and Jamie Woolley from Greenpeace.

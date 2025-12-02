@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes Dumaguete City in the Philippines as a beautiful landscape turned into a dumping ground for global plastic pollution, with the author witnessing its impacts firsthand. It notes that while Southeast Asia is often blamed, the waste originates mainly from Europe and North America. A GAIA report identifies Nestlé and Unilever as top sources in Philippine waste audits, accusing corporations of using communities as dumping grounds via the global waste trade. It urges corporations to phase out single-use plastics and highlights local heroes like Froilan Grate and Merci Ferrer in the #BreakFreeFromPlastic movement.

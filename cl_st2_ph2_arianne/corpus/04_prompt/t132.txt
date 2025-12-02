@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In an interview marking South African Women’s Day, Pregs Govender discusses her activism with Yewande Omotoso. She highlights her father’s influence on storytelling and the power of owning one’s narrative, noting how Indigenous Peoples protect the Earth but are often overlooked. Govender shares anecdotes about her mother’s recycling and ancestral knowledge, linking it to Wangari Maathai. She critiques the global racist, capitalist, patriarchal system exploited by billionaires, urging resistance through love, courage, and reclaiming interconnectedness against fragmentation by power hierarchies.

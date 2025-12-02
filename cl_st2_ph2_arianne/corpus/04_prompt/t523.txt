@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explores the Gaia hypothesis, portraying Earth as a self-regulating living system, drawing from Greek mythology, Indigenous concepts like Mitákuye Oyás’in, and scientific ideas from Howard Odum, Gregory Bateson, Erwin Schrödinger, Herman Daly, Rachel Carson, Ilya Prigogine, Lynn Margulis, and James Lovelock. It discusses life's co-evolution, waste metabolism, atmospheric balance, and evolutionary examples like ancient oxygen crises. Lovelock's works, including Gaia, Ages of Gaia, The Revenge of Gaia, and others, highlight human impacts on biodiversity and climate, advocating limits to growth, nuclear power, population control, and adaptation for sustainability.

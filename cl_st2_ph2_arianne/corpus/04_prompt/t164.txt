@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the current economic system as rooted in inequality, overconsumption, infinite growth, and unsustainable resource extraction, exacerbating crises like climate change and biodiversity loss. It highlights governments' misallocation of billions to fossil fuel subsidies instead of renewables, noting that removing them could cut global emissions by up to 10% by 2030. Calling for radical transformation, it urges reimagining an equitable system within planetary boundaries, prioritizing people and nature over profit, through public investments in sustainable infrastructure, food, energy, and mobility. It invites collective envisioning of alternatives to foster solidarity and harmony.

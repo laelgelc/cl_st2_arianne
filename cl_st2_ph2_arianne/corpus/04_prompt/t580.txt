@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace announced the recent passing of Dr. Roger Grace, a renowned underwater photographer who collaborated extensively with the organization, in New Zealand. In 1990, he joined the Rainbow Warrior II's inaugural campaign against drift netters in the Tasman Sea. Over the years, he participated in expeditions to Antarctica, the Pacific tuna campaign, and numerous others. As a classical photographer, he created iconic underwater images using minimal equipment, reflecting his deep love for marine life and dedication to its protection.

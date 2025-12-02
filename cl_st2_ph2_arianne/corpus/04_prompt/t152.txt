@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes that ocean protection extends beyond marine life to include humans, with over 3 billion people relying on oceans for livelihoods, food, and cultural connections, especially in the Global South. It highlights harms from destructive industries like industrial fishing, which deplete fish stocks, devastate coastal communities (e.g., a Nigerian fisherman's struggles with schooling and living costs), and exploit migrant workers facing violence and long shifts. Oceans absorb 20-30% of emissions to combat climate change, but exploitation threatens this. It urges signing a petition for a Global Ocean Treaty to safeguard high seas and people.

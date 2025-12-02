@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Argentina, alongside local organizations, filed a class action lawsuit and injunction against the Argentine State to declare unconstitutional resolutions approving offshore oil exploration permits for companies like ExxonMobil and Shell, including seismic blasting off Buenos Aires. These projects violate constitutional rights to a healthy environment, harm biodiversity, and exacerbate climate crisis, benefiting only corporations. The suit demands recognition of a stable climate as a human right, prioritizes renewables, and cites successful climate litigations in the Netherlands, Germany, France, and Brazil. Protests have mobilized thousands, aiming to set a precedent for future generations.

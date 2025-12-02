@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Sri Lanka is enduring a severe environmental disaster as tons of plastic pellets, microplastics used for single-use packaging, have washed ashore near the capital, devastating beaches and threatening marine life. Authorities warn against touching them due to potential toxicity. The incident stems from the X-Press Pearl ship catching fire on May 20 from a nitric acid leak, leading to containers of pellets falling overboard. Shipping companies should be held accountable, and plastic classified as hazardous with IMDG codes. The crisis highlights a broken system where fossil fuel and consumer brands prioritize profits, fueling plastic pollution, climate change, health issues, and social injustice. Brands like Coca-Cola, Nestlé, and Pepsi must abandon single-use plastics for global reuse systems.

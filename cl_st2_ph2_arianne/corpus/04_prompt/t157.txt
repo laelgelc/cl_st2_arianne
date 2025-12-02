@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post exposes carbon capture and storage (CCS/CCUS) as a scam by oil companies like Chevron and Shell, who use public subsidies to feign climate action while boosting oil production. It details failures such as Australia's Gorgon project capturing only 2% of total emissions targets despite $60 million in handouts, and Shell's Quest plant in Canada emitting more greenhouse gases than it captures. CCS requires extra energy, increasing emissions, and globally captures just 0.1% of annual CO2 after decades, often for enhanced oil recovery. Scientists label it a pipe dream subsidizing fossil fuels.

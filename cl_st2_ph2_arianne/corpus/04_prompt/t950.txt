@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Joni Mitchell suffered a brain aneurysm on March 31, 2015, and is recovering at home in Los Angeles with daily therapies. Born in 1943 in Alberta, she overcame polio, developed unique guitar tunings, and rose to fame as a singer-songwriter with albums like Song to a Seagull (1968) and Clouds (1969). She helped launch Greenpeace by headlining a 1970 Vancouver benefit concert that raised $17,000 for anti-nuclear efforts. Mitchell later supported whale campaigns, evolved her music toward jazz fusions, collaborated with artists like Charles Mingus, and advocated for the natural world.

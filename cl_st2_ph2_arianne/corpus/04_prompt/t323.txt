@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+7-Eleven Taiwan announced it will phase out single-use plastics by 2050, aiming for 10% annual reductions, marking the first such commitment by a major Asian convenience store chain. This follows Greenpeace East Asia's two-year campaign, including retailer rankings, a 2020 investigation revealing 15,000 tons of annual plastic waste from 7-Eleven stores, and a petition with 210,000 signatures. The company launched pilots like cup rentals and reusable delivery packages. Greenpeace urges faster action and global expansion, while noting Family Mart's reusable container and cup programs, and Foodpanda's plastic-free options in Tainan.

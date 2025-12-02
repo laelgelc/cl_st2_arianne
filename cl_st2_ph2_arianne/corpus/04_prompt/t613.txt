@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how plastic pollution severely impacts humans, often overlooked in media that focuses on affected animals like turtles and whales. It describes plastic as a fossil fuel product, with industries lobbying to sustain single-use plastics and falsely promoting recycling as a solution, while only halting production can address the crisis. Research from Greenpeace East Asia and GAIA reveals that after China's 2018 ban on imported waste, plastics flooded Southeast Asia, causing high waste piles, poisoned crops, and toxic emissions from open burning in vulnerable communities. In exporting nations, waste accumulates in low-income areas, posing health risks, as corporations like Nestlé and Unilever profit from the status quo.

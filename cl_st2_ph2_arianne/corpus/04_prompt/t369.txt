@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post addresses interconnected global crises like climate change, right-wing populism, health issues, discrimination, inequality, and economic pressures, fostering hopelessness. Greenpeace Europe emphasizes intersectional campaigning that integrates environmentalism with people, politics, and economy to tackle root causes. They interviewed four climate justice activists: Guppi Bola on decolonising economics for racial and climate justice; Chihiro Geuzebroek on halting production, universal basic income, and ethical work transformation; Tatiana Garavito on new systems for nourishment without exploitation; and Samie Blasingame on reforming global food systems and treating agricultural land as a global common. It calls for centering these voices to reimagine and build a better world.

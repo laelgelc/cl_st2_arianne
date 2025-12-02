@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post features an interview with vegan dietitian Heather Russell from The Vegan Society, discussing the rise of vegan cafes and surprises in plant-based meals. It covers essential supplements like vitamin B12, D, iodine, and selenium for vegans, while emphasizing balanced nutrition to avoid high-fat, sugary vegan junk food and focus on whole grains, nuts, fruits, vegetables, and legumes. Russell addresses affordability and cultural adaptability of veganism, critiques lab-grown meat if it involves animal products, promotes sustainable choices like seasonal produce, and predicts a shift toward plant-based diets for environmental and health benefits. She suggests adding legumes to meals and trying plant milks.

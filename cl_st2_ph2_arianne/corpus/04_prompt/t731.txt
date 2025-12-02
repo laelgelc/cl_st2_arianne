@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explores Nora Bateson's book "Small Arcs of Larger Circles," emphasizing mutual learning in living systems like ecosystems and societies, where permeable boundaries enable interaction and adaptation. It introduces "vitae" for interconnected living entities and "symmathesy" for systems of mutual learning, rejecting mechanistic views. Bateson's Warm Data Labs facilitate trans-contextual discussions on issues like carbon emissions, fostering insights into multifaceted challenges without binary positions. The text highlights how change involves shifting patterns and relationships, drawing from ecology, art, and examples like cellular adaptation, to address social and environmental injustices.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Nonhle Mbuthuma, an activist from Xolobeni, South Africa, describes supporting Greenpeace activists occupying Shell's oil platform en route to the North Sea, where it would extract up to 45,000 barrels of oil daily for over 20 years. She boarded the vessel Merida with international advocates to challenge Shell, which obtained an injunction threatening up to two years' jail for the peaceful protest. The post highlights how oil drilling devastates communities, biodiversity, and the climate, especially in the Global South, citing a successful South African court case halting Shell's Wild Coast exploration. It urges signing a petition demanding Shell stop drilling, shift to renewables, and pay for damages.

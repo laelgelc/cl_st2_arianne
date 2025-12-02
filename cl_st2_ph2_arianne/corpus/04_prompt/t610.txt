@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace and over three million supporters are campaigning against corporate plastic pollution, targeting Nestlé and Unilever. Activists delivered plastic monsters to Nestlé's headquarters in Switzerland and offices worldwide during a Global Week of Action, demanding reduced plastic production and investment in reuse models. Similar actions targeted Unilever in the Netherlands. Greenpeace ships transported pollution symbols from Southeast Asia to Europe, highlighting impacts on communities and nature. Nestlé acknowledged recycling's insufficiency and pledged to cut single-use plastics, but Greenpeace urges transparent plans and ambitious targets to end the crisis.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on 2016's environmental and social setbacks, including power grabs by politicians and corporations, activist murders, forest fires, reef bleaching, and ice melt. It encourages 2017 resolutions to build a sustainable world: improve skills in campaigning and mobilizing others, recharge personally, reduce personal impact by eating less meat, avoiding plastics, walking or cycling, and repairing items. It urges standing with Indigenous Peoples, workers, and against injustice; using one's voice to contact officials and companies; demanding forest protection and climate accountability; volunteering locally; and involving friends and family in actions.

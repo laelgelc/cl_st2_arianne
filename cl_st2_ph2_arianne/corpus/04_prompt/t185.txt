@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights women and gender non-conforming individuals as vital agents in climate action, often excluded from decision-making. It addresses eco-ableism creating distrust between disabled communities and environmental groups, urging inclusive shifts. Profiles feature activists like Archana Soreng on indigenous knowledge and forest protection; Eunbin Kang on youth resistance to coal; Hasminah D. Paudac-Tawano on legal fights against polluters; Liu Junyan on climate risks and inequality; Pua Lay Peng combating plastic waste; Sylvia Wu on climate litigation and fishery rights; Veronica Cabe on community organizing; Yaewon Hwang on trans justice; and Ai Ji on biodiversity threats.

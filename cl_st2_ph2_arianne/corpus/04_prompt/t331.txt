@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explains the Ecological Footprint as a tool measuring biologically productive land and sea required by human activities, urging awareness to combat environmental crises. It highlights overconsumption causing deforestation for palm oil and meat, overfishing, plastic pollution, and fossil fuel dependency exacerbating CO2 levels at 421.21 ppm, risking 1.5-2°C warming and extreme weather. In the Anthropocene era, human impacts threaten biodiversity and survival. It calls for decarbonizing economies, shifting to renewables, protecting oceans and forests, empowering Indigenous Peoples, and reconnecting with nature for a sustainable future, treating every day as Earth Day.

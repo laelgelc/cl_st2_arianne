@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Young activists Andreas Magnusson and Ell Ottosson Jarl from Fridays for Future discussed with Greenpeace founder Rex Weyler their entry into climate activism—sparked by nature experiences, research on extinctions, and anti-war sentiments—and what sustains them amid overwhelm: global friendships, anger at injustice, community support, and staying active. They highlighted positive signs like media attention and greenwashing, while Weyler shared tips on building international connections by managing egos, meditating, and studying leaders like Gandhi to foster resilience and unity in movements.

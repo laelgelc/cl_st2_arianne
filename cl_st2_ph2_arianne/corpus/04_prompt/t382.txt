@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+World Fisheries Day on November 21 celebrates sustainable small fisheries, but exposes human rights abuses like forced labor in distant water fisheries (DWF) driven by greedy corporations. Declining fish stocks force vessels farther out, leading to exploitation of migrant workers to cut costs, with tainted seafood reaching global markets due to buyers' lack of due diligence. Greenpeace linked Taiwanese firm FCF to forced labor and illegal fishing; the US Department of Labor listed Taiwan for such practices. Governments must enforce protections at sea, while consumers can reduce seafood intake and support local sustainable options for a better industry.

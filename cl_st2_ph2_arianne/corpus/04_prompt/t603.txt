@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In April 2019, amid Arctic temperatures 8 degrees above normal, Greenpeace organized a concert using instruments carved from glacier ice to highlight the region's fragility and risk of melting. Led by oceans campaigner Halvard Haga Raavand, the event featured musicians playing chimes, horns, percussion, and a cello in -12°C conditions, urging world leaders to protect 30% of global oceans by 2030. Oceans absorb carbon through marine life, acting as a climate buffer, while melting Arctic ice accelerates global warming. This marked the start of a research voyage to the Antarctic advocating for a Global Oceans Treaty.

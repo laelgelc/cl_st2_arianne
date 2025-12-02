@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Brecht Goussey, an organic farmer in Leuven, Belgium, runs a CSA farm on 1.5 hectares, supplying vegetables to 320 people who harvest them. Formerly a social worker, he dreams of expanding to an integrated farm with crops, fruits, animals, and biodiversity-enhancing practices like using manure for soil fertility. Facing uncertain land access and high prices due to speculation, he can't afford to buy the plot. Supported by cooperative ‘De Landgenoten’, which buys and rents land to organic farmers, Brecht and Greenpeace Belgium are crowdfunding to secure affordable farmland for ecological farming, promoting community ownership, soil protection, and biodiversity over artificial methods.

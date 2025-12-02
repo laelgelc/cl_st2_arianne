@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights mobility challenges in cities dominated by cars, which harm the climate and urban life, as noted by Greenpeace's criticism of manufacturers like Volkswagen. It features stories from six women: mothers facing unsafe sidewalks and lack of open spaces for children; disabled individuals dealing with inaccessible parking and obstacles; and those reliant on public transport or biking, enduring long waits, safety risks, and poor infrastructure. The post advocates for ambitious policies, better public transport, green spaces, and universal accessibility to improve life for all, especially vulnerable groups. It promotes the #MobilityForAll campaign during European Mobility Week 2021 for radical city transformations.

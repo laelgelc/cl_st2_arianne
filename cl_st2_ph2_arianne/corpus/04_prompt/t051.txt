@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes fossil fuel companies for destroying communities, polluting, and profiting at the expense of vulnerable people. It highlights unfair energy tariffs where low-income, low-usage customers pay higher per-unit prices, exacerbating poverty amid the energy crisis. Examples include high disconnection rates in Europe, prepayment meters leading to self-disconnections in South Africa and Australia, and health issues from underheated homes. Fossil fuels contribute to pollution, climate disasters, and human rights violations, while companies like BP and Shell report record profits. It calls for phasing out fossil fuels, renewable energy, and climate justice to end these inequalities.

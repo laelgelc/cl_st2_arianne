@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Despite the challenges of 2020, including lockdowns and COVID-19, Greenpeace activists worldwide persisted in highlighting climate crises through actions like sailing in San Francisco to oppose oil industry bailouts, protesting in the Philippines against government failures, light painting in Berlin for digital climate strikes, blocking a BP rig in the UK, projecting youth voices in Seoul, celebrating a German nuclear plant's demolition, paragliding in Hong Kong against reclamation, advocating for Indonesian migrant fishers in Jakarta, occupying a Danish oil rig for fossil fuel bans, and banner displays in polluted Norilsk, Russia.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Yu-Chi Huang, known as Kelly, a Greenpeace East Asia veteran from Taiwan, joins the Rainbow Warrior as Onboard Digital Campaigner for the Global Protect the Oceans voyage in the Pacific. The diverse international crew sails the eco-friendly ship, powered by wind at 7-10 knots, to bear witness to ocean threats like illegal fishing and deep-sea mining, advocating for a strong UN Oceans Treaty. Despite pandemic challenges, strict COVID protocols including multiple PCR tests and quarantine ensure safe operations for the nearly three-month journey without ports.

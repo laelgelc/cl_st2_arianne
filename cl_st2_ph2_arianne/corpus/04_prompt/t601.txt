@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post envisions a world fully powered by renewables, with sustainable development, funding for just recovery from climate impacts, and support for fossil fuel-dependent communities. It highlights the Green New Deal, introduced by Rep. Alexandria Ocasio-Cortez and Sen. Ed Markey, as a vision for equality beyond partisanship, backed by majority US support including conservatives. While imperfect, it needs to phase out fossil fuels and halt new infrastructure. Citing IPCC urgency, global youth movements, and climate emergency declarations in Ireland and the UK, it stresses action to avert catastrophe, noting inaction's high costs and disproportionate impacts on vulnerable groups.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the EU's proposed law to reduce its role in global deforestation and human rights abuses, noting it's a historic step but flawed. It requires companies to trace high-risk commodities and ensure sustainability, but only protects forests, excluding ecosystems like savannas and wetlands, and ignores products like rubber, maize, pork, and poultry. Indigenous rights remain unprotected, and the finance sector's investments in destruction are overlooked. Despite corporate resistance, the post urges public pressure on EU governments and Parliament to strengthen the law, building on COP26 pledges and a 1.1 million-strong petition for clean supply chains.

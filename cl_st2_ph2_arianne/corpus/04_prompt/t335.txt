@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The past few months have been challenging due to the global pandemic, introducing a 'new normal' for everyone. Hopes and prayers are extended for better days and speedy recovery for those affected by COVID-19, with assurance that this too shall pass. Amid ongoing lockdowns and social distancing, which limit outdoor exploration, the post encourages being armchair travellers to appreciate Earth's awe-inspiring beauty—from snow-clad mountain peaks to the deepest oceans—and to celebrate nature's wonders 365 days a year.

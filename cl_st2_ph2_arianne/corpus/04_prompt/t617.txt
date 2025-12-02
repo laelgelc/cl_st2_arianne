@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post uses an overflowing sink analogy to argue that stopping plastic pollution requires turning off the source, like Nestlé, which produced 1.7 million tonnes of plastic packaging last year—a 13% increase. It highlights plastic's toxic origins, entry into food and bodies, and health risks, urging Nestlé to lead by adopting refill and reuse systems, reducing single-use packaging, and rejecting substitutes like paper or bioplastics. Greenpeace activists confronted Nestlé at its AGM, with Executive Director Jennifer Morgan criticizing the company's role in polluting oceans, wildlife, and communities, as identified in a Break Free From Plastic audit.

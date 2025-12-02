@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post commemorates the 32nd anniversary of the Chernobyl nuclear disaster, highlighting its widespread contamination and ongoing risks in Europe, Belarus, Ukraine, and Russia. It criticizes Rosatom's plan to deploy the world's first floating nuclear power plant, 'Akademik Lomonosov,' in the Russian Arctic to support fossil fuel extraction along the Northern Sea Route. The post details the plant's relocation from St. Petersburg to Murmansk for fueling and testing, then to Pevek for electricity supply, warning of potential catastrophes and past proposals for similar plants in Indonesia and the Philippines.

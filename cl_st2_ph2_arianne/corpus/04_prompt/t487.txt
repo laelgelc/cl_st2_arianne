@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights air pollution from fossil fuels as a public health emergency, causing 4.5 million annual deaths worldwide, while coal, oil, and car companies profit. It also links fossil fuels to climate change and criticizes insufficient action by companies and governments. Inspiring community examples include: crowdfunding for solar installations at seven Thai hospitals in 2019 to reduce fossil fuel use; 31 Jakarta citizens suing the government, prompting petitions and promises from the governor; and a Belgian mother's initiative monitoring school air quality, sparking nationwide street closures and influencing elections. It urges signing petitions and organizing events.

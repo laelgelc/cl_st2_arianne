@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Despite a Russian law banning women from becoming firefighters, courageous women volunteer with Greenpeace Russia to combat forest fires, especially in regions like Transbaikalia where pine forests burn quickly amid challenging conditions and rising fires due to climate change. Volunteers, ranging from students to those nearly 50, balance firefighting with daily jobs, undergo training, and emphasize skills over gender. Women like Sofya Kosacheva, Anna Baskakova, and Anastasia Ivashkevich share experiences leading expeditions, founding groups, and proving their capabilities, while also conducting preventive work, tree planting, and addressing issues like dry grass burning.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses opposition to three tar sands oil pipelines—Keystone XL, Enbridge, and Kinder-Morgan TMX—described as "fuses" to a massive "carbon bomb" threatening climate catastrophe. It highlights protests at the White House against Keystone XL, with unions, indigenous leaders, and activists citing environmental devastation, spills, health impacts, and high GHG emissions. Indigenous nations in Canada reject Enbridge and TMX expansions, emphasizing risks to lands, waters, and livelihoods. The post notes arrests, declarations, and calls to halt pipelines to prevent further tar sands extraction and global warming.

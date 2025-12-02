@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Victor Pickering, a Fijian activist aboard Greenpeace's Rainbow Warrior, witnesses deep sea mining tests in the Pacific's Clarion Clipperton Zone, where companies like GSR have lost equipment and aim to exploit ocean depths despite warnings of irreversible ecosystem damage lasting millennia. He highlights ocean crises—sea level rise, depleted fish, plastic pollution—affecting Pacific communities, who view the sea as their identity and lifeline. Resistance grows among islands like Fiji and Vanuatu for a mining ban. Pickering calls for solidarity and a Global Ocean Treaty to protect 30% of oceans by 2030, urging a shift from exploitation to protection. Greenpeace supports a worldwide ban.

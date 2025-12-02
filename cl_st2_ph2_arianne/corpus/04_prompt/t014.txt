@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how throwaway plastic destroys the world by harming health, accelerating social injustice, destroying biodiversity, and fueling the climate crisis. It advocates a human rights-based approach prioritizing health, environment, and justice for affected communities. Greenpeace demands a Global Plastics Treaty to keep oil and gas in the ground, end relentless plastic production, and phase out single-use plastics for a safer future. It warns of industry and government efforts to weaken the treaty, but emphasizes building a global movement for an ambitious agreement by 2024 that caps production, phases out virgin plastics, and ensures a just transition to a zero-waste economy.

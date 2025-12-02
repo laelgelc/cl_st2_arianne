@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Ariene Susuí, a Wapishana campaigner for Greenpeace Brazil, recounts her profound sadness during flights over Munduruku and Kayapó Indigenous Lands to document illegal mining. She condemns mining as an indefensible crime that destroys forests, rivers, and Indigenous lives for gold, urging alternative economic models that preserve life. Observing vast pits and mud-like devastation, she reflects on childhood warnings, leaders' stories of invasion and disease, and the sacredness of land. Illegal mining, fueled by heavy machinery like Hyundai excavators, bathes gold in Indigenous blood; she calls for action against it.

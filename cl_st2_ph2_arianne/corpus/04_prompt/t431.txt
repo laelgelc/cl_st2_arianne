@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses a major oil spill at Russia's Nornickel plant in Taimyr, Siberia, which polluted land and water, turning the Ambarnaya River red and rivaling past disasters in scale. It features an interview with Grigory Dyukarev, an indigenous leader, who describes Nornickel's historical pollution, social irresponsibility (e.g., abandoning a new settlement), and the spill's devastating effects on fishing, hunting, and local economies. He notes climate change impacts like warmer winters, thawing soil, changing wildlife, and calls for a support program, environmental monitoring, restoration, compensation, and stricter Arctic legislation. The post highlights ongoing spills in remote areas disproportionately affecting indigenous communities.

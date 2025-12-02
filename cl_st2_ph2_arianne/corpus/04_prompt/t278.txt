@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Unprecedented wildfires are ravaging eastern Russia, particularly Siberia's Yakutia region, with over 300 active fires burning 17.08 million hectares—larger than all other global wildfires combined—amid record heat and drought. Smoke has reached the North Pole, Mongolia, Canada, and Greenland, trapping cities, closing roads and airports, and forcing evacuations. Northern Siberia is warming three times faster than the global average, exacerbating fires that could surpass 2012's record. Greenpeace Russia's Green Deal proposes sustainable forestry and fire protection, urging governments to cut emissions, restore nature, halt forest protection cutbacks, and support local communities and firefighters with urgent measures.

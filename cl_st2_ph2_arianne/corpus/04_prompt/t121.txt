@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+South African courts revoked Shell's exploration rights for seismic blasting off the Wild Coast, halting plans that could harm marine life and local livelihoods. Community leaders like Sinegugu Zukulu and Nonhle Mbuthuma celebrated it as a win against fossil fuel extraction, promoting sustainable alternatives and protecting the planet. Residents emphasized the ocean's role in climate defense. Greenpeace Africa's Melita Steele hailed it as a step toward environmental justice, while Pooven Moodley noted its precedent for community consultation and cultural rights. The victory, driven by local organizations and global support, opposes 148 African oil projects.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes the Indonesian government's narrative blaming Borneo's devastating floods on heavy rainfall, instead attributing them to deforestation from palm oil plantations, mining concessions, and lax environmental policies. It highlights how the Omnibus Law removes protections like the 30% forest cover requirement, enabling corporate exploitation and increasing vulnerability to disasters. The author, a Greenpeace campaigner, recounts past activism, including a 2015 lawsuit win, and urges unity to protect Borneo's biodiversity, shift to renewables, and prioritize planetary health amid climate and COVID-19 challenges.

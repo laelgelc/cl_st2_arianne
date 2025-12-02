@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses Indonesia's ongoing fires causing smoky haze, health issues, and massive CO2 emissions, linked to palm oil production and deforestation. Greenpeace campaigner Annisa Rahmawati criticizes companies like Unilever, Mondelez, Nestle, and P&G for ties to nearly 10,000 fire hotspots in 2019 and 200,000 hectares burned from 2015-2018, despite no-deforestation commitments. It details Wilmar's failure to fully implement its NDPE policy, including resuming purchases from problematic supplier GAMA/KPN after initially suspending them. Greenpeace withdrew from collaborative monitoring efforts due to lack of agreement on transparency, urging companies to enforce responsible sourcing or abandon high-risk commodities.

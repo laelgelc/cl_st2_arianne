@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Oreo's "Wonderfilled" slogan features videos, TV campaigns, and a song, but its maker, Mondelez, sources palm oil from Wilmar, the world's largest and dirtiest trader linked to forest destruction and human rights abuses in Indonesia. Countries like Italy, Japan, France, and Indonesia are recognizing that companies producing palm oil for Oreo cookies are trashing rainforests. Greenpeace volunteers worldwide have protested to expose this. Over a million people signed a petition urging Oreo to stop buying from forest destroyers; join them to protect forests and dependent lives.

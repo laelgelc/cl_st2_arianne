@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+A photo editor describes the mental health toll of viewing images of global climate disasters exacerbated by climate change. Recent events include devastating floods in Pakistan submerging a third of the country and displacing millions despite low emissions; unprecedented rains in Bangalore, India, causing widespread damage due to poor planning; flooding displacing over 125,000 in West and Central Africa, with 300 deaths in Nigeria; Europe's worst drought drying rivers; Chile's ongoing drought worsened by water privatization affecting half its population; and typhoons/hurricanes in Asia, Puerto Rico, and Canada. Amid frustration with fossil fuel profits, youth marches offer hope for ending dependence on them.

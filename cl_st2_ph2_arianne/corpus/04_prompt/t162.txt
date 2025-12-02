@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the global food crisis intensified by Russia's war in Ukraine, causing soaring prices and shortages, similar to past events. It criticizes the broken food system dominated by corporations that destroy habitats for animal feed and biofuels, leading to deforestation, biodiversity loss, and profiteering through market speculation. The post calls for governments to regulate commodities trading, impose windfall taxes, invest in agroecology, support small farmers, end land use changes, and localize food production. It urges protecting ecosystems, equitable distribution, and individual choices like eating local and seasonal foods to ensure food security and rights.

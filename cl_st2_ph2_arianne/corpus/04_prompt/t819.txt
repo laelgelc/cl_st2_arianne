@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace activists from 25 countries protested Arctic oil drilling in Norway's Barents Sea by entering the exclusion zone of Statoil’s Korpfjell well and attaching a globe with global messages to the rig Songa Enabler, halting operations. The Norwegian Coast Guard arrested the activists, crew, and ship Arctic Sunrise. Despite ratifying the Paris Agreement in 2016, Norway granted new oil licenses and began drilling in its northernmost site. Greenpeace Nordic and Nature and Youth will challenge this in court against Arctic Oil in November, urging people to add witness statements to over 350,000 existing ones.

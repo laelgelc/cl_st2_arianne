@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Lawrence Ferlinghetti, American poet and founder of City Lights Bookstore, died on February 22, 2021, at age 101 from lung disease. In 1977, he joined the Greenpeace ship James Bay during a whale campaign, writing a dream-inspired poem in the crew's Dreambook about Moby Dick symbolizing wild nature's destruction by modern technology. He published it in Northwest Ecolog (1978) and contributed another dream poem, "Rough Song of Animals Dying," addressing the Greenhouse Effect and species extinction, to Greenpeace Chronicles. The post highlights his pacifism, Beat era legacy, and role in awakening environmental awareness through poetry.

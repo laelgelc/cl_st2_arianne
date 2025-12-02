@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Khalia, a Press Officer with Greenpeace Russia, expresses her commitment to environmental protection and her love for the Great Northern Forest's wild beauty, role in combating climate change, and habitat for species like bears and endangered reindeer. As a consumer, she doubts everyday products linked to forest destruction. Investigations reveal Russian companies like Pomor Timber, Arkhangelsk Pulp and Paper Mill, and Titan Group logging the unprotected Dvinsky Forest, which could be lost in a decade. These supply brands including Nestlé, PepsiCo, and McDonald’s. Greenpeace urges companies to end unsustainable practices and calls for petition signatures to save it.

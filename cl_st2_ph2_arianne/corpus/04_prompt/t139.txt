@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post promotes Plastic Free July, highlighting personal actions like using reusable cups, bags, and bottles to reduce single-use plastic, though these make only a small impact. It stresses holding major polluters like PepsiCo, Nestlé, Unilever, and Coca-Cola accountable, noting their negligible reuse and refill efforts. Coca-Cola committed to 25% reusable packaging by 2030 but needs to improve, while PepsiCo plans a refill goal by year's end. Readers are urged to sign a Greenpeace petition and download a toolkit to demand corporate shifts to reuse systems.

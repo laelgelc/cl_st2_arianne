@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the Sinaweya project in Egypt's Sinai region, founded by Dina Kafafi in 2017 as a social enterprise to preserve the ecological and cultural heritage of St. Catherine, a UNESCO site threatened by tourism development and climate change. It collaborates with the Bedouin Jabaliya tribe, valuing their ancestral knowledge in horticulture, herbalism, and crafts to empower communities through garden rehabilitation, a herbal database, and the be.do brand. This fosters economic opportunities, self-sufficiency, and environmental care, enabling locals, including women embroiderers and young gardeners, to sustain livelihoods and revive traditional practices.

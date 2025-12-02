@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post encourages adding eco-friendly New Year's resolutions, such as demanding governments build cities with bike lanes, affordable public transportation, and phase out fossil fuel cars for clean air. It suggests personal actions like biking or using public transport to reduce emissions and improve health, volunteering with Greenpeace for activism like marches or occupying oil rigs, reducing meat and dairy consumption to cut greenhouse gases and boost health via plant-based diets, and rejecting single-use plastics to combat pollution while urging companies like Coca-Cola and Nestlé to adopt sustainable packaging.

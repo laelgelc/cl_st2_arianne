@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the rising popularity of tuna as an affordable, nutritious food, boosted by trends like #TinnedFishDateNight, but highlights severe environmental and human costs. It details forced labor on distant-water fishing vessels, including 20-hour workdays, poor nutrition, wage withholding, and passport confiscation, as revealed in Greenpeace investigations and reports like Choppy Waters. Environmentally, it notes overfished tuna stocks, with a third fished unsustainably, high bycatch from longlining and purse seining with FADs harming marine life. It urges consumers to choose sustainable options and pressure governments for ethical fisheries management.

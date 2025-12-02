@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes the distraction of the "trade war" from critical issues like climate change and peace, urging rejection of neoliberal trade that undermines environmental policies. It calls for a transparent, just trade system respecting UN agreements like the Paris Accord, human rights, and sustainability to prioritize equality and future generations. The global trade regime is flawed, exacerbating inequality and environmental harm, as seen in deals like the EU-Mercosur "cows for cars" agreement promoting deforestation and emissions. Trade policy, dominated by corporate lobbies, threatens protective laws and must be reformed for public interest.

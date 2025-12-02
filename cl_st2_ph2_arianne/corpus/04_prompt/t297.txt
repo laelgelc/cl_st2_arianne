@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on Greenpeace's 50th anniversary through virtual mailbag calls, sharing stories like the 1981 "test blockade" of an oil tanker that prevented an oil port's construction. It advocates creative activism, such as boycotting ineffective climate conferences and painting future sea-level rise on buildings. It links pandemics to ecological overshoot from human growth and consumption, urging the environmental movement to address population, capitalism, and contraction. The author finds hope in reconnecting with nature, discusses Greenpeace's evolution, personal experiences, and the importance of creativity in enduring movements.

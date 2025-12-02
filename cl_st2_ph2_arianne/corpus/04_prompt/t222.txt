@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+South African Minister Gwede Mantashe approved Shell's seismic survey for oil and gas off the Wild Coast, despite local opposition and COP26 failures. The post highlights Shell's Niger Delta history of oil spills, environmental damage, protests, and violence against communities. Seismic blasting threatens marine life like southern right whales and coelacanths, indigenous livelihoods from fishing and ecotourism, and ocean ecosystems vital for climate protection. Greenpeace and partners pursue legal action; protests continue nationwide. Communities like Amadiba resist, citing risks of spills and neo-colonial exploitation, urging action to stop Shell.

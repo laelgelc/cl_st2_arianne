@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On 31 July, people in over 25 cities worldwide, from the Philippines to New Zealand, are publicly holding the oil industry accountable for causing climate anxiety, breakdown, disasters, and emergencies, either due to direct harm or in solidarity. Posters in public spaces feature generic images of predicted climate impacts like severe forest fires, extreme rainfall, intensified hurricanes, and frequent extreme temperatures, plus data on 10,000 oil tanker spills in 2018, blaming the industry broadly. They connect oil companies' historic pollution and current lobbying against climate policy to worsening extreme weather, urging an end to oil. Resources include a Carbon Brief map, videos on wetter hurricanes and extreme heatwaves, and BAMS reports.

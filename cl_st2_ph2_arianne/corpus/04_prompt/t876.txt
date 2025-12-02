@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On the International Day against Nuclear Tests, the post highlights over 2000 nuclear tests since 1945, causing irreversible radiation contamination and generational harm, as seen in the exiled Rongelapese community. It praises survivors like the Marshall Islands pursuing legal action against nuclear states and Japan's Hibakusha campaigning against weapons. Author Bunny McDiarmid shares her 1985 Rainbow Warrior experience relocating Rongelap residents and the ship's bombing by French agents, killing Fernando Pereira. It notes halted testing in 1996 due to protests, recent revelations of severe fallout in French Polynesia, and ongoing struggles for victim compensation, urging a UN treaty to ban nuclear weapons.

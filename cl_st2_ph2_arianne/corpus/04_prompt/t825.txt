@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Resolute Forest Products sued Greenpeace and Stand.Earth for advocating boreal forest protection, prompting global solidarity in over 25 countries. People gathered around iconic trees—like Indonesia's Kenari Babi, Lebanon's 3,000-year-old cedar, and Germany's beech forests—to oppose Resolute's efforts to silence critics and stifle free speech. Forests are vital for biodiversity and carbon storage to limit warming under 2°C. The post highlights nature's interconnected "web of life" and a united global movement defending forests and speech. It urges signing a petition for book publishers to support these causes.

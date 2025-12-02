@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace has launched a campaign featuring penguin sightings worldwide, from trains and airports to landmarks in cities like Sydney, Buenos Aires, London, and Johannesburg. The initiative calls for a 1.8 million square kilometer Antarctic Ocean Sanctuary to protect penguins, whales, and seals by excluding industrial krill fishing, limiting climate change impacts, and ensuring ocean health. The Antarctic Ocean Commission will discuss the proposal in October, presenting a key opportunity. People are urged to demand action from leaders and join at protecttheantarctic.org.

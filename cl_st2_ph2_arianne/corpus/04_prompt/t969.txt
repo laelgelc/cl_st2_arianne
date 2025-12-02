@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the growing trend of SLAPP suits—Strategic Litigation Against Public Participation—used by corporations and governments to silence environmental activists through high damage claims and legal costs. Examples include Essar's lawsuits against Greenpeace India over Mahan forest protests, Tata Sons' denied takedown request, Shell's failed injunction against Greenpeace Netherlands, Resolute's defamation claim against Greenpeace Canada, Russia's charges against the Arctic 30, and Mexico's charges against a PEMEX protester. Greenpeace urges anti-SLAPP legislation to protect defenders and democratic debate.

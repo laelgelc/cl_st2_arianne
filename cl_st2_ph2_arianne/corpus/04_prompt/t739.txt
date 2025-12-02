@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace highlights activists protesting Mitsubishi UFJ for funding new coal projects despite investing in renewables. The post urges people to investigate their investments in banks, pensions, and insurance, and shift toward a low-carbon economy offering $89 trillion in opportunities, where clean energy outperforms fossils. It notes the opaque financial system, encourages sustainable indexes and shareholder activism, and shares that Greenpeace supports global activists. Demands for transparency grow, with $5 trillion still in fossils, but 884 institutions worth $6 trillion have divested from coal to enable a clean energy transition.

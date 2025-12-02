@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes fossil fuel companies for using soft power through sponsorships and influence to greenwash their reputations and maintain their climate-damaging business models. Examples include Ineos and Total sponsoring rugby events, Shell funding museum exhibitions with non-criticism clauses, and ExxonMobil supporting arts while denying climate science. It highlights industry efforts in education, like Total's influence at École Polytechnique and oil-sponsored school programs, and sports like Gazprom's UEFA partnership. The post calls for ending fossil fuel advertising and sponsorships to accelerate a green transition, noting growing divestment and youth reluctance.

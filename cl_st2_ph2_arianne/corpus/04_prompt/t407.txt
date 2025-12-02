@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Dâw Indigenous People, numbering about 140 in the Waruá community near São Gabriel da Cachoeira, Brazil, faced near-total COVID-19 infection after isolating in the forest for a month, though some visits to town spread the virus. Despite symptoms in most, limited testing confirmed cases, with no deaths reported; they used herbal teas, medical support from DSEI, and hygiene supplies for recovery. Leaders express fear of extinction, echoing past epidemics, and call for comprehensive testing and improved healthcare, amid ongoing cultural and language revitalization efforts.

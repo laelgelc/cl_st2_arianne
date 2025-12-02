@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace teams conducted expeditions in May and June 2015 to remote mountain areas on three continents, collecting snow and water samples that revealed persistent and hazardous per- and poly-fluorinated chemicals (PFCs) in all locations. PFCs, used in industrial processes and outdoor gear for waterproofing, degrade slowly, spread globally, and harm reproduction, promote tumors, and affect hormones. The outdoor industry, reliant on nature imagery, ironically releases these chemicals. Safer PFC-free alternatives exist and performed well in expeditions. Greenpeace urges outdoor brands and consumers to join the Detox campaign to eliminate PFCs.

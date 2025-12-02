@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+EU member states voted to ban the toxic chemical NPE from textile imports, closing a loophole that allowed contaminated clothing into the EU despite a domestic ban. Supporters urged brands like Gap, Nike, and Diesel to detoxify supply chains, marking a win for a toxic-free future. Greenpeace's Detox campaign continues, calling for elimination of all hazardous chemicals. NPE, or nonylphenol ethoxylates, is used in textiles and breaks down into hormone-disrupting nonylphenol. Highlighted in a 2011 report, the ban takes effect in five years, pressuring exporters like China to reform.

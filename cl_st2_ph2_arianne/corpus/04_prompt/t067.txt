@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Indigenous leaders from Canada, Brazil, the Democratic Republic of Congo, and Indonesia attended COP15 in Montreal to advocate for their rights in the final biodiversity agreement, achieving recognition in the Kunming-Montreal framework for their knowledge and practices as essential for protecting biodiversity. Despite challenges like visa delays, they participated in marches, press conferences, and interruptions of speeches, emphasizing traditional knowledge over technology and denouncing exclusion from negotiations. A historic march of over 3,500 people highlighted Indigenous women's leadership in defending nature and rights.

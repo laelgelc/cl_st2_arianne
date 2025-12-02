@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The first session of UN negotiations for a Global Plastics Treaty (INC-1) ended in Uruguay on December 2, 2022, focusing on procedural matters amid calls for binding rules to address plastic pollution's impacts on human rights, biodiversity, and climate. Greenpeace attended to advocate for a strong treaty covering plastic's full lifecycle, from production to disposal, with global control measures to cut production and eliminate false solutions like chemical recycling. Positive developments included regional urgency, coalitions for just transitions, and human rights objectives, but industry lobbying and procedural delays hindered progress. The next session is likely in Paris in May 2023.

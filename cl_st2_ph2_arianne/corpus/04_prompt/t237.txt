@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses Japan's plan to discharge over 1.2 million tons of Fukushima Daiichi wastewater into the Pacific Ocean starting in 2023, despite global agreements like the London Convention and Protocol prohibiting nuclear waste dumping at sea. It contrasts this with 1993, when Japan opposed Russian dumping, supported a ban, and funded Russian waste facilities, influenced by Greenpeace campaigns. At a recent IMO meeting, Greenpeace proposed alternatives like extended storage and advanced processing, but Japan, backed by the US, France, and UK, blocked discussions, while others like South Korea and Pacific nations favored review. The post criticizes Japan's stance, IAEA support, and disregard for legal obligations and regional concerns.

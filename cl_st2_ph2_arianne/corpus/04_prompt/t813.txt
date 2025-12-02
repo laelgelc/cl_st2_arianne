@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes the vibrant Congo Basin forest, home to endangered wildlife and vital for local Indigenous communities as a source of water, food, medicine, and spiritual sustenance. It highlights the discovery of the world's largest peatland complex, crucial for carbon storage and climate change mitigation, but threatened by logging and agribusiness like palm oil plantations, leading to biodiversity loss and reduced resilience. Greenpeace invites participation through dancing to the song "Dance for the Congo Basin" with #DanceForCongo, adding wishes to a traveling "Wish Tree" for COP23, and joining an expedition aboard the ship Esperanza in 2017 to explore peatlands.

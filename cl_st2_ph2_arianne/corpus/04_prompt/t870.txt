@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace China's campaign, including a 2015 lawsuit against retailer Lianhua, prompted Shanghai to establish a city-wide traceability system for fresh produce, sourcing 50% locally and boosting food safety as a national model. Recent tests on produce from 6 supermarkets in 8 cities revealed 87% with excessive pesticides, with plastic-wrapped items showing the highest levels. The campaign, started in 2008 amid food scandals, led Lianhua to drop 46 harmful pesticides. China's 2015 policy aims for zero pesticide use increase by 2020, while sustainable organic farming emerges as an alternative.

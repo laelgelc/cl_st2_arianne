@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post features personal accounts from global protesters demanding climate and social justice amid widespread demonstrations. In Chile, activists fight inequality, privatized resources, police violence, and for a new constitution prioritizing human dignity and environmental protection. A Russian protester, inspired by Greta Thunberg, started solo strikes and built a movement despite risks, emphasizing scientific unity. Voices from Uganda link protests to religious duty, seeking systemic change, renewable energy, and climate emergency declarations. Protesters express hope, empowerment, frustration with unresponsive leaders, and determination to unite against greed and planetary crisis.

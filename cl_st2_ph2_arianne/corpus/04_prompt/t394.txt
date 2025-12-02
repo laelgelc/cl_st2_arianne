@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+World leaders and senior politicians are convening virtually at the UN Summit on Biodiversity to address nature and climate emergencies. Young climate and nature activists have issued a Wake Up Call, reminding them that words alone are insufficient and demanding real action to protect people and the planet. A video of their demands is available. The post provides guidance on how governments can take ambitious steps to protect oceans. Environmental ministers or UN delegation members are invited to email veronica.frank@greenpeace.org to join discussions on these emergencies.

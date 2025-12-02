@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Brazil launched a month-long expedition from Manaus to study Amazonian biodiversity in the Manicoré River region, supporting local communities' fight for land protection. Amid the disappearance and confirmed deaths of Bruno Araújo Pereira and Dom Phillips, the team persists to honor their legacies and promote a vision of a sustainable, rights-respecting Amazon opposing government neglect and violence. Ornithologists documented "Chico’s tyrannulet," a bird named after activist Chico Mendes, in a new northern habitat. The expedition calls for justice, resistance, and public support to safeguard the forest and its peoples.

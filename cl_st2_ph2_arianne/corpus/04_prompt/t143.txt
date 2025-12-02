@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the collapse of nature due to rampant deforestation and urges COP15 to protect biodiversity by recognizing Indigenous Peoples' rights, including creating a new conservation category for their lands where they lead decision-making and funding. It criticizes "fortress conservation" for excluding communities, leading to abuses like violence in Tanzania and Central Africa, and equates it to colonialism. Indigenous management yields better ecosystem protection, as shown by data, yet they face displacement by industries. Progress in places like the DRC exists, but more investment is needed to reject exclusionary models and embrace just conservation at the Montreal summit.

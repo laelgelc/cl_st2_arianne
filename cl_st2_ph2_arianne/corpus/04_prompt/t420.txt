@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The North Sea oil industry has generated billions in profits and government revenue since the 1960s, but it has fueled the climate crisis, caused marine pollution equivalent to one oil tanker accident per year and one chemical accident per day, and endangered biodiversity. Job losses in the sector are rising without a just transition, while emissions accelerate the climate emergency. Post-COVID recovery risks further harm to oceans, climate, and vulnerable communities. The post calls for a #NorthSeaRevolution to transition to a fossil fuel-free North Sea powered by 100% renewables, creating greener jobs and protecting marine life, urging immediate action to #BuildBackBetter.

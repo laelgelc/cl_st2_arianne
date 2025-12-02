@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace International's Executive Directors, Jennifer Morgan and Bunny McDiarmid, express inspiration from the #MeToo movement and emphasize the need for robust systems and an inclusive culture to ensure safe workplaces. They highlight the adoption of a global Integrity Package, including a Code of Conduct and complaint protocols, with offices upgrading processes and planning annual reporting on complaints. They aim to foster a culture of equity, empowerment, training, and diversity, with access to trusted officers. This work is central to Greenpeace's mission, linking human treatment to planetary protection, while acknowledging ongoing improvements are needed.

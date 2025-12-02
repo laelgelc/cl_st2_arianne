@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Gender Day at the global climate talks highlights the link between feminism and environmentalism as a path out of the crisis. Climate change disproportionately affects women, especially in poverty, due to resource dependence and unequal decision-making participation. A fair energy transition requires gender perspectives, inclusive policies, and women's active involvement. Last year's Gender Action Plan advances this, with COP24 events supporting it. Women lead in sustainable practices, resource management, and politics, fostering equality, democracy, and community well-being in a renewable energy system.

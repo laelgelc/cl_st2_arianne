@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post recounts the author's experiences as a Greenpeace photographer from 1974 to 1982, sharing memories evoked by a dozen photographs. It describes confronting Russian whaling fleets, photography challenges from Zodiac boats, pre-internet communication methods, and Hunter's "mind-bomb" theory for social change through images. Key figures include Captain John Cormack, activists like Bree Drummond and Bobbi Hunter, and a Jerry Garcia benefit concert for fundraising. It covers early offices, international expansion in Amsterdam, crew interactions, an iconic anti-whaling image, and reflections on ecological transitions affecting livelihoods.

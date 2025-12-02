@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Dr. Susanne Lockhart, an Antarctic biologist aboard the Greenpeace ship Arctic Sunrise, expresses excitement about finally seeing cold-water corals and sponges in their natural Antarctic Ocean habitat after 25 years of study. These organisms form 3D structures essential for the ecosystem, supporting fish, penguins, seals, and whales. On a submarine expedition, she collects photographic evidence and specimens of potential new species to identify Vulnerable Marine Ecosystems. This data will be submitted to the Commission for the Antarctic Ocean to support proposals for the world's largest marine protected area, protecting against expanding commercial fishing.

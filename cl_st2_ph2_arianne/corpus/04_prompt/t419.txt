@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Japan interviewed Hiroshima atomic bomb survivor Hiroshi Harada, who at age 6 experienced the bombing at Hiroshima station, escaping flames and rubble with his father. As former director of the Hiroshima Peace Memorial Museum, he navigated challenges like loaning artifacts to a U.S. exhibition that was cancelled due to resistance, and securing UNESCO status for the Genbaku Dome despite opposition from America and China. Harada stresses the urgency of preserving and connecting survivors' fading memories to convey the horrors of nuclear weapons and prevent their future use.

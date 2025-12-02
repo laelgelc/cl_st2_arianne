@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Peter Willcox, a Greenpeace captain for over 30 years, recounts facing polluters, arrests, and dangers like the French bombing of the Rainbow Warrior, which killed a crewmate. He uses a boat analogy for Earth: with 7 billion people aboard, we're drilling holes, causing rising waters, and must send an S.O.S. to "Save Our Selves." Motivated by his daughters' future, he highlights Greenpeace's fight against human suffering from environmental destruction, including Rongelap's nuclear fallout evacuation and rising seas, Amazon slavery in deforestation, Liberian stowaways, and Philippine families poisoned by US military waste, exemplified by a dying girl named Crizel.

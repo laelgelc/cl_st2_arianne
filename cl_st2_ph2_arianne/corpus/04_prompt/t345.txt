@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's blog post highlights how grassroots movements drive social change and introduces a series of live online Roundtable discussions co-created with activists, scientists, and others to explore themes like diversity, solidarity, and intersectionality. It details panels on: health impacts of the climate crisis in vulnerable regions, featuring experts from MSF and others; activism in the Amazon, discussing threats and protection needs; activist burnout and resilience strategies; and intergenerational activism, emphasizing cross-generational alliances for environmental and social justice. It invites collaboration and quotes panelists on interconnected issues.

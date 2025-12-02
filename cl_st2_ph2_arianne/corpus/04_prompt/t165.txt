@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace volunteers from 16 countries and Brazilian Indigenous leaders protested in Amsterdam by blocking a ship carrying 60 million kilos of soy from Brazil, demanding a robust EU anti-deforestation law to protect forests, ecosystems, and Indigenous rights. The draft law has gaps, such as excluding areas like the Cerrado and weak human rights protections, while facing corporate resistance to transparency. EU soy imports, mostly for animal feed, drive deforestation and threaten Indigenous communities. Reducing meat and dairy consumption by 70% by 2030 is urged to safeguard health, nature, and climate, with over a million Europeans calling for action.

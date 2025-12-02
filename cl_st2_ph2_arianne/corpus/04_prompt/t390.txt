@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The logging season in Germany has begun, putting forests like Dannenroder (Danni) under threat from highway expansion. Evictions and brutal tree cutting have occurred in nearby Herren and Maulbacher forests, with chainsaws approaching Danni. The post calls for support through following news, providing aid, and social media sharing under #Dannibleibt. It criticizes the project as hypocritical amid climate crisis and mass extinction, destroying ancient trees, endangered species, and a water reserve while promoting polluting cars. Activists have built treehouse villages in resistance, facing police evictions, as hundreds mobilize for climate justice.

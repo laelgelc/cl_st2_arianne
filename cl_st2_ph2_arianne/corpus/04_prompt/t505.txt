@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 2019, massive wildfires ravaged forests worldwide, from Russia and Brazil to Indonesia and Australia, causing deaths of wildlife and humans while emitting vast CO2 amounts—Russia's fires released 500 Mt, Brazil's 366 Mt, and Indonesia's 708 Mt—equivalent to major countries' annual fossil fuel emissions. These nations underreport fire emissions, as per a Greenpeace report, with no proper accounting or compensation. Fires also produce black carbon that accelerates Arctic ice melt and reduce forests' carbon capture. Despite devastating impacts on climate, health, communities, and Indigenous Peoples, the issue is ignored at COP25, urging leaders to act.

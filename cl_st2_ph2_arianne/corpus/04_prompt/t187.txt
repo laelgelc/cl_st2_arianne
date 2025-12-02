@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Olga Lupilina, a Russian activist with Greenpeace Nordic – Denmark, is protesting in northern Denmark's waters against Russian oil and fossil fuels by blocking the tanker Seaoath, which carries 100,000 tonnes of oil worth $65 million from Primorsk. The EU's daily purchases of Russian oil and gas fund the military amid the Ukraine invasion, making it personal for her. Activists have tracked and protested such tankers since the war started. She urges not switching to other fossil fuels but transitioning to renewables for peace, equity, and to avoid geopolitical struggles. She traveled 26 hours by train from Slovakia, calling on politicians to halt Russian imports and accelerate a just green shift for global benefit.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Synthetic fibers use less water than cotton and avoid toxic pesticides, but contribute to microplastic pollution. An IUCN report states 15-31% of marine plastic pollution comes from microplastics in household and industrial products, with 35% from washing synthetic textiles. Europe and Central Asia release microplastics equivalent to 54 plastic bags per person weekly. Solutions include rethinking clothing production for durability and recyclability, and consumers buying less, opting for secondhand or upcycled items. Polyester, in 60% of clothes, has CO2 emissions three times higher than cotton, and one wash can release 700,000 microfibers that enter oceans and the food chain.

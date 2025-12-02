@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Korea has campaigned for Hyundai Motor Company (HMC) to shift from internal combustion engine (ICE) cars to 100% electric vehicles (EVs) to combat climate change. HMC announced plans to increase EVs and fuel cell electric vehicles to 25.8% of sales by 2030 and 78% by 2040, aiming for 100% EVs in Europe, China, and the US by 2040, but not globally. The post criticizes this as insufficient, urging a full EV transition by 2035 to achieve net-zero by 2050, citing benefits like lower costs, better air quality, and new jobs, while referencing faster bans in Norway, the UK, and California.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Luchelle Feukeng dreams of a green Africa during Women’s Month, envisioning climate action empowering women. In South Africa, renewable energy ends load shedding, enabling female students to study safely. In Cameroon, women access clean forests and rivers, with Yaoundé free of plastic bottles for better health. In the DRC, canceling oil block sales protects forests, celebrated by Indigenous People. In Senegal, women regain fish supplies from oceans, ensuring family nutrition. In Kenya, amending a seed law allows farmers to share uncertified seeds, sparking nationwide celebrations. She hopes to advocate for this reality.

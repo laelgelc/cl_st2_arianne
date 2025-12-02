@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses global environmental decline despite local successes, attributing it to social inertia—the momentum of societies resisting change due to economic, corporate, governmental, and individual constraints. It references studies by Garrett et al. showing that carbon emissions and energy demands are inseparably linked to cumulative past and present economic growth, preventing decoupling. Drawing on historical examples and expert quotes, it critiques reliance on unproven technologies and endless growth, urging activism to overcome inertia through perseverance in communication and action for a sustainable society.

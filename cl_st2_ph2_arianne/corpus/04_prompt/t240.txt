@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes carbon offsetting as a scam and greenwashing tool that allows companies and governments to continue polluting while claiming emission reductions through projects like forest protection, which commodifies nature, harms Indigenous communities, and distracts from actual cuts. It describes net zero as a deceptive bookkeeping trick relying on offsets, ignoring the need for immediate fossil fuel reductions, and advocates for 'real zero' emissions instead. Offsetting is portrayed as a con driven by greed, feigning compassion, preying on fear, and exploiting uncertainty, with calls to reject it at COP26 and under Article 6 of the Paris Agreement.

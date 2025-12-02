@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+For World Oceans Day, Greenpeace encouraged global supporters to paint themselves blue and perform human waves to advocate for ocean protection. Participants in 25 countries across all seven continents, including Russia, Senegal, New Zealand, Chile, Bulgaria, Thailand, and even Antarctica, engaged in fun, creative actions to signal to world leaders the importance of oceans. The post invites viewers to browse a photo gallery of these events, join future activities, and watch a video highlighting the best human waves.

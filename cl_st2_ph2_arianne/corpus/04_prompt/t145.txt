@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Smallholder farmers in Kenya are opposing a new discriminatory law that restricts the exchange or sale of Indigenous seeds, which are native to local farming heritage and not owned by corporations like Bayer. Amid global biodiversity loss and mass extinction, IPLCs lead the fight. Studies show 90% of Kenyan seeds come from informal systems, with 80% of smallholders relying on them for sharing. Farmers like Petronilah Olunga save seeds due to costs and question criminalization. The law imposes up to two years in prison or a KES 1,000,000 fine for unregistered seed activities. In collaboration with groups like Seed Savers Network and Greenpeace Africa, farmers demand consultation and freedom to choose seeds, as voiced by Samuel Wathome.

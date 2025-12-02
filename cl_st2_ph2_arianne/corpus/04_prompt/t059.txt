@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Victorine Che Thöner reflects on the joys and challenges of motherhood, linking them to the suffering caused by climate change, including destruction, displacement, and loss of lives. She finds hope in resisting communities and the African concept of Ubuntu, emphasizing the need for climate and environmental justice. She calls for extractive companies and governments to stop destruction, admit crimes, and pay for damages, especially in low-income countries. Drawing from her Cameroon childhood—playing in forests, experiencing floods, and her mother's struggles—she highlights fossil fuel extraction's harms: community displacement, environmental ruin, and global climate impacts affecting even Germany, where she now lives. She urges joining the call to demand fossil fuel companies halt new projects and repair damages.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Jussa Seurujärvi, a Sámi reindeer herder, describes returning from herding in the logged Sápmi forests, where reindeer now need supplemental food due to habitat loss from logging, mining, and heavy land use. This threatens generations-old traditions tied to reindeer, hunting, and fishing. A proposed Arctic railway would damage pastures, water, and Sámi identity, despite a report deeming it uneconomical and harmful. Seen as ongoing colonization, it's opposed by Sámi communities with global support from thousands, including Greenpeace and indigenous groups from Canada and New Zealand, urging more to join the fight.

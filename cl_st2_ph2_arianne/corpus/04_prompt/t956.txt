@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explores why human society remains stuck in destructive habits despite environmental data, drawing parallels to addiction and paralysis. It discusses systems theory from Gregory Bateson, emphasizing change through recognizing significant differences via coded actions like Greenpeace protests, rather than facts alone. Contradictory motivations, memory, and exploratory adaptation in biology (e.g., ant epigenetics, cell responses to stress) inform social transformation. It advocates systemic approaches, metaphors, and stories over piecemeal efforts, urging change agents to integrate relationships with humility for genuine ecological progress.

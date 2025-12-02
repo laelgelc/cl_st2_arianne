@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes hope as a vital natural resource fueling environmental activism, emphasizing Greenpeace's 50+ years of victories, from halting nuclear tests and whaling to recent legal wins against Shell. It highlights recent progress: the 2023 Global Ocean Treaty for marine sanctuaries, ongoing Global Plastics Treaty negotiations, dismissed lawsuits against Greenpeace, Indigenous resistance delaying fossil fuel projects, IEA's pathways to 1.5°C via renewables, cheaper solar and wind energy, financial shifts away from fossils, and IPCC's confirmation of time to reduce emissions. Amid climate crises like fires and floods causing despair, it urges collective action to preserve hope and drive systemic change.

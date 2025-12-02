@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Arctic, home to threatened wildlife like polar bears and narwhals, plays a key role in global climate but is warming twice as fast due to Arctic amplification. Melting sea ice reduces albedo, creating a positive feedback loop that alters atmospheric circulations, jet streams, and weather patterns, leading to more extreme events like super-storms, droughts, and floods. These changes cause human and economic losses. Lacking international protection, the Arctic needs ecosystem-based protected areas, as urged by Greenpeace, which calls for public support to create an Arctic Sanctuary.

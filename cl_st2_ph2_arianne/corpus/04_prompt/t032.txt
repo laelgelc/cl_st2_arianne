@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Governments at the 28th ISA Session failed to agree on stopping deep sea mining, leaving the door open for it to start this year despite growing opposition. The Metals Company triggered a "2-year rule" loophole to pressure for mining in July, prompting Greenpeace actions against related expeditions. Indigenous Pacific activists highlighted risks to ecosystems, food sources, and communities, rejecting neo-colonial exploitation. Protests occurred worldwide, including in Kingston and Zurich, amid scientific warnings and a major corporate backer withdrawing. Governments must act before the July ISA meeting to prevent mining.

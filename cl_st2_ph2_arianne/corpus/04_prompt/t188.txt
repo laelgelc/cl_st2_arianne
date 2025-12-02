@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace blog post recommends environmental films and documentaries, starting with the satirical "Don't Look Up," which allegorizes the climate crisis through a comet threat and scientists being ignored, resonating with Greenpeace co-founder Rex Weyler. It lists others: a documentary debunking meat myths featuring Arnold Schwarzenegger; "Sexy Killer" exposing Indonesia's coal industry scandals; a film on coral bleaching in Australia; Leonardo DiCaprio's global climate journey; the story of Greenpeace's founding; "Parasite" on inequality and climate impacts; Sylvia Earle's ocean advocacy; a minimalism doc promoting less consumption; and stories of Brazilians affected by climate change. It invites readers to share favorites.

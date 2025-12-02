@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The text explores the intersection of gender inequality, human rights, and the climate crisis, stressing the need for girls' education to enable women's participation in climate decision-making. It highlights women's economic disadvantages in the patriarchal fossil fuel industry, including pay gaps and disproportionate impacts from rising energy costs and pollution, which exacerbate vulnerability to gender-based violence and extreme weather events. Activists note that women support renewable energy more than men and that intersectional approaches are essential to mitigate these effects and empower women in leadership roles.

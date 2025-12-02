@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights recent oil spills in Thailand, Peru, Ecuador, Nigeria, and a looming threat in Yemen, causing environmental devastation, wildlife deaths, and harm to communities. It discusses oil's role in wars, conflicts, and arms trade, with Russia's military funded by fossil fuels. Oil companies like BP, Shell, and Exxon profit amid crises, using greenwashing despite oil's toxicity throughout its lifecycle and contribution to climate change. The industry ignored warnings and funded denial. It calls out major firms as climate criminals, urges ending fossil fuels, transitioning to renewables, and notes air pollution from fossil fuels kills millions annually.

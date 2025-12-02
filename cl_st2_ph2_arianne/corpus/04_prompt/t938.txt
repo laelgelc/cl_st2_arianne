@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace report on Europe's pesticide addiction highlights the devastating environmental impacts of synthetic pesticides, including ecosystem collapse, biodiversity loss (with 24% of EU species threatened), and disruption of services like pollination and soil fertility. It exposes regulatory gaps, such as reliance on modeling over field data and industry-led testing of active ingredients only. Despite regulations, pesticides pose unacceptable risks. The report urges a shift to ecological farming, combining science with nature respect, local community control, and subsidy redirection. It calls for action via #iKnowWhoGrewIt to break the pesticide cycle and promote chemical-free agriculture.

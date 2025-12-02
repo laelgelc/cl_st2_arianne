@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the IPCC's 6th Assessment Report updating the "Burning Embers" diagram, showing climate risks escalating to high and very high levels at lower global warming thresholds than in previous reports (AR5 and SR15). It highlights new evidence on ice-sheet instability, ocean circulation slowdown, and carbon cycle changes, indicating that even 1.5°C warming poses high risks to extreme weather, ecosystems like corals (already transitioning at 1.1°C), and other systems. The diagram's evolution since 2001 reflects risks intensifying earlier, urging governments and industries to act on the 1.5°C limit.

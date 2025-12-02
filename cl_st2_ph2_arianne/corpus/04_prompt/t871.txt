@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Nature & Youth and Greenpeace Nordic, with a coalition, have filed a legal case against the Norwegian government to halt Arctic oil exploration by Statoil. Led by Ingrid Skjoldvær and Truls Gulowsen, the lawsuit invokes Article 112 of Norway's Constitution, guaranteeing a healthy environment for future generations, and demands adherence to the Paris Agreement's 1.5-degree warming limit. It highlights the contradiction of Norway's emission reduction promises amid new Barents Sea drilling plans, emphasizing the need to keep 80% of fossil fuels underground to avert climate catastrophe. This people-powered action aims to protect the Arctic and inspire global resistance against fossil fuels.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post promotes eco-friendly urban mobility amid easing Covid restrictions, aligning with World Bicycle Day and World Environment Day. It encourages #ShareTheCity by opting for trains over short-haul flights and cars, using shared electric vehicles, and reducing private car use to cut emissions and free space for people and nature. It urges governments to prioritize walking, cycling, public transport, and green spaces, while advocating community organizing for car-free zones and safer infrastructure. Greenpeace's #Mobility4All seeks accessible, sustainable transport for all, highlighting benefits of biking, walking, and rail for health, social connection, and environmental protection.

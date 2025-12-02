@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Thirty years ago, governments banned oil drilling and mining in Antarctica through the 1991 Madrid Protocol, influenced by Greenpeace's campaigns and establishment of a base to join negotiations. Key lessons include respecting planetary boundaries and collaborating for protection. Today, Antarctica faces climate change, pollution, and destructive fishing, with penguin populations declining. The Antarctic Ocean Commission must prioritize ocean sanctuaries to protect marine life. A strong Global Ocean Treaty at the UN could create protected areas, combat biodiversity loss, and ensure benefits for coastal communities, with nearly four million people urging action to safeguard 30% of oceans by 2030.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post argues against resuming commercial whaling, highlighting its historical role in decimating whale populations, similar to overfishing of large fish. It emphasizes whales' importance for ocean health, their vulnerability as long-lived species, and lists ten reasons to avoid hunting: unknown historical populations and recovery; ongoing discoveries of new species; cultural behaviors in whales; their role in nutrient distribution and climate mitigation; toxin accumulation; indirect human-caused deaths like ship strikes and entanglement; migration across borders; uncertain climate impacts; inevitable over-exploitation; and lack of economic need or demand for whale meat. Despite some population recoveries, the post urges consigning whaling to history and focusing on conservation amid ongoing threats.

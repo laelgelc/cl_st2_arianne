@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Rachel Carson's 1962 book Silent Spring highlighted DDT's harm to birds, leading to bans that saved species like ospreys, but global bird declines have accelerated due to pesticides, habitat loss, climate change, cats, and other threats. North America has lost 1.5 billion birds in 40 years, with species like Rufous hummingbirds down 60%. Human activities, including agriculture, sprawl, and collisions, drive this crisis, exemplified by Mao's failed sparrow eradication in China. Extinctions, such as the Po'ouli, underscore biodiversity loss, with species vanishing at 1,000-10,000 times background rates, impacting ecosystems.

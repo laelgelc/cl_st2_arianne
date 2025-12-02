@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses recent environmental crises in Russia, including a major Arctic diesel spill, climate-driven Arctic heating from fossil fuels, and intensifying Siberian wildfires. It criticizes Norilsk Nickel for controlling the area, restricting access and information about the spill, and blocking independent pollution data, while satellite images reveal unnaturally colored rivers potentially contaminating the Arctic Ocean. Greenpeace and journalists collected samples from the spill and a separate wastewater dumping incident at the Talnakh factory, but authorities at the company-owned airport seized or blocked them. The post calls for transparency to address such disasters and climate change.

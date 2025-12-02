@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights that reuse and refill systems are longstanding traditions in many countries, predating the recent surge in single-use plastics driven by corporate greed from brands like Nestlé, Unilever, Coca-Cola, and PepsiCo since the 1960s. It calls for holding corporations accountable to shift toward reuse, emphasizing systemic change alongside individual actions. Global South countries lead with innovative models: India's Dabbawalla and thali systems; African bans on single-use items; Chile's refillable bottle mandates and Brazil's successful returnables; and the Philippines' Zero Waste movement with Wala-Usik stores. It promotes a reuse revolution and references a database of initiatives.

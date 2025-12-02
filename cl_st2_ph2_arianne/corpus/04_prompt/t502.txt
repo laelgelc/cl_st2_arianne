@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses rewilding as a solution to ecological crises, drawing from Isabella Tree's book on transforming Knepp Estate from a struggling farm into a wild habitat. Inspired by ecologist Franz Vera, owners introduced free-roaming herbivores like cattle, pigs, ponies, and deer, fostering soil restoration, biodiversity revival—including rare insects, butterflies, birds, and orchids—and trophic cascades. It highlights animals' role in habitat creation, critiques intensive farming's soil erosion, emphasizes healthy soil's microbial composition, and advocates letting nature self-restore, with examples like Yellowstone's wolf reintroduction.

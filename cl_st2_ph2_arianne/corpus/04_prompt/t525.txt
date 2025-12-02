@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post calls for urgent action to protect oceans, referencing the UK's commitment to designating 30% as marine protected areas by 2030 and forming the Global Ocean Alliance. It demands a strong Global Ocean Treaty to enable effective sanctuaries worldwide. Criticizing Norway's hosting of the 'Our Ocean' conference in Oslo on 23-24 October as mere PR without real solutions, it urges people to tweet to push leaders beyond empty promises. Scientists stress protecting at least a third of oceans by 2030 to aid marine recovery and combat climate breakdown, amid slow UN negotiations.

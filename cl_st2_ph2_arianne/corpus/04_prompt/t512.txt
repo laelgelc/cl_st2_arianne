@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Amazon faces record deforestation, with 9,762 km² destroyed from August 2018 to July 2019—a 30% increase and the highest since 2008, per INPE data. President Bolsonaro's anti-environmental policies have weakened protections, cutting IBAMA inspections by 22% and fire-fighting budgets by 38%, while dismissing INPE's director amid raging fires. Indigenous rights are violated, exemplified by the murder of guardian Paulo Paulino Guajajara. Deforestation warnings rose 100% from August to October 2019. Urgent action is needed: support forest guardians and reject deforestation-linked beef and soya.

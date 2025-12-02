@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses maintaining climate activism during COVID-19 quarantine, prioritizing staying home to protect vulnerable communities like Indigenous ones. It suggests engaging family in dinner table discussions on local climate issues, building connections with advocacy groups, staying informed through books, documentaries, and webinars, and participating in online forums. Digital activism ideas include creating Instagram filters, Twitter storms, and TikTok content to share accurate news. It advises reviewing habits like reducing meat consumption (noting 14.5% of emissions from livestock), experimenting with plant-based recipes, minimizing single-use plastics, reusing items, recycling, growing food, and preventing waste for solidarity and impact.

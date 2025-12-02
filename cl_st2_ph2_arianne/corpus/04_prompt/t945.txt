@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace activists aboard the Esperanza patrolled the Gulf of California for seven days, discovering ten illegal gillnets near the Bay of San Felipe and boats fishing in the vaquita's protected habitat. The vaquita porpoise faces imminent extinction, with estimates dropping from 97 to as few as 57 individuals, primarily due to gillnets used for catching totoaba, valued in China. Greenpeace documented and reported the nets, leading to their removal, and engaged local fishermen on sustainable practices. Despite a two-year fishing ban, inadequate monitoring—only two officials for 11,000 km²—threatens the species' survival by 2018 without stronger government action.

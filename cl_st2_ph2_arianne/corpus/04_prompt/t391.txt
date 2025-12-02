@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the escalating fires in Brazil's Amazon, the worst in a decade, exacerbated by government policies that weaken environmental enforcement and enable agribusiness and mining. It highlights threats to Indigenous Peoples from land invasions and COVID-19, with over 34,000 cases and 837 deaths. The Amazon's destruction risks biodiversity, climate stability, and regional rainfall, releasing stored carbon in a vicious cycle. Fires also ravage the Cerrado and Pantanal, driven mainly by cattle ranching (80% of Amazon deforestation) and soy production for livestock. The post urges collective action to protect these biomes and Indigenous rights.

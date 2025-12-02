@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Brasil, Climate Counsel, and Observatorio do Clima, supported by Greenpeace International, have filed a Communication with the ICC Prosecutor requesting an investigation into mass human rights abuses in the Brazilian Amazon over the past decade as crimes against humanity. Evidence from an online platform documents over 12,000 conflicts, including 430 murders, 554 attempted murders, and 100,000 expulsions, orchestrated by a network of politicians, officials, businessmen, and criminals to dispossess land and exploit resources. The filing warns that aiding financial and corporate actors may face scrutiny, urging the ICC to end impunity despite resource challenges.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post recounts a former Greenpeace photographer's memories from 1974-1982 campaigns, inspired by photos. It describes returning a Sisiutl flag to the Yalis Kwakwa̱ka̱ʼwakw community in 1975 and receiving a new one in 2015; the 1975 whale campaign's role in Greenpeace's international growth, including acquiring the faster James Bay ship; the 1976 launch delayed by customs; a 1979 trophy hunting confrontation in Spatsizi Park allied with First Nations; a 1975 stop at Tasu mine with auspicious encounters; and navigating Yucluta Rapids.

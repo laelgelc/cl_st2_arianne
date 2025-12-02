@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace highlights how human activities devastate oceans, particularly through destructive shark fishing. On board the Esperanza, campaigner Will McCallum reports sailing through a fishing ground where up to 25,000 endangered sharks are killed annually, mostly for fins, outnumbering swordfish catches 4:1. They documented a longliner vessel hauling eight sharks and one swordfish, exposing failing ocean management. With low-impact fisherman Jerry Percy aboard, they emphasize impacts on coastal communities. Greenpeace calls for a Global Ocean Treaty to limit shark catches and create sanctuaries protecting against industrial fishing and drilling, as scientists recommend.

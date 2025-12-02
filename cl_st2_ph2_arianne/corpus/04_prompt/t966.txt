@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace celebrates LEGO's decision to end its contract with Shell after a three-month campaign backed by over one million people worldwide who emailed LEGO to sever ties. The victory exposes Shell's efforts to polish its image through partnerships with beloved brands amid opposition to Arctic drilling. Key campaign moments include a viral video with nearly six million views, children building LEGO Arctic animals in protest at Shell's London HQ, global "LEGOlution" protests by miniature LEGO figures, a daring LEGO climber action at a Shell station in Legoland, and the massive public outcry. With Arctic sea ice at record lows, Greenpeace urges Shell to abandon Arctic plans.

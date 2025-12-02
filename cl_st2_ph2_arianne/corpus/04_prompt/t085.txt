@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the biodiversity crisis, with deforestation, overfishing, and resource extraction threatening one million species with extinction. It criticizes the Convention on Biological Diversity for weak implementation and calls for clear mechanisms. At COP15, rich Global North countries must fund ecosystem protection in the Global South and redirect harmful subsidies to close a $700 billion finance gap. Key demands include recognizing Indigenous Peoples' rights as stewards of 80% of remaining biodiversity, rejecting fortress conservation, and adopting a 30x30 target to conserve 30% of land and water by 2030, centering Indigenous and local communities.

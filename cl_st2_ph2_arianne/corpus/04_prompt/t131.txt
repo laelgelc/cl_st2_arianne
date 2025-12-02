@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The UN General Assembly's resolution recognizing a clean, healthy, and sustainable environment as a universal human right followed over a decade of global activism and litigation. It builds on cases like Urgenda in the Netherlands, Klimaseniorinnen in Switzerland, and challenges against oil projects in Norway and the UK. Pending ECtHR cases involve Swiss seniors, Portuguese youth, and Norwegian applicants. The resolution empowers climate-vulnerable groups, bolsters ongoing lawsuits worldwide—such as against Shell in Africa and EACOP in East Africa—and supports efforts to hold polluters accountable through courts like the ICJ.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on 2019 as an iconic year where millions mobilized worldwide to fight for the planet, calling out corporations and governments for insufficient action. It was also devastating, with extreme weather events fueled by climate change ravaging countries. Ultimately, it marked a landmark of people power, as communities united despite adversities to drive toward a greener, sustainable, and hopeful future. The post invites readers to view Greenpeace's captured highlights from the year.

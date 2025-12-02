@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post marks the International Day of Women and Girls in Science, noting gender inequality with women comprising less than 30% of researchers and only 7% of 15-year-olds aspiring to technical professions. It highlights women scientists' vital role in Greenpeace campaigns on climate change, ocean protection, and COVID-biodiversity links. Using Sandra Myrna Díaz's tapestry metaphor, it explains how biodiversity loss increases disease transmission risks. An upcoming expedition led by Kirsten Thompson on the Arctic Sunrise will study the Saya de Malha Bank's coral reefs, seagrass meadows, and marine life via eDNA, photography, and acoustic monitoring to advocate for a Global Ocean Treaty protecting 30% of oceans by 2030, emphasizing women's empowerment.

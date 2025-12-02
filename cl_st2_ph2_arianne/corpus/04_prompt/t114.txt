@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post warns that fossil fuel-driven climate change is causing unprecedented heat waves, wildfires, and droughts, making them the new normal without urgent action. It cites record temperatures like 53°C in Death Valley, 48°C in Tunisia damaging crops, and deadly heat in Spain, Canada, UK, India, and elsewhere, disproportionately affecting marginalized communities. Fossil fuel companies prioritize profits over people and the planet. It urges a just transition to renewables, drawing lessons from COVID-19 responses, and highlights Greenpeace campaigns worldwide to ban fossil fuel ads, end financing, reject dirty deals, and protect forests. There's still time to meet the 1.5°C Paris goal.

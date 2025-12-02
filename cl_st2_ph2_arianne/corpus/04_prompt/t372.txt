@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 2020, 'lockdown' was named Word of the Year amid the COVID-19 pandemic, which disrupted lives with isolation and health precautions. Meanwhile, environmental crises intensified: Greenpeace's 'Protect The Oceans' voyage inspected ships and documented Antarctic climate impacts; Kenyan farmers adopted ecological practices for climate resilience; massive wildfires ravaged California and Australia, killing wildlife and people; typhoons flooded the Philippines, prompting demands for climate justice; a Kamchatka disaster killed marine life, leading to government action; deforestation threatened the Amazon and Gran Chaco; coral bleaching hit the Great Barrier Reef; and global floods affected millions. The post applauds activists documenting these threats.

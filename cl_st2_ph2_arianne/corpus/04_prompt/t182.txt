@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In an interview, Greenpeace scientist Reyes Tirado discusses the IPCC's Working Group III report, highlighting powerful climate solutions like renewables, halting deforestation, and shifting to plant-based diets that could halve emissions by 2030, often at low cost. However, current government policies risk failure, demanding urgent action to avoid an unlivable future. Key steps include protecting ecosystems while respecting Indigenous rights, reducing industrial livestock through dietary changes, phasing out fossil fuels, and redirecting finance to equitable solutions. Tirado urges mobilization, protests, voting, and personal shifts like renewable energy and low-meat diets to drive political change.

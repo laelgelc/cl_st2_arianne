@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Movie director Wang Shaudi views filmmaking as a social movement and self-improvement, with works like Banquet (2003) exploring the balance between environmental conservation and economic development in Taiwan. Through fieldwork and expert consultations, she highlighted land stress from climate change. Advocating against nuclear energy and for marriage equality, she promotes daily eco-efforts, such as waste sorting on sets and using a walking bicycle. Despite feelings of powerlessness amid extreme weather like Australian fires and Chinese floods, she persists, inspired by scenes like an indigenous musician playing amid beach trash, urging lifestyle adjustments for a better future.

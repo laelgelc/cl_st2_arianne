@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the societal view of mobility as individual freedom and status, driven by cars, oil, and marketing, which ignores long-term consequences like pollution, unsafe streets for children, and climate damage. It highlights inequality where wealthier people disproportionately contribute to emissions, while everyone suffers from air pollution, accidents, and environmental loss. Post-COVID, it calls for systemic change toward resilient mobility: safe walking and cycling, accessible public transport, electric cars for necessities (not SUVs), affordable trains over flights, and green spaces. Mobility should prioritize society, autonomy, and cohesion as a sustainable common good.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes a Greenpeace team's visit to the scorched Pribaikalsky wildlife reserve, a UNESCO site on Lake Baikal's shore, where a 2015 wildfire destroyed 60% of its vegetation. Three years later, the area shows little recovery and is now being logged. Volunteer firefighter Solbon Sandgiev, from the Buryat Indigenous group, highlights the cultural importance of nature preservation and fears losing their homeland amid rising man-made wildfires—over 90% in Russia. With authorities failing, volunteers combat fires and urge respect for forests, calling for donations to support their equipment needs.

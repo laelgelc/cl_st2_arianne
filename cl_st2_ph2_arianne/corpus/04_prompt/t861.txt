@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explores finding hope amid ecological crises, arguing that logic and big institutions like governments or corporations offer little, as global capitalism and pre-ecological politics fail to address overshoot. Instead, hope lies in nature's long timescales, wildness, and humility; in simple, local communities restoring habitats; in artists inspiring change; and in modest, persevering people. It draws on figures like Rachel Carson, Wendell Berry, and Leonard Cohen, emphasizing patience, persistence like spawning salmon, and returning to indigenous, place-based living over hubristic management.

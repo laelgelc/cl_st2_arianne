@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes massive Siberian forest fires, larger than Belgium, with only 9% being tackled as Russian authorities deem the effort too costly. Hot, dry weather fuels daily outbreaks, endangering villages and wildlife like sables, bears, deer, and elk. From a helicopter, the author witnesses endless taiga turning to charred landscapes amid thick smoke. Fires, 90% human-caused near logging sites and roads, exacerbate climate change, which intensifies their spread. Despite firefighters' efforts, the blazes are beyond human control, affecting distant cities with smoke.

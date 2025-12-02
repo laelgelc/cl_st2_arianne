@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The 27th UN Climate Change Conference (COP27) concluded after overtime negotiations, establishing a Loss and Damage fund to aid climate-impacted communities—a key victory amid disappointments. No fossil fuel phase-out was agreed upon, despite calls from many countries, increasing pressure for COP28. Billed as an 'implementation' and 'Africa COP,' it delivered little on strengthened national plans to limit warming to 1.5°C, potentially marking a retreat from Paris targets. Urgent action remains needed, with polluters funding adaptation, mitigation, and a just transition, as people power pushes forward in the UAE next year.

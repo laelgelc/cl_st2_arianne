@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post urges voting in the European Parliament elections from 23-26 May to challenge authoritarian politicians and demand a fair society that protects rights and the planet. It acknowledges the EU's imperfections but highlights achievements like improved air quality and toxic chemical bans, emphasizing collective action on cross-border issues like climate change. It warns of xenophobic parties seeking control to restrict freedoms and accelerate climate catastrophe. Three reasons to vote: the EU's role in averting climate chaos within a decade, decisions on pollution and systems like farming, and threats to rights like press freedom and protest in countries including Hungary, Poland, and Spain.

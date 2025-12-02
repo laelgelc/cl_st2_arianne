@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Torben Lonne recounts a memorable dive in Thailand teaching a young couple amid stunning reefs and corals, ruined by sudden influxes of plastic trash affecting marine life like fish and turtles. He highlights the ocean pollution crisis, with up to 12 million tonnes of plastic entering annually, harming ecosystems and humans. As an ocean advocate and Divein.com founder, he urges individuals to avoid single-use plastics, pick up litter, and pressure companies by photographing branded waste on social media with #IsThisYours. He suggests convincing local businesses to reduce plastics and writing newspaper letters to protect oceans for future generations.

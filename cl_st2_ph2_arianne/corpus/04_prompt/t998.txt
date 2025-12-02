@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 1996, Greenpeace founders including Dorothy Stowe, Jim Bohlen, Bob Hunter, and Dorothy Metcalfe gathered in Vancouver to mark the 25th anniversary of the organization's 1971 launch. They recounted its origins in the "Don't Make a Wave Committee" protesting U.S. nuclear tests on Amchitka, the first voyage on the Phyllis Cormack (renamed Greenpeace), funding through donations and concerts, media strategies, non-violent direct actions, successes like halting tests and creating a nature reserve, internal conflicts, and the group's evolution into an international environmental force.

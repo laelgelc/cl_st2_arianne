@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post from Jennifer and Anabella urges preventing public funds from supporting planet-destroying industries amid the COVID-19 crisis and economic shocks, instead directing them toward a just transition for human well-being and planetary health. It calls for holding leaders accountable, vigilance against exploiting workers via "shock doctrine," and advocating for a cooperative, egalitarian future in harmony with nature. Emphasizing solidarity to combat the virus, it rejects blame and division, promotes building alliances, and sees the pandemic as an opportunity to learn lessons, address systemic issues, and protect vulnerable people through compassion, courage, and cooperation. Greenpeace members share personal challenges, inspire with acts of solidarity, and stress self-care while remaining vigilant in crisis.

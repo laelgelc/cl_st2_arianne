@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Communities in Rio Manicoré, Brazil, home to 4,000 people, have fought for 16 years to establish a Sustainable Development Reserve (RDS) to protect forests and enable sustainable resource use. They recently secured a collective use concession (CDRU) for 3,899.32 km², but it requires proper implementation to prevent land grabbing and illegal activities. Undesignated Amazon forests, over 500,000 km², face deforestation from land grabbing, mining, logging, and ranching, exacerbated by Bolsonaro's anti-environmental policies and violence. Greenpeace's "Amazon We Need" expedition highlights these communities, supports biodiversity research, and advocates for forest protection and sustainable models.

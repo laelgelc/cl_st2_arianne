@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The oil industry has boomed in Scotland for 50 years but is changing, leading to rising unemployment among workers, increased food bank usage, and community losses. Greenpeace UK digital campaigner Ravishaan Rahel Muthiah works for a just transition to clean energy and green jobs. Greenpeace interviewed current and former oil workers: Wullie on offshore hardships, redundancies, and health impacts; Robbie on transition barriers like high training fees; Yvonne on the government's need to prioritize the planet over oil profits; and Alan on a hopeful future in renewables. These stories highlight common challenges, as workers tied to polluting industries shouldn't bear the climate crisis burden. Greenpeace UK, with Friends of the Earth Scotland and Platform, campaigns for supported transitions to secure green jobs. Watch the film for community voices.

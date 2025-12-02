@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes that oceans, the origin of all life on Earth, have absorbed 90% of excess heat from greenhouse gas emissions over the past 60 years, preventing a catastrophic 36°C global warming. They provide oxygen, food, and climate regulation but are strained by industrial fishing and pollution. To ensure healthier oceans and a thriving planet, we must create ocean sanctuaries and cut emissions urgently. The author, at UN talks, advocates for a global treaty to protect biodiversity in the high seas, enabling a network of sanctuaries to rebuild marine populations and resilience. Readers are urged to share ocean photos on #HighSeas for support.

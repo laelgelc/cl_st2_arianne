@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Two years after the Rana Plaza factory collapse in Dhaka, which killed over 1,000 and injured over 2,500, the post highlights the fashion industry's toxic practices and calls for change. Over 30 companies, including 18 major fashion brands representing 10% of the sector, have committed to Detox by eliminating hazardous chemicals, leading to cleaner factories in places like China. It urges a Fashion Revolution through social media actions like selfies with clothing labels and #whomademyclothes to demand transparency. The industry must compensate victims and take responsibility for ethical supply chains.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+GreenAct is an ads-free, community-owned app for Android and iOS, designed to enhance environmental activism by providing instant notifications and access to Greenpeace volunteer communities. Users can log in, participate in activities, groups, and campaigns with Greenpeace or other organizations. Currently available in select countries like Austria, Belgium, and Brazil, it was created with Open Social and acts as a gateway to independently managed communities, each handling user data under their own privacy policies. As part of Greenpeace's tech vision, it aims to support mobilization, with plans to expand as a mobile hub for environmental activism.

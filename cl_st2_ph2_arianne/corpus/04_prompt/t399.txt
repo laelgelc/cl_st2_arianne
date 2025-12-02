@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post expresses frustration with the post-Covid return to a worsened 'business as usual,' including slashed public services, ignored environmental protections, and funding for polluters amid crises like Siberian wildfires and Global South devastation. It criticizes governments for prioritizing economic growth over science and calls for real change beyond greenwashing. Greenpeace is joining the Climate. Care. Uprising with grassroots groups in 16 European countries and worldwide, involving over 70 activities from September 23 to October 15, to demand recovery funds address Covid, climate breakdown, neoliberalism, and colonialism. It highlights EU failures, such as insufficient 55% emissions reductions by 2030 (needing 65% per science), and urges participation to prioritize people and planet.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses how COVID-19 lockdowns led to cleaner air worldwide due to reduced fossil fuel use, factory operations, and transport emissions, with examples like visible Himalayas in India and drops in NO2 and PM2.5 levels. As restrictions ease, pollution is rebounding in places like China and the Philippines. It advocates maintaining clean air post-pandemic through green recovery stimulus avoiding polluting industries, shifting to renewables, promoting green transport like bike lanes and EVs, and strengthening emission regulations. Individual actions include less travel and working from home, emphasizing links to health, climate, and economy. Greenpeace campaigns for clean air in recovery plans.

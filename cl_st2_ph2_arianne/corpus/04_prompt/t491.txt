@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace mourns the deaths of Homero Gómez and Raúl Hernández, Mexican activists killed within days of each other for protecting monarch butterfly habitats in Michoacán from illegal logging. Gómez managed a sanctuary, while Hernández was a tour guide. These murders exemplify a global pattern of violence silencing environmental defenders, amid threats like climate change and persistent logging corruption. Targeted killings occur weekly in Latin America, as seen in Nicaragua. Greenpeace demands justice, solidarity, and effective protection for land defenders worldwide, highlighting unequal risks for frontline activists.

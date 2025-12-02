@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+President Jair Bolsonaro's Provisional Presidential Decree (PPD) 910 legalizes illegally occupied and deforested public Amazon land from 2008 to 2018, rewarding land grabbers with amnesty. It extends regularization to occupations before May 2014 (potentially 2018) and eases processes for larger properties up to 15 tax modules, equivalent to 1,650 soccer fields. This false solution formalizes land grabbing, encourages deforestation, and harms environmental balance, Indigenous rights, and public heritage. Brazil needs unified databases and strengthened oversight for proper land management. Stand with forest guardians to protect the Amazon.

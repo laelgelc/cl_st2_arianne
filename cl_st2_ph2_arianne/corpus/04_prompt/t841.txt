@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses a UN report by Special Rapporteur Hilal Elver on pesticides as a global human rights concern, harming the right to food. It debunks the myth that pesticides are essential for feeding the world, noting the "Green Revolution" enriched corporations while causing food waste, hunger, climate change, biodiversity loss, and inequality. Agroecology is highlighted as a sustainable solution. The report recommends a binding treaty on hazardous pesticides, national reduction targets, and civil society education on agroecology. It criticizes corporations for double standards, unethical marketing, denying harms like 200,000 annual poisoning deaths, and influencing governments to obstruct reforms. Politicians must act to end corporate influence.

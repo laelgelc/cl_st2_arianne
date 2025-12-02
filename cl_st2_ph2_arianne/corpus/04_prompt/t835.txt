@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Aboard the Greenpeace ship Esperanza, campaigner Pavel Klinckhamers describes sailing through West Africa's nutrient-rich Atlantic waters, encountering wildlife like whales, dolphins, pelicans, flying fish, gannets, and bioluminescent plankton. Amid chasing illegal fishing vessels and witnessing overfishing's devastation, he finds hope in nature's beauty, including coral reefs with moray eels and lobsters, upwelling-fed ecosystems, mangroves as carbon sinks, and beaches vital for endangered green sea turtles. Remote islands host marine hippos, manatees, and communities living in symbiosis with nature, vibrant with colorful attire, pirogues, and music. He urges signing a petition for sustainable fisheries management.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace campaigner Asti Roesle expresses alarm over the Forest Stewardship Council's (FSC) decision to re-associate with timber group Danzer, previously disassociated in 2013 for human rights violations in the DRC. She criticizes the process as insufficiently rigorous, noting early violations and the failure to implement Free Prior and Informed Consent (FPIC) as recommended by Forest Peoples Programme. Despite some community benefits, Roesle argues it's too soon, urging FSC to prioritize environmental and social issues over business interests, improve standards in high-risk areas, and propose strong measures at the September General Assembly.

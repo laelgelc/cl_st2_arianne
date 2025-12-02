@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes governments for using public money to bail out the polluting airline industry amid climate disasters, COVID-19, and social injustice, urging a shift to green investments like railways, biking, walking, and public transport. It highlights aviation's growing CO2 emissions—up 26% from 2013 to 2018—and market distortions from tax exemptions on kerosene and tickets, while railways face high taxes. Despite €30 billion in EU bailouts with minimal conditions, the author calls for drastic flight reductions, phasing out short-haul routes, worker protections, and a just transition during the second COVID wave.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Dumagat Remontado indigenous people in Daraitan, Rizal, harvest taro and purple yam from their hilltop farms, passing on farming traditions for sustenance. Facing hardships from the pandemic and opposition to the Kaliwa Dam, which threatens to submerge their sacred lands and farms, they endured flooding from Typhoon Vamco, guided by ancestral visions for evacuation. Responding to calls for aid, they donated vegetables to Metro Manila's community pantries—a grassroots movement for sharing food amid lockdowns—fostering solidarity and bayanihan between indigenous farmers and urban residents.

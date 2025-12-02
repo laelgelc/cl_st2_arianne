@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post introduces nine inspiring climate activists from around the world who use social media to raise awareness about climate issues and motivate action. It features Edwin Namakanga from Uganda, inspired by climate impacts and activists like Vanessa Nakate; Fabian Grischkat from Germany, advocating for climate and LGBTQ+ rights; Lillian Ono from Japan, linking climate to systemic injustices; Rose Kobusinge from Uganda, focusing on African voices and sustainable energy; Tori Tsui from Hong Kong and UK, addressing mental health and climate intersections; Venetia La Manna from UK, challenging fast fashion; Amanda Costa from Brazil, connecting climate and racial justice; Ayisha Siddiqa from Pakistan, fighting polluters and for marginalized communities; and Camille Etienne from France, lobbying against pipelines and mining. Each profile includes quotes, affiliations, and social media handles.

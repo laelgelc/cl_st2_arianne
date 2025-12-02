@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace East Asia's investigation reveals Bumble Bee tuna's failure to uphold sustainability and human rights commitments, with its Trace My Catch tool proving unreliable. Of 119 supplying vessels, 13 violated regulations and appeared on Taiwan's IUU list, involving shark finning and illegal fishing. A Bumble Bee product traced to the Da Wang vessel, where a fisher died after abuse, led to indictments for forced labor and trafficking. Interviewed fishers reported overtime and withheld wages. The report highlights tainted US-sold seafood, contradicting Bumble Bee's policies, and calls for transparent supply chains amid consumer support for traceability. Migrant fisher Manny recounts witnessing fatal abuse on Da Wang and pursuing justice.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The anonymous author recounts a visit six months ago to the Geraizeiros community in Bahia, Brazil, with journalists, where armed men posing as police intimidated them with assault rifles, demanding entry without warrants or identification. The men left after two hours but threatened to return, leaving the community in fear. This reflects ongoing violence from agribusiness expansion, like Agronegócio Estrondo, which has deforested vast areas for soya farming, invading traditional lands. Soya is sold to traders Cargill and Bunge, supplying fast food chains. The post highlights connected human and environmental rights abuses and urges demanding change.

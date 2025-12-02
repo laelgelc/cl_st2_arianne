@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the first intercontinental meeting of Climate Strikers from the global north and south at COP25, where representatives from each continent gather to amplify youth voices in climate policy decisions. It emphasizes that past conferences excluded young people, but this one will differ, with strikers initiating actions like a Wednesday press conference and a Friday climate march in Madrid featuring Greta Thunberg. Despite ongoing strikes, governments have ignored calls for change, prompting continued youth action for system change, radical measures to limit warming to 1.5°C, and solidarity for climate justice.

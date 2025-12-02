@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+World Cities Day on October 31 highlights that over half of humanity lives in urban areas, with significant growth projected in Latin America, the Caribbean, Africa, and Asia by 2050. Cities must transform into hubs of climate action, resilience, and justice. #UrbanJustice focuses on affected communities using collective efforts to reshape spaces, mindsets, and policies for climate justice. Examples include Mangala's cycling initiative in her city to combat air pollution; José's street cleaning in Bogota for inclusivity; Kusum's #PowerThePedal movement in India for sustainable mobility; Dilruba's gender equality work in Istanbul; and Mexico City's chinampas for water access and flood prevention. #UrbanJustice embodies social and climate justice.

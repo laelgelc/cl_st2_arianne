@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on the author's 1970s optimism that awareness of ecological crises like species loss and pollution would lead to simple solutions, such as curbing waste and stabilizing population. It explains complex system dynamics, including delayed effects, tipping points, interdependence, vulnerability to random events, and cascading state shifts that can erase information. Critiquing linear engineering fixes, it cites failures in urban car culture and industrial agriculture. The text describes "wicked problems" like climate change, detailing tipping points such as Amazon dieback, permafrost melt, and coral reef loss, urging adaptive responses informed by systems and chaos theory.

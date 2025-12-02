@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace blog post discusses Twitter as a platform for expressing climate concerns, noting challenges like information overload and rising climate disinformation, such as "climate scam" tweets. It highlights favorite 2022 climate tweets that remind readers they are not alone in feeling overwhelmed by extreme weather, unheard in advocacy, or anxious about the future. The post emphasizes not giving up the fight, urging global leaders to act, and acknowledges vulnerable nations like Pakistan, Bangladesh, and African countries facing the crisis despite low emissions. It values the planet over fossil fuel profits, thanks climate experts for countering denialism, and stresses hope to inspire better actions.

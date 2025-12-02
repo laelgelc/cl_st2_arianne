@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In April 2019, Greenpeace activists worldwide protested Nestlé's reliance on single-use plastics by delivering symbolic "plastic monsters" made from the company's waste to its offices and factories. Actions included crashing the Nestlé AGM on April 11, and protests on April 16 in Kenya, Italy, Switzerland, Slovenia, the US, Canada, and Poland, followed by Malaysia and Mexico on April 22. A massive monster journeyed from the Netherlands to Switzerland via the Rhine. The protests highlighted Nestlé's 1.7 million tonnes of plastic packaging in 2018, urging the company to invest in refill and reuse systems to #BreakFreeFromPlastic.

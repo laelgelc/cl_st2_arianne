@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Nanticha Ocharoenchai reflects on how climate activism, once fun through strikes and chants, has become stressful with policy complexities, volunteer management, media duties, and anxiety from climate fears. She wonders if figures like landscape architect Kotchakorn Voraakhom feel hopeless but notes persistence despite difficulties. Influenced by her mother's problem-solving mindset, she transforms challenges into opportunities, combining storytelling with advocacy via writing, film, and photography. Drawing from women in her life, she learns to recover from lows, persist with hope, and credit her achievements.

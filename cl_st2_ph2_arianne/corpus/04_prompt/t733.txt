@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post marks June 1 as the date of Trump's announcement of U.S. withdrawal from the Paris Climate Agreement, calling it a miscalculation that isolated America. It contrasts this with New Zealand's ban on new offshore oil and gas exploration, driven by climate activism, and highlights global movement examples like crowdfunded solar in Johannesburg, opposition to pipelines and coal plants, fossil fuel divestment by banks and Norway's fund, and demands for climate justice. Despite the U.S. exit, nearly 200 countries reaffirm Paris commitments, with non-state actors like cities pledging 100% renewables and the World Bank ending oil/gas financing. It urges joining the movement for bold clean energy transitions ahead of the Global Climate Action Summit.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Elena Makurina, Head of Visual Solutions at Greenpeace Russia, reflects on the decline in LGBTQ+ rights in Russia since the 2000s, including job discrimination, lack of marriage rights, and risks of arrest or harm. Pride remains a fight for equality, with parades banned. In 2020, Greenpeace Russia staff organized a digital Pride month featuring weekly challenges, articles, LGBTQ+ media discussions, and visual materials like rainbow frames and Zoom backgrounds to boost visibility, educate colleagues, and promote solidarity. This fosters trust and Diversity and Inclusion principles, with their rainbow flag featured on Greenpeace International social media, inspiring continued advocacy.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's two-year campaign aboard the Esperanza ship aimed to highlight the Amazon Reef's wonders and protect it from oil drilling by companies like Total. With over 2 million global Amazon Reef Defenders, including scientists and local communities, they achieved a historic victory: Brazil's Ibama denied Total's drilling license. Actions ranged from capturing the reef's first images to disrupting a Total meeting. This defeat of a powerful company signals the growing movement to end the oil age, but the fight continues for full reef protection. Supporters are hailed as heroes.

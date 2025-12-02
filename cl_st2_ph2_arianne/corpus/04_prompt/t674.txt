@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post explores the history and benefits of simple living and minimalism, starting with The Minimalists' rejection of consumer-driven lives for greater fulfillment. It traces influences from figures like St. Francis, Quakers, Thoreau, Tolstoy, Gandhi, and Arne Naess, who inspired ecological movements including Greenpeace and deep ecology. Key books such as Diet for a Small Planet, Small Is Beautiful, and Ecotopia advocate reduced consumption for sustainability. Ancient traditions from Taoism, Buddhism, Cynics, and the historical Jesus emphasize renouncing possessions for richer lives. Indigenous practices like Potlatch highlight sharing over hoarding, promoting modesty to address global challenges like climate crisis.

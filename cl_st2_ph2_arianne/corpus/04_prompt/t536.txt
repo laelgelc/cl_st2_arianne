@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques corporate "solutions" to plastic pollution, such as switching to paper packaging, which harms forests; bioplastics, which compete with food crops and fail to degrade properly in nature; and recyclable plastics, which are rarely recycled and often downcycled. These approaches merely shift materials without addressing the throwaway model that generates massive waste. Instead, companies must prioritize waste reduction and invest in reuse and refill systems to provide real solutions, as demanded by global activists.

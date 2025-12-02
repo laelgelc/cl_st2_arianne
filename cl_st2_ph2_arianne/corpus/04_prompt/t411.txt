@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Ida Marie, a Greenpeace Denmark activist, recounts swimming 500 meters from the Rainbow Warrior ship with three others to peacefully occupy the Dan Bravo oil rig in the North Sea for 36 hours as part of a campaign against oil and gas exploration. She trained for a month to prepare for the physical challenges, including swimming with heavy bags, climbing ladders, and camping on the helipad amid wind. They unfurled a banner and recorded thanks to supporters. After Total shut down production, they swam back due to approaching bad weather. She urges support for a fossil-free #NorthSeaRevolution.

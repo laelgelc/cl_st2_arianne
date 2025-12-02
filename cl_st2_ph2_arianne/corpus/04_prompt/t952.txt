@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the global agricultural crisis caused by an industrial, chemical-intensive food system that harms people, farmers, and the planet. It advocates for ecological farming, which prioritizes people, enhances biodiversity, avoids chemicals, and integrates science with local knowledge, as detailed in Greenpeace’s Food and Farming Vision. The author shares a personal example of eating a traditional Spanish breakfast with local, organic ingredients to support this shift. It encourages individual actions like buying local, eating less meat, reducing waste, and growing food, while urging governments and companies to invest in ecological farming for systemic change.

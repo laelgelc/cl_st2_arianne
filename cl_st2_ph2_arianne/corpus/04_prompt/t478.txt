@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On International Women’s Day, the post calls for global support to urge Senegal's government to shut down fishmeal and fish oil factories, which cause illness in areas like Gandiol, Joal, and Mbour, and divert fish needed for local food and livelihoods to industrial feed. African women activists, including Hindou Oumarou Ibrahim, Makenna Muigai, Thando Kimora, Wore Gana Seck, Awa Traore, and Fatou Samba, highlight women's vital roles in communities, the industry's harm to economies, food security, marine ecosystems, and UN Sustainable Development Goals, amid overfishing and climate change. They advocate reviewing legislation, protecting fish processors, and pledging to Stand 4 Women.

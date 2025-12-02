@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Awa Traore, a Greenpeace Africa campaigner from Senegal, traveled to New York for UN negotiations at IGC5 on a global oceans treaty, hoping for an agreement to protect 30% of oceans by 2030. Negotiations were suspended without resolution, prompting her to address delegates on behalf of over five million supporters. She highlighted Senegal's reliance on fish for 70% of animal protein, urged protecting oceans for vulnerable communities, noted some progress but lamented the collapse despite momentum, and cited 20 years of talks amid species endangerment, marine heatwaves, and 70% shark loss. She calls for resuming talks soon to finalize the treaty this year.

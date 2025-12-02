@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Ten years ago, Greenpeace exposed how major brands sourced palm oil from companies destroying Indonesia's rainforests, endangering people, tigers, and orangutans. Public pressure prompted NDPE policies from traders like Wilmar in 2013, with most following by 2014. However, recent investigations reveal traders cannot prove deforestation-free supply chains and maintain a 'don’t ask, don’t tell' approach. This has led to massive forest loss, declining orangutan populations, deadly haze from fires, and human rights abuses. Brands like PepsiCo and Unilever must disclose sources and eliminate destructive suppliers. A new Sumatran orangutan species offers hope but faces habitat risks.

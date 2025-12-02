@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Executive Directors Jennifer Morgan and Bunny McDiarmid discuss the annual global leadership meeting, focusing on #TimesUp: Justice, Safety, and Diversity. Building on #MeToo reflections, they unanimously agreed to create reporting spaces for sexual harassment victims, establish a complaints team, and invest in trainings on harassment prevention, unconscious bias, and diversity. They aim for 50% women in senior leadership, improve global integrity systems by October 2018, and strengthen anti-harassment policies with zero tolerance for bullying, discrimination, or harassment, ensuring thorough investigations and actions. They commit to addressing equity and creating safe spaces.

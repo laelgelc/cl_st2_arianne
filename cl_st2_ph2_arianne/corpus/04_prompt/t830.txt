@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Copenhagen Fashion Summit gathers major brands like H&M, Zara, and Burberry to discuss sustainability, focusing on circularity amid the industry's €1.5 trillion revenue, billion-plus annual garments, and projected 63% production growth by 2030. It acknowledges massive environmental impacts, including 80 billion cubic meters of water use, over a million tonnes of CO2 emissions, and 92 million tonnes of waste. However, circularity is insufficient without reducing overall production volumes, as unlimited growth is impossible on a finite planet. Brands must shift from fast fashion, promote durable, repairable clothes, and encourage buying less, rather than relying on consumer recycling or placebo solutions.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses a Brazilian rotten meat scandal where police uncovered major companies like JBS and BRF bribing inspectors to certify unsafe meat, using chemicals to mask rot, adding pigs' heads to sausages, and cardboard to poultry. This led to import bans from China, the EU, and others. It highlights systemic issues in global industrial meat production, linked to diseases and environmental harm like deforestation and 14% of greenhouse gas emissions. The post advocates for plant-rich diets, less meat, and holding governments accountable, as part of Greenpeace's campaign for better meat from local, sustainable sources. An update notes companies buying cattle from illegally deforested lands.

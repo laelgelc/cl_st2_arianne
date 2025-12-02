@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post honors women who helped found Greenpeace nearly 50 years ago, during Women’s History Month, focusing on their roles in the inaugural voyage protesting U.S. nuclear tests near Amchitka Island. Dorothy Stowe co-founded Greenpeace and provided stabilizing leadership. Marie Bohlen proposed sailing to the test site and co-founded the Don’t Make A Wave Committee. Dorothy Metcalfe relayed media reports, encouraged the crew to persist, and lobbied Canadian MPs. Zoe Hunter introduced Bob Hunter to pacifism and helped provision the ships. It notes the all-male crew was a mistake, overlooking women's essential contributions.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the upcoming COP24 UN climate conference in Poland, where delegates will work on the Paris Agreement's rulebook, likened to editing a global Google document crucial for saving the climate, oceans, forests, and animals. Author Juliet Perry shares her first UN meeting experience, noting the complexity, jargon, and circular discussions, yet highlights optimism from nations collaborating and lobbying by NGOs like Greenpeace. She emphasizes the issue's relevance to everyone, especially vulnerable developing countries, urges demanding clear action amid climate impacts, cites hope from a UN report, and encourages public involvement via #TakeYourSeat tweets for David Attenborough's address.

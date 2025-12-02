@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Indonesia's $20 billion textile industry supplies global fashion brands but has caused severe environmental damage, polluting rivers like the Citarum and rendering rice fields unproductive since the 1990s, with economic losses of IDR11.4 trillion (US$838 million) from 2004-2015. In May 2016, a court victory suspended government decrees legalizing wastewater discharges from three companies—PT. Kahatex, PT. Insan Sandang Internusa, and PT. Five Star Textile—due to permits issued without proper studies or monitoring, invoking the precautionary principle. This inspires hope for cleaner rivers. Greenpeace urges brands to fulfill Detox commitments to protect health and ecosystems.

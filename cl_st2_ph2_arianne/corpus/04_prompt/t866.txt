@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses air composition and the health impacts of pollution, including respiratory issues, asthma, cardiovascular disease, lung cancer, and 7 million annual premature deaths per WHO. Bulgaria ranks among the EU's most polluted countries. Greenpeace Bulgaria launched the "Dustcounters" project in Stara Zagora, creating affordable, open-source DIY devices using Arduino to measure local dust and particulate matter. These empower public awareness and action, with data shared on their website. Plans include analyzing results by February's end to develop an improved "Dustcounters 2.0" in 2017, highlighting pollution from fossil fuels and the need for collective emission reductions.

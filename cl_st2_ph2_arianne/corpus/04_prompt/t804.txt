@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The 2017 blog post highlights extreme wildfires and storms as visceral effects of global heating, potentially marking a milestone in public awareness. It details record-breaking fires in Russia, China, Mongolia, North America, and Europe, fueled by heat waves and droughts, causing widespread destruction, deaths, and evacuations. Storms, including Hurricanes Harvey, Irma, Maria, and Ophelia, intensified by warmer oceans, set records for energy and damages in the US and Europe. The post warns of non-linear escalations with rising temperatures, urges action via "seven megatrends," and notes historical climate science failures to curb emissions.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques net-zero commitments and carbon offsets as greenwashing tactics that allow corporations and nations to continue polluting by purchasing credits, often displacing communities. It introduces "real zero" as phasing out fossil fuels without offsets for genuine climate action. A Greenpeace poll of 2,681 respondents from over 60 countries shows low understanding of terms but strong preference (93.9%) for real zero over net-zero with offsets, with 81.1% opposing offsets and 97.8% distrusting companies relying on them. Public trust favors activists over governments and corporations, urging immediate action post-COP26.

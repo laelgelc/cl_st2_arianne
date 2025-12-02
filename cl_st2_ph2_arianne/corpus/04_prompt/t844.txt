@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the urgent need for Arctic protection amid record low sea ice, criticizing the European Parliament's recent resolution for favoring words over action. It questions why EU governments allow fishing in unfished Arctic areas despite support for a moratorium and why oil lobbies weakened calls for a total ban on Arctic oil extraction. Examples include Norway's new drilling plans, Shell's abandonment of Alaska exploration, and Obama-Trudeau's off-limits declaration. It urges questioning governments to halt fossil fuels, invest in renewables, support a UN oceans treaty, ban heavy fuel oil, and enforce fishing moratoriums, while promoting a court case to stop oil rigs.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The FSO SAFER, a massive tanker holding 1.1 million barrels of oil, is anchored off Yemen's Hodeidah port and has lacked maintenance since 2014 due to the ongoing conflict, amid the world's worst humanitarian crisis affecting 24 million people. Recent failures include flooding, non-functional fire equipment, and a broken inert gas system, raising risks of a spill or explosion up to four times the Exxon Valdez disaster, which could devastate fisheries, reefs, desalination plants, and aid access. Greenpeace urges UN-led diplomatic efforts for urgent assessment, oil transfer to a safe vessel, and spill response preparations.

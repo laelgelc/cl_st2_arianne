@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Free Land Camp in Brasília gathers thousands of Indigenous Peoples annually to demand government recognition of their lands, with the 19th edition from April 24-28. Demarcation, a constitutional right, protects territories from invasions, preserving livelihoods, cultures, and forests. However, only 30.8% of claimed areas are recognized, with 871 of 1,393 lands pending action. Invasions by loggers and miners, including illegal gold mining using excavators, devastate regions like Yanomami, Kayapó, and Munduruku, causing environmental destruction, mercury contamination, and violence. Indigenous land protection is crucial for global biodiversity and climate balance.

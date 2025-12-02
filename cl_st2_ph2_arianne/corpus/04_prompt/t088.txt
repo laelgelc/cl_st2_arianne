@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Alessandro Saccoccio, a Greenpeace campaigner, shares a nightmare about his son wanting a Black Friday video game console, contrasting it with his desire for nature-based memories. He blames consumerism, fueled by ads and brands, for pressuring overconsumption in cities, which generate nearly three-quarters of global emissions and require 1.8 Earths to sustain. The richest 10% cause 36-45% of emissions and threaten nature and food supplies. Solutions include carbon taxes on the super-rich, phasing out fossil fuels, and promoting low-carbon lifestyles through reuse, sharing, and experiences over objects. He advocates regulating ads and teaching children that happiness comes from doing, not buying.

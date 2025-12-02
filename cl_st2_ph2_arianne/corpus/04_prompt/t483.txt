@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post celebrates setbacks for three fossil fuel companies: Equinor abandoned oil drilling plans in Australia's Great Australian Bight, citing lack of commercial viability, protecting marine life and locking up over 800 million tonnes of carbon after campaigns by communities, Indigenous owners, and Greenpeace. OMV's offshore well in New Zealand yielded no oil, undermining the industry's future there amid protests and a ban on new permits. Teck Resources withdrew its application for Canada's largest tar sands mine, acknowledging economic and climate pressures, benefiting Indigenous communities and the environment. These reflect people power and the oil industry's decline.

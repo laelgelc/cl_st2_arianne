@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace advises protecting against air pollution by exercising outdoors in early morning or evening when air is clearer, taking side streets to reduce exposure by up to 60%, visiting local parks for cleaner air and mental health benefits, walking further from curbs on busy roads, waiting steps back at traffic lights to avoid concentrated emissions (especially for children), and opening home windows facing away from busy roads. Long-term, switching to clean transport like electric vehicles is essential; Greenpeace campaigns for this and urges government action to lower pollution.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace blog post critiques sustainability certification labels on products like cocoa, coffee, palm oil, soy, and wood, noting that schemes such as FSC, PEFC, and Rainforest Alliance often fail to prevent deforestation, ecosystem destruction, and human rights abuses, including Indigenous and labor rights violations. Despite their popularity since the 1990s, these labels enable companies to continue harmful practices while misleading consumers. The post calls for governments in producer and consumer countries to implement stronger regulations and tracking systems, and for companies to adopt robust standards, shifting responsibility from individual buyers to systemic change to combat climate, biodiversity, and inequality crises.

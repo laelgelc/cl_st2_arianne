@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Taiwan is facing its worst drought in 56 years, lasting 18 months with no typhoons last summer, causing reservoirs like Techi (73.3% volume drop), Baoshan Second (96.2%), and Zeng-wen (81.1%) to dry up. Sun Moon Lake's record-low levels expose mud, hurting tourism and boat businesses, while water shutoffs in Taichung and agricultural losses, including a 20% tea harvest decline, mount. Climate change is projected to increase droughts, reduce spring rain by 13.2% by mid-century, and halve typhoons by century's end. Over 80% of energy is from fossil fuels, despite solar and wind growth. Greenpeace urges a net zero timeline before 2050 and carbon pricing.

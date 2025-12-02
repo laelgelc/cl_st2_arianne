@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses how the climate crisis exacerbates inequality and racial injustice, worsening impacts on racialized communities through extreme weather, forced migration, and discrimination. It calls for centering these communities, including Indigenous Peoples protecting forests, in solutions against polluting industries like fossil fuels. Exploitation ties to slavery and ongoing colonialism, with extractive industries disproportionately harming people of color via polluted air, water, and soil, leading to health issues and death. Communities least responsible for climate change face the brunt of floods, droughts, and displacement, urging a just transition and #FossilFreeRevolution.

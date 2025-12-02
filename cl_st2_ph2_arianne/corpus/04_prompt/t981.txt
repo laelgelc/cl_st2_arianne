@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Italy celebrates the Benetton Group's commitment to eliminate all hazardous chemical releases from its global supply chain and products by 2020, following similar pledges from Zara, Mango, Esprit, and Levi’s in response to activist and consumer pressure. Competitors like Calvin Klein, GAP, and G-Star Raw appear out of touch, as 13 major brands have now committed to detox. The post urges more fashion houses to join and encourages sharing the "Detox Fashion" video to pressure brands like Victoria’s Secret to adopt non-hazardous alternatives and end pollution.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes the Marine Stewardship Council's certification of an Antarctic krill fishery as sustainable, despite objections from groups like the Pew Environment Group and Antarctic and Southern Ocean Coalition. It highlights three overlooked issues: krill's vulnerability to climate change and ocean acidification; the unsustainable expansion into remote Southern Ocean areas; and limited knowledge of krill's life history. The author argues this legitimizes exploiting a foundational food source for whales, seals, penguins, and fish, potentially harming ecosystems, and notes krill is used for oil and fish food, not direct human consumption.

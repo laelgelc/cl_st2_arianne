@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Actors Alexander Skarsgard from True Blood and Jack McBrayer from 30 Rock teamed up with Funny or Die and Greenpeace for a three-part mini-series, "Jack & Alex Set Sail," filmed on a Greenpeace icebreaker in the Arctic Ocean off Greenland. The series aims to raise awareness about global warming and support the "Save the Arctic" campaign to prevent fossil fuel drilling. Skarsgard hopes viewers appreciate the Arctic's beauty and importance of preserving it from becoming an oil field. McBrayer described witnessing rolling icebergs, calving glaciers, and whales as phenomenal and inspiring.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Starbucks Korea announced it will phase out disposable cups in its cafes by 2025, marking a shift from the company's limited environmental efforts. Greenpeace urges Starbucks to accept reusable cups globally, launch returnable cup programs in every country, and eliminate disposables worldwide by 2025. The post highlights billions of throwaway cups as a major plastic pollution source, with Starbucks distributing 6 billion annually. It credits Korea's government policies, including a 2027 ban and 2022 deposit system, for driving this change. Starbucks paused reusables due to COVID but resumed in some regions, excluding North America, prompting calls for a global transition.

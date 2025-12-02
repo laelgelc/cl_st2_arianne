@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post uses a knock-knock joke to highlight climate change as a persistent threat, urging protection of Earth since there's no Planet B. It warns against resuming heavy fossil fuel reliance post-COVID, noting climate change's ongoing presence amid the pandemic. It details worsening annual floods in South Asia affecting 9.6 million people, with specifics: 37.89 million impacted in China (including 10,000 evacuations in Anhui and Hubei), one-third of Bangladesh flooded (2.8 million affected), 6.8 million in northeastern India, and devastation in Nepal, Indonesia, and Japan. In Kenya, May-June floods displaced thousands, caused deaths, and destroyed crops and livestock, amid intensifying extreme weather in East Africa due to climate crisis.

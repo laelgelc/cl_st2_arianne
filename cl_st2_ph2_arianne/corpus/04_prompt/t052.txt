@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The climate crisis has increased rainfall and floods in Indonesia, impacting coffee production and small-scale producers who run 90% of plantations. Lady Farmer Coffee, a women-run plantation in Central Java founded in 2016 by Wiwi and two others, empowers female farmers with 273 Sigarar Utang trees, handling all production stages. Facing excessive rain affecting tree growth, bean sweetness, drying, and quality, plus rising electricity costs, they installed solar panels via the Diversity Movement, including Greenpeace Indonesia. This reduces drying time by 40%, costs by 35%, emissions, and maintains quality while promoting renewable energy and women's roles in the industry.

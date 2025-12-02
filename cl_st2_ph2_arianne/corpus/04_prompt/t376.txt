@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post by Sônia Guajajara highlights the fragility of life amid events like the COVID-19 pandemic, urging immediate care for Mother Earth to prevent new pandemics from biodiversity destruction. Indigenous Peoples warn that human life is interconnected with nature, and predatory economic models risk everyone's future. Since colonial invasions, Brazilian Indigenous groups have adapted to fight for rights using the Constitution. The Articulation of Indigenous Peoples of Brazil (APIB), with allies including Greenpeace Brazil and political parties, filed a Supreme Court case to compel the government to protect the Amazon, forests, waters, and all life forms.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace awarded Essity CEO Magnus Groth the 'Golden Chainsaw Award' at the company's Stockholm shareholder meeting for failing to protect old-growth forests. Essity, Europe's largest tissue producer behind brands like Tempo and Velvet, sources pulp from SCA, which destroys forests vital to Sámi reindeer herders by planting invasive lodgepole pine. Despite a 2017 petition with nearly 250,000 signatures and Essity's sustainability claims, the company has delayed responses, held meetings, and requested more time, ignoring demands from the Swedish Sámi association (SSR) and Greenpeace to halt the destruction.

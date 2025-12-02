@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights severe climate crisis impacts in the Middle East and North Africa (MENA), including lives lost, destroyed homes, failing crops, and threatened livelihoods, with the region warming twice the global average. It details unprecedented droughts, floods, heatwaves, and other extremes in countries like Algeria, Egypt, Morocco, Tunisia, and the UAE. The post urges transitioning from fossil fuels to renewables for energy independence and criticizes historic polluters for refusing loss and damage payments. It calls for COP27 to establish a grant-based finance facility for adaptation, mitigation, and compensation to enable recovery and a greener future.

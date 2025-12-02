@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights deforestation in Brazil's Serra Ricardo Franco State Park, a biodiverse area spanning Amazon, Cerrado, and Pantanal biomes, home to species like the caboclinho-do-sertão bird and giant otter. Despite its 1997 creation, 24% of the park has been deforested for cattle pastures, with farms like Paredão selling cows to Barra Mansa, which supplies slaughterhouses JBS, Minerva, and Marfrig. These companies export meat globally, failing 2009 commitments to monitor suppliers and exclude deforestation-linked farms. The post links this to rising Amazon deforestation, zoonotic disease risks amid COVID-19, and calls for enforced protections and supply chain reforms.

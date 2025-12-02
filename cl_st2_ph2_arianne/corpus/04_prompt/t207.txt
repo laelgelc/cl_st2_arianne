@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Vanessa Nakate's book excerpt highlights how education empowers African women and girls to address the climate crisis. It describes limited options for uneducated girls, such as early marriage, farming, or domestic work, leaving little time for activism due to barriers like lack of internet and job instability. The COVID-19 pandemic has exacerbated this by cutting school fees, risking lost educational gains. Nakate shares her family's commitment to education, noting Uganda's primary school parity but gaps in higher levels. Globally, millions of girls miss school, limiting their potential roles in decision-making on climate issues.

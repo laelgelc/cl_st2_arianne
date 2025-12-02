@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post outlines five reasons why McDonald’s, KFC, and Burger King must oppose Amazon destruction: their pressure could force President Bolsonaro to protect the forest amid global outcry; the Amazon is vital for global climate regulation, carbon storage, water vapor production, rainfall, Indigenous Peoples, and biodiversity, preventing droughts, famines, heatwaves, and storms; they buy Brazilian beef and soya-fed chicken that fuel deliberate fires for agriculture; they promised to end deforestation but continue sourcing from destructive suppliers and driving meat demand; and other companies like H&M, Timberland, Vans, salmon producers, and investors are already taking stands against Brazilian products.

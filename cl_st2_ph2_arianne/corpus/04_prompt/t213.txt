@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reflects on the 50th anniversary of Greenpeace and the upcoming anniversary of the Limits to Growth study, noting that ecological awareness emerged in the 1970s amid signs of crisis. Despite growing environmental movements, legislation, and conferences, human society has not achieved sustainability; biodiversity has plummeted, with declines in wildlife biomass, insect populations, marine species, and forests, while human population and emissions have doubled. It identifies overshoot—exceeding Earth's regenerative capacity—as the root meta-problem behind symptoms like climate change, urging deeper ecological understanding over superficial solutions.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post urges governments and corporations to end fossil fuel addiction urgently. It highlights Samsung, a Winter Olympics sponsor in South Korea, as having the potential to transform the global tech industry by committing to 100% renewable energy. Samsung's energy footprint exceeds that of a small country, with less than 1% from renewables, relying instead on coal despite its PR claims. Greenpeace, supported by thousands, calls on Samsung's CEOs to #DoBiggerThings through global activism in cities like London and New York, and encourages a virtual banner drop via tweets to push for the switch.

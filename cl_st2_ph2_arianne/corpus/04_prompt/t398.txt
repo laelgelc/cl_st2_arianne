@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Footage shows the sea burial of Ari, a 24-year-old Indonesian migrant fisher who died from poor treatment on a Chinese-owned vessel by Dalian Ocean Fishing, along with three others. The story, broken by South Korean broadcaster MBC and viralized online, sparked reports of more deaths and pleas for rescue. Mobile technology has enabled fishers to document mistreatment, forced labor, human trafficking, and illegal practices like shark finning, long uncovered by Greenpeace. The Indonesian government has ignored modern slavery but recently taken reactionary steps; it must hold agencies, companies, and fleets accountable through better monitoring.

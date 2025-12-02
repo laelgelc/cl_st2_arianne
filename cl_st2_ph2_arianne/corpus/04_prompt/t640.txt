@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes the aftermath of a mining dam collapse in Brumadinho, Brazil, causing a catastrophic mudslide with 60 confirmed deaths and over 290 missing. It recounts personal stories of grief, evacuations, and ongoing fears from a potential second dam failure. The disaster, linked to mining greed, echoes past incidents and threatens environmental damage, including sludge spreading up to 220 km, dead fish, and impacts on the Paraopeba River and Indigenous lands. Greenpeace activists are documenting the tragedy, amplifying victims' voices, and demanding justice, investigations, and reparations.

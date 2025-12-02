@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses climate anxiety, noting a 2021 study where 84% of young people are worried and over 45% report daily impacts. It recommends podcasts for coping: "Climate and You" by Domyo Burk explores emotions and staying engaged without despair; "Climate Change and Happiness" by Panu Pihkala and Thomas Doherty encourages articulating fears and finding ways through; "How to Save A Planet" offers energizing, humorous stories on action, like Ayana Elizabeth Johnson's Venn diagram and episodes with Britt Wray; "Outrage + Optimism" balances justified outrage with optimism, featuring guests like David Attenborough and Luisa Neubauer on youth anxiety studies.

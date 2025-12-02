@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Governments will meet in Hobart, Australia, in late October to decide on creating a vast Antarctic Ocean Sanctuary in the Weddell Sea, spanning nearly two million square kilometers—the largest protected area on Earth. Additional proposals aim to establish a network of sanctuaries. The meeting, run by CCAMLR (24 countries plus the EU), requires consensus, so one objection could block or weaken the EU-proposed sanctuary. It would restrict industrial fishing, protect wildlife like whales and penguins amid global threats like pollution and climate change, and preserve the Antarctic as a key carbon store. Over two million people support it, presenting a major opportunity.

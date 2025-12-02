@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Illegal mining in the Amazon causes deforestation, river pollution, and violence against Indigenous Peoples, including invasions of lands like Yanomami, Munduruku, and Kayapó, leading to diseases, sexual violence, murders, and community divisions. A 2022 Yanomami report highlights impacts on 273 communities and over half of 27,000 inhabitants, with mined areas surging 625% since 2010. It debunks economic benefits, showing short-term gains but long-term poverty and health issues like mercury contamination. Greenpeace urges Brazilian authorities to evict miners, enforce rights, and promote sustainable policies, with hope under Lula's government.

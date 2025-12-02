@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+ExxonMobil faces an EU inquiry in Brussels, prompted by a Food & Water Europe petition, over its role in climate change denial. The company knew of fossil fuel-climate links since 1957 but spent millions deceiving the public and delaying action, costing governments decades. Despite acknowledging risks, Exxon's business plans risk exceeding Paris Agreement limits. It refused to attend a European Parliament hearing on denial, risking a lobbying ban, similar to past avoidance of inquiries in the Philippines and US lawsuits. The post urges tweeting Exxon questions to hold it accountable.

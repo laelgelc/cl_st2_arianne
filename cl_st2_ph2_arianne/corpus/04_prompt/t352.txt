@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post celebrates the influence of women in social, political, and economic spheres, profiling six inspiring Thai environmental activists. It features Supaporn Malailoy, advocating for environmental human rights like clean air and water; Panita Pook Kongsook, a long-time Greenpeace volunteer promoting non-violent action; Sureerat Taechutrakul, who helped stop coal plants in Prachuap Khiri Khan; Nanticha “Lynn” Ocharoenchai, founder of Climate Strike Thailand to pressure government on climate issues; Pornchita Fapratanprai, opposing coal mining in her indigenous community; and Gig Koranis Tanangsnakool, researching and promoting alternatives to single-use plastics via social media. These women embody courage and passion for their communities and the environment.

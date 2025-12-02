@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Amur region in Russia faces its worst wildfires this year, fueled by low winter snow and strong winds, turning former forests into burning wastelands, with only permafrost areas spared. These fires release massive CO2, hindering Paris Agreement goals, and spread soot that accelerates Arctic ice melt. Greenpeace advocates recognizing wildfire emissions in national carbon plans and urges action in affected countries like Russia. Human causes, such as careless burning, drive most fires; prevention includes education, proper fire extinguishing, and reporting. Greenpeace Russia launches the Fire initiative to raise awareness and reduce wildfire severity, amid global crises in Indonesia, US, Canada, and Brazil. Over two million hectares have burned, emitting 110 megatonnes of CO2.

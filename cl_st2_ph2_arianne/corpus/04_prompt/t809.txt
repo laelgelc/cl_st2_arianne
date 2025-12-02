@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights a global shift away from coal, the primary energy source since 2003 and the largest emitter of CO2, with mining also releasing methane. Despite efforts by politicians like Trump to support fossil fuels, new Greenpeace and CoalSwarm research shows 23 countries, states, and cities planning coal phase-outs by 2030, including three G7 economies and possibly Italy. This equates to 370 coal plants shut down or avoided, powering six UKs and retiring half a trillion USD in assets. Worldwide protests, from UK's Kingsnorth to Delhi's clean air activists, demand a transition to renewables.

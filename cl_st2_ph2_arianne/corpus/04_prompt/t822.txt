@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the 2017 murders of Wixárika leaders Vázquez and Agustín Torres in Mexico, who fought to reclaim ancestral lands from ranchers and drug cartels amid government inaction. It highlights global Indigenous struggles, including Guarani and Kaiowa in Brazil facing violence from loggers, Ecuadorian tribes suing Chevron for oil contamination, and Wichi and Guarani in Argentina successfully campaigning with Greenpeace against deforestation for soy plantations. The post critiques globalization's failure to benefit Indigenous peoples, emphasizes their role in preserving biodiversity, and quotes a 2015 Indigenous leaders' statement on Earth's degradation.

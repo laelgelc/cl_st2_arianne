@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights environmental successes like the Montreal Protocol's role in ozone recovery, but warns that overall progress is insufficient against escalating crises. Referencing the 2017 "World Scientists’ Warning to Humanity," it details declines since 1992 in freshwater (26%), fisheries (6.4%), ocean dead zones (75% increase), forests (2.8%), biodiversity (28.9%), CO2 emissions (62% rise since 1960), population (35% increase), and soil productivity. It urges major actions: expanding reserves, restoring ecosystems, reducing waste and population growth, shifting diets, divesting from fossil fuels, and revising economies for sustainability, building on historical warnings from Malthus to modern studies.

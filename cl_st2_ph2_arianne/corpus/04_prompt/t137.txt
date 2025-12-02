@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how climate catastrophes and the pandemic expose structural inequalities, urging stringent regulation of sectors like agriculture and energy based on human rights, environmental assessments, and consent from women and Indigenous Peoples. It criticizes wealthy nations and corporations for profiteering amid crises and calls for alternatives to capitalism, embracing diverse visions beyond GDP that prioritize wellbeing, such as the Economy for the Common Good matrix. It advocates divesting from fossil fuels and military systems, recognizing care work as green jobs, and redistributing power from corporations through accountability measures like a binding international treaty.

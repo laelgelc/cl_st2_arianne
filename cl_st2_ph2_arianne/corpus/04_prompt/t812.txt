@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post references the film The Graduate to highlight the rise of plastics since the 1950s, now polluting oceans like the North Pacific gyre, where plastic outweighs plankton and harms marine life. It details plastic ingestion by seabirds, turtles, fish, and mammals, causing obstruction, toxicity, and up to a million seabird and 100,000 mammal deaths yearly. Solutions include global bans on single-use plastics, corporate accountability via Extended Producer Responsibility, and public water infrastructure. Greenpeace urges G20 nations to prioritize prevention, phase out throwaway items, and foster innovation.

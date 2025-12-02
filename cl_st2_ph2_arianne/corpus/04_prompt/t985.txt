@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace celebrates Marks & Spencer's commitment to eliminate all hazardous chemical releases from its supply chain and products by 2020. M&S will phase out perfluorocarbons (PFCs) by July 1, 2016, reinforce a ban on APEOs, and set timelines for other priority chemicals. The company pledges transparency by releasing discharge data from five Chinese suppliers, with plans to expand. As the seventh brand joining Puma, Nike, Adidas, H&M, C&A, and Li-Ning, M&S sets an example for the industry to detoxify and protect waterways. Greenpeace urges more brands to act and calls for public sharing and campaign participation.

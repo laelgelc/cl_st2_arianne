@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post criticizes the car industry for greenwashing and pretending to care about the environment, health, and safety while contributing 9% of global greenhouse gas emissions in 2018, exceeding the EU's total. It calls for phasing out diesel, petrol, and hybrid cars, ending new sales by 2028, and producing smaller, lighter, efficient electric vehicles. Greenpeace urges a rapid transition to public transport, renewables, cycling, walking, and micro-mobility per the Paris Agreement. Protests are planned at the Frankfurt Motor Show on September 14, with an open letter targeting companies like Volkswagen and Hyundai-Kia for exploiting loopholes, cheating regulations, and prioritizing high-emission SUVs.

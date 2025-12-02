@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Greenpeace blog post celebrates Valentine's Day by highlighting romantic behaviors of Antarctic animals. Adélie penguins gift rocks to mates for nesting. Blue whales, with hearts the size of gorillas, migrate to breed and devotedly nurse calves without eating. Turquet’s octopuses have three hearts, offer loving hugs, and provide DNA insights on past climate change. Albatross mate for life up to 60 years, reuniting annually to raise chicks. Krill mate deep underwater in a quick "chase, probe, embrace, flex & push" process. It urges joining the call for an Antarctic Ocean Sanctuary to protect these species.

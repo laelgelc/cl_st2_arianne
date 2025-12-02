@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Russia aids firefighters and volunteers in combating peat fires using scientific research and decades of experience, as illustrated by volunteer Alexi, who evolved from cleaning park garbage to specializing in fire suppression. They produced a comprehensive guide on peat extinguishing, now in English, covering flooding methods, hydrology, and advanced technologies like UAVs and satellite data. Most wildfires stem from human activities, necessitating prevention over mere response. Peat fires, worsened by climate change, release massive carbon emissions, toxic smoke, and contribute to zombie fires, threatening biodiversity and accelerating warming.

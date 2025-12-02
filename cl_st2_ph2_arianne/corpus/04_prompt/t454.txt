@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Acampamento Terra Livre, the world's largest Indigenous gathering in Brasília, was canceled due to COVID-19, as Indigenous Peoples from Brazil demand government protection of their rights and lands. Despite isolation, communities face virus risks from illegal invaders like miners and loggers, with ten deaths reported, including a Yanomami boy, echoing historical disease devastations. Additional threats include Amazon fires causing respiratory issues and mercury contamination from mining. Under Bolsonaro, FUNAI funding cuts and policies have doubled deforestation alerts and heightened forest destruction in Indigenous territories, endangering lives, the Amazon, and the climate. The pandemic exposes systemic vulnerabilities, urging governments to prioritize people and the planet.

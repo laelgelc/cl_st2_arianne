@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On May 18, 2016, Norway granted new Arctic drilling licenses to 13 oil companies, hailed as a "new chapter" by the petroleum minister despite industry setbacks like Shell's withdrawal, halved Norwegian production, and plummeting oil prices. This contradicts recent global warming limits from the Paris Agreement and a Norway-US Arctic sustainability deal. Chevron's CEO views warming as beneficial for gas production. Civil society groups, including Greenpeace, seek a constitutional review for environmental rights, potentially leading to court action, offering hope for a shift to renewables over Arctic oil.

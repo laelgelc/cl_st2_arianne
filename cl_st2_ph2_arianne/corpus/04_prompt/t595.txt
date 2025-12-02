@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In May, Israel faced over 1000 wildfires amid record-breaking heat up to 45°C, attributed to climate change, leading to evacuations and home losses. Climate breakdown exacerbates fire intensity through higher temperatures, heat waves, and drier conditions, with the Middle East warming 1.5°C—50% above the global average. A study warns of longer summers and shorter winters by century's end, increasing droughts and wildfire risks. Greenpeace urges halting Mediterranean fossil fuel prospecting and shifting to renewables. Prevention tips include extinguishing cigarettes and fires properly, avoiding unattended flames, and reporting wildfires promptly. Safety advice: evacuate forest fires, smother grass fires, and warn neighbors.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post honors the pivotal roles of women in Greenpeace's founding and early campaigns, starting with a memorial for co-founder Dorothy Stowe. It details contributions from women like Marie Bohlen, who proposed sailing to protest U.S. nuclear tests; Dorothy Metcalfe, who managed media and lobbied governments; Linda Spong and Bobbi Hunter in whale campaigns and blockades; Susi Newborn and Denise Bell, who acquired and outfitted the Rainbow Warrior ship; and Ann-Marie Horne and Mary Lornie, who documented French assaults during nuclear protests. The Rainbow Warrior name draws from a prophecy about global Earth protectors.

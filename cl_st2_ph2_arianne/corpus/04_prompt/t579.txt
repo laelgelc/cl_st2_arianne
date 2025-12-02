@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Professor Gretchen Früh-Green recounts discovering the Lost City hydrothermal vent field in 2000 by chance during a seafloor mapping expedition on the ship Atlantis. She describes its awe-inspiring white cathedral-like structures, geysers, and colorful life at 800 meters depth, a unique site in the Atlantic that sustains itself for thousands of years and may reveal insights into Earth's formation and life's origins. Expressing protectiveness, she warns of unregulated deep-sea mining's potential dust, noise, and unknown chemical impacts, urging a Global Ocean Treaty to safeguard such vulnerable ocean wonders from destructive industries.

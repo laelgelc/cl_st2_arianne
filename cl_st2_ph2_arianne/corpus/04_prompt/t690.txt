@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Environmental defenders worldwide face criminalization, threats, surveillance, and violence from governments and corporations, with movements labeled as terrorism and hit with lawsuits. Killings rose to 207 in 2017 from 201 in 2016 and 154 in 2015, per Global Witness, with 66 more in 2018. Berta Cáceres was murdered in 2016 for opposing the Agua Zarca dam in Honduras, which threatened ecosystems and Lenca Indigenous rights. An investigation implicated DESA company officials in planning the assassination. The trial of eight accused begins this week, offering a chance to end impunity and demand justice for defenders and the planet.

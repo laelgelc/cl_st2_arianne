@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post connects human rights to climate change, emphasizing Climate Justice through litigation to hold governments and corporations accountable. It highlights cases like young Colombians winning rights for the Amazon Basin, a Philippine investigation into carbon majors, and Swiss senior women's ongoing suit against government emissions. Climate change impacts include ecosystem damage, health threats, and violations of rights to life, food, and safety, disproportionately affecting vulnerable groups. UN experts at COP 24 urged rights-based action. Greenpeace's People’s Guide aids communities in building human rights-focused climate cases.

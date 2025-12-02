@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses severe threats to seabirds, especially albatrosses, from human activities like industrial overfishing, which depletes prey fish and causes population declines of up to 70% since 1950. Additional dangers include bycatch in fishing gear, plastic pollution killing over a million birds yearly, invasive species, historical feather harvesting, collisions, oil spills, toxic chemicals, and ocean acidification from CO2 emissions, increasing acidity by 30% since the Industrial Revolution and harming marine life like corals and shellfish. Studies highlight ecosystem disruptions, with calls for expanded marine reserves, trawling bans, and restoration efforts to aid recovery.

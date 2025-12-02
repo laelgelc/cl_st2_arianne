@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Hurricane Lorenzo rapidly intensified to Category 5 in the northeastern Atlantic, marking the first of such magnitude there, the strongest ever observed so far east, and one of the northernmost on record. Now a post-tropical cyclone heading toward the British Isles, it follows a trend of increasing Category 5 hurricanes from 2016-2019. Hurricanes form over warm tropical waters, creating rotating wind systems. Global warming may not increase hurricane numbers but can lead to quicker intensification, more rainfall, and slower movement. To combat this, accelerating to zero emissions by 2040 is essential.

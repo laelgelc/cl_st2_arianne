@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post celebrates World Tuna Day, highlighting the beauty and size of tuna while critiquing industrial fishing's harms, including illegal, unreported, and unregulated (IUU) practices, overfishing, bycatch of species like turtles and sharks, and exploitation of migrant workers on distant water fishing vessels facing poor conditions and withheld wages. It advocates supporting small-scale, ethical fisheries through government investments to boost local economies, ocean health, worker rights, and food security amid COVID-19 disruptions. A just transition to sustainable methods can help fish populations recover and ensure resilient supply chains.

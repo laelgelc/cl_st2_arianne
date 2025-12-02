@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post emphasizes that environmental justice requires social justice, urging ocean advocates to address root causes like racism, patriarchy, and inequalities for a new normal where thriving is a right for all. It highlights erased stories of frontline communities, such as Senegalese women fish processors protesting industrial overfishing and transhipment linked to human rights abuses, survivors of slavery in supply chains, and marginalized groups affected by toxic facilities. Greenpeace commits to amplifying these voices, tackling systemic oppression, and learning from current upheavals like the pandemic and racial justice demands to support those most impacted.

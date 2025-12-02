@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In Manaus, Brazil, Parque das Tribos, founded in 2014, is an urban Indigenous neighborhood housing 750 families from over 30 ethnic groups, facing poverty, racism, and infrastructure lacks. Amid COVID-19's hunger crisis, community initiatives like Renata Peixe-Boi's Boca da Mata communal kitchen provide fresh, culturally symbolic meals, empower migrant women, and reconnect youth with Indigenous languages and traditions. Claudia Baré's planned school affirms identities, combats prejudice, and protects children from crime. These efforts promote inclusion, justice, and collective well-being over profit, inspiring alternative futures.

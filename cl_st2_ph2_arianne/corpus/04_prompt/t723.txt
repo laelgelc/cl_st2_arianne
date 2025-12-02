@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses global concerns over oil pipelines' risks of spills, threatening water, wildlife, ecosystems, and communities. It highlights Indigenous-led resistance to projects like Kinder Morgan (now Canadian-owned), Keystone XL, Dakota Access (facing a $900 million SLAPP lawsuit by ETP), Enbridge’s Line 3, and Bayou Bridge. Spill statistics show frequent incidents by companies like Kinder Morgan, TransCanada, Enbridge, and ETP. The post urges shifting from fossil fuels to renewables, criticizes industry tactics like lawsuits and intimidation, and celebrates nonviolent actions, including Watch Houses, solar installations, and civil disobedience.

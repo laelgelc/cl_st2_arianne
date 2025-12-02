@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post mourns the death of climate scientist Wallace Smith Broecker, who predicted global warming in 1975, symbolizing a generational shift as youth-led school strikes, inspired by Greta Thunberg, demand urgent action against visible climate impacts like extreme weather. It highlights the IPCC's warning of 12 years to avert chaos, urging halved CO2 emissions by 2030 and net zero by 2050. Despite the Paris Agreement and COP24 rules, political inaction persists amid rising temperatures and record heat, calling for solidarity with striking youth and bolder commitments from leaders.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The author recalls her childhood in the Philippines, reusing glass Coca-Cola bottles and refilling canisters at local stores, fostering community pride. She contrasts this with current plastic pollution from single-use packaging by brands like Coca-Cola, PepsiCo, Nestlé, and Unilever, which contributes to climate change as plastic derives from fossil fuels. Blaming corporate overproduction, not individuals, she notes the global plastics treaty and Coca-Cola's 25% reusable packaging goal by 2030, but demands stronger commitments: 50% for Coca-Cola, PepsiCo, and Nestlé. People must reject greenwashing for a plastic-free future.

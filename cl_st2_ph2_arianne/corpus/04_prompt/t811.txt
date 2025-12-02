@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace USA evaluated 17 major smartphone, tablet, and PC producers on three key areas: renewable energy transition, reducing resource consumption, and eliminating hazardous chemicals. Highlights include Apple's leadership in 100% renewable supply chains, while Samsung and Huawei lag in reporting emissions. Fairphone, Dell, and HP lead in durable, repairable designs to combat e-waste, but many companies still use PVC and BFRs. The average grade was D+, with Fairphone scoring B. The post urges public action via tweets to companies like Samsung, Huawei, and Amazon, and shares facts on electronics' environmental impact, re-launching the Guide to Greener Electronics.

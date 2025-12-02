@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses how the COVID-19 pandemic is exacerbating plastic pollution through increased use of disposable PPE like face masks. It urges people, except frontline workers, to opt for reusable masks—potentially homemade—to protect health and the environment, avoiding another waste crisis amid existing plastic overload. Drawing from Japan's long history of mask-wearing since the 1918 Flu Pandemic, the author emphasizes masks as an act of altruism for society and the planet. Key lessons: wear masks to safeguard others and choose reusables to address both health and environmental challenges collaboratively.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post recounts the author's experiences as a Greenpeace photographer from 1974 to 1982, sharing photographs and memories of campaigns. It describes chartering ships to confront whaling fleets, disrupting Russian whalers in 1975-1976, halting harp seal hunts off Labrador while compromising with local and Indigenous hunters, anti-nuclear actions including blocking Rocky Flats and Seabrook with allies like Allen Ginsberg, a "test blockade" of an oil tanker in 1981, visits to abandoned whaling stations, and the global media impact of their whale confrontation footage.

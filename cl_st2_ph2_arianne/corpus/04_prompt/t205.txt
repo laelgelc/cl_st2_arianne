@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the upcoming second part of the IPCC's Sixth Assessment Report, set for release on February 28, building on last August's "Code Red for Humanity" warning. It will address climate crisis impacts on humanity, ecosystems, vulnerabilities, resilience-building, coastal communities, social justice in climate-resilient development, and adaptation solutions for unavoidable changes like warming and sea-level rise. A third part in April will cover emissions cuts, with a synthesis in October. These reports are vital for COP27 discussions. The post stresses heeding scientists amid worsening climate conditions since 2014, including record warm years.

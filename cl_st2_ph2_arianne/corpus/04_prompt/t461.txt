@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace advocates for long-term systemic change to challenge power structures, noting that the corona crisis is cracking these systems. Post-crisis, society can either restore the status quo or envision economies prioritizing human and planetary wellbeing. Unlike the 2008 response that favored polluting industries, recovery must treat the planet as 'too big to fail' by reducing climate impact and fostering a green, equitable future. Investments in green sectors can create 65 million jobs by 2030 and yield billions in gains. Economic packages should follow a 'do no harm' principle, supporting workers and transitions like phasing out fossil fuels, ecological farming, and sustainable mobility, rather than subsidizing polluters.

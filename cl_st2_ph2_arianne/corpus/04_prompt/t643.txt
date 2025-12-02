@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques single-use plastics, noting a truckload enters oceans every minute, with only 9% recycled and waste dumped in the global south. It urges companies like Coca-Cola and Nestlé to reduce throwaway packaging for profit. It discusses gadget waste from frequent tech upgrades, like Apple's new iPhones and deliberate slowing of older models, advocating for the "right to repair." Drawing on Marie Kondo's method, it promotes decluttering to spark joy, revealing excess consumption's environmental toll, and encourages sustainable alternatives like repairing clothes over fast fashion, which pollutes and exploits workers.

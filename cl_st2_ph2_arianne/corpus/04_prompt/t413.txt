@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace interviews four photographers documenting climate change through long-term projects. Swastik Pal captures Sundarbans' islanders facing rising seas, salinity, floods, and displacement, highlighting resilience. Nadia Bseiso explores the Fertile Crescent's water scarcity and droughts, questioning its fertility and advocating awareness. Amilton Neves examines Mozambique's timber industry deforestation and cyclone impacts, aiming to promote preservation. Agoes Rudianto documents Jakarta's sinking land, floods, and adaptations like sea walls. Their work fosters deeper environmental narratives, emphasizing awareness and action.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post reviews Merlin Sheldrake's book "Entangled Life," exploring fungi's vital roles in ecosystems through mycorrhizal networks, dubbed the "Wood Wide Web." It discusses symbiotic relationships, such as fungi providing nutrients to plants like Ghost pipe and orchids, enabling signal transmission for pest defense, and offering medicinal benefits like combating viruses in bees and humans. The text challenges notions of individuality, emphasizing collective survival in interwoven biomes, critiques industrial agriculture's soil destruction, and highlights fungi's potential in ecological restoration, drawing on historical and scientific examples.

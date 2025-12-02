@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace highlights the behind-the-scenes work in volunteer initiatives and details the development of a data dashboard for their Open Social platforms. In 2018, the community requested tracking of site content, user types, and actions, leading to a webhook-based solution integrated with Google Tag Manager and Analytics. Piloted in Brazil, the dashboard visualizes data to understand users and improve mobilization. Used by 10 Greenpeace organizations across 17 countries to engage 50,000 volunteers in safe, ad-free spaces, it's open-source for non-profits to adopt. Feedback is sought for iterations, with a GreenAct app upcoming.

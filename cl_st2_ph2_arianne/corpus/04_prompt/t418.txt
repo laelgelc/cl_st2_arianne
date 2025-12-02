@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the exploitation of migrant fishers from Southeast Asia on industrial fishing vessels, where hopes for better lives turn into harsh conditions akin to modern slavery, including long hours, abuse, and sometimes death. Consumers can help by choosing sustainable seafood and raising awareness. It highlights two Greenpeace films filmed in Taiwan with real Indonesian workers, based on true stories uncovered by Greenpeace East Asia and Southeast Asia. The films depict fishers' grim experiences, unfair treatment, and personal motivations like family, with over 30 interviewed fearing job loss if they complain.

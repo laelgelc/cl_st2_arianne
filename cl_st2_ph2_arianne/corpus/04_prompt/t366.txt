@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The World Economic Forum's Davos meeting is virtual this January due to COVID, shifting in-person to Singapore in May, highlighting geopolitical changes. Billionaires like Jeff Bezos have profited immensely amid the crisis, fueling calls for a green and just recovery to tackle inequality and climate change. Greenpeace supports radical policies worldwide, including a Wealth Tax in Canada, a New Normal in the Philippines, dividend bans in France for climate-inactive firms, and green recovery proposals in India, the US, Spain, and New Zealand. Global polls show strong support for transformational change, with Greenpeace backing campaigns like Make Amazon Pay and advocating for a #PeoplesVaccine. They urge joining #BetterThanDavos actions to demand systemic reforms over WEF's minor fixes.

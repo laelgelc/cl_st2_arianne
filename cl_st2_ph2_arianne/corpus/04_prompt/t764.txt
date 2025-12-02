@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Jenny Hyun shares her Antarctic expedition on Greenpeace's Arctic Sunrise, describing stunning scenery like penguin colonies on pebble beaches and glittering ice floes. She discusses climate change impacts, including the Larsen C iceberg calving, melting ice, and threats to ecosystems and species like adapted moss. Daily life involves ship cleaning, meetings, and weather-dependent activities amid seasickness. Penguins in their habitat appear strong yet fragile, inspiring protection. Greenpeace conducts research with submersibles in the Weddell Sea to identify new species, supporting an Antarctic Ocean Sanctuary to safeguard wildlife from industrial krill fishing. Her journey from Seoul was arduous but rewarding.

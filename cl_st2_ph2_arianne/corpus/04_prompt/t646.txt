@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights young climate activists challenging world leaders on inaction. Australian students staged school walkouts protesting government policies like coal support. Jamie Margolin founded Zero Hour, organized the Youth Climate March, and sued Washington state over climate rights violations. Greta Thunberg initiated school strikes in Sweden, inspiring global movements and delivering a powerful COP24 speech. Pacific Islander Litia, a Cyclone Winston survivor, advocates ending fossil fuels through Pacific Island Represent. Filipino Marinel Ubaldo testifies against major polluters as a Typhoon Haiyan survivor, emphasizing corporate responsibility.

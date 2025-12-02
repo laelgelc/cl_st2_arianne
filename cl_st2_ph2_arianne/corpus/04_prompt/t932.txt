@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The WHO classifies processed meat as carcinogenic and red meat as probably carcinogenic, highlighting concerns over current meat consumption levels. Producing one person's annual meat and dairy requires 403,000 liters of water, equivalent to 6,190 showers. In 2011, 8,481 tons of antibiotics were sold for EU livestock. Animal agriculture breeds 1 billion pigs, 19 billion chickens, and 1.4 billion cattle, causing 80% of Amazon deforestation and more greenhouse gases than transport. It uses 80% of global soy for feed. Reduce weekly meat intake by half, eat more local fruits and vegetables for health, ethical, and environmental benefits.

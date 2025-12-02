@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Rachel Carson, born in 1907 in Pennsylvania, developed a love for nature and writing early on. She authored ocean-themed books like Under the Sea Wind (1941), The Sea Around Us (1951), and The Edge of the Sea (1955), earning awards and leaving her government job to write full-time. Inspired by DDT's harm to birds, she researched pesticides, documenting their environmental and health impacts in Silent Spring (1962). Facing chemical industry attacks, smears, and lawsuits, the book raised public awareness, inspired policy changes like the EPA, and launched the modern environmental movement despite her battle with cancer until her death in 1964.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Vital Ocean Voices series shares stories from Indian Ocean coastal communities on impacts of destructive fishing, pollution, and climate breakdown. In Seychelles' Anse Royale, the Watershed Committee, including Terence Vel and Monica Samson, restores mangrove wetlands through a 2016 program involving nurseries, community planting, and workshops. This Ecosystem-Based Adaptation effort combats flooding, supports biodiversity, filters pollution, and aids fishing livelihoods. Community engagement fosters ownership, increasing mangrove species from three to six despite past destruction from settlement and development.

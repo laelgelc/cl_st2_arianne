@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes record-breaking cold, ice, and snow across the Northern Hemisphere, affecting East Asia, Europe, the US, Texas, and northern Mexico, with power grid failures in Texas and Mexico blamed on fossil fuels rather than renewables. It explains the polar vortex as a swirling ring of cold air in the stratosphere that weakens and wobbles due to Arctic warming from the climate crisis, leading to more frequent extreme winters. The post calls for phasing out all fossil fuels, shifting to 100% renewable energy, and urgent action by governments and corporations, highlighting commitments from China, Japan, and Korea, while urging public participation in Greenpeace's campaign.

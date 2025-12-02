@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's Antarctic expedition, intended to observe wildlife like penguins and whales, uncovered microplastics in water samples and hazardous chemicals in snow, including freshly fallen snow, indicating widespread pollution even in this remote region. Visible fishing waste such as buoys and nets was also found and removed. The findings highlight the need to address plastic pollution at its source by reducing production and ending single-use plastics. Governments have a chance to create an Antarctic Ocean Sanctuary, five times Germany's size, backed by 1.6 million people, to protect marine life from these pressures.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post, part of the "LIVE from the Pacific" series, recounts a ship's voyage from the Caribbean to the Pacific via the Panama Canal, involving a two-day queue, nine-hour crossing through six locks, and half-day mast maintenance, totaling three days. Crew observed wildlife like cranes, waterfowls, and a crocodile during the transit, with precautions against Canal staff due to the pandemic. In the Pacific, they encountered spotted and spinner dolphins, sea turtles, tuna, and seabirds, emphasizing ocean protection from ghost nets and destructive fishing. Caribbean sightings included flying fish and seabirds like pelicans and boobies.

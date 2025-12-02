@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace discovered a massive black wastewater plume off Shishi, China, from the Wubao Dyeing Industrial zone, linked to children's clothing production. Hazardous chemicals like nonylphenol, chlorinated anilines, and antimony were found in discharges and residues in exported clothes from Shishi and Zhili, posing health risks to children by disrupting hormones and development. China lacks strict regulations, with many coastal discharge points polluting illegally. Greenpeace urges government policy for chemical disclosure and calls on brands like Adidas and Disney to detox supply chains, following leaders like Zara and Mango.

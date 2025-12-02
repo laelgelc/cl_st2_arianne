@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the plastic pollution crisis, which harms wildlife, human health, and the environment through microplastics and toxins, emphasizing the need to reduce plastic production amid planned industry expansion. It highlights the Break Free From Plastic movement's 2018 brand audits, which identified top polluters like Coca-Cola, PepsiCo, and Nestlé based on volunteer cleanups. While companies are making promises to reduce impact, these fall short. The post calls for participation in larger brand audits during World Cleanup Day on September 21, using a toolkit to hold corporations accountable, and invites event registration to join the global movement.

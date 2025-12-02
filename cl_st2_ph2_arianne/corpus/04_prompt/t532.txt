@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post argues that logical and moral arguments alone fail to end injustices like ecological devastation, as powerful elites benefit from them and deny truths, such as climate change funded by fossil fuels. It emphasizes that non-violent direct action creates a truthful narrative, as seen in Gandhi, Mandela, and Quaker movements, exposing deceits by corporations like Chevron and Monsanto. Drawing from history, it highlights tactics for the powerless: moral truth, creativity, and peaceful resistance. Examples include Greenpeace's 1975 whaling confrontation, Extinction Rebellion's disruptions, Greta Thunberg's strikes, and the Global Climate Strike mobilizing millions.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The author recounts transitioning from an aerospace engineering student to an ecologist, influenced by Rachel Carson's Silent Spring exposing pesticide dangers, the 1969 Cuyahoga River fire highlighting pollution, Gregory Bateson's lectures on interconnected patterns in nature ("all divisions are arbitrary"), Indigenous teachings like "Mitakuye-Oyasin" (all my relations) from elders such as Fools Crow, and a childhood magpie encounter fostering kinship with the wild. These shaped views on ecology, complex systems, unintended consequences, and the need to protect relational webs in nature, leading to journalism, exile to Canada, and founding Greenpeace for actions like whale protection.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+COP26, the 26th UN Climate Summit in Glasgow from October 31 to November 12, gathers governments, NGOs, businesses, and Indigenous groups for decisive climate action. Greenpeace supports frontline communities most affected by climate impacts and demands halting new fossil fuel projects, halving emissions by 2030, rejecting carbon offsets as scams, and providing at least $100 billion annually from high-emitting countries for adaptation and compensation in vulnerable nations. The post warns against carbon markets derailing progress, emphasizes real emission reductions, and highlights COP26's role post-Paris Agreement and IPCC report, with Greenpeace attending to advocate for urgent changes.

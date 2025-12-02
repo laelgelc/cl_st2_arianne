@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post encourages appreciating what we have amid strange times, highlighting our luck in living on a magnificent planet that surprises us daily and renews our love for its beauty. It notes that no one can see it all in one lifetime. For skeptics, it urges pausing to digitally appreciate mother nature.

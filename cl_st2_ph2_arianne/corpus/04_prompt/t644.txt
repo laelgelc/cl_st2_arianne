@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the dysfunction of global politics at COP24, where 15-year-old Greta Thunberg highlighted decades of failed pep-talks and rising emissions despite warnings since 1979. It details a youth coalition's "People’s Demands for Climate Justice," urging keeping fossil fuels underground, ending subsidies, rejecting false solutions like techno-fixes, demanding climate reparations from rich nations, and halting corporate interference. The post debunks "green growth" as a delusion, citing studies showing economic growth ties to increased resource use and emissions, and calls for systemic change by contracting growth to address ecological overshoot.

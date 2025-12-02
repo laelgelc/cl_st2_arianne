@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace marks 50 years since its 1971 founding in Vancouver, originating from activists protesting a US nuclear test on Amchitka Island by sailing the renamed boat "Greenpeace," which pressured the US to cancel future tests and inspired campaigns against French tests. The group expanded to anti-whaling efforts using Zodiac boats, leading to global recognition and the formation of Greenpeace International. Despite 50 years of activism, environmental conditions have worsened, with biodiversity loss and rising emissions signaling an ecological "overshoot" crisis requiring reduced human population and consumption for sustainability.

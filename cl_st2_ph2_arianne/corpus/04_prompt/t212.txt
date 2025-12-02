@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the Netflix film "Don’t Look Up" as a satirical metaphor for the climate crisis, highlighting its record-breaking viewership and divisive opinions. It praises the film's humor in exposing societal denial, biases, and communication failures, comparing it to influential socially relevant movies. Insights from ecologist Nora Bateson emphasize satire as play that reveals deeper truths and blind spots. The post frames the film as a "mind bomb" to shift perceptions, urging examination of broader ecological overshoot beyond climate, including population and consumption issues, while noting mixed reviews along ideological lines.

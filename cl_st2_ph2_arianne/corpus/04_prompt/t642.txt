@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post promotes a 15-day online film festival featuring 15 documentaries on environmental challenges, practical solutions, and global citizen initiatives. Viewers can watch films for free, vote for the People's Award (most votes) and Favourite Film Award (most views), with winners later screened in French cities for public debates. Highlighted films include Ground for Hope on sustainable farming, Secret of the Oceans on climate-impacted ocean communities, Banking Nature on financial threats to nature, and others addressing nuclear power, dairy dysfunctions, wildlife extinction, land-grabbing, electronics waste, and more. It urges viewers to engage and adopt simple actions.

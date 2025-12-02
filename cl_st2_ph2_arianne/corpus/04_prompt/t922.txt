@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace is collaborating with Italy's Prato textile district to advance the Detox campaign, targeting suppliers for brands like Gucci, Prada, and Armani. Twenty companies have joined, eliminating hazardous chemicals such as PFCs, flame retardants, organotin compounds, and amines from azo dyes that harm health. Confindustria Toscana Nord is investing in tracking, transparency, and action plans to detox products, influencing global supply chains. Prato sets a new standard, challenging brands to follow. The post urges more companies to pledge Detox by 2020, consumers to demand chemical-free fashion, and highlights hopes for cleaner air and rivers.

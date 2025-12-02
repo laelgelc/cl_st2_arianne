@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The 2018 blog post details global climate disasters like floods, droughts, wildfires, cyclones, and sea level rise, blaming leaders' inaction or ignorance for blocking solutions like renewables and protections, deeming them guilty of mass murder. It highlights hope through renewable energy adoption in China, US, and India; near-success in Antarctic sanctuary with sustainable krill and marine protections; industry shifts like tuna and palm oil reforms; youth-led movements and legal wins against governments and fossil fuel companies; and anti-overconsumption efforts. It urges joining truth-sayers for a green future, noting 12 years to act amid fossil fuels, deforestation, and overfishing.

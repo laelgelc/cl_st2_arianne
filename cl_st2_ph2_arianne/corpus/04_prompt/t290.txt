@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Vital Ocean Voices features stories from Indian Ocean coastal communities on impacts of destructive fishing, pollution, and climate breakdown. This post shares Kokoly's experience, a respected octopus gleaner from Madagascar's Vezo seafaring people, whose livelihood depends on the sea. Amid extreme poverty, she describes declining marine resources due to overfishing and habitat destruction, noting fewer fish and sharks compared to her youth. These issues affect Vezo communities broadly, often overlooked in global discussions. The film highlights women's perspectives on their survival struggles, with links to more info and Blue Ventures' work.

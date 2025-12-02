@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Cyclone Idai has devastated Mozambique, Malawi, and Zimbabwe, affecting millions with rising deaths and destruction, potentially the region's worst disaster per the UN. Extreme weather is increasing, including Zimbabwe's recent drought, 2000's Cyclone Eline, and Lake Chilwa's drying due to climate change. Chimanimani, Zimbabwe's hardest-hit area, saw roads, homes, and lives lost. The author, in diaspora, mobilized aid via social media, inspiring community relief efforts. Climate change demands urgent Paris Agreement action integrated with development; people-powered movements grow, demanding more from leaders. Aid organizations include Save the Children, Médecins Sans Frontières, and Red Cross; join for climate justice.

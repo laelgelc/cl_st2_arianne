@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On 31 July, activists worldwide, from the Philippines to New Zealand, placed posters and street art in public spaces across 25 cities to hold the oil industry accountable for the climate crisis. The peaceful People vs. Oil solidarity action featured images depicting intensified forest fires, hurricanes, cyclones, rainfall, and extreme temperatures, proclaiming that climate anxiety, breakdown, and grief are "proudly brought to you" by the fossil fuel industry. This countered oil companies' misleading ads, with calls to join the fight announcing the end of the oil age.

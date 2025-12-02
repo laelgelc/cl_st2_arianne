@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Jennifer Morgan expresses deep worry about climate change, noting that predicted impacts are already occurring. She attends the IPCC meeting in Incheon, hopeful from global stories of action: Swiss grandmothers suing their government, youth building solar panels in Lebanon, Turks blocking olive tree cuts for a coal plant, and Germans protesting in Hambach Forest. She's inspired by a Swedish girl's school boycott and US students' lawsuit. Reflecting on her Jersey Shore childhood altered by Hurricane Sandy, she highlights frontline communities' resilience, urging collective action to turn despair into unstoppable hope.

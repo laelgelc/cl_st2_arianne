@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights women at the forefront of the climate crisis, emphasizing intersectionality with gender inequality, social injustice, and impacts on minorities like Black, Indigenous, LGBTQ+, and low-income communities. It features personal stories from activists across the Americas: Cláudia Farinha (Brazil) on rural women's rights and communication for environmental organizing; Jackie Zamora (Mexico) on her Greenpeace journey and dangers faced by women defenders; Julialynne Walker (US) on community gardening and education; a Brazilian trans woman linking violence, rights, and environmental access; a Canadian glaciologist on glacier research and international solidarity; Maria Paz Valenzuela (Chile) on mountaineering for empowerment and planetary care; an Indigenous Brazilian student on activism for lands and climate; and Billie Lee (US) connecting trans rights with food sustainability and anti-oil protests. They stress collective action, education, and urgency to combat crises and build justice.

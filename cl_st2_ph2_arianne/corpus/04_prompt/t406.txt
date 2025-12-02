@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post describes witnessing severe flood damage at Hangang Park in Korea after the wettest monsoon season, which caused 42 casualties, over 8,000 victims, landslides, and agricultural losses. It highlights Greenpeace's analysis predicting 3.3 million flood victims by 2030 due to climate change-induced sea level rise and more frequent storms. The author urges the Korean government to declare a climate emergency, halve emissions by 2030, and achieve net-zero by 2050, while praising corporate commitments like Apple's and global efforts such as the EU Green Deal. It emphasizes hope in collective action and calls for public involvement in addressing the crisis.

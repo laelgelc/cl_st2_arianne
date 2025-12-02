@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post traces the history of environmental awareness from ancient times, citing early examples like Vedic hymns, Taoist principles, and Mesopotamian epics warning of ecological harm. It highlights medieval pollution concerns, 18th-19th century figures like Franklin, Thoreau, and Haeckel who advanced ecology and conservation, and 20th-century milestones including Carson's Silent Spring, anti-nuclear campaigns, the Chipko movement, and the founding of Greenpeace in 1969. It culminates with the Rainbow Warrior and notes ongoing global environmental challenges.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the power of photography in environmental activism for World Photography Day, featuring 2019 Greenpeace images of global events. These include activists climbing an oil rig in Norway to protest Arctic drilling, Brazil's Acampamento Terra Livre indigenous assembly for rights and territory demarcation, flooding in Louisiana after Hurricane Barry, fires in South Korea, a crab trapped in plastic in the Philippines, a Vale dam collapse in Brazil, coal plant expansion in Indonesia, worldwide #FridaysForFuture student strikes demanding climate action, and Greenpeace's pole-to-pole ocean expedition researching threats like climate change and pollution.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace campaigner Kelvin Anthony represents Pacific nations at COP24 in Poland, urging Australia to end its coal dependency amid accelerating climate change. He highlights the lack of leadership from high-polluting countries driven by profits, leading to severe weather, rising seas, and threats to Pacific islands' livelihoods and cultures. Despite minimal contributions to emissions, Pacific communities face existential risks and are advocating for a rapid, just transition to renewables. Anthony draws hope from his daughter’s future, aiming to amplify frontline voices and call out hypocrisy for global action.

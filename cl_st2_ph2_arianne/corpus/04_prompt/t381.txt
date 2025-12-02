@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The author reflects on their environmental journey starting in 1990 with a Zimbabwean farmer facing drought, now focusing on human-made climate change. Supported by over 2000 Climate Seniors, they traveled the Rhine to Strasbourg to appeal at the European Court of Human Rights. Inspired by successful climate lawsuits, they aim to set a precedent. Growing up in Switzerland, the author laments melting glaciers like Pizol. After leaving academia to fund green startups and joining Climate Seniors at 72, they challenged Swiss climate targets in 2016, facing rejections despite Supreme Court acknowledgment, likening it to ignoring avalanche prevention. They vow to persist.

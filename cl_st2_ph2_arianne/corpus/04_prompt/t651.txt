@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+At COP24 in Katowice, Poland, activists highlight the urgent need to end coal use and shift to renewables amid worsening climate impacts. An Indonesian protester shares how coal pollution affects health and communities, climbing structures to challenge denial, including her father's. Imielin residents fight a mine expansion threatening home collapses, drawing global support like Hambach Forest protests. A Silesian from a coal family calls for a just transition, noting wind energy's affordability over coal, urging Poland to lead on climate action.

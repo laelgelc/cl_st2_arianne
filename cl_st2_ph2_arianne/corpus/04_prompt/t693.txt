@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses a scientific paper warning of potential "Hothouse Earth" due to climate feedbacks causing runaway heating beyond human control, amid record heat waves and fires. It critiques the Paris Accord as non-binding and ineffective, with emissions rising despite pledges, conferences, and laws, projecting 3-4°C warming. Experts highlight scholarly reticence, policy failures, and the impossibility of decoupling economic growth from fossil fuel use, urging reduced consumption and population growth. It notes French minister's resignation and young activists' responses through protests, lawsuits, and strikes.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In Berlin, 18,000 people protested against industrial agriculture reliant on pesticides, pollution, genetic engineering, land grabbing, animal mistreatment, and food control. Dirk Zimmermann, Greenpeace Germany's senior food campaigner, highlighted this seventh annual demonstration as one of Europe's largest, reflecting global demands for change. A Greenpeace study shows Germany can fully ecologize agriculture by 2050, feeding 76 million with high-quality, mostly domestic food. Achieving this requires political measures like redirecting subsidies and improving livestock, plus personal actions: halving meat consumption and production to reduce environmental harm, cutting food waste by 50%, and ensuring fair prices for farmers.

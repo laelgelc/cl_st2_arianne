@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques the transport sector's contribution to over a quarter of EU greenhouse gas emissions, which have risen 28% since 1990, and governments' post-COVID investments in polluting carmakers and airlines that prioritize individualism over societal good. It calls for stopping investments in airports and highways, ending tax breaks for cars, banning short-haul flights with alternatives, investing in affordable trains, and halting sales of new combustion or hybrid cars by 2028. Suggestions include directing funds to trains, cycling, and public transport for decarbonization by 2040, supporting worker transitions, and public actions like contacting representatives and tracking personal emissions.

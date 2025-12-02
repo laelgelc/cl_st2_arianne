@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post debunks global heating denialists who claim current temperature rises are typical Holocene fluctuations, arguing instead that anthropogenic carbon emissions have caused unprecedented warming, breaking through Holocene trend lines. It highlights human forcings as the largest in history, positive feedbacks amplifying heating, and humanity's ecological overshoot weakening Earth's resilience. CO2 levels have surged to 415 ppm at rates 100-1000 times faster than Holocene averages, with inertia suggesting further rises, potentially leading to state shifts, unlike any prior era.

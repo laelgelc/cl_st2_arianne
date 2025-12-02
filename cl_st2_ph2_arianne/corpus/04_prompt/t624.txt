@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques economist William Nordhaus for dismissing the Limits to Growth study and underestimating climate change impacts through his Damage Function, which predicts minimal GDP losses from significant warming, ignoring tipping points, energy roles, and ecological complexities. Critics like Steve Keen and Nicholas Stern argue his models are absurd, unscientific, and biased toward growth, discounting future generations and the poor. It highlights growing wealth inequality, where the rich benefit while humanity and nature suffer from neoliberal economics that rationalizes environmental plunder.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace marked the 30th anniversary of the French government's bombing of the Rainbow Warrior in Auckland, which sank the ship using limpet mines and killed photographer Fernando Pereira. Recently, agent Jean-Luc Kister apologized in interviews, confirming the attack as deliberate violence against protests of French nuclear testing. Greenpeace France's Jean-François Julliard stated the bombing failed to halt the movement's courage. Captain Pete Willcox accepted the apology but criticized France's lack of official remorse, labeling it state-sponsored terrorism and questioning claims of incompetence over indifference.

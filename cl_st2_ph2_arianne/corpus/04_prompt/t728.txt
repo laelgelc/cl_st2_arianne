@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses Delhi's worsening air pollution, contrasting India's complacency with actions in China and London driven by public anger. It highlights air pollution as a silent killer, citing an LSU study proposing 13 measures to cut pollution by 40%, prevent 900,000 premature deaths annually, and reduce winter PM2.5 by 50-60% in North India, especially by curbing coal plant emissions. These align with recommendations to the Ministry. India is finalizing a National Clean Air Programme, but implementation requires mindset shifts and people-led movements. Personal anecdotes note smog ruining winters and health impacts, while PM Modi's 2022 single-use plastic ban overshadowed air issues. Unlike China, India's public outrage remains seasonal, hindering progress.

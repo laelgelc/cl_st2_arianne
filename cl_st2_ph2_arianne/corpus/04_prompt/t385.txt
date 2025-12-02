@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Yeb Saño reflects on 2013's Super Typhoon Haiyan, which devastated his hometown during UN climate talks, and compares it to 2020's Super Typhoon Goni, the year's strongest, amid ongoing Philippine typhoons. He highlights global climate emergencies like wildfires in Australia, Brazil, and the US, and floods in East Africa. Criticizing fossil fuel giants like Shell for shifting emission reduction burdens to individuals, he urges accountability through grassroots movements, youth strikes, divestment, and lawsuits. In the Philippines, a human rights inquiry targets major polluters, aiming for justice and reduced fossil fuel dependency.

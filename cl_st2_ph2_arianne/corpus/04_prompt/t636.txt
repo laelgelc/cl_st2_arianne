@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In Russia, 10% of forests—spanning an area twice Spain's size—grow on agricultural land, deemed "illegal" under laws requiring owners to clear them or face penalties, often leading to unrestrained logging or burning that releases CO2. These include old forests from Soviet times and new growth on abandoned lands. Greenpeace Russia's campaign prompted changes to the federal Forest Code to recognize such forests, though only partially so far. Regulating these 100 million hectares could enhance biodiversity, enable tree planting, and create a major carbon sink. Over 50,000 signed a petition urging President Putin for further reforms, with implementation details pending. Russian forests are vital for global climate and biodiversity.

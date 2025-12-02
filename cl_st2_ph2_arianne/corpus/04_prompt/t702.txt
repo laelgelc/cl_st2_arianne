@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace offices worldwide have documented extreme heatwaves in Japan, Germany, Denmark, Switzerland, and Korea, with some breaking records, leading to devastating forest fires in Russia, Greece, and California that affected millions and caused fatalities. Flooding has increased in southern France and India, while in the Philippines, a storm exacerbated plastic pollution, with waste clogging drains and washing ashore. Climate change affects all borders, highlighting the need to limit warming to 1.5°C per the Paris Agreement by curbing fossil fuels, halting coal and pipeline funding, and inspiring collective action through sharing images to pressure governments and corporations.

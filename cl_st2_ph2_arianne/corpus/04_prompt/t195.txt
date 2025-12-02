@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses how climate change has disrupted traditional weather knowledge for Filipino farmers and fishers, threatening food security and well-being amid frequent typhoons, floods, and droughts exacerbated by poverty and poor governance. It critiques "resilience" as a term that burdens communities while absolving fossil fuel companies and governments of responsibility. It highlights a 2015 petition against carbon majors leading to a 2019 human rights investigation. The recent IPCC report warns of escalating climate risks, higher mortality in vulnerable areas, and the need for ecosystem protection, adaptation, loss and damage measures, and climate justice to limit warming to 1.5°C.

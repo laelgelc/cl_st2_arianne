@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In a three-part animated series by Green Future, Greenpeace's climate education project, teenagers Sunny and Ho adventure in a 2100 world where climate change erodes natural wonders. They visit "The Last Tree" exhibition featuring rare butterflies, flowers, and fruits; explore a flooded underwater city while following sea otters; and reject meat at a restaurant, envisioning land devastation from industrial farming. The series also depicts a hopeful future with solar- and wind-powered cities and plant-based choices, urging action to secure a better path for the planet and generations ahead.

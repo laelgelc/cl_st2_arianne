@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post commemorates 15 years since Greenpeace co-founder Bob Hunter's passing on May 2, 2005, highlighting his life beyond Greenpeace, including his early writing, journalism, and influences from ecology, peace movements, and media theorists like Marshall McLuhan. It details his philosophy of non-violent revolution through "mind bombs"—impactful images to raise ecological consciousness—and key campaigns like protesting nuclear tests and saving whales. Hunter emphasized spirituality, nature's interconnectedness, and ecology as a subversive science, while sharing his personal struggles, retirement in 1977, books, awards, and legacy.

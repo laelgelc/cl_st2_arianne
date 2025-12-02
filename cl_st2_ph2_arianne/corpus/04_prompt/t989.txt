@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post outlines ten reasons against Arctic oil drilling: its extreme danger in a harsh environment; unnecessary due to potential for fuel-efficient vehicles if laws aren't blocked; incompatibility with climate goals in a fragile region; challenges drilling relief wells amid short seasons, risking prolonged spills; impossibility of oil recovery in ice; inadequate response capacity with few ships; slow natural breakdown of oil in cold conditions; vulnerability of wildlife like birds, whales, seals, polar bears, and foxes; high costs, as seen in Cairn Energy's billion-dollar failures; and limited supply equivalent to just three years of global demand, deeming the risks unjustified.

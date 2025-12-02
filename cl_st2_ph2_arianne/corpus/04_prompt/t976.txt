@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Congo Basin, the world's second-largest tropical rainforest, faces ongoing deforestation and degradation, which release carbon emissions and threaten climate stability. New research suggests slowing deforestation rates, but evidence indicates increasing threats, with predictions of losing 2.435 million hectares of intact primary forests in the DRC over the next decade due to agriculture and logging. Degradation accelerates forest loss, and intact landscapes are vital carbon sinks. Greenpeace calls for halting illegal logging, protecting forests, and promoting responsible community use, while noting rising degradation and threats from oil palm plantations.

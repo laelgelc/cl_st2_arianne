@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Yeb Saño recounts his experience at COP19 in 2013 amid Super Typhoon Haiyan's devastation in the Philippines, where his brother survived but thousands died. As a parent, he fears escalating climate disasters fueled by fossil fuels. He criticizes Shell for its massive carbon pollution—ten times that of the Philippines—and record 2022 profits exceeding Pakistan flood cleanup costs, demanding they pay for loss and damage. At COP27, a loss and damage fund was agreed upon. Saño joined Greenpeace activists protesting Shell's North Sea oil platform to halt extraction and enforce accountability for global climate harm.

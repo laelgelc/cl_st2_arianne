@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+World Meat Free Week runs from June 11 to 17, encouraging people worldwide to eat plant-based meals and join the movement for a healthy planet. Intensive meat and dairy production drives deforestation, with over a quarter of Earth's land used for grazing, equals transport emissions in global warming, and is the largest water consumer and polluter. High red meat intake links to cancer, heart disease, obesity, and diabetes, potentially avoiding five million deaths by 2050 through plant-based diets. Individuals can act by eating more veggies, hosting potlucks, and using Greenpeace's cookbook and toolkit, while cities like those in Mexico and Denmark promote vegetarian options in public institutions.

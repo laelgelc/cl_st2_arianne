@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace's ship Esperanza is touring the Gulf of California to investigate toxic chemicals from agriculture. Activists targeted companies like Bimbo, La Costeña, and Herdez for using harmful fertilizers that pollute waterways and affect health. Sinaloa produces 38% of Mexico's vegetables and leads in grain, with heavy pesticide use; 29 pesticides allowed in Mexico are banned elsewhere. In 2012, Mexico used 120,000 tons of pesticides and 2 million tons of fertilizers on 22 million hectares, leading to soil pollution, food residues, and coastal ecosystem damage like algal blooms. Greenpeace and UCCS are documenting impacts, urging authorities and companies to adopt sustainable, organic farming.

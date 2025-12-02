@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights the climate crisis driven by fossil fuels, criticizing companies and politicians for empty promises, lies, and false solutions that sabotage emission cuts, harming the vulnerable. It calls for banning fossil fuel propaganda through a European Citizens Initiative requiring 1 million signatures to prohibit ads and sponsorships for fossil fuels, related transport, and involved companies, aiming for a #FossilFreeRevolution. Comparing Big Oil to Big Tobacco, it accuses firms like Shell and BP of denying responsibility, greenwashing, and delaying action via marketing. Consequences include deadly air pollution, species extinction, and extreme weather displacing millions.

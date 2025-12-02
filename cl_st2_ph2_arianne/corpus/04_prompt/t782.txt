@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace has faced two massive lawsuits from corporate bullies, aided by Donald Trump's law firm, over the last two years to silence their activism. These Strategic Lawsuits Against Public Participation (SLAPPs) aim to drain resources and hinder efforts for a green future, with allies also targeted. Today, Greenpeace filed a motion to dismiss one such SLAPP. Nearly two years ago, Resolute Forest Products filed a CAD$300 million RICO lawsuit against Greenpeace defendants, despite RICO targeting organized crime, not activists. Public support grew, and three months ago, a US judge dismissed the case entirely, ordering Resolute to reimburse Greenpeace's attorney fees under California's anti-SLAPP law.

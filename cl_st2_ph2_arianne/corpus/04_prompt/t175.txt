@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Leading climate scientists' IPCC report warns it's "now or never" to limit warming to 1.5°C under the Paris Agreement. Governments have since approved new oil and gas projects, ignoring the science that deems them excessive. Over 1,000 scientists in 25 countries protested, including UK actions against new licensing. Thirty years after the UN Climate Agreement, emissions haven't peaked; they must decline now to reduce by 2025. The report states we have tools to halve emissions in eight years, many at low or negative costs, driven by affordable solar and wind outcompeting fossils. Act on science and share the video.

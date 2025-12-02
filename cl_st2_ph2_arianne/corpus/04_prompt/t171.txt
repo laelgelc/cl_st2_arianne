@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+A global movement for clean air is expanding, as air pollution causes serious health issues like asthma, heart disease, and stroke, with no safe exposure level. During World Health Day week (April 7-10), citizens worldwide protested under #CleanAirNOW, demanding localized solutions such as dedicated bus lanes, upgraded PM2.5 standards, and stronger transboundary haze regulations. The WHO recently strengthened air quality guidelines, yet 97% of cities failed them per IQAir’s 2021 report, amid data shortages. Governments must adopt clean energy and equitable mobility like public transport, walking, and cycling to address air pollution and climate crisis. Sign the petition to phase out fossil fuels and join the movement.

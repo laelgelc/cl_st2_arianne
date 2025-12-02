@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Aurelie Hector, a Mauritian scientist and fisherman's daughter, shares her story in the Vital Ocean Voices series, highlighting impacts of destructive fishing, pollution, and climate breakdown on Indian Ocean communities. Raised like a boy, she fished with her father, witnessing declining catches from larger fleets and marine depletion. Inspired by her ocean connection, she became a conservation biologist, graduating with a BSc in Biology and working at the Mauritian Wildlife Foundation. As Round Island Senior Warden, she protected seabirds from invasive species, monitored ecosystems, removed fishing debris, and cleaned plastic pollution from coastal areas.

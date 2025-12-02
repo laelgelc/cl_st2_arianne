@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses how COP27 has formalized talks on "loss and damage" for climate-vulnerable communities, urging justice and an end to polluters' models. It critiques extractivism as a colonial legacy causing pollution, inequality, and benefiting richer nations. African leaders should reject new fossil fuel investments for their own sake, demand climate finance, and lead a just transition to renewables. Fossil fuels drive the crisis via emissions, necessitating an urgent shift to avoid future harms. Examples include droughts and floods devastating African economies. Leaders like Kenya's President Ruto and Morocco's King Mohammed VI exemplify leapfrogging to clean energy, resisting neocolonial extractivism to address energy poverty.

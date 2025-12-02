@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Major brands like McDonald’s, Tesco, Young’s Seafood, and Iglo, along with the Norwegian Fishing Vessel Owners Association, Russian Karat Group, and Espersen, have agreed to oppose the expansion of cod fishing into the previously frozen Northern Barents Sea, imposing a moratorium on bottom trawling in this sensitive Arctic area twice the size of France. This protects vulnerable species like polar bears, bowhead whales, and Greenland sharks. Greenpeace credits global public action for this achievement and will monitor compliance via the Arctic Sunrise ship, while urging Norway’s government to establish a Marine Protected Area off-limits to extractive industries.

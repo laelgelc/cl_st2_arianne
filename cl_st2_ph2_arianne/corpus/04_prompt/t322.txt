@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights threats to oceans from climate breakdown, plastic pollution, overfishing, and emerging deep sea mining, which targets polymetallic nodules for metals used in electronics. It describes unique deep sea species like the Ghost Octopus, which dies protecting eggs on nodule-growing sponges; the armored Sea Pangolin, sustained by bacteria; and the Yeti Crab, farming microbes on hairy arms, with females dying post-breeding. Mining would irreparably damage ecosystems, disrupt species, and worsen climate issues by affecting carbon stores. Alternatives include circular economies, e-waste recycling, and resource efficiency. It urges signing a petition for a strong Global Ocean Treaty to create sanctuaries and halt destructive industries.

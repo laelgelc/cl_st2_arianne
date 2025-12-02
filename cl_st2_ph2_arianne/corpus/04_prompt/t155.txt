@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The high seas face threats from climate change, pollution, deep-sea mining, and destructive industrial fishing practices like purse seining and bottom trawling, which deplete fish stocks and harm marine life. A 2018 study reveals that up to 54% of high seas fishing is unprofitable without government subsidies and low labor costs, which often involve exploitation of migrant fishers through debt bondage, abuse, and long hours, as seen in a Taiwan court case involving the vessel Da Wang. Illegal, unreported, and unregulated (IUU) fishing exacerbates environmental and human rights abuses. Greenpeace urges companies to adopt ethical sourcing and consumers to reduce seafood intake, favoring sustainable, small-scale fisheries.

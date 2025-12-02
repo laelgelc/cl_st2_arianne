@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses the environmental impact of fast fashion, urging consumers to avoid impulse buys and consider garment workers, as highlighted by the Rana Plaza collapse anniversary. It critiques donation and recycling efforts like H&M's, noting only 1% of collected clothing becomes recycled fibers, and promotes upcycling 95% of discards or keeping old clothes for trend cycles. Vivienne Westwood advises: "Buy less, choose well, make it last." It details resource use, like 7,000 liters of water per jeans pair, chemical dyeing pollution, and massive waste, with 80 billion garments produced yearly, most ending in landfills. Fast fashion's growth and rising consumption, from 34 items per American in 1991 to 67 in 2007, fuel the obsession.

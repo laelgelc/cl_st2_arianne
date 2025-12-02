@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace criticizes COP26 for boosting carbon offsetting scams that endanger Indigenous Peoples, biodiversity, and the 1.5°C goal, with unverifiable benefits often leading to land grabbing and displacement. Examples include airlines offsetting flights via forest protection, TotalEnergies' Congo peatland drilling compensated by non-native tree farms, and JBS's net-zero plan ignoring methane emissions while fueling Amazon destruction. A video series exposes this greenwashing, advocating "real zero" through actual emission cuts, phasing out fossil fuels and industrial meat, protecting rights, and shifting to renewables and plant-rich diets, without offsets.

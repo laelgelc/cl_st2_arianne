@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+An Unearthed investigation reveals garment waste from brands like Nike, Ralph Lauren, and Diesel is burnt in Cambodian brick kilns, exposing workers to toxic fumes from polyester. This highlights fast fashion's linear model, exploitation in the Global South, and greenwashing despite sustainability claims. Greenpeace's past campaigns exposed pollution and waste dumping in East Africa. COVID exacerbated worker insecurity, leading to debt bondage. The industry wastes up to 50% of materials due to tight deadlines. Calls urge brands to shift to circular practices, produce fewer, durable clothes, and for EU regulations to enforce transparency and end exploitation.

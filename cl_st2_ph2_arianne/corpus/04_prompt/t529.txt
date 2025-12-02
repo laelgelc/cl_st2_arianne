@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace campaigns worldwide against the oil industry to combat the climate emergency. In Australia, efforts defend the Great Australian Bight from Equinor's drilling. Brazil and French Guiana protect the Amazon Reef from BP. Germany protests internal combustion engines. Russia supports Indigenous opposition to Surgutneftegas. Canada fights tar sands pipelines. New Zealand opposes OMV's permits. Norway challenges Arctic drilling legally. The UK blocks BP rigs. The Philippines blockades Shell and investigates fossil fuel accountability. The US pushes for a Green New Deal and halts expansions. Millions unite for a transition to clean energy.

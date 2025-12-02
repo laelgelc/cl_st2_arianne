@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Pukaldi, an Indonesian fisher, endured 30 months at sea without land due to transshipment practices in distant water fishing, facing long hours, poor conditions, and unpaid wages. His story highlights systemic exploitation of migrant workers, linked to illegal, unreported, and unregulated fishing. Greenpeace Indonesia's Beyond Seafood campaign combats slavery at sea to improve ocean governance. With SBMI, Pukaldi sued the government for delaying a regulation on a 2017 worker protection law; it was signed in June 2022, leading to lawsuit revocation. Efforts continue to ensure implementation and address unpaid wages.

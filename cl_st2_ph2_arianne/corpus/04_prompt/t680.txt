@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Andreas Randøy, a young Norwegian activist with Nature and Youth and Greenpeace, discusses his efforts to curb Norway's oil industry amid climate change impacts like farming disasters. Inspired by Greta Thunberg, he organized school strikes with nearly 1,000 participants. They sued the government over Arctic oil drilling, violating constitutional environmental rights, though they lost the first round but appealed. Norway's image as eco-friendly hides its role as a major oil exporter. Andreas counters job arguments by noting alternatives exist and stresses young people's vision for renewables, urging action for global justice.

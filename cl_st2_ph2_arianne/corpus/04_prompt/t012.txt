@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Brazilian Amazon's rich biodiversity is being destroyed by illegal gold mining, which pollutes rivers with mercury and sediments, reducing sunlight, disrupting fish hunting and respiration, and affecting spawning in headwaters. Excavators accelerate this damage. A 2022 Greenpeace expedition studied unstudied areas, highlighting unknown species and soil microorganisms vital for medicine and agriculture. Mining expands via 320 airstrips on Indigenous lands, clearing vegetation, and miners hunt animals like monkeys and capybaras, compromising seed dispersal and pollination, while competing with Indigenous Peoples for food. A new forest-preserving development model is urgently needed.

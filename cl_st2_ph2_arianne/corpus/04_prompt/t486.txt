@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace, alongside scientists, proposes a rescue plan for oceans: establishing a global network of sanctuaries covering at least 30% by 2030, banning fishing, mining, and drilling in key areas selected using data on habitats, species, and climate impacts. Unlike ineffective "paper parks," these would feature strict rules and enforcement via a new UN body under a Global Ocean Treaty. Public support is needed to counter industry opposition and secure a strong treaty. Oceans provide oxygen, food, and climate protection, and sanctuaries would enhance marine life abundance and resilience to threats like climate change and pollution.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace Denmark's study "Dissected" reveals how the meat industry invests millions in European advertising to counter rising vegetarianism, veganism, and flexitarianism. Semioticians identified seven myths in Big Meat's campaigns that exploit consumer desires for acceptance and well-being: meat as a climate solution, healthy, masculine, essential for good motherhood, patriotic, social, and a matter of freedom. These target vulnerable groups like children, young adults, and parents. The post calls for public authorities to regulate meat marketing, similar to tobacco and alcohol restrictions, to support planetary health.

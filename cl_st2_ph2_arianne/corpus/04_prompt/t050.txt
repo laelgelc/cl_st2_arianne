@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Climate justice and social justice are interconnected, essential for an equitable, sustainable future. Climate change exacerbates inequalities, disproportionately harming vulnerable communities—like low-income countries, people of color, Indigenous Peoples, women, and those with disabilities—who contributed least but face disasters, resource scarcity, and high loss and damage costs (290-580 billion USD annually by 2030). Fossil fuels drive over 75% of GHG emissions, requiring a just phase-out and shift from extractive economies to people-centered models. Polluters must be held accountable. In MENA, warming, droughts, and floods worsen social injustices, threatening ecosystems, livelihoods, and heritage, as documented by Greenpeace.

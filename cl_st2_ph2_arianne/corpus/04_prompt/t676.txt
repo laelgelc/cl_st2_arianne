@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The Urgenda Foundation's victory in the Dutch Court of Appeal upholds a 2015 ruling requiring the Netherlands to cut emissions by 25% from 1990 levels by 2020, having achieved only 13% so far, necessitating the shutdown of remaining coal plants. The decision emphasizes courts' role in enforcing human rights obligations against climate change harms. Coinciding with the IPCC's 1.5°C report, it warns governments worldwide to update policies or face lawsuits. Global cases, like those by Swiss seniors, U.S. youth, and Philippine investigations of fossil fuel companies, highlight growing legal actions for climate justice.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post discusses air pollution from burning fossil fuels, which harms health and drives climate change. It highlights coal as the worst offender, releasing high CO2, toxins like mercury and arsenic, and soot that affects hearts, lungs, and increases stroke risk, while powering over a third of global electricity; it urges a shift to renewables like wind and solar, noting recent progress. For cars, it criticizes petrol and diesel emissions of CO2 and NO2, advocating car-free urban options like public transport and cycling, plus electric vehicles powered by renewables, made smaller, and shared. It emphasizes community action, citing examples from China, Belgium, and Turkey where mobilization led to changes like electrified buses, car bans, and coal plant closures, calling for collective solutions.

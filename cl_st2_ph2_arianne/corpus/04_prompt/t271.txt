@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The #MobilityForAll campaign, part of European Mobility Week, features interviews with underrepresented communities sharing mobility experiences in European cities. A mother from Romania describes challenges navigating the city with her baby and stroller, including absent ramps in buildings, high sidewalks with potholes, cars parked on sidewalks, inaccessible buses, and unsafe pedestrian paths. She envisions child-friendly infrastructure with ramps, smooth sidewalks, and safe walkways. Frustrated by inaction despite her demands, she moved to the countryside. The campaign demands car-free centers, improved public transport, shared mobility, better cycling/walking infrastructure, and more green spaces, urging people to join via #MobilityForAll.

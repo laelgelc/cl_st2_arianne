@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+In 2020, amid adapting to COVID-19 security measures and remote work privileges, the author highlights the essential role of public transport workers in enabling frontline workers without cars to reach their destinations. Often overlooked due to societal emphasis on individual transport like cars and flying as symbols of freedom, mobility is vital for community care, sustenance, and addressing inequality. COVID underscores the need to invest in strong public services and express gratitude to their providers. The post calls for appreciating and thanking public transport staff—drivers, ticket sellers, technicians, operators, cleaners, maintenance, and office workers—for keeping communities running, especially during the holidays. #ThanksForKeepingUsMoving
