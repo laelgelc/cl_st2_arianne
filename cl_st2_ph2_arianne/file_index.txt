@@ -1,0 +1,10 @@
+t001.txt grp000354
+t002.txt grp000355
+t003.txt grp000356
+t004.txt grp000357
+t005.txt grp000358
+t006.txt grp000359
+t007.txt grp000360
+t008.txt grp000361
+t009.txt grp000362
+t010.txt grp000363

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Artist Benjamin Von Wong describes his 2016 art project—a mermaid image ensnared in 10,000 plastic bottles—that garnered 35 million views, sparked discussions on disposable culture, and drove policy changes and reduced single-use plastic consumption. Despite progress, plastic production persists. Last year, he built a 4-story faucet installation at the UN for the Global Plastics Treaty, but its message was misconstrued. Now, partnering with Greenpeace, he created a 5-meter perpetual plastic machine illustrating the fossil fuel-plastic lifecycle, urging a strong treaty with a moratorium on virgin plastic production ahead of INC-2.

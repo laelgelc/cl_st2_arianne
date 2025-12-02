@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The "Citizen Climate" series highlights global citizens acting for a healthier planet. Kenyan photojournalist and activist James Wakibia discusses financial challenges for activists, relying on personal funds and failed grants, leading to scaled-down activities. He calls for supporting climate-impacted communities in Kenya, like those affected by floods at Lake Nakuru, job losses, and droughts, through adaptation like climate-smart agriculture and increased public awareness. Wakibia advocates against plastic pollution in rivers, educating his 24,000 Twitter followers, cleaning up temporarily, and pushing for banning single-use plastics. He urges a strong Global Plastics Treaty in Paris to curb fossil fuel-based production and pollution harming environments, animals, air, and food. Youth bring connectivity, energy, creativity, and technology to mobilize for awareness and policy change.

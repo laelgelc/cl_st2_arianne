@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post critiques a UN FAO report claiming meat, eggs, and milk provide essential nutrients difficult to obtain from plant-based foods, making them vital for health, especially for vulnerable groups. It argues the report aligns with meat industry messaging and was influenced by livestock organizations like the Global Dairy Platform and signatories of the pro-meat Dublin Declaration, raising objectivity concerns. This contrasts with evidence from EAT-Lancet and nutrition bodies supporting well-planned plant-based diets. The post compares meat industry tactics to those of the fossil fuel sector in downplaying climate and health impacts.

@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Roger Payne (1935-2023) recorded "Songs of the Humpback Whale" in 1970, selling over 100,000 copies and inspiring the global anti-whaling movement, including Greenpeace. His work founded Ocean Alliance and helped secure the 1982 commercial whaling moratorium. Greenpeace activist Rémi Parmentier used the album in campaigns, arranging its French release in 1978 to promote the Rainbow Warrior's anti-whaling missions. Kelly Rigg recalls Payne's supportive testimony against offshore oil drilling in 1982, highlighting his respect for young campaigners. Payne's empathetic listening to whales and humans deepened humanity's connection to nature.

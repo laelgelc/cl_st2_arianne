@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post from Greenpeace Korea explains the difference between queen and worker bees, attributing it to prolonged royal jelly consumption, leading to queens living longer, growing larger, and laying millions of eggs. It traces Korean beekeeping history from the Three Kingdoms period, where it spread and symbolized diligence and wealth. It highlights the 2022 loss of 16% of Korea's honeybees due to climate crisis, parasites, fewer honey plants, and pesticides, urging a "Save the Honeybees Committee." The post shares 10 bee facts, including their evolution from carnivores, five eyes, democratic decisions via dances, age-based duties, seasonal lifespans, honey plant reliance, and foraging efforts for honey production.

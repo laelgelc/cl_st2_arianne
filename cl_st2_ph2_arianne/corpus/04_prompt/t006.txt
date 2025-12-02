@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+The blog post highlights how LGBTQIA2S+ individuals face disproportionate discrimination and impacts from climate crises, emphasizing the interconnectedness of queer and climate movements for collective action. It notes higher homelessness rates among LGBTQIA2S+ people, especially BIPOC, leading to residence in polluted, disaster-prone areas and barriers to aid. Examples include trans individuals being denied shelters or jailed during Hurricane Katrina, and Aravanis excluded from relief after the 2004 Indian Ocean tsunami. Greenpeace advocates fighting for nature and all people regardless of identity.

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-summarise_articles.py
+summarise_blog_posts.py
 
 Reads .txt blog posts structured in paragraphs and prompts Grok to summarise them.
 
 Usage:
-    python summarise_articles.py \
+    python summarise_blog_posts.py \
         --input input_folder \
         --output output_folder \
         --model grok-4 \
@@ -32,10 +32,10 @@ load_dotenv(dotenv_path=env_path)
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Summarize articles using Grok."
+        description="Summarize blog posts using Grok."
     )
     parser.add_argument("--input", "-i", required=True,
-                        help="Folder containing article .txt files.")
+                        help="Folder containing blog post .txt files.")
     parser.add_argument("--output", "-o", required=True,
                         help="Folder to save Grok summaries.")
     parser.add_argument("--model", "-m", default="grok-4",
@@ -65,15 +65,15 @@ def write_text(path: Path, content: str) -> None:
 
 def build_system_prompt() -> str:
     return (
-        "You are an expert analyst who reads Greenpeace website articles. "
+        "You are an expert analyst who reads Greenpeace website blog posts. "
         "You must NOT invent information under any circumstances. "
-        "You must summarize each article into a concise description "
+        "You must summarize each blog post into a concise description "
         "of what was discussed."
     )
 
 def build_user_prompt(file_text: str) -> str:
     return f"""
-Read the article below.
+Read the blog post below.
 
 TASK:
 
@@ -82,12 +82,6 @@ Write a summary in running prose of the main ideas:
 - DO NOT invent information.
 - DO NOT include analysis unrelated to the text.
 - Only summarise what was actually said.
-
-OUTPUT FORMAT:
-
-Summary:
-
-<summary>
 
 --------------------------------
 TEXT BELOW
@@ -179,7 +173,7 @@ def main():
         print("No .txt files found in input folder.")
         sys.exit(0)
 
-    print(f"Processing {len(files)} articles with {args.workers} workers...\n")
+    print(f"Processing {len(files)} blog posts with {args.workers} workers...\n")
 
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = [
@@ -195,7 +189,7 @@ def main():
         for fut in as_completed(futures):
             fut.result()
 
-    print("\nCompleted summarizing articles using Grok.")
+    print("\nCompleted summarizing blog posts using Grok.")
 
 
 if __name__ == "__main__":

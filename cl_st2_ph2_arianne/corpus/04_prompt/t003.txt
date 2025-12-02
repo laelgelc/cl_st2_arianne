@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+On World Environment Day, the author expresses pride in Greenpeace's global pioneers—volunteers, supporters, activists, and campaigners—who tirelessly celebrate every day as environment day. Their passion inspires perseverance amid visible climate change impacts in daily life. The post highlights extreme weather beyond normal, ignored by world leaders, citing Shanghai's hottest May day in 100 years and Italy's severe flooding causing widespread damage and over a dozen deaths. Heat waves and extremes are now routine but shouldn't be the new normal. Images of global difficulties should motivate unified action against climate change.

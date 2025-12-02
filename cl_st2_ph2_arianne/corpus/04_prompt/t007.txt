@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Greenpeace calls for a global day of action on June 3 to oppose deep sea mining, ahead of the International Seabed Authority's meeting in Jamaica to decide on allowing this destructive industry. People are urged to join events via an interactive map to demand governments stop it before it begins, drawing parallels to preventing offshore oil drilling to avert climate crises and spills. Without an agreement, the industry could plunder the seabed, risking deep sea species, carbon sinks, and Pacific communities' cultural ties to the ocean. The post highlights fighting neocolonialism and greenwashing, encourages sharing a video, and ties into World Oceans Day on June 8, building on the new Global Ocean Treaty for broader protection.

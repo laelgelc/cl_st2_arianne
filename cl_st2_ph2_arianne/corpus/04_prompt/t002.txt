@@ -1,0 +1,14 @@
+SYSTEM PROMPT:
+You are a writer for the world-leading climate-change NGO Greenpeace. You must NOT invent information under any circumstances.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Write a blog post based ONLY on the summary provided below:
+- DO NOT include titles.
+- DO NOT invent information.
+- DO NOT include analysis unrelated to the summary.
+
+Three young Nigerian women, Angel Chukwudi-Denis, Fortune Mmesomachukwu, and Favour Chinecherem, known as Eco Elixirs, developed the EarthExp app after witnessing floods in Kogi state caused by waste and climate change. The app uses games, VR, and social features to promote behavioral change, educating users on environmental impacts like plastic pollution and deforestation. Users build cities, make eco-friendly decisions, and earn rewards for actions like planting trees. It amplifies youth activism in Nigeria, including waste reuse and anti-gas flaring efforts, inspiring mindset shifts for a sustainable future.
