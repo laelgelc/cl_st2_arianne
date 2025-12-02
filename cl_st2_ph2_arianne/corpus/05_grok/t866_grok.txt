@@ -1,0 +1,7 @@
+Air is composed of various gases and particles, but pollution disrupts this balance, leading to severe health impacts. Exposure to polluted air can cause respiratory issues, exacerbate asthma, contribute to cardiovascular disease, and increase the risk of lung cancer. According to the World Health Organization, air pollution results in 7 million premature deaths annually worldwide.
+
+In the European Union, Bulgaria stands out as one of the most polluted countries, facing significant air quality challenges.
+
+To address this, Greenpeace Bulgaria has initiated the "Dustcounters" project in Stara Zagora. This involves creating affordable, open-source DIY devices built with Arduino technology to measure local dust and particulate matter levels. These tools empower communities by raising public awareness and encouraging action, with collected data shared openly on the Greenpeace Bulgaria website.
+
+Looking ahead, the project plans to analyze the results by the end of February and use those insights to develop an enhanced version called "Dustcounters 2.0" in 2017. This effort underscores how pollution often stems from fossil fuels, emphasizing the urgent need for collective actions to reduce emissions.

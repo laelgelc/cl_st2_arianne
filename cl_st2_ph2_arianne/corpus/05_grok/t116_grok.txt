@@ -1,0 +1,5 @@
+GreenAct is an ads-free, community-owned app available for Android and iOS devices. It's designed to enhance environmental activism by delivering instant notifications and providing access to Greenpeace volunteer communities. Through the app, users can log in and participate in various activities, groups, and campaigns, whether they're organized by Greenpeace or other organizations.
+
+The app is currently available in select countries, including Austria, Belgium, and Brazil. It was created using Open Social and serves as a gateway to independently managed communities. Each of these communities handles user data according to their own privacy policies.
+
+As part of Greenpeace's tech vision, GreenAct aims to support mobilization efforts. There are plans to expand it into a comprehensive mobile hub for environmental activism.

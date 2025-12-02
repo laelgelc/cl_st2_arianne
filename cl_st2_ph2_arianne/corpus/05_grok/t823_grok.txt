@@ -1,0 +1,7 @@
+Imagine a world where our electronics are built to last—durable and easy to repair. This vision could help us save money while cutting down on environmental harms like resource extraction, hazardous chemicals, energy consumption, and the growing problem of e-waste.
+
+Companies like Fairphone, Dell, and HP are already leading the way with products designed for repairability. It's time for big brands such as Apple and Samsung to step up and create devices that endure longer.
+
+But a recent assessment by Greenpeace and iFixit of more than 40 recent smartphones, tablets, and laptops shows troubling trends that make repairs harder. These include soldered components that can't be easily swapped, fragile glass designs like those in the Samsung S8, batteries that are tough to replace such as in the Samsung Galaxy S8 and Apple MacBook, and the need for proprietary tools as seen with the Apple iPhone. Most brands also limit access to spare parts and repair manuals, with only Dell, Fairphone, and HP offering full availability.
+
+Join the movement at rethink-it.org to push for change.
