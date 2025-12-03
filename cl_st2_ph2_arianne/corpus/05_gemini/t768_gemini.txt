@@ -1,0 +1,5 @@
+In 1992, Greenpeace developed GreenFreeze technology to revolutionize the refrigeration industry. At the time, fridges used F-gases that were depleting the ozone layer and also acted as potent greenhouse gases.
+
+To challenge the monopoly held by chemical companies, our German team collaborated with the company Foron to create an efficient prototype using natural hydrocarbons. This initiative was powered by our supporters, who provided 70,000 pre-orders, enabling the first unit to be produced in 1993.
+
+Within a year, European firms had adopted the technology. To ensure it could be used as widely as possible, Greenpeace made GreenFreeze open source, an achievement that earned us a UN award. Today, there are approximately one billion GreenFreeze fridges in use globally. It was expected that by 2020, nearly 80% of the world's annual refrigerator production would use this technology.

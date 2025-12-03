@@ -1,0 +1,5 @@
+Air pollution has significant health impacts, including respiratory issues, asthma, cardiovascular disease, and lung cancer. According to the World Health Organization, it is responsible for 7 million premature deaths each year. Within the European Union, Bulgaria is ranked as one of the most polluted countries.
+
+In response, Greenpeace Bulgaria has launched the "Dustcounters" project in Stara Zagora. This initiative involves the creation of affordable, open-source, do-it-yourself devices using Arduino technology to measure local dust and particulate matter. The project aims to empower public awareness and action, with all collected data being shared on the Greenpeace Bulgaria website.
+
+There are plans to analyze the results by the end of February to inform the development of an improved "Dustcounters 2.0" in 2017. The project highlights pollution from fossil fuels and underscores the need for collective efforts to reduce emissions.

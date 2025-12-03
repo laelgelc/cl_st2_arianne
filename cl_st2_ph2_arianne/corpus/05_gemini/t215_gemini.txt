@@ -1,0 +1,5 @@
+A lot of behind-the-scenes work goes into our volunteer initiatives, including the development of a data dashboard for our Open Social platforms.
+
+This work began in 2018, when our community requested the ability to track site content, user types, and the actions being taken on the platform. In response, we developed a webhook-based solution that integrates with Google Tag Manager and Analytics. The dashboard was first piloted in Brazil and is designed to visualize data, helping us to understand our users and improve mobilization efforts.
+
+Today, the dashboard is used by 10 Greenpeace organizations across 17 countries. It helps us engage 50,000 volunteers in safe and ad-free spaces. As an open-source tool, it is also available for other non-profits to adopt. We are currently seeking feedback for future iterations, and a GreenAct app is upcoming.
