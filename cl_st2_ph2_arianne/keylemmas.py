@@ -24,7 +24,7 @@ VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
 #}
 
 STOPWORDS = {
-
+    "david", "james", "john", "morgan"
 }
 
 def ll(a, b, c, d):

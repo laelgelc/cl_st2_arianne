@@ -44,3 +44,28 @@ python keylemmas.py \
     --output corpus/08_keylemmas \
     --cutoff 3
 
+python select_kws_stratified.py \
+    --ceiling 420 \
+    --human-weight 2 \
+    --max-total 1200
+# output: corpus/09_kw_selected
+"
+=== Keyword Quotas ===
+gemini          → 420 keywords (max)
+gpt             → 420 keywords (max)
+grok            → 420 keywords (max)
+human           → 840 keywords (max)
+=======================
+
+gemini          → selected 1/420 keywords
+gpt             → selected 385/420 keywords
+grok            → selected 4/420 keywords
+human           → selected 840/840 keywords
+
+Total consolidated keywords (incl. duplicates): 1200
+Unique keywords (used downstream): 970
+Duplicates removed later: 230
+
+Final unique keywords written: 970
+"
+
