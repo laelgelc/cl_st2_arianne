@@ -12,7 +12,7 @@
 options fmtsearch=(work library);
 
 /* enter number of factors to extract */
-%let extractfactors = 7 ;
+%let extractfactors = 4 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
@@ -51,7 +51,6 @@ DATA &project;
       v000001 - v000970
   ;
 RUN;
-
 
 /* check for missing values */
 proc means data=&project n nmiss;
@@ -96,7 +95,6 @@ OPTIONS VALIDVARNAME=ANY;
 proc corr data = &project outplc = polychor polychoric noprint;
 var &names ; 
 run;
-
 
 /* END PART 7 */
 /* BEGINNING PART 8 */
@@ -146,7 +144,6 @@ nobs=&nobs;  /* specify number of obs because this is missing from a corr matrix
 var &names  ;
 run;
 
-
 /* END PART 9 */
 /* BEGINNING PART 10 */
 
@@ -157,7 +154,6 @@ data fout2;
 run;
 
 proc transpose data=fout2 out=communal; id _TYPE_; run;
-
 
 /* list vars to drop  */
 proc sql ;
@@ -272,7 +268,6 @@ heywood
 nobs=&nobs;  /* specify number of obs because this is missing from a corr matrix */
 var &highcomm  ;
 run;
-
 
 /* END PART 13 */
 /* BEGINNING PART 14 */
@@ -636,7 +631,6 @@ PROC EXPORT
   REPLACE;
 RUN;
 
-
 PROC EXPORT
   DATA= WORK.scores_only
   DBMS=TAB
@@ -644,11 +638,7 @@ PROC EXPORT
   REPLACE;
 RUN;
 
-
 /* ANOVAS */
-
-
-
 
 ODS EXCLUDE NONE;
 ods html file="&whereisit/&myfolder/glm_meta.html"; 
@@ -754,8 +744,6 @@ PROC EXPORT
   REPLACE;
 RUN;
 
-
-
 PROC EXPORT
   DATA= WORK.overall_model_f&i 
   DBMS=TAB
@@ -784,8 +772,6 @@ PROC EXPORT
   REPLACE;
 RUN;
 
-
-
 PROC EXPORT
   DATA= WORK.overall_prompt_f&i 
   DBMS=TAB
@@ -813,8 +799,6 @@ PROC EXPORT
   OUTFILE="&whereisit/&myfolder/means_prompt_f&i..tsv"
   REPLACE;
 RUN;
-
-
 
 PROC EXPORT
   DATA= WORK.overall_group_f&i 
@@ -961,4 +945,3 @@ rc = filename(fname);
 run;
 
 /*END OF PROGRAM*/
-

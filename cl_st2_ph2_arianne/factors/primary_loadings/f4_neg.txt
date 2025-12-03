@@ -1,0 +1,2 @@
+variables loading on this pole = 7
+institute (-1.02), ministry (-.75), un (-.62), tax (-.45), association (-.41), seed (-.37), council (-.35)

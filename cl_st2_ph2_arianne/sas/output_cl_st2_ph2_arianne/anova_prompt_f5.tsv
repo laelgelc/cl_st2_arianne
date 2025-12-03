@@ -1,3 +1,0 @@
-Dependent	HypothesisType	Source	DF	SS	MS	FValue	ProbF
-fac5	1	prompt	1	1595.052083	1595.052083	170.06	<.0001
-fac5	3	prompt	1	1595.052083	1595.052083	170.06	<.0001

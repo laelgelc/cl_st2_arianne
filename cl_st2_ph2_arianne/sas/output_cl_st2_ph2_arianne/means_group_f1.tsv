@@ -1,5 +1,5 @@
 Effect	group	N	Mean fac1	SD fac1
-group	human	1000	26.2210000	14.1886390
-group	persona_gemini	1000	4.6380000	2.7677819
-group	persona_gpt	1000	13.1330000	6.5147335
-group	persona_grok	1000	5.1110000	3.2501142
+group	human	1000	24.6930000	14.9535400
+group	persona_gemini	1000	3.9980000	2.9326774
+group	persona_gpt	1000	12.1080000	7.5121747
+group	persona_grok	1000	4.5690000	3.3912741

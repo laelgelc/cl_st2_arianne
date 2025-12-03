@@ -1,0 +1,2 @@
+variables loading on this pole = 9
+arctic (-.87), republic (-.83), amazon (-.82), fashion (-.55), clothes (-.49), bag (-.48), meter (-.40), shell (-.37), bottle (-.35)

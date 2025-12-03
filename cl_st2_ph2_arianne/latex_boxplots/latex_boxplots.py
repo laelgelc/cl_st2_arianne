@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate TikZ boxplots in LaTeX for dimensions 1–7 comparing:
+Generate TikZ boxplots in LaTeX for dimensions 1–4 comparing:
  - by source
  - by model
  - by prompt
@@ -129,7 +129,8 @@ def generate_boxplot(df: pd.DataFrame, dim: int, group_var: str,
         .write_text("\n".join(tex), encoding="utf-8")
 
 def generate_mosaic(suffix: str, caption: str):
-    dims = range(1, 8)
+    #dims = range(1, 8)
+    dims = range(1, 5)
     blocks = []
     for dim in dims:
         fn = OUTPUT_DIR / f"boxplot_f{dim}_{suffix}.tex"
@@ -148,17 +149,17 @@ def generate_mosaic(suffix: str, caption: str):
             blocks[i],
             r"\end{minipage}\hfill",
         ]
-    mos.append(r"\bigskip")
-
-    # bottom row dims 5–7
-    for i in range(4,7):
-        spacer = r"\hfill" if i < 6 else ""
-        mos += [
-            r"\begin{minipage}[t]{0.32\textwidth}",
-            r"\centering",
-            blocks[i],
-            r"\end{minipage}" + spacer,
-        ]
+#    mos.append(r"\bigskip")
+#
+#    # bottom row dims 5–7
+#    for i in range(4,7):
+#        spacer = r"\hfill" if i < 6 else ""
+#        mos += [
+#            r"\begin{minipage}[t]{0.32\textwidth}",
+#            r"\centering",
+#            blocks[i],
+#            r"\end{minipage}" + spacer,
+#        ]
 
     mos += [
         f"\\caption{{{caption}}}",
@@ -177,7 +178,8 @@ def main():
     df['prompt'] = df['prompt'].str.strip().str.lower()
     df['group']  = df['group'].str.strip().str.lower()
 
-    dims = range(1, 8)
+    #dims = range(1, 8)
+    dims = range(1, 5)
 
     # ----- 1) by source -----
     for dim in tqdm(dims, desc="By source"):

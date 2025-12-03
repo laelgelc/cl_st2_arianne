@@ -1,0 +1,2 @@
+variables loading on this pole = 29
+arctic (-.87), republic (-.83), amazon (-.82), fashion (-.55), (retailer (-.52)), clothes (-.49), bag (-.48), (packaging (-.47)), (captain (-.46)), (warrior (-.46)), (un (-.42)), (ministry (-.41)), meter (-.40), (brand (-.39)), (customer (-.38)), (dozen (-.37)), shell (-.37), (rainbow (-.36)), (sale (-.36)), (seal (-.36)), (station (-.36)), bottle (-.35), (beach (-.34)), (media (-.33)), (turtle (-.33)), (announcement (-.31)), (seafood (-.31)), (supermarket (-.31)), (metre (-.30))

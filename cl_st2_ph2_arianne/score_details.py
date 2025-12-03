@@ -60,8 +60,10 @@ def load_var_ids(path: Path):
 varlist_pos = {}
 varlist_neg = {}
 
-# Your project has 7 factors
-for f in range(1, 8):
+## Your project has 7 factors
+#for f in range(1, 8):
+# Your project has 4 factors
+for f in range(1, 5):
     posfile = VARID_DIR / f"f{f}_pos_var_id.txt"
     negfile = VARID_DIR / f"f{f}_neg_var_id.txt"
 
@@ -90,8 +92,10 @@ with open(OUTFILE, "w", encoding="utf-8") as out:
         out.write(f"text ID: {fid}\n")
         out.write(f"filename: {fname}\n\n")
 
-        # factors 1..7
-        for f in range(1, 8):
+        ## factors 1..7
+        #for f in range(1, 8):
+        # factors 1..4
+        for f in range(1, 5):
 
             score = row[f"fac{f}"]
             out.write(f"f{f} score: {score}\n")

@@ -1,5 +1,5 @@
 Effect	group	N	Mean fac4	SD fac4
-group	human	1000	5.75100000	5.61146037
-group	persona_gemini	1000	2.21100000	2.95418452
-group	persona_gpt	1000	4.91200000	5.06615455
-group	persona_grok	1000	2.50100000	3.15847669
+group	human	1000	8.18500000	6.64732743
+group	persona_gemini	1000	2.91400000	3.32139062
+group	persona_gpt	1000	6.87600000	5.71798210
+group	persona_grok	1000	3.25700000	3.53375699

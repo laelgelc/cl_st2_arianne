@@ -91,7 +91,8 @@ python corpus_size.py
 cd latex_boxplots
 # builds boxplots for factor analysis:
 python latex_boxplots.py
-# output: latex_boxplots
+# output: latex_boxplots/slides
+cd ..
 
 python latex_anova_table.py
 # output: latex_tables

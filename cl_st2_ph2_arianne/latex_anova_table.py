@@ -53,7 +53,8 @@ def format_rsquare(rs: float):
 def make_table(cond_name, anova_pat, params_pat, out_filename):
     rows = []
 
-    for dim in range(1, 8):
+    #for dim in range(1, 8):
+    for dim in range(1, 5):
         # ------------------------------
         # Load ANOVA TSV
         # ------------------------------

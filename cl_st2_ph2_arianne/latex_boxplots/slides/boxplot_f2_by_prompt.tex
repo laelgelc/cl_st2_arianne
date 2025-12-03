@@ -1,0 +1,44 @@
+\begin{figure}[H]
+\centering
+\hspace*{-.25in}
+\begin{tikzpicture}
+\begin{axis}[
+  boxplot/draw direction=y,
+  enlarge x limits=0.01,
+  every boxplot/.style={draw=black, fill=blue!25},
+  ylabel={Mean Dim. 2 Score},
+  ylabel style={font=\scriptsize},
+  height=0.45\textheight, width=\textwidth,
+  yticklabel style={font=\footnotesize},
+  x tick label style={rotate=60, anchor=east, font=\scriptsize},
+  x=7.5,
+  xtick={1,...,2},
+  xticklabels={
+human,
+  persona
+},
+]
+\addplot[red, densely dashed] coordinates {(0.5,0) (2.5,0)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(1,55) (1,55) (1,62) (1,62) (1,71)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=0,
+  lower quartile=12.0,
+  median=19.0,
+  upper quartile=28.0,
+  upper whisker=52.0
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(1,20.725)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(2,37) (2,37) (2,37) (2,37) (2,37) (2,37) (2,37) (2,37) (2,37) (2,37) (2,37) (2,37) (2,38) (2,38) (2,38) (2,38) (2,38) (2,38) (2,38) (2,38) (2,38) (2,38) (2,38) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,39) (2,40) (2,40) (2,40) (2,40) (2,40) (2,40) (2,40) (2,40) (2,40) (2,40) (2,40) (2,41) (2,41) (2,41) (2,41) (2,41) (2,41) (2,41) (2,41) (2,41) (2,41) (2,41) (2,41) (2,41) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,42) (2,43) (2,43) (2,43) (2,44) (2,44) (2,44) (2,44) (2,44) (2,44) (2,44) (2,44) (2,44) (2,44) (2,44) (2,44) (2,44) (2,45) (2,45) (2,45) (2,45) (2,45) (2,45) (2,45) (2,45) (2,45) (2,45) (2,46) (2,46) (2,46) (2,46) (2,46) (2,46) (2,46) (2,46) (2,46) (2,47) (2,47) (2,47) (2,47) (2,47) (2,47) (2,48) (2,48) (2,48) (2,48) (2,48) (2,48) (2,49) (2,49) (2,50) (2,50) (2,50) (2,50) (2,51) (2,51) (2,51) (2,52) (2,52) (2,52) (2,53) (2,53) (2,53) (2,53) (2,53) (2,53) (2,54) (2,54) (2,55) (2,55) (2,55) (2,55) (2,55) (2,55) (2,56) (2,56) (2,56) (2,57) (2,57) (2,58) (2,58) (2,59) (2,59) (2,59) (2,60) (2,61) (2,61) (2,61) (2,62) (2,64) (2,65) (2,66) (2,67) (2,69) (2,70)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-2,
+  lower quartile=6.0,
+  median=11.0,
+  upper quartile=18.25,
+  upper whisker=36.625
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(2,14.177666666666667)};
+\end{axis}
+\end{tikzpicture}
+\caption{Mean Dim. 2 Scores by Prompt (R² = 5.82\%)}
+\label{fig:means_f2_by_prompt}
+\end{figure}

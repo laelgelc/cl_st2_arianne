@@ -1,0 +1,2 @@
+variables loading on this pole = 23
+institute (-1.02), ministry (-.75), (united (-.67)), un (-.62), (amazon (-.49)), tax (-.45), (equality (-.42)), association (-.41), (rainbow (-.41)), (grassroots (-.39)), (republic (-.38)), seed (-.37), (intergovernmental (-.36)), council (-.35), (economics (-.34)), (innovation (-.33)), (warrior (-.33)), (finance (-.32)), (forum (-.32)), (inequality (-.32)), (topic (-.32)), (politics (-.31)), (reduction (-.31))
