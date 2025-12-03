@@ -73,3 +73,9 @@ rm -rf columns columns_clean
 python columns.py
 # output: columns, columns_clean, file_ids.txt, index_keywords.txt
 
+python merge_columns.py
+# output: sas/counts.txt
+
+python sas_formats.py
+# output: sas/word_labels_format.sas, etc
+
