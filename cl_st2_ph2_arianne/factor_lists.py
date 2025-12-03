@@ -14,7 +14,7 @@ def fmt_loading(x):
     return s              # fallback
 
 # Step 1: Load rotated matrix
-rotated = pd.read_csv("sas/output_aioralhistory/rotated.csv")
+rotated = pd.read_csv("sas/output_cl_st2_ph2_arianne/rotated.csv")
 
 # Step 2: Load index_keywords.txt
 id_to_word = {}

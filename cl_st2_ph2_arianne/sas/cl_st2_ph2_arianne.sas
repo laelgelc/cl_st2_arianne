@@ -1,4 +1,4 @@
-	/* BEGINNING PART 1 */
+/* BEGINNING PART 1 */
 /* === EDIT BELOW ====*/
 
 %let project = cl_st2_ph2_arianne ;

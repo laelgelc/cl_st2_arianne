@@ -82,3 +82,34 @@ python sas_formats.py
 ## RUN SAS
 ## Rogerio Yamada's account
 
+python factor_lists.py
+# output: factors
+
+python corpus_size.py
+# output: corpus_size/corpus_size.tsv
+
+cd latex_boxplots
+# builds boxplots for factor analysis:
+python latex_boxplots.py
+# output: latex_boxplots
+
+python latex_anova_table.py
+# output: latex_tables
+
+python examples.py
+# output: examples (LaTEX format)
+
+# sanity check on the scores:
+python score_details.py
+# output: examples/score_details.txt
+
+# interpretation
+# build prompts:
+python interpretation_prompts.py
+
+# submit prompts:
+python generate_interpretation_gpt.py \
+    --input interpretation/input \
+    --output interpretation/output \
+    --model gpt-5.1 \
+    --workers 4
