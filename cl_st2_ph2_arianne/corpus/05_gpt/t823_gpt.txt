@@ -1,0 +1,21 @@
+Imagine a world where our phones, laptops, and tablets are built to last—where a cracked screen, a weak battery, or a broken port doesn’t mean buying a whole new device. Instead, you grab a screwdriver, a spare part, or visit a local repair shop, and your trusted gadget is back in action. That world is not only possible; it’s essential if we want to cut costs for people and reduce the environmental impacts of our electronics.
+
+Every device we buy has a hidden footprint: metals and minerals dug from the earth, hazardous chemicals used in manufacturing, energy burned throughout production and transport, and, at the end of its life, the growing mountain of electronic waste. When products are designed to be durable and repairable, we buy fewer of them, less often. That means fewer resources extracted, less pollution, and less e-waste headed for landfills or unsafe recycling operations.
+
+Some companies are already showing what a more responsible future can look like. Fairphone has built its reputation on making smartphones that are modular and easier to repair. Dell and HP have also taken important steps, offering products that are more repair-friendly and backing them up with access to parts and information. These examples prove that it is entirely possible to design devices that last longer and are easier to fix.
+
+But the broader electronics industry is moving in the wrong direction. A recent Greenpeace–iFixit assessment of more than 40 of the latest smartphones, tablets, and laptops reveals worrying trends that make repairs harder, more expensive, or nearly impossible.
+
+Many manufacturers are increasingly soldering key components directly to the motherboard. When parts like memory or storage are permanently attached, a simple upgrade or replacement turns into a major operation—or cannot be done at all. Instead of swapping out a single part, consumers are pushed toward discarding the entire device.
+
+Design choices are also making gadgets more fragile. Sleek, all-glass constructions may look impressive, but they can be far more vulnerable to damage. The Samsung S8 is one example where a fragile glass design raises the risk that a single drop could mean a costly repair or a replacement device.
+
+Batteries are another major pain point. They wear out long before the rest of the hardware, but many newer devices are designed with batteries that are extremely difficult to access or replace. The Samsung Galaxy S8 and Apple MacBook are among the products highlighted for hard-to-replace batteries. When a worn battery effectively becomes a death sentence for an otherwise functional device, people are again nudged toward buying new instead of repairing.
+
+On top of that, some companies lock down their products with proprietary tools and systems. Apple’s iPhone, for example, often requires specialized tools to open and service. This creates barriers for independent repair shops and for people who want to fix their own devices, concentrating power in the hands of manufacturers and limiting practical repair options.
+
+Even when a device is technically repairable, repairs are often blocked by lack of information or access to spare parts. The Greenpeace–iFixit assessment found that most major brands do not provide full access to the manuals and components needed to keep devices running. Dell, Fairphone, and HP stand out as exceptions, offering the documentation and spare parts that make real-world repair possible. Their approach shows that transparency and access are key to a more sustainable electronics system.
+
+If we want a world where our electronics are durable, repairable, and less harmful to the planet, we need more brands to follow these leaders—and we need companies like Apple and Samsung to redesign their products so they last longer and are easier to fix. That means rethinking everything from how devices are assembled to how batteries are installed and how spare parts and manuals are shared.
+
+This is where collective action comes in. By demanding better design, easier repair, and longer-lasting devices, we can push the industry away from disposable electronics and toward a future where repair is the norm. To help make that future a reality, you can join the movement at rethink-it.org and add your voice to the call for change.

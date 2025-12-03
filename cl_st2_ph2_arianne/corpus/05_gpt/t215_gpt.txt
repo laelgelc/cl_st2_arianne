@@ -1,0 +1,15 @@
+Behind every visible Greenpeace campaign, there is a huge amount of quiet, careful work that makes volunteer participation possible. Over the past years, one of the key focus areas has been understanding how people use our digital spaces so we can better support, protect, and mobilize them. That is where a community-driven data dashboard for our Open Social platforms comes in.
+
+Back in 2018, Greenpeace community members asked for a way to track what was happening on our Open Social sites: what kind of content was being shared, which types of users were participating, and what actions they were taking. The goal wasn’t surveillance, but insight: to know our community better, spot what was working (or not), and shape more meaningful ways to take action together.
+
+Responding to that request, the team developed a webhook-based solution that connects Open Social platforms with Google Tag Manager and Google Analytics. This setup makes it possible to collect and organize information about how people move through these spaces, and then turn that information into a clear, accessible view of community activity.
+
+The first pilot took place in Brazil. There, the dashboard was used to visualize what was happening on the platform in real time: which content resonated, which actions people were most likely to take, and how different kinds of users engaged. This helped the team understand their community more deeply and refine how they mobilized volunteers online.
+
+Since then, the dashboard has grown into a shared resource. It is now used by 10 Greenpeace organizations across 17 countries, supporting engagement with around 50,000 volunteers. These volunteers connect, learn, and organize in safe, ad-free spaces where the focus is on collaboration and action, not on clicks or commercial interests.
+
+A key principle behind this work is openness. The dashboard is open-source so that other non-profit organizations can adopt and adapt it for their own communities. By sharing the tools we build, we hope to make it easier for more groups to create secure digital spaces that put people and the planet first.
+
+This is an ongoing journey. Greenpeace is actively seeking feedback from those using the dashboard so that future iterations can better meet the needs of volunteers and organizers. Building on this experience, a new step is already on the horizon: the upcoming GreenAct app, which aims to further strengthen how people can connect and take action together.
+
+From the first community request in 2018 to today’s multi-country use, this dashboard reflects how digital tools can be shaped collaboratively to support real-world change. It is one more example of how thoughtful, behind-the-scenes work can help volunteers come together and build the movements our planet needs.
