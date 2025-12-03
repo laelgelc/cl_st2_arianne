@@ -69,3 +69,7 @@ Duplicates removed later: 230
 Final unique keywords written: 970
 "
 
+rm -rf columns columns_clean
+python columns.py
+# output: columns, columns_clean, file_ids.txt, index_keywords.txt
+
