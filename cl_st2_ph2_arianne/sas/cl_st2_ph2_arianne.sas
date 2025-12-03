@@ -1,11 +1,11 @@
 	/* BEGINNING PART 1 */
 /* === EDIT BELOW ====*/
 
-%let project = aioralhistory ;
+%let project = cl_st2_ph2_arianne ;
 
 %let myfolder = &project ;
 
-%let sasusername = u50418389 ;
+%let sasusername = u63529080 ;
 
 %let whereisit = /home/&sasusername ;   /* online */
 
@@ -40,7 +40,7 @@ DATA &project;
       prompt  $10      /* plain / persona / human */
       model   $20      /* gpt, grok, gemini, human */
       source  $5       /* ai / human */
-      v000001 - v000949 3
+      v000001 - v000970 3
   ;
 
   INPUT
@@ -48,7 +48,7 @@ DATA &project;
       prompt  :$10.
       model   :$20.
       source  :$5.
-      v000001 - v000949
+      v000001 - v000970
   ;
 RUN;
 
@@ -854,7 +854,7 @@ quit;
 /* list all files in your directory */
 
 /* name the zip file you want to zip into, e.g. */
-%let addcntzip = /home/u50418389/zip/output_&project..zip;
+%let addcntzip = /home/u63529080/zip/output_&project..zip;
 
 FILENAME temp "&addcntzip";
 DATA _NULL_;
@@ -868,7 +868,7 @@ data filelist;
   input root;
   retain filename dname ' ' level 0 dir 1;
 cards4;
-/home/u50418389/aioralhistory
+/home/u63529080/cl_st2_ph2_arianne
 ;;;;
 run;
 
