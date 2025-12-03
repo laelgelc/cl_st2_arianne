@@ -1,0 +1,3 @@
+Dependent	HypothesisType	Source	DF	SS	MS	FValue	ProbF
+fac7	1	model	3	5952.042000	1984.014000	260.08	<.0001
+fac7	3	model	3	5952.042000	1984.014000	260.08	<.0001

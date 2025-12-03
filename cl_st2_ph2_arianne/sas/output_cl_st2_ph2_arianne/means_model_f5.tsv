@@ -1,0 +1,5 @@
+Effect	model	N	Mean fac5	SD fac5
+model	gemini	1000	1.38400000	2.03830780
+model	gpt	1000	2.97400000	3.69174118
+model	grok	1000	1.46100000	2.10259361
+model	human	1000	3.39800000	3.70449987

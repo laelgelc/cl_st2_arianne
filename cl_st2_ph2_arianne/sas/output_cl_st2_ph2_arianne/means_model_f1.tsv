@@ -1,0 +1,5 @@
+Effect	model	N	Mean fac1	SD fac1
+model	gemini	1000	4.6380000	2.7677819
+model	gpt	1000	13.1330000	6.5147335
+model	grok	1000	5.1110000	3.2501142
+model	human	1000	26.2210000	14.1886390

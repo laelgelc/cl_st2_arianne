@@ -1,0 +1,5 @@
+Effect	group	N	Mean fac2	SD fac2
+group	human	1000	14.8720000	9.30592372
+group	persona_gemini	1000	5.3000000	3.34143160
+group	persona_gpt	1000	20.0150000	9.95650074
+group	persona_grok	1000	6.1160000	4.10455739
