@@ -1,0 +1,4597 @@
+1992 IPCC Supplement 
+1 
+
+
+TABLE OF CONTENTS 
+SECTION I. INTRODUCTION 
+5 
+SECTION II. SCIENTIFIC ASSESSMENT 
+6 
+SECTION ni. ASSESSMENT OF POTENTIAL IMPACTS OF CLIMATE CHANGE 
+24 
+SECTION IV. ENERGY AND INDUSTRY RELATED ISSUES 
+29 
+SECTION V. AGRICULTURE AND FORESTRY RELATED ISSUES 
+33 
+SECTION VI. VULNERABILITY TO SEA LEVEL RISE 
+36 
+SECTION VII. RESUME OF THE POLICYMAKER SUMMARY (1990) OF THE IPCC 
+SPECIAL COMMITTEE ON THE PARTICIPATION OF DEVELOPING COUNTRIES 
+41 
+SECTION VIII. SUMMARY OF COMMENTS AND ISSUES FOR FURTHER 
+CONSIDERATION BROUGHT OUT AT THE SEVENTH SESSION OF IPCC 
+42 
+LIST OF ACRONYMS AND CHEMICAL SYMBOLS 
+45 
+3 
+
+
+SECTION 1. 
+INTRODUCTION 
+At 
+its fifth 
+session (Geneva, M a r c h 
+1991), 
+the 
+Intergovernmental Panel on Climate Change ( I P C C ) 
+decided to address the six following tasks in a short-term 
+effort to produce an update of its First Assessment Report 
+(August 1990): 
+T A S K 1: 
+T A S K 2: 
+T A S K 3 
+T A S K 4 
+T A S K S 
+T A S K 6 
+Assessment of national net greenhouse gas 
+emissions: 
+Sub-section 1: Sources and sinks of 
+greenhouse gases; 
+Sub-section 2: Global Warming Potentials; 
+Predictions of the regional distributions of 
+climate change and associated impact 
+studies, including model validation studies: 
+Sub-section 1: Update of regional climate 
+models; 
+Sub-section 2: Analysis of sensitivity to 
+regional climate change; 
+Energy and industry related issues; 
+Agriculture and forestry related issues; 
+Vulnerability to sea-level rise; 
+Emissions scenarios. 
+matters requiring further work) were discussed during the 
+seventh session and are included in section VIII of the 
+Supplement. 
+Publication of the 1992 IPCC Supplement completes the 
+short-term work on the six Tasks agreed on at the fifth 
+session of the I P C C (IPCC-V). 
+Long-term work on the 
+same Tasks was also agreed on at I P C C - V and this 
+continues. 
+Each Working Group presented material consisting of a 
+supplement to the IPCC First Assessment Report (1990) 
+together with supporting documents. The supplementary 
+reports have been prepared by subgroups, and have been 
+extensively scrutinized and agreed on by open-ended 
+plenary meetings of the three W o r k i n g Groups. The 
+supporting documents are being prepared by the Working 
+Groups, subgroups or lead authors and have been or will 
+be extensively refereed. 
+The IPCC, at its seventh session (Geneva, 10-12 February 
+1992), recognized with appreciation the dedicated work of 
+many scientists in preparing the reports and supporting 
+documents, especially considering the short time available 
+for their preparation. The IPCC considered and included 
+the supplementary reports from the Working Groups as 
+contributions to the 1992 I P C C Supplement. 
+The IPCC 
+requested that any minor inconsistencies between the 
+Working Group reports be removed so far as possible. 
+Other inconsistencies will be resolved in follow-up work. 
+It was noted that the supplementary reports are overviews 
+of the work which has been carried out and that the 
+supporting documents provide a great deal of additional 
+detailed information, and it was requested that these 
+documents be made available as soon as possible. Issues 
+common to all three working groups as well as other 
+issues raised by members of the I P C C (in particular 
+5 
+
+SECTION IL SCIENTIFIC ASSESSMENT 
+T A S K 1: 
+Assessment of national net greenhouse gas 
+emissions and their implications 
+T A S K 2: 
+Predictions of the regional distributions of 
+climate change and associated impact 
+studies, including model validation studies 
+(part on predictions of the regional 
+distributions of climate change, including 
+model validation studies) 
+T A S K 6: 
+Emissions scenarios 
+By Working Group I 
+C U R R E N T T A S K 
+The fifth session of the Intergovernmental Panel on Climate 
+Change (IPCC) (Geneva, March 1991) adopted six tasks for 
+the ongoing work of its three working groups. While suc­
+cessful completion of these tasks required cooperation 
+between all three groups, particular responsibility fell to 
+the Scientific Assessment working group (WGI) for Tasks 
+I, 2 and 6: 
+Task I : 
+Assessment of net greenhouse gas emissions. 
+Sub-section 1 : Source and sinks of 
+greenhouse gases. 
+Sub-section 2: Global Warming Potentials. 
+Task 2; 
+Predictions of the regional distributions of 
+climate change and associated impact studies; 
+including model validation studies. 
+Task 6: 
+Emissions scenarios. 
+The tasks were divided into long- and short-term compo­
+nents. The purpose of the short-term workplan, whose 
+results are reported in the present document, was to provide 
+an update to the 1990 IPCC Scientific Assessment, address­
+ing some of the key issues of that report. This update is by 
+definition less comprehensive than the 1990 assessment - for 
+example sea level rise apart from the effect of thermal 
+expansion is not included. It is against the background of 
+that document that the findings of this update should be 
+read. 
+This assessment, in order to incoфorate as much recent 
+material as possible, necessarily includes discussion of new 
+results which have not yet been through, or are currently 
+undergoing, the normal process of peer review. Where such 
+is the case the provisional nature of the results has been 
+taken into account. 
+A brief progress report on the preparation of guidelines for 
+the compilation of national inventories of greenhouse gas 
+emissions, part of WGI's long-term work under Task 1, 
+appears as an Annex to this Supplement. 
+OUR M A J O R CONCLUSIONS 
+Findings of scientific research since 1990 do not affect our 
+fundamental understanding of the science of the green­
+house effect and either confirm or do not justify alteration 
+of the major conclusions of the first I P C C Scientific 
+Assessment, in particular the following: 
+emissions resulting from human activities are 
+substantially 
+increasing 
+the 
+atmospheric 
+concentrations of the greenhouse gases: carbon 
+dioxide, methane, chlorofluorocarbons, and nitrous 
+oxide; 
+the evidence from the modelling studies, from 
+observations and the sensitivity analyses indicate 
+that the sensitivity of g l o b a l mean 
+surface 
+temperature to doubling C O , is unlikely to lie 
+outside the range 1.5° to 4.5°C; 
+there are many uncertainties in our predictions 
+particularly with regard to the timing, magnitude 
+and regional patterns of climate change due to our 
+incomplete understanding; 
+• 
+global mean surface air temperature has increased 
+by 0.3° to 0.6°C over the last 100 years; 
+the size of this warming is broadly consistent with 
+predictions of climate models, but it is also of the 
+same magnitude as natural climate variability. Thus 
+the observed increase could be largely due to this 
+natural variability; altematively this variability and 
+other human factors could have offset a still larger 
+human-induced greenhouse warming; 
+• 
+the u n e q u i v o c a l detection of the 
+enhanced 
+greenhouse effect from observations is not likely 
+for a decade or more. 
+There are also a number of significant new findings and con­
+clusions which we summarize as follows: 
+Gases and aerosols 
+• 
+Depletion of ozone in the lower stratosphere in the 
+middle and high latitudes results in a decrease in 
+radiative f o r c i n g w h i c h 
+is b e l i e v e d to 
+be 
+comparable in magnitude to the radiative forcing 
+contribution of c h l o r o f l u o r o c a r b o n s 
+( C F C s ) 
+(globally-averaged) over the last decade or so. 
+6 
+
+The cooling effect of aerosols* resulting from 
+sulphur emissions may have offset a significant part 
+of the greenhouse 
+w a r m i n g in the Northern 
+Hemisphere (NH) during the past several decades. 
+Although this phenomenon was recognized in the 
+1990 report, some progress has been made in 
+quantifying its effect. 
+The Global Warming Potential ( G W P ) remains a 
+useful concept but its practical utility for many 
+gases depends on adequate quantification of the 
+indirect effects as well as the direct. W e now 
+recognize that there is increased uncertainty in the 
+calculation of G W P s , particularly in the indirect 
+components and, whilst indirect G W P s are likely to 
+be significant for some gases, the numerical 
+estimates in this Supplementary Report are limited 
+to direct G W P s . 
+Whilst the rates of increase in the atmospheric 
+concentrations of many greenhouse gases have 
+continued to grow or remain steady, those of 
+methane and some halogen compounds have 
+slowed. 
+Some data indicate that g l o b a l emissions of 
+methane from rice paddies may amount to less than 
+previously estimated. 
+Scenarios 
+Steps 
+have 
+been 
+taken 
+towards 
+a 
+more 
+comprehensive analysis of the dependence of future 
+greenhouse gas emissions on socio-economic 
+assumptions and projections. A set of updated 
+scenarios have been developed for use in modelling 
+studies which describe a wide range of possible 
+future emissions in the absence of coordinated 
+policy response to climate change. 
+Modelling 
+• 
+Climate models have continued to improve in 
+respect of both their physical realism and their 
+ability to simulate present climate on large scales, 
+and new techniques are being developed for the 
+simulation of regional climate. 
+Transient (time-dependent) 
+simulations with 
+coupled ocean-atmosphere models ( C G C M s ) , in 
+which neither aerosols nor ozone changes have 
+been included, suggest a rate of global warming that 
+is consistent, within the range of uncertainties, with 
+the 0.3°C per decade wanning rate quoted by IPCC 
+(1990) for Scenario A of greenhouse gas emissions. 
+The large-scale geographical patterns of warming 
+produced by the transient mode! runs with C G C M s 
+are generally similar to the patterns produced by the 
+earlier equilibrium models except that the transient 
+simulations show reduced w a r m i n g over the 
+northern North Atlantic and the southern oceans 
+near Antarctica. 
+C G C M s are capable of reproducing some features 
+of atmospheric variability on intra-decadal time-
+scales. 
+Our understanding of some climate feedbacks and 
+their incoфoration in the models has improved. In 
+particular, there has been some clarification of the 
+role of upper tropospheric water vapour. The role of 
+other processes, in particular cloud effects, remains 
+unresolved. 
+Climate observations 
+The a n o m a l o u s l y high global mean 
+surface 
+temperatures of the late 1980s have continued into 
+1990 and 1991 which are the warmest years in the 
+record. 
+A v e r a g e w a r m i n g over parts of the Northern 
+Hemisphere mid-latitude continents has been found 
+to be largely characterized by increases in minimum 
+(night-time) rather than m a x i m u m (daytime) 
+temperatures. 
+Radiosonde data indicate that the lower troposphere 
+has warmed over recent decades. Since meaningful 
+trends cannot be assessed over periods as short as a 
+decade, the widely reported disagreements between 
+decadal trends of air temperature from satellite and 
+surface data cannot be confirmed because the trends 
+are statistically indistinguishable. 
+The volcanic eruption of Mount Pinatubo in 1991 is 
+expected to lead to transitory 
+stratospheric 
+warming. With less certainty, because of other 
+natural influences, surface and tropospheric cooling 
+may occur during the next few years. 
+Average warming over the Northern Hemisphere 
+during the last four decades has not been uniform, 
+with marked seasonal and geographic variations; 
+this warming has been especially slow, or absent, 
+over the extratropical north west Atlantic. 
+The consistency between observations of global 
+temperature changes over the past century and 
+model simulations of the w a r m i n g due 
+to 
+greenhouse gases over the same period is improved 
+if allowance is made for the increasing evidence of 
+The scientific definilion of 'aerosol' is an airborne panicle or collection of particles, hut the word has become associated, erroneously, with th
+propellant used in 'aerosol sprays' Throughout this repon the term 'aerosol' means airhorne panicle or particles 
+1 
+
+a c o o l i n g effect due to sulphate aerosols and 
+stratospheric ozone depletion. 
+The above conclusions have implications for future pro-
+jections of global warming and somewhat modify the 
+estimated rate of warming of 0.3°C per decade for the green-
+house gas emissions Scenario A of the I P C C First 
+Assessment Repon (1990). If sulphur emissions continue to 
+increase, this warming rate is likely to be reduced, signifi-
+cantly in the Northem Hemisphere, by an amount dependent 
+on the future magnitude and regional distribution of the 
+emissions. Because sulphate aerosols are very short-lived in 
+the atmosphere their effect on global warming rapidly 
+adjusts to increases or decreases in emissions. It should 
+also be noted that while partially offsetting the greenhouse 
+warming, the sulphur emissions are also responsible for 
+acid rain and other environmental effects. There is a further 
+small net reduction likely in the rate of global warming 
+during the next few decades due to decreases in stratospher-
+ic ozone, partially offset by increases in tropospheric ozone. 
+Research carried out since the 1990 IPCC assessment has 
+served to improve our appreciation of key uncertainties. 
+There is a continuing need for increased monitoring and 
+research into climate processes and modelling. This must 
+involve, in p'articular, strengthened international collabora-
+tion through the World Climate Research Programme 
+( W C R P ) , 
+the 
+International 
+Geosphere 
+Biosphere 
+Programme (IGBP) and the Global Climate Observing 
+System (GCOS). 
+How does the climate system work, and 
+what information do we need to estimate 
+future changes? 
+How does the climate system work? 
+The Earth absorbs radiation from the Sun, mainly 
+at the surface. This energy is then redistributed 
+by the atmosphere and ocean and re-radiated to 
+space at longer ( ' t h e r m a l ' , 'terrestrial" or 
+"infrared") wavelengths. Some of the thermal 
+radiation is absorbed by radiatively-active 
+('greenhouse') gases in the 
+atmosphere, 
+p r i n c i p a l l y water vapour, but also carbon 
+dioxide, methane, the C F C s , ozone and other 
+greenhouse gases. The absorbed energy is re-
+radiated in all directions, downwards as well as 
+upwards such that the radiation that is eventually 
+lost to space is from higher, colder levels in the 
+atmosphere (see diagram below). The result is 
+that the surface loses less heat to space than it 
+would do in the absence of the greenhouse gases 
+and consequently stays warmer than it would 
+otherwise be. This phenomenon, which acts 
+rather like a 'blanket" around the Earth, is known 
+as the greenhouse effect. 
+What factors can change climate? 
+Any factor which alters the radiation received from the 
+Sun or lost to space, or which alters the redistribution of 
+energy within the atmosphere, and between the atmo-
+sphere, land and ocean, will affect climate. 
+The Sun's output of energy is known to change by small 
+amounts over an 11 -year cycle, and variations over longer 
+periods may occur. On time-scales of tens to thousands 
+of years, slow variations in the Earth's orbit have led to 
+changes in the seasonal and latitudinal distribution of 
+solar radiation; these changes have played an important 
+part in controlling the variations of past climate. 
+Increases in the concentration of the greenhouse gases 
+will reduce the efficiency with which the Earth cools to 
+some solar radiation 
+IS reflected t>y ttie eartti 
+and the atmosphere 
+sóníe oFthe írítrá-red 
+radiation is absorbed 
+and re-emitted by the 
+-greenhouse gases. 
+. , The effect of this is to 
+;/warm the surface and 
+' the lower atmosphere 
+EARTH 
+most solar 
+'radiation is absorbed 
+by the earth's surface and 
+warms it 
+infra-red 
+radiation is 
+emitted from 
+the earth's 
+surface 
+8 
+
+space and will tend to warm the lower atmosphere and 
+surface. The amount of warming depends on the size of 
+the increase in concentration of each greenhouse gas, 
+the radiative properties of the gases involved, and the 
+concentration of other greenhouse gases already present 
+in the atmosphere. It also can depend on local effects such 
+as the variation with height of the concentration of the 
+greenhouse gas. a consideration that may be particularly 
+germane to water vapour which is not uniformly mixed 
+throughout the atmosphere. The effect is not a simple one 
+and the balance which is struck between these factors 
+depends on many aspects of the climate system. 
+Aerosols (small particles) from volcanoes, emissions of 
+sulphates from industry and other sources can absorb 
+and reflect radiation. Moreover, changes in aerosol con-
+centrations can alter cloud reflectivity through their effect 
+on cloud properties. In most cases aerosols tend to cool 
+climate. In general, they have a much shorter lifetime than 
+greenhouse gases so their concentrations respond much 
+more quickly to changes in emissions. 
+Any changes in the radiative balance of the Earth, includ-
+ing those due to an increase in greenhouse gases or in 
+aerosols, will tend to alter atmospheric and oceanic tem-
+peratures and the associated circulation and weather 
+patterns. However climate varies naturally on all time-
+scales due to both external and internal factors. To 
+distinguish man-made climate variations from those nat-
+ural changes, it is necessary to identify the man-made 
+"signal' against the background 'noise' of natural cli-
+mate variability. 
+A necessary starting point for the prediction of changes 
+in climate due to increases in greenhouse gases and 
+aerosols is an estimate of their future concentrations. 
+This requires a knowledge of both the strengths of their 
+sources (natural and man-made) and also the mecha-
+nisms of their eventual removal from the atmosphere 
+(their sinks). The projections of future concentrations 
+can then be used in climate models to estimate the cli-
+matic response. We also need to determine whether or not 
+the predicted changes will be noticeable above the natu-
+ral variations in climate. Finally, observations are 
+essential in order to monitor climate, to study climatic 
+processes and to help in the development and validation 
+of models. 
+RECENT IMPROVEMENTS IN 
+SCIENTIFIC UNDERSTANDING 
+HOW HAS OUR UNDERSTANDING OF 
+THE SOURCES AND SINKS OF 
+GREENHOUSE GASES AND AEROSOLS 
+CHANGED? 
+During the last eighteen months there have been a number 
+of important advances in our understanding of greenhouse 
+gases and aerosols. These advances include an improved 
+quantitative understanding of the atmospheric distributions, 
+trends, sources and sinks of greenhouse gases, their pre-
+cursors and aerosols, and an improved understanding of the 
+processes controlling their global budgets. 
+Atmospheric concentrations and trends of long-lived 
+greenhouse gases: The atmospheric concentrations of the 
+major long-lived greenhouse gases [carbon dioxide (CO,), 
+methane (CH^), nitrous oxide (N,0), chlorofluorocarbons 
+(CFCs), and carbon tetrachloride (CCI4)] continue to 
+increase because of human activities. While the growth 
+rates of most of these gases have been steady or increasing 
+over the past decade, that of C H ^ and some of the halocar-
+bons has been decreasing. The rate for CH4 has declined 
+from about 20 ppbv/yr in the late 1970s to possibly as low 
+as 10 ppbv/yr in 1989. While a number of hypotheses have 
+been forwarded to explain these observations, none is com-
+pletely satisfactory. 
+Atmospheric concentrations and trends of other gases 
+that influence the radiative budget: Ozone (O3) is an 
+effective greenhouse gas both in the stratosphere and in the 
+troposphere. Significant decreases have been observed dur-
+ing the last one to two decades in total column O3 at all 
+latitudes - except the tropics - in spring, summer and win-
+ter. The downward trends were larger during the 1980s than 
+in the 1970s. These decreases have occurred predominant-
+ly in the lower stratosphere (below 25km). where the rate of 
+decrease has been up to 10% per decade depending on alti-
+tude. In addition, there is evidence to indicate that O3 levels 
+in the troposphere up to 10km altitude above the few exist-
+ing ozonesonde stations at northern middle latitudes have 
+increased by about 10% per decade over the past two 
+decades. Also, the abundance of carbon monoxide (CO) 
+appears to be increasing in the N H at about 1% per year. 
+However, there is little new information on the global trends 
+of other tropospheric O3 precursors, (non-methane hydro-
+carbons ( N M H C ) and oxides of nitrogen (NO^^)). 
+Sources and sinks of carbon dioxide: The two primary 
+sources of the observed increase in atmospheric C O , are 
+combustion of fossil fuels and land-use changes: cement 
+production is a further important source. 
+The emission of C O , from the combustion of fossil fuels 
+grew between 1987 "and 1989. Preliminary data for 1990 
+indicate similar emissions to 1989. The best estimate for 
+global fossil fuel emissions in 1989 and 1990 is 6.0+0.5 
+GtC*, compared to 5.7±0.5 G t C in 1987 (IPCC, 1990). The 
+/ GiC (¡iigalonne of tarhnn) equals one billion jone thousand million ( 10^)] tonnes of carbon 
+9 
+
+estimated total release of carbon in the form of C O , from oil 
+well fires in Kuwait during 1991 was 0.065 GtC. about one 
+percent of total annual anthropogenic emissions. 
+The direct net flux of C O , from land use changes (primar-
+ily deforestation), integrated over time, depends upon the 
+area of land deforested, the rate of reforestation and 
+afforestation, the carbon density of the original and replace-
+ment forests, and the fate of above-ground and soil carbon. 
+These and other factors are needed to estimate annual net 
+emissions but significant uncertainties exist in our quanti-
+tative knowledge of them. Since IPCC ( 1990) some progress 
+has been made in reducing the uncertainties associated with 
+the rate of deforestation, at least in Brazil. A comprehensive, 
+multi-year, high spatial resolution satellite data set has been 
+used to estimate that the average rate of deforestation in the 
+Brazilian Amazonian forest between 1978 and 1989 was 2.1 
+million hectares (Mha) per year. The rate increased between 
+1978 and the mid-1980s, and has decreased to 1.4 Mha/yr 
+in 1990. The Food and Agriculture Organization (FAO), 
+using information supplied by individual countries, recent-
+ly estimated that the rate of global tropical deforestation in 
+closed and open canopy forests for the period 1981-1990 
+was about 17 Mha/yr, approximately 50% higher than in the 
+period 1976-1980. 
+Despite the new information regarding rates of deforesta-
+tion, the uncertainties in estimating C O , emissions are so 
+large that there is no strong reason to revise the IPCC 1990 
+estimate of annual average net flux to the atmosphere of 
+1.6+1.0 G t C from land-use change during the decade of 
+the 1980s. 
+Since I P C C (1990) particular attention has focussed on 
+understanding the processes controlling the release and 
+uptake of C O , from both the terrestrial biosphere and the 
+oceans, and on the quantification of the fluxes. Based on 
+models and the atmospheric distribution of C O , , it appears 
+that there is a small net addition of carbon to the atmo-
+sphere from the equatorial region, a combination of 
+outgassing of C O , from warm tropical waters and a terres-
+trial biospheric component that is the residual between large 
+sources (including deforestation) and sinks. There appears 
+to be a strong Northem Hemisphere sink, containing both 
+oceanic and terrestrial biospheric components, and a weak 
+Southern Hemisphere (SH) sink. The previous IPCC glob-
+al estimate for an ocean sink of 2.0±0.8 G t C per year is still 
+a reasonable one. The terrestrial biospheric processes which 
+are suggested as contributing to the sinks are sequestration 
+due to forest regeneration, and fertilization arising from the 
+effects of both C O , and nitrogen (N), but none of these can 
+be adequately quantified. This implies that the imbalance (of 
+order 1-2 GtC/yr) between sources and sinks, i.e., "the miss-
+ing sink", has not yet been resolved. This fact has significant 
+consequences for estimates of future atmospheric C O j con-
+centrations and the analysis of the concept of the 
+Greenhouse Warming Potential. 
+Sources of methane: A total (anthropogenic plus natural) 
+annual emission of C H ^ of about 500Tg can be deduced 
+from the magnitude of its sinks combined with its rate of 
+accumulation in the atmosphere. While the sum of the indi-
+vidual sources is consistent with a total of 500Tg C H ^ , there 
+are still many uncertainties in accurately quantifying the 
+magnitude of emissions from individual sources. Significant 
+new information includes a revised rate of removal of C H ^ 
+by atmospheric hydroxy 1 (OH) radicals (because of a lower 
+rate constant), a new evaluation of some of the sources 
+(e.g., from rice fields) and the addition of new sources (e.g., 
+animal and domestic waste). Recent C H ^ isotopic studies 
+suggest that approximately lOOTg C H ^ (20% of the total 
+CH4 source) is of fossil origin, largely from the coal, oil, and 
+natural gas industries. Recent studies of C H ^ emissions 
+from rice agriculture, in particular Japan, India, Australia, 
+Thailand and China, show that the emissions depend on 
+growing conditions, particularly soil characteristics, and 
+vary significantly. While the overall uncertainty in the mag-
+nitude of global emissions from rice agriculture remains 
+large, a detailed analysis now suggests significantly lower 
+annual emissions than reported in IPCC 1990. The latest 
+estimate of the atmospheric lifetime of C H ^ is about 11 
+years. 
+Sources of nitrous oxide: Adipic acid (nylon) produc-
+tion, nitric acid production and automobiles with three-way 
+catalysts have been identified as possibly significant anthro-
+pogenic global sources of nitrous oxide. However, the sum 
+of all known anthropogenic and natural sources is still bare-
+ly sufficient to balance the calculated atmospheric sink or to 
+explain the observed increase in the atmospheric abundance 
+of N , 0 . 
+Sources of halogenated species: The worldwide con-
+sumption of C F C s 11, 12, and 113 is now 40% below 1986 
+levels, substantially below the amounts permitted under the 
+Montreal Protocol. Further reductions are mandated by the 
+1990 London Amendments to the Montreal Protocol. As 
+C F C s are phased out. H C F C s and HFCs will substitute, but 
+at lower emission rates. 
+Stratospheric ozone depletion: Even if the control mea-
+sures of the 1990 London amendments to the Montreal 
+Protocol were to be implemented by all nations, the abun-
+dance of stratospheric chlorine and bromine will increase 
+over the next several years. The Antarctic ozone hole, 
+caused by industrial halocarbons, will therefore recur each 
+spring. In addition, as the weight of evidence suggests that 
+these gases are also responsible for the observed reductions 
+in middle- and high-latitude stratospheric O3. the depletion 
+at these latitudes is predicted to continue unabated through 
+the 1990s. 
+Sources of precursors of tropospheric ozone: Little new 
+information is available regarding the tropospheric ozone 
+precursors (CO, N M H C . and N0,^ ), all of which have sig-
+nificant natural and anthropogenic sources. Their detailed 
+budgets therefore remain uncertain. 
+Sources of aerosols: Industrial activity, biomass buming, 
+volcanic eruptions, and sub-sonic aircraft contribute sub-
+10 
+
+stantially to the formation of tropospheric and stratospher-
+ic aerosols. Industrial activities are concentrated in the 
+Northern Hemisphere where their impact on tropospheric 
+sulphate aerosols is greatest. Sulphur emissions, which are 
+due in large part to combustion effluents, have a similar 
+emissions history to that of anthropogenic C O , . Estimates 
+of emissions of natural sulphur compounds have been 
+reduced from previous figures, thereby placing more empha-
+sis on the anthropogenic contribution. 
+SCENARIOS OF FUTURE EMISSIONS 
+Scenarios of net greenhouse gas and aerosol precursor emis-
+sions for the next 100 years or more are necessary to support 
+study of potential anthropogenic impacts on the climate 
+system. The scenarios provide inputs to climate models and 
+assist in the examination of the relative importance of rel-
+evant trace gases and aerosol precursors in changing 
+atmospheric composition and climate. Scenarios can also 
+help in improving the understanding of key relationships 
+among factors that drive future emissions. 
+Scenario outputs are not predictions of the future, and should 
+not be used as such: they illustrate the effect of a wide 
+range of economic, demographic and policy assumptions. 
+They are inherently controversial because they reflect dif-
+ferent views of the future. The results of short-term 
+scenarios can vary considerably from actual outcomes even 
+over short time horizons. Confidence in scenario outputs 
+decreases as the time horizon increases, because the basis for 
+the underiying assumptions becomes increasingly specula-
+tive. Considerable uncertainties surround the evolution of 
+the types and levels of human activities (including eco-
+nomic growth and structure), technological advances, and 
+human responses to possible environmental, economic and 
+institutional constraints. Consequently, emission scenarios 
+must be constructed carefully and used with great caution. 
+Since completion of the 1990 IPCC Scenario A (SA90) 
+events and new information have emerged which relate to 
+that scenario's underlying assumptions. These develop-
+ments include: the London Amendments to the Montreal 
+Protocol; revision of population forecasts by the Worid 
+Bank and United Nations; publication of the IPCC Energy 
+and Industry Sub-group scenario of greenhouse gas emis-
+sions to 2025; political events and economic changes in the 
+former USSR, Eastem Europe and the Middle East; re-esti-
+mation of sources and sinks of greenhouse gases (reviewed 
+in this Assessment): revision of preliminary F A O data on 
+tropical deforestation; and new scientific studies on forest 
+biomass. There has also been recognition of considerable 
+uncertainty regarding other important factors that drive 
+future emissions. 
+These factors have led to an update of the SA90. Six alter-
+native IPCC Scenarios (IS92 a-f) now embody a wide array 
+of assumptions, summarized in Table 1, affecting how future 
+greenhouse gas emissions might evolve in the absence of cli-
+mate policies beyond those already adopted. This constitutes 
+a significant improvement over the previous methodology. 
+However, the probability of any of the resulting emission 
+paths has not been analyzed. IPCC W G I does not prefer any 
+individual scenario. Other combinations of assumptions 
+could illustrate a broader variety of emission trajectories. 
+The different wodds which the new scenarios imply, in 
+terms of economic, social and environmental conditions, 
+vary widely. The current exercise provides an interim view 
+and lays a basis for a more complete study of future emis-
+sions of greenhouse gas and aerosol precursors. 
+11 
+
+<и 
+.а 
+"5. 
+а 
+3 
+сл 
+с 
+S 
+о 
+Б 
+а 
+с о 
+С 
+_о 
+_« 
+3 а о 
+CL 
+се 
+С ш 
+и 
+сл 
+-а 1. 
+(Л 
+с 
+1. 
+(Л 'о 
+о 1 
+3 
+о о 
+.с "я ID я 
+О 
+сл 
+5Ь я 
+J= 
+5) 
+<и 
+о о О. 
+сл 
+<и 
+о о 
+li-i 
+с с "я 
+3 
+О <N 
+"Е. 
+Р 
+£ 
+00 
+С 
+1 
+> ^ 
+X I 
+5 
+U 
+о 
+С 
+1 V: 
+ц (Л 
+С 
+1 
+о 
+1 
+"5 
+сл 
+Ú 
+Ц. 
+и 
+с 
+3 
+о 
+sel 
+_ я 2 
+= ? ^ i 
+í 3 
+Z I 
+r . сл 
+_J E сл 5 
+2 ^1 
+S o 
+o я 
+и Z 
+ШШ 
+O o 
+o o 
+° 
+° 
+o я 
+° ü 
+= .5 
+СЛ -o _ 
+6 o Ï 
+o —> я 
+1- Ш ¿ 
+•§ - 
+o 
+СЛ — (Л 
+O — 
+à ó 
+_ i o 
+— o 
+я >, 
+pa X I 
+3 pa 
+1 = 
+ее 
+ON 
+СЛ 
+•о 
+x: о 
+- 2 
+-£ 
+> "a 
+u i: 
+11 
+II 
+i l 
+и D. 
+— 
+E 
+Я 
+ùO 
+p 
+Ë 
+E 
+о 
+.2 
+У 
+ÏO 
+я 
+( U 
+E 
+E 
+я 
+сл 
+C> r«-, 
+u-1 о 
+о — 
+C N 
+СО 
+О 
+£1 
+ГЧ 
+сл 
+s* 
+о 
+>N 
+X l 
+с ra 
+О О 
+5 ^ ^ 
+U Z о 
+о о 
+о р 3 
+t-Nl — 
+u~¡ о 
+as 
+0\ 0^ 
+и s 
+о 
+-J о 
+E ° 
+5 <N 
+z M-
+и 
+ON 
+СЛ 
+>. i: 
+X I с 
+^ 3 
+3 о 
+о u 
+Ü "3 
+У) 1) 
+a. я 11. 
+с S и 
+о 
+и з; 
+о 1- 3 
+о 
+l i l i 
+= "5 и я 
+ш г Z -ё 
+•о 
+с 
+я 
+00 
+Е й 
+«J — 
+s i 
+is 
+¡"S 
+a. 
+u ob 
+я 
+о 
+я 
+о 
+X 
+m я 
+V D 
+О я 
+СЛ О 
+4Л 
+> 
+я 
+сл 
+О 
+p — 
+о 
+do 
+-о s 
+о -¡ га 
+.i: — <N о 
+О сл (N (Л 
+г- о 
+О — 
+(Os 
+O N 
+и 
+о 
+-> о 
+E E 
+Z ^ 
+"О 
+n 
+ON 
+СЛ 
+я 
+u 1 
+СЛ 
+w3 
+сл 
+£ 
+о с 
+о 
+сл оо 
+о я 
+J= 
+С 
+О 
+u 
+о 
+3 
+сл 
+с С 
+о О 
+сл _з 
+i "о 
+щ п. 
+s й 
+i 
+s g 3 
+3 
+о 
+S Sí 
+o o 
+-el-
+1Л p 
+o — 
+ci ci 
+ON 
+O N 
+O N 
+O N о 
+— p 
+я >^ 
+pg X 
+2 со 
+os 
+СЛ 
+(D 
+E 
+1> 
+E 
+я 
+00 Й u ^ 
+^ я ^ | 
+О сл Z (Л 
+я 
+u s 
+я 
+сл 
+я 
+и 
+00 
+о 
+F>. 
+os 
+сл 
+O N 
+= 2 
+(U 
+— 
+l 2 
+X 
+£ 
+J i l 
+о 
+a\ -
+m -о 1 -E I 
+° ^ r 
+1- -S Й 
+~ ° ï 
+c- (Л о 
+° S -a 
+u о я 
+с y 
+С u 
+< í 
+0 s 
+1 о 
+i l 
+= о. • 
+П 
+Я 
+— 
+< 2 
+0 о. 
+с 3 
+1 s 
+s i ' 
+§; _^ 
+I 8 
+ti ^ 
+s = 
+C L 
+О 
+i й _ 
+5 ñ « 
+H = о 
+F < !-
+12 
+
+Scenario results: The range of possible greenhouse gas 
+futures is very wide, as the Figure below illustrates (show­
+ing only CO,). A l l six scenarios can be compared to SA90. 
+IS92a is slightly lower than SA90 due to modest and large­
+ly offsetting changes in the underlying assumptions. (For 
+example, compared to SA90, higher population forecasts 
+increase the emission estimates, while phaseout of halo-
+carbons and more optimistic renewable energy costs reduce 
+them.) The highest greenhouse gas levels result from the 
+new scenario IS92e which combines, among other assump­
+tions, moderate population growth, high economic growth, 
+high fossil fuel availability and eventual hypothetical phase-
+out of nuclear power. The lowest greenhouse gas levels 
+result from IS92c which assumes that population grows, 
+then declines by the middle of the next century, that eco­
+nomic growth is low and that there are severe constraints on 
+fossil fuel supplies. The results of all six scenarios appear 
+in Table 2. Overall, the scenarios indicate that greenhouse 
+gas emissions could rise substantially over the coming cen­
+tury in the absence of new measures explicitly intended to 
+reduce their emission. However. IS92c has a C O , emission 
+path which eventually falls below its staning 1990 level. 
+IS92b, a modification of IS92a, suggests that current com­
+mitments by many O E C D Member countries to stabilize or 
+reduce C O , might have a small impact on greenhouse gas 
+emissions over the next few decades, but would not offset 
+substantial growth in possible emissions in the long run. 
+IS92b does not take into account that such commitments 
+could accelerate development and 'aiffusion of low green­
+house gas technologies, nor possible resulting shifts in 
+industrial mix. 
+Carbon dioxide: The new emissions scenarios for C O , 
+from the energy sector span a broad range of futures (see 
+Figure below). 
+CO2 EMISSIONS FROM ENERGY, CEMENT PRODUCTION AND DEFORESTATION 
+40 
+0 -\—I—I—1—I—I—I 
+1 — I — I — I — I — I — I — I — I — I — I 
+1—I—I—I—I—I—I 
+1980 1990 2000 2010 2020 
+2030 
+2040 
+2050 
+2060 
+2070 
+2080 
+2090 2100 
+Year 
+Population and economic growth, structural changes in 
+economies, energy prices, technological advance, fossil fuel 
+supplies, nuclear and renewable energy availability are 
+among the factors which could exert major influence on 
+future levels of C O , emissions. Developments such as those 
+in the republics of the former Soviet Union and in Eastem 
+Europe, now incoфorated into all the scenarios, have impor­
+tant implications for future fossil fuel carbon emissions, by 
+affecting the levels of economic activities and the efficien­
+cy of energy production and use. Biotic carbon emissions in 
+the early decades of the scenarios are higher than SA90, 
+reflecting higher preliminary F A O estimates of current rates 
+of deforestation in many - though not all - parts of the world, 
+and higher estimates of forest biomass. 
+13 
+
+С Л 
+о 
+о 
+in 
+о 
+V 
+3 
+О 
+о 
+и 
+и 
+О-
+>< 
+СЛ 
+Щ 
+•а 
+и 
+<u 
+se 
+i. 
+¿¡ 
+с 
+o 
+с 
+o 
+en 
+Q 
+"я 
+u 
+'5. 
+О ад 
+и 
+о Z 
+Z ь 
+св 
+.Ё 
+S 
+3 
+1Й "S = 
+n 
+QJ 
+_ 
+. _ 
+_ 
+•S 2. « = 
+2 
+r2 о 
+« c u 
+I l - i y 
+¡ ¿ • ¡ o 
+— 
+ед 
+— 
+« 
+- - 
+S3 
+" 
+с í ¿ " 
+Ml 
+— P5 oo я 
+es 
+O O 
+— 
+C N 
+O N 
+V D 
+r - 
+Г- 
+r<~, 
+ГЧ 
+— 
+O N 
+3 C о 
+o i 
+u - i 
+1-.: 
+g й 1^ 
+•Г) 
+O s 
+(N m 
+<N о 
+о 
+w l о 
+O N 
+<N о 
+О ч 
+О 
+— 
+— rj гм 
+0 0 
+Г -
+N O 
+in 
+ND 
+0 0 
+0 0 
+d d 
+m о 
+( N о 
+о — 
+( N 
+( N 
+Ó Ó 
+0\ 
+ON 
+ON 
+O s 
+о ^ 
+^ 
+N O 
+N D 
+O N 
+C3N 
+4~. — 
+V O 
+O v 
+0 0 о 
+— oí 
+ÇN 
+— 
+— 
+« Л О 
+ГМ 
+О 
+О — 
+( N 
+t N 
+— 
+Г~ 
+О 
+Г -
+1 0 
+r ñ 
+CTv 
+N O 
+0 0 -а-
+in u-1 
+оо 
+NO 
+0 0 
+^ ' 
+OI ГМ 
+s 
+r^i о 
+•3- г-
+0 0 
+г-
+NO 
+N D 
+чо 
+г- — 
+0 0 
+t N 
+V O 
+ГМ 
+о о 
+г- 
+N O 
+О d 
+•ч- о 
+—' VI 
+•а- r-
+0 0 
+V O 
+u~) 
+i n 
+«n о 
+(N1 
+( N 
+о — 
+C N 
+V l 
+V O 
+O N 
+O O 
+•q- о 
+ГЧ 
+O N 
+O N 
+(— 
+d d 
+Г-1 
+о 
+m 
+T I ­
+N O m 
+— oi 
+-a- О 
+e n 
+— 
+N O 
+O N 
+ГМ 
+O N r-
+N O О 
+g 
+E 
+C N 
+ГМ 
+C N r~ 
+oo 
+о о 
+m о 
+C N | 
+ГМ 
+d d 
+u 
+« 
+л 
+и 
+•D 
+ш 
+я 
+<N 
+ГЦ 
+с 
+а\ 
+ON 
+СЛ 
+СЛ 
+СЛ 
+СЛ 
+m О 
+— 
+( N 
+C N 
+C N 
+О 
+N O 
+O Ñ 
+Г - 
+0 0 
+O N 
+V D 
+N O 
+— 
+NO 
+N O 
+— 
+ГМ 
+ГМ о 
+о — 
+ГМ 
+C N 
+V O m 
+-Ч- 
+ON 
+m 
+NO 
+C N 
+0 0 
+NO 
+— О 
+— c\ 
+so о 
+O N О 
+N O г-
+0 0 оо 
+о 
+0 0 о 
+d 
+— 
+d — 
+d d 
+d о 
+— 
+— 
+d — 
+1 
+C N 
+< n 
+ГМ 
+о 
+ГМ 
+1 
+ГМ 
+u-1 
+ГМ 
+ГМ 
+C N 
+ГМ 
+о 
+ГМ 
+1 
+ГМ 
+u-1 
+s 
+ГМ 
+ГМ 
+Ó 
+O N o\ 
+ci 
+ON 
+O v 
+ó 
+ON 
+ON 
+ci 
+ON 
+O N 
+ó 
+ON 
+0 \ 
+ó ó 
+ON 
+O N 
+ó 
+O N 
+O N 
+ó 
+O N 
+ON 
+СЛ 
+с 5 и 
+и. m" 
+E Si u 
+О Ù 
+a* w U. 
+l U 
+Oí 
+w и 
+>, 5 
+ГМ 
+pa СЛ 
+Ù 
+тз u. 
+Ш = и 
+= 
+Ù 
+>. U. 
+и 
+1 
+II 
+У : 
+С 
+О 
+с 
+•a 
+"û 
+с 
+c¿ о 
+СЛ 
+ш 
+J O и 
+ce U. 
+í- и и 
+14 
+
+Halocarbons: The revised scenarios for CFCs and other 
+substances which deplete stratospheric ozone are much 
+lower than m SA90. This is consistent with wide participa­
+tion in the controls under the 1990 London Amendments to 
+the Montreal Protocol. However, the future production and 
+composition of C F C substitutes (HCFCs and HFCs) could 
+significantly affect the levels of radiative forcing from these 
+compounds. 
+Methane, nitrous oxide, ozone precursors and sulphur 
+gases: The distribution of C H ^ and N , 0 emissions from the 
+different sources has changed from the SA90 case. Methane 
+from rice paddies are lower, and emissions from animal 
+waste and domestic sewage have been added. N-,0 emission 
+factors for stationary sources and biomass burning have 
+been revised downwards. Adipic and nitric acid have been 
+included as additional sources of N , 0 . Preliminary analy­
+sis of the emissions of volatile organic compounds and 
+sulphur dioxide suggests that the global emissions of these 
+substances are likely to grow in the coming century if no 
+new limitation strategies are implemented. 
+RELATIONSHIP BETWEEN EMISSIONS 
+AND ATMOSPHERIC 
+CONCENTRATIONS AND THE 
+INFLUENCE ON RADIATIVE BUDGET 
+A key issue is to relate emissions of greenhouse gases, 
+greenhouse gas precursors and aerosol precursors to future 
+concentrations of greenhouse gases and aerosols in order to 
+assess their impact on the radiative balance. A number of 
+different types of model have been developed. 
+Carbon cycle models: While there is a variety of carbon 
+cycle models (including 3-D ocean-atmosphere models, 1-
+D ocean-atmosphere box-diffusion models, and box models 
+that 1псофога1е a terrestrial biospheric sink) all such mod­
+els are subject to considerable uncertainty because of an 
+inadequate understanding of the processes controlling the 
+uptake and release of C O , from the oceans and terrestrial 
+ecosystems. Some models assume a net neutral terrestrial 
+biosphere, balancing fossil fuel emissions of C O , by ocean­
+ic uptake and atmospheric accumulation, others achieve 
+balance by invoking additional assumptions regarding the 
+effect of C O , fertilization on the different pans of the bio­
+sphere. However even models that balance the past and 
+contemporary carbon cycle may not predict future atmo­
+spheric concentrations accurately because they do not 
+necessarily represent the proper mix of processes on land 
+and in the oceans. The differences in predicted changes in 
+C O , concentrations are up to 30%. This does not represent 
+the major uncertainty in the prediction of future climate 
+change compared with uncertainties in estimating future 
+pattems of trace gas emissions, and in quantifying climate 
+feedback processes. A simple empirical estimate can be 
+based on the assumption that the fraction of emissions which 
+remains in the atmosphere is the same as that observed over 
+the last decade; i.e., 46±7%. 
+Atmospheric gas phase chemistry models: Current tro­
+pospheric models exhibit substantial differences in their 
+predictions of changes in O3, in the hydroxyl radical (OH) 
+and in other chemically active gases due to emissions of 
+CH4, non-methane hydrocarbons, C O and, in particular, 
+NOjj. These arise from uncertainties in the knowledge of 
+background chemical composition and our inability to rep­
+resent small-scale processes 
+occurring within 
+the 
+atmosphere. These deficiencies limit the accuracy of pre­
+dicted changes in the abundance and distribution of 
+tropospheric O3, and in the lifetimes of a number of other 
+greenhouse gases, including the H C F C s and HFCs, all of 
+which depend upon the abundance of the O H radical. 
+Increases in C H ^ , N M H C s , and C O all lead to increases in 
+O3. and decreases in O H , thus leading to an increase in 
+radiative forcing. On the other hand because increases in 
+NOx lead to an increase in both O3 and O H , the net effect 
+on radiative forcing is uncertain. 
+Atmospheric sulphate aerosol models: The atmospheric 
+chemistry of sulphate aerosols and their precursors has been 
+extensively studied in relation to the acid rain issue. While 
+our understanding of processes related to chemical trans­
+formations has increased significantly in recent years, 
+substantial uncertainties remain, especially regarding the 
+microphysics of aerosol formation, interaction of aerosols 
+with clouds, and the removal of aerosol particles by pre­
+cipitation. 
+HOW HAS OUR UNDERSTANDING OF 
+CHANGES IN RADIATIVE FORCING 
+CHANGED? 
+Since IPCC (1990), there have been significant advances in 
+our understanding of the impact of ozone depletion and 
+sulphate aerosols on radiative forcing and of the limitations 
+of the concept of the Global Warming Potential. 
+Radiative forcing due to changes in stratospheric ozone: 
+For the first time observed global depletions of O3 in the 
+lower stratosphere have been used to calculate changes in 
+the radiative balance of the atmosphere. Although the results 
+are sensitive to atmospheric adjustments, and no G C M stud­
+ies of the implications of the O3 changes on surface 
+temperature have been performed, the radiative balance cal­
+culations indicate that the O3 reductions observed during the 
+1980s have caused reductions in the radiative forcing of the 
+surface-troposphere system at mid- and high- latitudes. This 
+reduction in radiative forcing resulting from O3 depletion 
+could, averaged on a global scale and over the last decade, 
+be approximately equal in magnitude and opposite in sign 
+to the enhanced radiative forcing due to increased CFCs dur­
+ing the same time period. The effect at high latitudes is 
+particularly pronounced and, because of these large varia­
+tions with latitude and region, studies using G C M s are 
+urgently required to further test these findings 
+Radiative forcing due to changes in tropospheric ozone: 
+While there are consistent observations of an increase in tro-
+15 
+
+pospheric ozone (up to 10% per decade) at a limited num-
+ber of locations in Europe, there is not an adequate global 
+set of observations to quantify the magnitude of the increase 
+in radiative forcing. However, it has been calculated that a 
+10% uniform global increase in tropospheric ozone would 
+increase radiative forcing by about a tenth of a watt per 
+square metre. 
+Radiative effects of sulphur emissions: Emissions of sul-
+phur compounds from anthropogenic sources lead to the 
+presence of sulphate aerosols which reflect solar radiation. 
+This is likely to have a cooling influence on the Northern 
+Hemisphere (there is negligible effect in the Southern 
+Hemisphere). For clear-sky conditions alone, the cooling 
+caused by current rates of emissions has been estimated to 
+be about 1 Wm-2 averaged over the Northem Hemisphere, a 
+value which should be compared with the estimate of 
+2.5Wm-2 for the heating due to anthropogenic greenhouse 
+gas emissions up to the present. The non-uniform distribu-
+tion of anthropogenic sulphate aerosols coupled with their 
+relatively short atmospheric residence time produce large 
+regional variations in their effects. In addition, sulphate 
+aerosols may affect the radiation budget through changes in 
+cloud optical properties. 
+Global Warming Potentials: Gases can exert a radiative 
+forcing both directly and indirectly: direct forcing occurs 
+when the gas itself is a greenhouse gas; indirect forcing 
+occurs when chemical transformation of the original gas 
+produces a gas or gases which themselves are greenhouse 
+gases. The concept of the Global Warming Potential (GWP) 
+has been developed for policymakers as a measure of the 
+possible warming effect on the surface-troposphere system 
+arising from the emission of each gas relative to C O , . The 
+indices are calculated for the contemporary atmosphere and 
+do not take into account possible changes in chemical com-
+position of the atmosphere. Changes in radiative forcing due 
+to C O , , on a kg basis, are non-linear with changes in the 
+atmospheric C O , concentrations. Hence, as C O j levels 
+increase from present values, the G W P s of the non-COj 
+gases would be higher than those evaluated here. For the 
+concept to be most useful, both the direct and indirect com-
+ponents of the G W P need to be quantified. 
+Direct Global Warming Potentials: The direct compo-
+nents of the Global Warming Potentials (GWPs) have been 
+recalculated, taking into account revised estimated life-
+times, for a set of time horizons ranging from 20 to 500 
+years, with C O , as the reference gas. The same ocean-atmo-
+sphere carbon cycle model as in IPCC (1990) has been used 
+to relate C O , emission to concentrations. Table 3 shows val-
+ues for a selected set of key gases for the 100 year time hori-
+zon. While in most cases the values are similar to the 
+previous I P C C (1990) values, the G W P s for some of the 
+H C F C s and H F C s have increased by 20 to 50% because of 
+revised estimates of their lifetimes. The direct G W P of C H ^ 
+has been adjusted upward, correcting an error in the previ-
+ous IPCC report. The carbon cycle model used in these 
+calculations probably underestimates both the direct and 
+indirect G W P values for all non-COj gases. The magnitude 
+of the bias depends on the atmospheric lifetime of the gas, 
+and the G W P time horizon. 
+Table 3: 
+Direct GWPs for 100 year Time Horizon 
+Gas 
+Global Warming 
+Potential (GWP) 
+. Sign of the Indirect 
+Component of 
+the GWP 
+Carbon dioxide 
+1 
+none 
+Methane 
+11 
+positive 
+Nitrou.s oxide 
+270 
+uncertain 
+CFC-II 
+3400 
+negative 
+CFC-12 
+7100 
+negative 
+HCFC-22 
+1600 
+negative 
+HFC-134a 
+1200 
+none 
+Indirect Global Warming Potentials: Because of our 
+incomplete understanding of chemical processes, most of 
+the indirect G W P s reported in IPCC (1990) are likely to be 
+in substantial error, and none of them can be recommend-
+ed. Although we are not yet in a position to recommend 
+revised numerical values, we know, however, that the indi-
+rect G W P for methane is positive and could be comparable 
+in magnitude to its direct value. In contrast, based on the 
+sub-section above, the indirect G W P s for chlorine and 
+bromine halocarbons are likely to be negative. The concept 
+of a G W P for short-lived, in homogeneously distributed 
+constituents, such as C O , N M H C , and N O , may prove inap-
+plicable, although, as noted above, we know that these 
+constituents will affect the radiative balance of the atmo-
+sphere through changes in tropospheric ozone and O H . 
+Similarly, a G W P for S O , is viewed to be inapplicable 
+because of the non-uniform distribution of sulphate aerosols. 
+Influence of changes in solar output: The existence of 
+strong correlations between characteristics of the solar activ-
+ity cycle and global mean temperature has been reported. 
+The only immediately plausible physical explanation of 
+these correlations involves variability of the sun's total irra-
+diance on time-scales longer than that of the 11-year activity 
+cycle. Since precise measurements of the irradiance are 
+only available for the last decade, no firm conclusions 
+regarding the influence of solar variability on climate change 
+can be drawn. 
+WHAT TOOLS DO WE USE AND WHAT INFORMATION DO WE NEED TO 
+PREDICT FUTURE CLIMATE? 
+Models 
+The most highly developed tool which we have to model 
+climate and climate change is known as a general circu-
+lation model or G C M . These models are based on the 
+laws of physics and use descriptions in simplified phys-
+ical terms (called parametrizations) of the smaller-scale 
+processes such as those due to clouds and deep mixing in 
+the ocean. ' C o u p l e d ' general circulation models 
+16 
+
+( C G C M s ) have the atmospheric component linked to an 
+oceanic component of comparable complexity. 
+Climate forecasts are derived in a different way from 
+weather forecasts. A weather prediction model gives a 
+description of the atmosphere's state up to 10 days or so 
+ahead, starting from a detailed description of an initial 
+state of the atmosphere at a given time. Such forecasts 
+describe the movement and development of large weath-
+er systems, though they cannot represent very small-scale 
+phenomena; for example, individual shower clouds. 
+To estimate the influence of greenhouse gases or aerosols 
+in changing climate, the model is first run for a few (sim-
+ulated) decades. The statistics of the model's output are 
+a description of the model's simulated climate which, if 
+the model is a good one and includes all the important 
+forcing factors, will bear a close resemblance to the cli-
+mate of the real atmosphere and ocean. The above 
+exercise is then repeated with increasing concentrations 
+of the greenhouse gases or aerosols in the model. The dif-
+ferences between the statistics of the two simulations 
+(for example in mean temperature and interannual vari-
+ability) provide an estimate of the accompanying climate 
+change. 
+We also need to determine whether or not the predicted 
+changes will be noticeable above the natural variations in 
+climate. Finally, observations are required in order to 
+monitor climate, to improve the understanding of cli-
+mate processes and to help in the validation of models. 
+The long-term change in surface air temperature follow-
+ing a doubling of carbon dioxide (referred to as the 
+climate sensitivity) is generally used as a benchmark to 
+compare models. The range of values for climate sensi-
+tivity reported in the 1990 Assessment, and re-affinmed 
+in this Supplement, was 1.5° to 4.5°C, with a best esti-
+mate, based on model results and taking into account the 
+observed climate record, of 2.5°C. 
+Simpler models, which simulate the behaviour of G C M s . 
+are also used to make predictions of the evolution with 
+time of global temperature from a number of emission 
+scenarios. These so-called box-diffusion models contain 
+highly simplified physics but give similar results to 
+G C M s when globally averaged. Only comprehensive 
+G C M s , however, can provide three-dimensional distri-
+butions of the changes in other climate variables, 
+including the changes due to non-linear processes that are 
+C O N F I D E N C E IN M O D E L PREDICTIONS 
+There continues to be slow improvement in the ability of 
+models to simulate present climate, although further 
+improvements in the model resolution and the parametriza-
+tion of physical processes are needed. Since the last report, 
+further evidence has accumulated that atmospheric models 
+not given by simplified models. The extraction of this 
+information from the results of coupled G C M s has only 
+just begun. 
+Future concentrations of greenhouse gases and 
+aerosols 
+A necessary starting point for the prediction of changes 
+in climate due to changes in atmospheric constituents is 
+an estimate of their future concentrations. This requires 
+a knowledge of their sources and sinks (natural and man-
+made) and an estimate of how the strengths of these 
+sources and sinks might change in the future (an emis-
+sions scenario). The projections of future concentrations 
+can then be used in climate models to estimate the cli-
+matic response. 
+Do GCMs predict future climate? 
+To make a prediction of future climate it is necessary to 
+fulfil two conditions: (a) include all of the major human 
+and natural factors known to affect climate, and (b) pre-
+dict the future magnitudes of atmospheric concentrations 
+of greenhouse gases. So far, G C M s (and C G C M s ) have 
+included only radiative forcing induced by greenhouse 
+gases, and therefore their results relate only to the green-
+house gas component of climate change. 
+At the time of IPCC (1990), it was recognized that sul-
+phate aerosols exert a significant negative radiative 
+forcing on climate but this forcing was not well quanti-
+fied. Since then progress has been made in understanding 
+radiative forcing by sulphate aerosols, and an additional 
+source of negative forcing has been identified in the 
+depletion of stratospheric ozone due to halocarbons. The 
+lack of these negative forcing factors in G C M s does not 
+negate the results obtained from them so far. For exam-
+ple the estimates of climate sensitivity, which is defined 
+purely in terms of C O j concentrations, are unchanged, 
+and it is still believed that anthropogenic greenhouse 
+gases, now and even more so in the future, represent the 
+largest perturbation to the natural radiative balance of the 
+atmosphere. However it does mean that the rates of 
+change of, say, surface temperature do need to be adjust-
+ed for additional forcing factors before they can fulfil 
+condition (a). The second condition is fulfilled when we 
+use a specific prediction (as opposed to a scenario) of 
+future atmospheric concentrations of greenhouse gases. 
+are capable of reproducing a range of aspects of atmo-
+spheric variability. Coupled ocean-atmosphere models 
+produce variability on decadal time-scales similar m some 
+respects to that observed, and ocean models show longer 
+term fluctuations associated with changes in the thermoha-
+line circulation. 
+17 
+
+There has been some clarification of the nature of water 
+vapour feedback, although the radiative effects of clouds and 
+related processes continue to be the major source of uncer­
+tainty and there remain uncertainties in the predicted 
+changes in upper tropospheric water vapour in the tropics. 
+Biological feedbacks have not yet been taken into account 
+in simulations of climate change. 
+Increased confidence in the geographical patterns of cli­
+mate change will require new simulations with improved 
+coupled models and with radiative forcing scenarios that 
+include aerosols. 
+Confidence in regional climate patterns based directly on 
+G C M output remains low and there is no consistent evi­
+dence regarding changes in variability or storminess. G C M 
+results can be lnteфolated to smaller scales using statistical 
+methods (correlating regional climate with the large-scale 
+flow) or a nested approach (high-resolution, regional climate 
+models driven by large-scale G C M results). Both methods 
+show promise but an insufficient number of studies have yet 
+been completed to give an improved global picture of 
+regional climate change due to increases in greenhouse 
+gases; in any event both inteфoIation methods depend crit­
+ically on the quality of the large-scale flow in the G C M . 
+Given our incomplete knowledge of climate, we cannot 
+rule out the possibility of suфrises. 
+S I M U L A T E D R A T E S O F C H A N G E IN C L I M A T E 
+AND THEIR G E O G R A P H I C A L DISTRIBUTION 
+Results of General Circulation Models (GCMs) available to 
+IPCC (1990) mainly concerned eqiiilihnum simulations. 
+Only one transieni model run (i.e., where the time-varying 
+response of the climate to steadily increasing greenhouse gas 
+concentrations is simulated) had been completed. 
+Since then many papers have appeared in the refereed lit­
+erature concerned with climate models and their results. 
+Significant progress has been made in the area of transient 
+models, with four modelling groups having carried out cli­
+mate simulations for up to 100 years using coupled 
+atmosphere-ocean global climate models ( C G C M s ) which 
+шсофогаге a detailed description of the deep ocean and 
+therefore can simulate the climate lag induced by the deep 
+ocean circulation. These models require substantial adjust­
+ments to fluxes of heat and fresh water in order to achieve 
+a realistic simulation of present climate and this may distort 
+the models' response to small perturbations such as those 
+associated with increasing greenhouse gases. For simula­
+tions of future climate with these models, carbon dioxide 
+concentrations have been increased at rates close to 1 % per 
+year (approximately the equivalent radiatively to the current 
+rate of increase of greenhouse gases). 
+Internal variability obscures the geographical pattems of 
+change during the first few decades of the experiments. 
+However, once these pattems become established, they vary 
+relatively little as the integrations progress and are similar 
+to those produced by equilibrium models in a number of 
+ways for instance: 
+(i) 
+surface air temperatures increase more over land 
+than over oceans; 
+(u) 
+precipitation increases on average at high latitudes, 
+in the monsoon region of Asia and in the winter at 
+mid-latitudes; 
+(iii) 
+over some mid-latitude continental areas values 
+of soil moisture are lower on average in summer. 
+The transient C O , simulations, however, show that over 
+the northem North Atlantic and the southern oceans near 
+Antarctica the warming is reduced by 60% or more relative 
+to equilibrium simulations at the time of doubling C O , . 
+Much further development and validation of coupled mod­
+els IS required. 
+W H A T W O U L D W E N O W E S T I M A T E FOR 
+C L I M A T E C H A N G E ? 
+The new simulations using coupled ocean-atmosphere 
+G C M s , which do not include the effects of sulphates and 
+ozone depletion, generally confirm the IPCC 1990 esti­
+mates of future warming at rates of about 0.3°C/decade 
+(range 0.2 to 0.5°C/decade) over the next century for IPCC 
+1990 scenario A . Because G C M s do not yet include possi­
+ble opposing anthropogenic influences, including the forcing 
+from sulphate aerosols and stratospheric ozone depletion, 
+the net rate of increase in surface temperature is expected to 
+be less, at least during the period for which sulphur emis­
+sions continue to increase, than would be expected from 
+greenhouse gas forcing alone. However, the globally aver­
+aged magnitude of the effect of sulphate aerosols has not yet 
+been calculated accurately and further work is needed. 
+The simulated rate of change of sea level clue to oceanic 
+thermal expansion only ranges from 2 to 4cm per decade, 
+again consistent with the previous report. 
+New ГРСС 1992 emissions scenarios (IS92a-f; see para, on 
+• S C E N A R I O S O F F U T U R E E M I S S I O N S " ) have been 
+derived in the light of new information and intemational 
+agreements. In order to provide an initial assessment of the 
+effect of the new scenarios, the change in surface tempera­
+ture has been estimated with the simple climate model used 
+in IPCC (1990) which has been calibrated against the more 
+comprehensive coupled ocean-atmosphere models (see box 
+on models). These calculations include, in the same way as 
+did the 1990 calculations, the direct radiative forcing effects 
+of all the greenhouse gases included in the scenarios. 
+The effect of stratospheric ozone depletion and of sulphate 
+aerosols have not been included, which again parallels the 
+1990 calculations. The accompanying diagrams show (i) the 
+temporal evolution of surface temperature for IS92a, assum­
+ing the high, "best estimate" and low climate sensitivities 
+(4.5,2.5 and 1.5°C), and (ii) the temperature changes for the 
+six 1992 IPCC scenarios and the 1990 Scenario A , assum­
+ing the "best estimate" of climate sensitivity (see earlier box 
+on "What tools do we use ....?" for the definition of climate 
+sensitivity). 
+18 
+
+Temperature Change under Scenario IS92a 
+1990 
+2010 
+2030 
+2050 
+2070 
+2090 
+Y e a r 
+E\iimale\ ofslohal mean lempeianiie chanaefoi IS92a Uiin<; hi<;li (4J°C) 
+'best estimare" (2 5°C) ami low (I 5°C) valim of climaic senstiniiy 
+The cffcc ts of sulphate act owl and ozone depletion lia\ с not been taken into 
+a( I ouiil 
+Best Estimate Temperature Changes under IS92 
+and SA90 
+'' 1 
+I 
+IS92e 
+1990 
+2010 
+2030 
+2050 
+2070 
+2090 
+Y e a r 
+Estimates of global mean lempciaiuie change foi the IPCC 1992 scenai-
+io\ ilS92a-f) assuivinv ihe IPCC best estimate ' (.límale sensitniry The 
+effet Is of sulpliaic aciosnl and oztme depletion hate not been taken into 
+at i aunt SA90 n i epi escnied bv solid < и с les 
+THE UPDATED RECORD OF GLOBAL 
+MEAN TEMPERATURES 
+Continuing research into the 19th century ocean temperature 
+record has not significantly altered our calculation of surface 
+temperature warming over the past 100-130 years of 
+0.45±0.15°C. Furthermore, global surface temperatures for 
+1990 and 1991 have been similar to those of the warmest 
+years of the 1980s and continue to be warmer than the rest 
+of the record. The research has, however, led to a small 
+adjustment in hemispheric temperatures. The long-term 
+warming trends assessed in each hemisphere are now more 
+nearly equal, with the Southern Hemisphere marginally 
+warmer in the late nineteenth century and the Northem 
+Hemisphere trend unchanged from previous estimates. 
+A notable feature over considerable areas of the continen­
+tal land masses of the Northem Hemisphere is that warming 
+over the last few decades is primarily due to an increase of 
+night-time rather than daytime temperatures. These changes 
+appear to be partly related to increases in cloudiness but 
+other factors cannot be excluded such as a direct cooling 
+effect of aerosols on maximum temperatures in sunny 
+weather, an influence of increasing concentrations of green­
+house gases and some residual influence of urbanisation on 
+minimum temperatures. A more complete study is needed 
+as only 25% of the global land area has been analysed. In 
+this regard, regional changes in maximum, minimum and 
+mean temperature related to changes in land use (e.g., deser­
+tification, deforestation or widespread irrigation) may need 
+to be identified separately. 
+A new source of information that supports higher sea sur­
+face temperatures in many tropical regions over the last 
+decade concerns evidence that the bleaching of tropical 
+corals has apparently increased. Bleaching has been shown 
+to be related (in part) to episodes of sea surface temperature 
+warmer than the normal range of tolerance of these animals, 
+though increasing pollution may be having an influence. 
+There has been considerable interest in mid-tropospheric 
+temperature observations made since 1979 from the 
+Microwave Sounding Unit ( M S U ) aboard the T I R O S - N 
+satellites. The M S U data have a truly global coverage but 
+there is only a short record ( 13 years) of measurements; the 
+surface and the radiosonde data are less spatially complete 
+but have much longer records (over 130 and near 30 years 
+respectively). Globally-averaged trends in M S U , radiosonde 
+and surface data sets between 1979 and 1991 differ some­
+what (0.06, 0.17, and 0.18°C per decade, respectively), 
+although the differences are not statistically significant. 
+Satellite sounders, radiosonde and surface instruments all 
+have different measurement characteristics, and, in addition, 
+geographical and temporal variations in mid-tropospheric 
+and surface temperatures are not expected to be identical. 
+Despite this, correlations between global annual values of 
+the three data sets are quite high. 
+Note that it is not possible to rank recent warm years in an 
+absolute way; it depends on which record is used, what 
+level is referred to and how much uncertainty is attached to 
+each value. 
+M S U data have been able to detect the impact on lower 
+stratospheric temperature of volcanic eruptions in a striking 
+way. Variability m these data between 1979 and 1991 is 
+dominated by short-term temperature fluctuations (greatest 
+in the tropics) following the injection of large amounts of 
+aerosol into the stratosphere by the eruptions of El Chichón 
+(1982) and Mt. Pinatubo (1991). Globally, temperature rises 
+m the lower stratosphere were about 1 °C and 1.3°C respec-
+tively; stratospheric warming due to E l Chichón lasted 
+nearly two years while that due to Mt. Pinatubo is still 
+underway. The longer radiosonde record, however, shows 
+a significant global cooling trend of about 0.4°C per decade 
+since the middle 1960s in the lower stratosphere. 
+ARE THERE ANY TRENDS IN OTHER 
+CLIMATICALLY IMPORTANT 
+QUANTITIES? 
+Precipitation variations of practical significance have been 
+documented on many time and space scales, but due to data 
+coverage and inhomogeneity problems nothing can be said 
+about global-scale changes. A n apparent increase of water 
+vapour in the tropics parallels the increase in lower tropo-
+spheric temperature but it is not yet possible to say to what 
+19 
+
+extent the changes are real and whether they are larger than 
+natural variability. 
+A small, irregular, decrease of about 8% has been observed 
+in annually averaged snow cover extent over the Northem 
+Hemisphere since 1973 in a new. improved, compilation of 
+these data. The reduction is thought to be real because annu-
+al values of snow cover extent and surface air temperatures 
+over the extratropical Northem Hemisphere land have a 
+high correlation of -0.76. 
+There is evidence that, regionally, relatively fast (some-
+times called abrupt) climate changes can occur. 
+These 
+changes may persist for up to several decades but are often 
+a function of season. These fast changes are poorly under-
+stood, but can be of considerable practical importance. 
+ARE THE OBSERVED TEMPERATURE 
+CHANGES CONSISTENT WITH 
+PREDICTED TEMPERATURE CHANGES? 
+C G C M s , which do not yet take into account changes in 
+aerosols, predict a greater degree of warming in the Northem 
+Hemisphere (NH) than in the Southem Hemisphere (SH). a 
+result of the greater extent of land in the N H which responds 
+more rapidly to forcing. The observed larger warming of the 
+SH in recent decades (0.3°C between 1955 and 1985) than 
+in the N H (which hardly warmed at all over the same peri-
+od) is at first sight in conflict with this prediction. Recently, 
+however, the N H has started to warm quite rapidly. The rea-
+sons for the differences in observed warming rates in the two 
+hemispheres are not known though man-made aerosols (see 
+para, on " H O W H A S O U R U N D E R S T A N D I N G 
+?) and 
+changes in ocean circulation may have played a part. 
+Furthermore, increases in C F C s may have reduced ozone 
+levels sufficiently to offset in a globally-averaged sense the 
+direct greenhouse effect of C F C s . Consequently, the esti-
+mates of wanning over the last 100 years due to increases 
+in greenhouse gases made in the original report may be 
+somewhat too rapid because they did not take account of 
+these cooling influences. Taking this into account could 
+bring the results of model simulations closer to the observed 
+changes. 
+Individual volcanic eruptions, such as that of El Chichón, 
+may have led to surface cooling over several years but should 
+have negligible effect on the long-term trend. Some influence 
+of solar variations on time-scales associated with several 
+sunspot cycles remains unproven but is a possibility. 
+The conclusion of IPCC (1990) remains unchanged: 
+"the size of this warming is broadly consistent with predic-
+tions of climate models, hut it is also of the same magnitude 
+as natural climate variability. Thus the observed increase 
+could he largely due to this natural variability; alternative-
+ly this variability and other human factors could have offset 
+a still larger human-induced greenhouse warming". 
+KEY UNCERTAINTIES AND FURTHER 
+WORK REQUIRED 
+The prediction of future climate change is critically depen-
+dent on scenarios of future anthropogenic emissions of 
+greenhouse gases and other climate forcing agents such as 
+aerosols. These depend not only on factors which can be 
+addressed by the natural sciences but also on factors such as 
+population and economic growth and energy policy where 
+there is much uncertainty and which are the concem of the 
+social sciences. Natural and social scientists need to coop-
+erate closely in the development of scenarios of future 
+emissions. 
+Since IPCC (1990) there has been a greater appreciation of 
+many of the uncertainties which affect our predictions of the 
+timing, magnitude and regional pattems of climate change. 
+These continue to be rooted in our inadequate understand-
+ing of: 
+• 
+sources and sinks of greenhouse gases and aerosols 
+and their atmospheric concentrations (including 
+their indirect effects on global warming) 
+clouds (particularly their feedback effect on 
+greenhouse gas-induced global warming, also the 
+effect of aerosols on clouds and their radiative 
+properties) and other elements of the atmospheric 
+water budget, including the processes controlling 
+upper level water vapour 
+oceans, which through their thermal inertia and 
+possible changes in circulation, influence the timing 
+and pattern of climate change 
+polar ice sheets (whose response to climate change 
+also affects predictions of sea level rise) 
+land surface processes and feedbacks, including 
+hydrological and ecological processes which couple 
+regional and global climates 
+Reduction of these uncertainties requires: 
+improvements in the systematic observation and 
+understanding of climate-forcing variables on a 
+global basis, including solar irradiance and aerosols 
+development of comprehensive observations of the 
+relevant variables describing all components of the 
+climate system, i n v o l v i n g as required new 
+technologies and the establishment of data sets 
+• 
+better understanding of climate-related processes, 
+particularly those associated with clouds, oceans 
+and the carbon-cycle 
+an improved understanding of social, technological 
+and economic processes, especially in developing 
+countries, that are necessary to develop more 
+realistic scenarios of future emissions 
+20 
+
+the development of national inventories of current 
+emissions 
+more detailed knowledge of climate changes which 
+have taken place in the past 
+• 
+sustained and increased support for climate research 
+activities which cross national and disciplinary 
+boundaries; particular action is still needed to 
+facilitate the full involvement of d e v e l o p i n g 
+countries 
+improved international exchange of climate data. 
+Many of these requirements are being addressed by major 
+intemational programmes in particular by the World Climate 
+Research Programme (WCRP), the Intemational Geosphere 
+Biosphere Programme (IGBP) and the Global Climate 
+Observing System (GCOS). Adequate resources need to be 
+provided both to the intemational organisation of these pro-
+grammes and to the national efforts supporting them if the 
+new information necessary to reduce the uncertainties is to 
+be forthcoming. Resources also need to be provided to sup-
+port on a national or regional basis, and especially in 
+developing countries, the analysis of data relating to a wide 
+range of climate variables and the continued observation of 
+important variables with adequate coverage and accuracy. 
+Reference: 
+IPCC, 1990: Climate Change, The I P C C 
+Scientific 
+Assessment, Press Syndicate of the University 
+of Cambridge. Cambridge C B 2 IRP. U K . 
+21 
+
+ANNEX 
+Progress in the development of an IPCC methodology 
+for national inventories of net emissions of greenhouse 
+gases 
+Scientific assessment is primarily concerned with sources 
+and sinks at the global, and large region level but, in order 
+to support national and intemational responses to climate 
+change, it is necessary to estimate emissions and sinks at the 
+national level in an agreed and consistent way. 
+IPCC (1991) has established a work programme to: 
+i) 
+develop an approved detailed methodology for cal-
+culating national inventories of greenhouse gas 
+emissions and sinks 
+ii) 
+assist all participating countries to implement this 
+methodology and provide results by the end of 
+1993. 
+This programme is based on preliminary work sponsored by 
+the 
+Organization for 
+Economic Cooperation 
+and 
+Development ( O E C D , 1991). O E C D and the Intemational 
+Energy Agency ( l E A ) are continuing to provide technical 
+support to the IPCC work programme. The programme will 
+manage the development and approval of inventory meth-
+ods and procedures, and the collection and evaluation of 
+data. It will collaborate with other sponsors including the 
+Global Environment Facility (GEF), the Asian Development 
+Bank, the European Community, U N E C E and individual 
+donor countries, to encourage funding of technical cooper-
+ation projects in greenhouse gas (GHG) inventories. 
+The I P C C requested that participating countries provide 
+any available G H G emissions inventory data to the IPCC by 
+the end of September 1991. As of January 1992, 18 coun-
+tries have submitted complete or partial G H G inventories 
+(see Table below); most relate to average emissions over 
+one, two or three years in the period 1988 to 1990. This pro-
+cess has been particularly useful in identifying problems in 
+coverage and consistency of currently available inventories. 
+A n IPCC Workshop on National G H G Inventories, held in 
+Geneva from 5-6 December 1991, provided guidance on 
+needed improvements in the draft methodology and priori-
+ties for the work programme. Numerous improvements to 
+the methodology were agreed upon, and priorities were pro-
+posed for the work programme and for technical cooperation 
+activities. As a result of the preliminary data collection, the 
+workshop, and other comments received, the following 
+major priorities for the IPCC work programme have been 
+established: 
+Methodology 
+Develop a simpler methodology and streamlined 
+•'workbook" document lo assist users in its 
+implementation 
+Work with experts to develop a new and simpler 
+method for calculating C O , emissions from forestry 
+and land-use change 
+Establish technical expert groups to improve the 
+methodology for C H 4 from rice and fossil fuel 
+production, and other key gases and source types 
+Work with experts to include halocarbons in the 
+G H G inventory starting with data available from 
+the Montreal Protocol process 
+Develop and disseminate regionally-applicable 
+emissions factors and assumptions. 
+Work programme 
+Priorities for national inventories are: (a) C O , from 
+energy for all countries, (b) C O , from forestry and 
+land use if important for the country, and (c) CH4 
+for important source categories by country 
+Initiate intercomparison studies of existing detailed 
+inventories 
+Include a scientific review of national inventory 
+data and aggregated totals by region and globally in 
+the work programme. 
+Technical cooperation 
+I P C C 
+w i l l i m p r o v e c o m m u n i c a t i o n s 
+among 
+technical focal points in all participating countries 
+and with other interested intemational organizations 
+High priority should be placed on country case 
+studies, training, regional cooperation and other 
+activities to assist n o n - O E C D countries in testing 
+and implementing the G H G inventory methodology 
+Provide methods in the form of a streamlined 
+workbook in several languages. A user-friendly 
+computer 
+spreadsheet version 
+w i l l 
+also 
+be 
+developed as a high priority. 
+Annex Table: Countries which have submitted complete or 
+partial inventories of national greenhouse gas emissions 
+(by January 1992). 
+Australia 
+Belgium 
+Canada 
+Denmark 
+Finland 
+France 
+Germany 
+Italy 
+Netherlands 
+New Zealand 
+Norway 
+Poland 
+Sweden 
+Switzerland 
+Thailand 
+Vietnam 
+United Kingdom 
+United States 
+22 
+
+References 
+I P C C , 1991: Report 
+of 
+the 
+Fifth 
+Session 
+of 
+the 
+W M O / U N E P Intergovernmental 
+Panel on 
+Climate Change (IPCC) 13-15 March 1991, 
+Geneva. 
+O E C D , 1991: Estimation of Greenhouse Gas Emissions 
+and Sinks: Final Report from the O E C D 
+Experts Meeting, 18-21 February 1991, 
+Paris. Revised August 1991. 
+23 
+
+SECTION III. 
+ASSESSMENT OF POTENTIAL 
+IMPACTS OF CLIMATE CHANGE 
+T A S K 2: 
+Prediction of the regional distributions of 
+climate change and associated impacts 
+studies, including model validation studies 
+T A S K 3: 
+Energy and industry related issues (part 
+on impacts of climate change) 
+T A S K 4: 
+Agriculture and forestry related issues 
+(part on impacts of climate change) 
+T A S K 5: 
+Vulnerability to sea level rise (part on 
+impacts of climate change) 
+BY WORKING GROUP II 
+Introduction 
+Working Group II examined aspects of four of the tasks 
+approved at the fifth session of IPCC (March 1991). These 
+tasks include: 
+• 
+prediction of the regional distributions of climate 
+change and associated impacts studies, including 
+model validation studies; 
+• 
+energy and Industry related issues; 
+• 
+agriculture and Forestry related issues; 
+• 
+vulnerability to sea level rise. 
+The first of these includes the development of guidelines for 
+assessment 
+of impacts, and the 
+identification of 
+regional/national components of monitoring systems which 
+could be used for impact studies. 
+Also included here is additional work on water resources and 
+hydrology, a subject mentioned most frequently as the area 
+of maximum concern by nations in response to a question-
+naire circulated by the Working Group (and on other topics 
+related to the structure of the Working Group itselO- The 
+work reported focuses only on the portions of these tasks 
+that directly relate to the impacts of climate change. 
+Since the I P C C First Impacts Assessment Report (1990), 
+studies have been included which have served to extend 
+our knowledge of the potential impacts of climate change. 
+These, however, do not radically alter the conclusions 
+despite uncertainties of that report. 
+From the stimulus provided by the publication of the IPCC 
+First Impacts Assessment Report, a large number of region-
+al studies have been carried out on assessment of impacts of 
+climate change. 
+A questionnaire circulated by Working 
+Group II was valuable in revealing new information, and in 
+defining areas of common concem to many countries. Thus, 
+roughly 50% of the responses highlighted the impacts of cli-
+mate change on hydrology and water resources, emphasizing 
+the importance of water in most countries. Other topics of 
+priority interest, particularly for developing countries, were 
+agriculture and forestry, and world's oceans and coastal 
+zones. Both reflect the concems of countries over avail-
+ability of food supplies from land and sea sources. 
+Additional areas of concem identified in the questionnaire 
+were desertification (particularly in Africa and Asia), 
+cyclones and other extreme events (particularly for island 
+nations and deltaic areas), recreation and tourism (particu-
+larly their economic impacts), and climate variability 
+associated with the El-Nino - Southem Oscillation (ENSO) 
+phenomenon, prolonged droughts and extreme events. The 
+national responses included concem that changes in cli-
+mate variability as a consequence of climate change may 
+create increased risks, especially in those parts of the world 
+where climate variability is known to have significant social 
+and economic impacts. It is important to note that many 
+countries, particularly in the Southem Hemisphere, also 
+identified increases in U V - B radiation as a significant area 
+of concem. 
+T H E E N E R G Y , H U M A N S E T T L E M E N T , 
+T R A N S P O R T AND INDUSTRIAL S E C T O R S , 
+H U M A N H E A L T H AND AIR Q U A L I T Y 
+Recent studies for the Maldives and for the Pacific island 
+states including Tuvalu, Kiribati, Tokelau and the Marshall 
+Islands have reconfirmed that small low-lying island states 
+and large populations living in low-lying coastal areas will 
+be increasingly vulnerable, particularly if adaptive mea-
+sures are inadequate, to the combination of sea level rise, 
+storm surges and coastal flooding. 
+The high dependency on biomass and hydropower in many 
+developing countries indicates that these countries are quite 
+sensitive to the impacts of climate change. Biomass pro-
+duction, on which developing countries such as Bangladesh 
+depend for 90 to 100% of their energy needs, could be dam-
+aged by a combination of climate-change-induced drought 
+or inundation. 
+On the other hand, there has been little work that has shed 
+new light on the question of socio-economic impacts in the 
+areas of energy, human settlement, transport and industrial 
+sectors, human health and air quality. 
+A U K study shows soil shrinkage and swelling as a result of 
+climate change in clay-rich areas has major implications for 
+the construction and insurance industries and for human 
+settlement. Water-dependent industries such as food pro-
+cessing, paper making, and power generation could be 
+affected by hydrological changes under changed climate 
+conditions. 
+24 
+
+Knowledge of climate change on human health has extend-
+ed and confirmed the previously reported results with 
+greater understanding of potential shifts in disease vector 
+habitats with global warming particularly in New Zealand 
+and Australia. Diseases such as malaria, lymphatic filari-
+ases. schistosomiasis, leishmaniasis, onchocerciasis (river 
+blindness), dengue fever, and Australian and Japanese 
+encephalitis could increase or be reintroduced in many 
+countries as a consequence of global warming. Regarding 
+the impact of U V - B radiation on health, recent studies show 
+that it affects human immunosuppression system and vision. 
+A G R I C U L T U R E AND F O R E S T R Y 
+New studies, such as those in the European Community, 
+North America, and Southeast Asia highlight the IPCC First 
+Impacts Assessment Report (1990) conclusions that impacts 
+will vary greatly depending on the extent of climate change 
+and on the type of agriculture. These findings largely ampli-
+fy, but do not radically alter, the conclusions made in the 
+1990 report. They do, however, confirm that the impact of 
+global warming on agriculture may be serious if wanning is 
+at the upper end of the range projected by the IPCC Working 
+Group I. 
+Recent studies have reinforced concern that drought is the 
+area in which climate change poses the greatest risk for 
+agriculture and consequently arid and semi-arid regions are 
+likely to be most vulnerable to climate change. 
+Other recent studies confirm the IPCC earlier conclusions 
+that climate change may benefit ecological conditions for 
+insect growth and abundance which is likely to have a neg-
+ative effect on crop, livestock and forest production in some 
+regions. 
+Research continues to address the relative importance of 
+direct and indirect effects of C O , , in combination with a rise 
+in temperatures, on future crop production. While some 
+scientists emphasize enhanced photosynthesis and more 
+efficient water use seen in controlled settings, others are 
+sceptical that these benefits will be seen in farmer's fields 
+under changing climate conditions. 
+The effects on plant growth may result in the maintenance 
+of present-day soil conditions in some regions, as greater 
+soil organic matter and denser ground cover may counter the 
+effects of soil erosion caused by increased rainfall intensi-
+ties and oxidation rates of organic matter in soils caused by 
+higher temperatures. 
+Adaptation to climate change by the existing agricultural 
+production system should be possible, and the woridwide 
+systems of agricultural research should be able to provide 
+new crop cultivars that maintain high yields and nutritional 
+quality. However, efforts will be needed to make such devel-
+opments available to small farmers in developing countries 
+in time to respond to changes in local climatic conditions. 
+New analyses support the 1990 report conclusion that the 
+impacts of climate change on forests could have significant 
+socio-economic consequences. This is especially important 
+for those countries and regions where economic and social 
+welfare and economic development are highly dependent on 
+the forest sector. 
+Key uncertainties require continued data collection and 
+research for policy development and decision-making. 
+These include: (1) the extent of managed and natural forests, 
+their spatial and temporal variation and their roles in the 
+global carbon cycle; (2) genetics and physiology of tree 
+species and the relationships among subordinate and com-
+petitive species; (3) regional impacts; and, (4) the linkages 
+among the regional impacts, socio-economic structures, and 
+the thresholds and critical limits where changes take place. 
+N A T U R A L T E R R E S T R I A L E C O S Y S T E M S 
+Analyses subsequent to those included in the IPCC First 
+Assessment Report ( 1990) reinforce the major conclusion of 
+that report that natural terrestrial ecosystems could face sig-
+nificant environmental impacts as a result of the global 
+increases in the atmospheric concentration of greenhouse 
+gases and associated climatic changes. In particular, these 
+studies continue to suggest that the rate of these changes will 
+be the major factor in determining the type and degree of 
+impacts with a variety of responses expected for different 
+regions and for different communities within ecosystems. 
+Current climatic projections continue to suggest that the 
+rates of change are likely to be faster than the ability of some 
+component species to respond and that species and ecosys-
+tem responses may be sudden, potentially leading to 
+ecosystem destabilization or degradation. 
+The promotion of heightened public awareness of the gen-
+eral values of natural terrestrial ecosystems is essential to 
+gaining public support for sustaining these ecosystems in a 
+changing climate. Particular emphasis should be placed on 
+involving ecosystem managers and local people in the 
+assessment of the impacts, consequences and response 
+strategies. 
+One of the major issues regarding the impacts of climate 
+change on terrestrial ecosystems is water availability with 
+recent studies suggesting that while water use efficiency of 
+vegetation could increase in an enriched C O , atmosphere, 
+the same amount of water per unit soil area may be neces-
+sary because of increased leaf area ratios due to greater 
+biomass produced in that enriched atmosphere. 
+Projected climate changes are expected to result in an accel-
+erated reduction of tropical forest on the African continent 
+and an encroachment of the Sahel syndrome into the savan-
+nas. These changes could worsen the already precarious 
+production systems in the affected regions of Africa, further 
+stressing the associated natural ecosystems and component 
+species. Degradation of wetlands and shallow lakes (e.g., 
+within savanna ecosystems in Africa and within the Great 
+Plains of North America) as a result of projected decreases 
+in rainfall or soil moisture could adversely impact on resi-
+dent animals and migratory species. 
+25 
+
+With projected chrnate change, profound impacts, both ben-
+eficial and destructive, can be expected for the distribution 
+and productivity of valuable fisheries and the industries 
+associated with them. The added stresses to freshwater 
+ecosystems as a result of climate change can be expected to 
+reduce species numbers and genetic diversity within fresh-
+water populations in the short term. With warming, a longer 
+growing season could lead to greater fish productivity where 
+temperature is currently limiting factor. 
+Uncertainties and gaps in the knowledge base continue to 
+exist in terms of our understanding of the environmental 
+impacts and associated socio-economic consequences of 
+climate changes. National, regional and global efforts need 
+to cooperatively focus on reducing these deficiencies which 
+primarily exist as a result of the lack of sufficient informa-
+tion and data on: a) fundamental ecological processes; b) the 
+links between climate and atmospheric chemistry on the 
+one hand and the response of natural terrestrial ecosystems 
+and their component species on the other; and c) the links 
+between natural tenestrial ecosystem changes and social 
+and economic welfare under a changing climate. In partic-
+ular, there is a lack of information on the sensitivity of 
+these ecosystems and their component species to climate 
+change, the vulnerability of social and economic systems to 
+ecosystem changes, and thresholds/critical levels for these 
+ecosystems and associated social and economic systems. 
+Existing intemational programmes such as G E M S and M A B 
+can provide one means of examining these deficiencies. 
+W O R L D O C E A N S AND C O A S T A L ZONES: 
+E C O L O G I C A L E F F E C T S 
+Since the IPCC First Impacts Assessment Report (1990), 
+new studies reconfirm that rising sea level is of more con-
+cern in low-lying coastal ecosystems than rising water 
+temperatures. 
+However, the combination of sea level and 
+temperature rise, along with changes in precipitation and 
+U V - B radiation, are expected to have strong impacts on 
+marine ecosystems, including redistributions and changes in 
+biotic production. 
+The impact of sea level rise depends on the total net rise 
+resulting from the relative vertical movements of the land 
+and of the sea. In areas undergoing natural eustatic uplift-
+ing of the land due to tectonic plate movement, glacial 
+rebound, and vulcanism, there will be little relative rise of 
+sea level. In land areas that are naturally falling as in the 
+southeastern U S A , due to tectonic and compaction forces, 
+impacts of sea level rise will be more important. A new 
+study of the Bering Sea indicates that in areas without nat-
+ural land uplift, there could be important impacts where 
+there is a high density of marine organisms dependent on 
+certain types of on-shore and near-shore marine environ-
+ments that may be affected by sea level 
+change. 
+Nevertheless, sea level rise is of far less consequence in 
+northem areas than are other impacts of climate change to 
+northem ecosystems and to global carbon cycling. These 
+regions are very important in the global carbon cycle and a 
+small temperature rise may cause significant increases in 
+bioproductivity and in carbon flux to the oceans. 
+Coral organisms grow 1-20 cm/year and reef growth rates 
+as a whole are known to be up to 1.5 cm/year. Not all reefs 
+accumulate at these rates, but most should keep pace with 
+the expected rise in sea level if other factors do not alter 
+growth conditions. Stress on the reefs from other variables 
+(storms, sedimentation, disease, rainfall, radiation, turbidi-
+ty, overfishing, mass mortality in algal grazers, etc.) may 
+prevent some reefs from keeping pace with rising sea level, 
+resulting in changes to nearshore hydrodynamics. 
+With respect to temperature rise, marine organisms in the 
+tropics live closer to their maximum thermal tolerance than 
+those in more temperate climates. Although a 1-2°C tem-
+perature rise would raise the summertime mean temperature 
+to over 30°C over much of the tropical/subtropical region, 
+most migratory organisms are expected to be able to toler-
+ate such a change. Temperature rise may trigger bleaching 
+events in some corals, but it is expected that the other stress-
+es mentioned above will be more important. 
+Intertidal plants, such as mangroves, can withstand high 
+temperature, and unless temperature rise affects reproduc-
+tion, it is unlikely to have any effect. Because mangroves 
+grow best in moderately saline environments, mangroves 
+can probably keep pace with sea level rise in rainfed humid 
+areas, but may be overstepped and abandoned in more arid 
+areas, particulariy if inland retreat is not possible. Thus, 
+future changes in pattems of rain and runoff and of over-
+cutting may be more important than sea level rise. With 
+respect to marshes, new studies indicate that mid-latitude 
+plants seem to tolerate salinity better and are more produc-
+tive under elevated C O j . 
+New findings of W M O / U N E P indicate that U V - B radiation 
+reaching oceanic and coastal zone environments will 
+increase faster than expected when the first Report was 
+written. Since so many marine resources spend all or vul-
+nerable parts of their lives near the water surface, there is a 
+significant threat to some fisheries. The first Report 
+expressed concem about leaching of contaminants during 
+sea level rise, from coastal waste disposal sites. There are 
+also bacteria and viral agents in such sites and in coastal sep-
+tic sewerage systems which could be increasingly released 
+into coastal waters. There are potential impacts on coastal 
+resources, but the primary concem is for the humans who 
+consume them and the loss of commerce due to the closure 
+of fish and shellfish areas by health authorities. Lastly, 
+potential changes in storm frequency or intensity could 
+have important ecological consequences to coastal 
+resources. 
+H Y D R O L O G Y AND W A T E R R E S O U R C E S 
+Since the publication of the IPCC First Impacts Assessment 
+Report (1990), a number of studies on impacts of climate 
+change on hydrology and water resources have been con-
+ducted. Unfortunately, there is not yet adequate information 
+on regions affected by aridity and desertification, and an 
+effort should be undertaken to fill that gap. The new stud-
+ies expanded on the geographic scope of the original 
+26 
+
+surveys, but few new insights were offered on hydrologie 
+sensitivities and vulnerability of existing water resources 
+management systems, while confirming many previous con-
+clusions. 
+The principal conclusions suggested by the new studies are: 
+• 
+S i g n i f i c a n t progress 
+has 
+been 
+made 
+in 
+hydrologie sensitivity analyses in developed 
+countries, yet large gaps exist in the information 
+base regarding the implications of climate 
+change for less developed nations; 
+• 
+Comparative sensitivity analyses that rely on 
+existing G C M s offer generic insights regarding 
+the physical h y d r o l o g i e effects and water 
+resources 
+management 
+impacts, but 
+the 
+differences in the outputs of the G C M s coupled 
+with large differences in hydrologie sensitivity 
+analyses makes it difficult to offer region-
+specific impact assessments. 
+• 
+Temporal streamflow characteristics in virtually 
+all regions exhibited greater variability and 
+amplification of extremes, with larger flood 
+volumes and peak flows as well as increased low 
+flow episodes and a shift in the tuming of the 
+seasonal runoff; 
+• 
+The higher the degree of water c o n t r o l , 
+regulation and management of sectoral water 
+demands, the smaller the anticipated adverse 
+effects of global w a r m i n g . 
+C o n v e r s e l y , 
+unregulated hydrologie systems are more 
+vulnerable to potential hydrologie alterations; 
+The principal recommendations are: 
+• 
+Increased variability of floods and droughts will 
+require a re-examination of engineering design 
+assumptions, 
+operating 
+rules, 
+system 
+optimization, and contingency planning for 
+existing and planned water 
+management 
+systems; 
+• 
+More studies on hydrologie .sensitivity and water 
+resource management vulnerability need to be 
+focused in arid and semi-arid regions and small 
+island states. 
+• 
+A uniform approach to the climate change 
+hydrologie sensitivity analyses needs to be 
+developed for comparability of results. 
+C R Y O S P H E R E 
+Analyses continue to support the conclusion that projected 
+changes in climate associated with enhanced atmospheric 
+concentrations of greenhouse gases are expected to sub-
+stantially reduce the areal extent and volume of seasonal 
+snow cover, mountain glaciers, terrestrial ice sheets and 
+frozen ground including permafrost and seasonally frozen 
+ground. 
+Recent analyses have shed some further light on the poten-
+tial impacts for these elements of the terrestrial cryosphere. 
+• 
+Analysis of satellite-derived snow cover data has 
+shown that the extent of northern hemispheric 
+snow to be at record low levels since the middle 
+of 1987 with the largest negative anomalies 
+occurring in the Spring. 
+• 
+Above normal temperatures throughout much of 
+the Northern Hemisphere in 1989 led to the 
+initiation of extensive active layer detachment 
+slides within permafrost in some regions of the 
+Canadian and Russian Arctic with damming and 
+degradation of water quality in affected streams 
+and further failures initiated. 
+• 
+Emissions in Arctic regions of methane from 
+hydrates as a result of permafrost degradation 
+may have been underestimated. 
+• 
+There is some evidence to suggest that glaciers 
+in the Northem Hemisphere polar and subpolar 
+regions are receding at a slower rate than 
+p r e v i o u s l y 
+suggested 
+with 
+some 
+h a v i n g 
+advanced in the past 30 years. Although the 
+Southern Hemisphere record is not as detailed, 
+records for several New Zealand glaciers show 
+that these have retreated since the mid-1800s 
+with the suggestion that this has been the result 
+of 
+an 
+increase 
+in temperature 
+and 
+an 
+accompanying decrease in precipitation. 
+Key uncertainties are associated with understanding funda-
+mental cryological processes, the relationship among these 
+elements (e.g.. impacts of changes in snow cover on per-
+mafrost and glacier dynamics), the impacts of climate 
+change on these elements of the cryosphere. the interde-
+pendency of associated ecosystems (e.g., soil erosion and 
+stability changes associated with permafrost degradation) 
+and human systems (e.g., structures, transportation, trans-
+mission lines), and the role of the cryosphere in local, 
+regional and global climate and climate change. 
+R E G I O N A L C L I M A T E C H A N G E PREDICTION 
+The prediction of climate change at regional level precision 
+is subject to great uncertainty. Precipitation changes are 
+particularly uncertain, although these changes are of great 
+practical significance. Progress in the development of G C M 
+models is urgently needed, particulariy in terms of improv-
+ing their capability for regional predictions, especially to 
+understand changes in the arid and semi-arid regions. Work 
+on improving regional predictions using the paleo-analogue 
+method continues in Russia and other countries. In the fur-
+27 
+
+ther work of IPCC, all methods of regional climate predic­
+tion should be reviewed and assessed together. 
+GUIDELINES F O R ASSESSING I M P A C T S O F 
+C L I M A T E C H A N G E 
+Working Group II is preparmg guidelines to assess the 
+socio-economic and environmental impacts of potential cli­
+mate change. These guidelines will outline a framework for 
+the study of climate-environment-society interactions and 
+the estimation of the impacts of climate change that will 
+allow comparisons and integration of impacts across vari­
+ous geographical areas and economic sectors. Preliminary 
+guidelmes will be available, after peer review, in 1992, 
+Further work will continue as a long-term task. 
+Impact assessments involve several steps: (i) definition of 
+the 
+problem; (li) selection of analytical method(s); (iii) 
+testing the method; (iv) development of climatic and socio­
+economic scenarios; (v) assessment of potential impacts; (vi) 
+evaluation of technical adjustments; and (vii) considera­
+tion of policy options. 
+Definition of the problem includes identifying the specific 
+goals of the assessment, the sector(s) and geographical 
+area(s) of interest, the time horizon of the study, the data 
+needs and the wider context of the work. 
+Selection of analytical method(s) depends upon the avail­
+ability of resources, models and data. Impact assessment 
+analyses could range from the qualitative and descriptive to 
+the quantitative and prognostic. Thoroughly testing the 
+method(s). including model validation and sensitivity stud­
+ies, prior to undertaking the full assessment is necessary to 
+ensure credibility. 
+Development of the climatic and socio-economic scenarios 
+involves several steps. The current and projected climatic, 
+socio-economic and environmental conditions expected to 
+exist over the study period in the absence of climate change 
+should be established. Scenarios of regional climate change 
+over the study time frame must also be developed. Third, 
+biophysical and environmental effects should be projected 
+under the altered climate. Then these projections should be 
+used, preferably in integrated environment-economic mod­
+els, to calculate the socio-economic effects under the altered 
+climate. Assessment of potential impacts for the sector(s) 
+or area(s) of interest involves estimating the differences in 
+environmental and socio-economic conditions projected to 
+occur with and without climate change. 
+Projections of effects with and without climate change 
+should incoфorate "automatic" adjustments. However, the 
+impact assessment should seek to evaluate the additional 
+technical adjustments resulting from application of existing 
+and new technologies or practices that may be available 
+over the study period, assuming no changes in the current 
+legal and institutional framework. 
+The costs and benefits of climate change should be assessed, 
+to the extent possible, using a common measure and dis­
+counted to net present value. Alternatively, costs and 
+benefits should be described qualitatively. The above gen­
+eral framework would also allow consideration of policy 
+options and their socio-economic and environmental 
+impacts. 
+MONITORING T O IDENTIFY C L I M A T E 
+C H A N G E C O N S E Q U E N C E S 
+There is a need to increase the available information and 
+data to support impact studies, particularly in developing 
+countries. This need can be met through enhancing and, 
+where appropriate, establishing integrated monitoring pro­
+grammes including biological, chemical, physical and 
+climatological parameters, as well as constructing concur­
+rent social and economic assessments, at the national, 
+regional and global levels to identify climate change con­
+sequences. 
+Data quality needs to be assured and data 
+analyses and their inteфretation need to be carried out care­
+fully. 
+The use of common protocols for collection and 
+analysis processes (including Geographical Information 
+Systems or GIS) and for equipment will aid in assuring 
+intercomparability and further encourage intemational coop­
+eration. 
+The development of the preliminary I P C C 
+guidelines for assessing the impacts of climate change is an 
+important contribution to this end. 
+Monitoring of sensitive terrestrial and marine ecosystems, 
+including the cryosphere, and component species should 
+be given priority as they could provide early detection/warn­
+ing of climate change and its impacts. Also to be given 
+priority are those species and ecosystems which have sig­
+nificant (locally/regionally defined) social and/or economic 
+values. The classic ground station approach (including 
+points, plots and transects) should provide the basic build­
+ing blocks of monitoring programmes, however, these 
+should also be supplemented with remotely sensed obser­
+vations (e.g., satellite, radar, and photogrammetry). 
+Advantage should be taken of automatic data transmission 
+and processing systems. 
+At present, international organizations such as U N E P , 
+W M O and IOC are implementing monitoring programmes 
+to help identify ecological and socio-economic conse­
+quences of climate change. U N E P has an initial programme 
+for observing terrestrial ecosystems with observations 
+extending on either side of the present boundaries of plant 
+zones for eariy detection of possible shifts of these bound­
+aries. W M O and I O C , among their many monitoring 
+activities, have designed a satellite observation system for 
+climatic and ocean parameters. 
+Current planning of the 
+Global Climate Observing System (GCOS) and the Global 
+Ocean Observing System (GOOS) should consider the value 
+of including the monitoring of terrestnal and marine eco­
+logical impacts of climate change. These can provide an 
+early indication of the integrated effect of climate change. 
+28 
+
+SECTION IV. 
+TASK 3: 
+ENERGY AND INDUSTRY RELATED ISSUES 
+BY WORKING GROUP III 
+INTRODUCTION 
+In March 1991, the Panel identified key areas for further 
+study by the Energy and Indusü^ Subgroup. Their puфoses 
+were: 
+(a) 
+to fill significant gaps in the analysis achieved to 
+date on energy and industry sector responses to 
+limit climate change: and 
+(b) 
+to begin new areas of analysis and suggest areas 
+of research which were too difficult to address in 
+the first phase of the IPCC. 
+These studies, which have not yet been peer-reviewed, or 
+progress reports thereon are presented below in a summa­
+ry manner. 
+Peer review will take place later this year. 
+Nevertheless, in the interim, these studies may provide use­
+ful information for policy analysis and decision making. 
+Although attempts have been made to reflect all available 
+material, some studies were confined to a limited number 
+of sources or data bases. Some studies had to rely upon 
+works which were not conducted with consistent method­
+ologies or data bases. 
+SUMMARY OF SUBTASKS 
+1) Comprehensive assessment of technologi­
+cal options for mitigating global warming 
+The objective of this study is to assess various technologi­
+cal options for reducing greenhouse gases, particularly 
+CO2, in a comprehensive way. Building upon the IPCC 
+Response Strategies Report (1990) (see table 3.2), this 
+paper reports some tentative findings in the survey of tech­
+nologies as the first part of the work. The results of the 
+second part of the work, building future scenarios on the use 
+of these technologies, will be available with an updated first 
+part in late 1992. 
+The tentative findings are: 
+(a) 
+Energy conservation and improved efficiency in 
+the production, conversion distribution and end 
+use of energy is one of the most effective options 
+available now and in the future. System restruc­
+turing, such as energy cascading and infrastructure 
+improvement, has promising potential. 
+(b) 
+The technologies to capture and sequester C 0 2 
+from fossil fuel combustion deserve investigation, 
+considering the expected continuing dependence 
+on fossil fuels as primary energy sources. 
+(c) 
+Nuclear power has the technological potential to be 
+one of the major energy sources in the next centu­
+ry, but faces various socio-economic, security and 
+safety constraints. 
+(d) 
+There are various existing and promising non-fos­
+sil fuel technologies such as photovoltaics (PV), 
+wind, hydropower, geothermal, biomass and solar 
+thermal systems. 
+P V may be first applied in a 
+small scale on roofs, and then in larger scale on 
+deserts and ocean surface if energy distribution 
+technology can be advanced substantially. 
+(e) 
+The physical potential of biomass for energy use 
+is apparently high but in some regions, competition 
+in land use for food may limit its production. 
+Environmentally sound intensification of agricul­
+ture for more efficient production of food may be 
+considered, (see also para, on biomass below). 
+2) The IPCC Technology Characterization 
+Inventory (TCI) 
+The IPCC Technology Characterization Inventory (TCI) 
+provides an information source of consistent, well-docu­
+mented technology data for analysis and planning activities 
+to limit greenhouse gas emissions. Special emphasis is 
+given to technologies having potential interest to develop­
+ing countries and economies in transition. Information from 
+many sources is used to describe technologies in five cat-
+gories: 
+(1) Primary Energy Producfion (2) Secondary 
+Energy Conservation and Processing (3) Energy Transfer 
+(4) End-Use Technologies and (5) Greenhouse Gases 
+Control Technologies. 
+Because information and data are not sufficiently detailed 
+for design of specific technology installations, addresses for 
+specialists around the world are provided. The data base 
+includes information for energy sources and major regions 
+of the worid. Country-specific information can be included 
+as it becomes available from specific applications and anal­
+yses. 
+Phase I consists of a preliminary design of the data base and 
+descriptions of eighteen technologies. These eighteen tech­
+nologies shown in Table 1 were submitted to the IPCC for 
+review in February 1992. The Phase II effort began in 
+December 1991. B y June 1992, the TCI will include about 
+90 technologies. Future versions of the data base are expect­
+ed, including both updated and added technologies. 
+29 
+
+Table 1: TCI Phase I Technologies 
+S U P P L Y 
+T E C H N O L O G Y 
+Pulverized Coal Steam Generation 
+Gas Turbine-Steam injected, inter-cooled (ISTIG) 
+Atmospheric Fluidized Bed Combustion 
+Diesel Cogeneration 
+Solar Thermal Electric-Parabolic trough 
+Mass Buming of Municipal Solid Waste 
+• 
+Efficient Electrical Transformers 
+E N E R G Y E N D - U S E 
+T E C H N O L O G Y 
+Electric Motors 
+• 
+Lighting-Compact fluorescent lighting 
+Lighting-Electronic Fluorescent Ballasts 
+Alternative Fuelled Vehicles-methanol 
+Alternative Fuelled Vehicles-CNG 
+• 
+Advanced Road Traffic Signalization 
+M A N U F A C T U R I N G 
+T E C H N O L O G Y 
+Motors-Industrial electric motors 
+• 
+High Efficiency Welding Power Supply 
+Chemicals-Efficient fertilizer production 
+• 
+Pulp & Paper-Mechanical dewatering 
+Petroleum Refining-Process (Distillation) control 
+systems 
+3) Technological options for reducing 
+methane emissions 
+Reducing global anthropogenic methane emissions by about 
+15-20 percent can halt rising atmospheric concentration of 
+methane. A technological assessment of options for reduc-
+ing methane emissions from anthropogenic sources (about 
+60 percent of global methane emissions) has been developed 
+through the United States/Japan W o r k i n g Group on 
+Methane, which compiled information submitted by IPCC 
+participating countries. Technological options are available 
+for limiting emissions from the major sources, other than 
+flooded rice cultivation and biomass buming. These options 
+may be economically viable at suitable locations in many 
+regions of the world, and represent different levels of tech-
+nical and capital needs (summarized in Table 2). In many 
+cases, these options provide a range of benefits, including 
+better air quality, better protection of surface and ground-
+water, enhanced productivity, reduced risk of explosion, 
+and improved availability and use of energy resources. 
+Some of these technologies are already established and 
+proven beneficial in certain markets. Barriers which hinder 
+the further implementation of these options in many coun-
+tries, especially developing countries include availability of 
+capital, lack of technical information, and conflicting incen-
+tive systems. 
+These barriers need to be addressed on a 
+country and site-specific basis. 
+Table 2: Summary of Characteristics of Methane Emissions Reduction Options 
+Availability 
+Benefits 
+Source 
+Emi.ssions 
+(Tg)i 
+Methane 
+Reductions from 
+Individual Options 
+by 
+1995 
+by 
+2005 
+post 
+2005 
+Includes 
+Profitable 
+Options 
+Includes 
+Low-Tech 
+Options 
+Air/Water 
+Quality 
+Safety 
+Produc-
+tivity 
+Energy 
+Recovery 
+EIS Sources 
+Coal Mining 
+up 10 90% 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Oil & Gas 
+70-120 
+up to 80% 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Combustion 
+NQ 
+X 
+X 
+X 
+X 
+AFOS Sources 
+Ruminants 
+65-100 
+up 10 75%' 
+X 
+X 
+X • 
+X 
+X 
+X 
+Animal Wa.stes 
+20-35 
+up 10 80% 
+X 
+X 
+X 
+X 
+X 
+X 
+Landfills 
+20-70 
+up to 90% 
+X 
+X 
+X 
+X 
+X 
+X 
+Wastewater 
+up to 80% 
+X 
+X 
+X 
+X 
+X 
+Biomass Burning"^ 20-80 
+NQ 
+X 
+X 
+X 
+X 
+X 
+Rice Growing 
+20-150 
+up to 30% 
+X 
+X 
+' Estimates prepared by IPCC Working Group 1 
+- Methane reductions per unit product 
+In situ buming and cook stove use 
+NQ = Not Quantified 
+30 
+
+4) Increasing electricity end-use efficiency 
+The study addresses the topic of increasing electricity end-
+use efficiency by providing an in-depth review of the 
+following: (a) the status of available technologies for 
+increasing electric end-use efficiency; (b) factors that limit 
+the application and widespread deployment of these tech-
+nologies; and (c) policies that have been implemented to 
+increase the efficiency of electricity end-use. 
+The conclusions of the report are summarized as follows. A 
+substantial fraction of increased anthropogenic carbon emis-
+sion over the next several decades is likely to come from 
+electricity generation. 
+Increases in end-use efficiency 
+improvements beyond those expected to occur under current 
+technologies and policies could cut significantly the growth 
+of electricity use and associated growth in projected carbon 
+emissions. Based on experience among industrialized and 
+developing countries conceming the technologies and pro-
+grammes and policies, significant increases in electricity 
+end-use efficiency are possible. It appears that many of 
+these increases can be achieved in a cost-effective manner. 
+Enhancing adoption of these efficient technologies by devel-
+oping countries IS an essential part of a successful strategy 
+to curtail growth in emissions of greenhouse gases. 
+5) Natural gas prospects and policies 
+One option for reducing C 0 2 emissions is the substitution 
+of natural gas for more carbon-intensive fuels. The demand 
+for gas is growing woridwide and is expected to nearly 
+double by the year 2005. As the starting point for its anal-
+ysis, the I P C C has reviewed the International Energy 
+Agency's ( l E A ) natural gas study. Natural Gas Prospects  
+and Policies (October 1991). This study provides a com-
+prehensive analysis of demand and supply for natural gas 
+including the institutional framework surrounding the pro-
+duction, transmission and use of natural gas. The study's 
+primary focus is on demand for natural gas in O E C D coun-
+tries, but sources from outside the O E C D are extensively 
+treated. The l E A forecasts that demand for natural gas out-
+side O E C D will be approximately twice that of O E C D by 
+2005. The study indicates that ample gas resources exist 
+worldwide even with the expected doubling of demand in 
+some of the regions through the year 2005 at prices ranging 
+from $3 to $6 per MBtu (in 1990 USS). However, the study 
+did not address the ability to meet demand after 2005. 
+Intergovernmental agreements to facilitate and maintain 
+competitive markets, access to resources and transmission 
+systems, and commercial contracts on a non-discriminato-
+ry intemational basis are likely to be required before private 
+capital can be mobilized to back very large, long term gas 
+development in remote parts of the world. 
+Further IPCC analysis should be devoted particularly to 
+non-OECD countries, greatly increased global and region-
+al demand, and supply and demand issues beyond 2005. 
+6) Thematic assessment of the road 
+transport sector 
+Because of the importance of the road transport sector, to 
+present and future emissions of greenhouse gases, the Panel 
+decided to carry out a thematic analysis of the sector. The 
+work will concentrate on such measures as fuel efficiency, 
+altemative transport fuels, emission reduction devices and 
+structural, institutional, and organizational changes. 
+The 
+work is just beginning so no conclusions are available at this 
+time. 
+7) Biomass, bioenergy and limitation of 
+greenhouse gas emissions 
+A review of the use of biomass as a source of energy con-
+cludes that bioenergy offers important opportunities to 
+reduce greenhouse gases through displacement of fossil 
+fuels. It is noted that C O , emissions from renewed or waste 
+biomass do not add to the overall atmosphenc burden of car-
+bon on a life cycle basis. 
+Some biomass combustion 
+technologies are available that, additionally, reduce other 
+greenhouse gases (e.g., C H ^ and N , 0 ) . 
+Greenhouse gas emissions can be reduced both by seques-
+tration of carbon and production of bioenergy. 
+The 
+following measures should be considered: use of waste 
+biomass as a fuel and production of biomass by intensive but 
+environmentally sound forestry and agriculture practices, 
+consistent with conservation of carbon in forests and soils. 
+Combustion of biomass can already be competitive with fos-
+sil fuels for (1) production of heat or steam and (2) 
+cogeneration of steam and electricity. Environmentally 
+sound production of liquid biofuels should also be considered. 
+The first part of the report is available for review. The sec-
+ond part of the report dealing with technologies will be 
+available late in 1992 for review. 
+8) World economic impacts of response 
+measures by industrialized countries 
+Carbon dioxide and carbon taxes in the energy sector have 
+been the focus of several available studies. The economic 
+impacts of such measures to control greenhouse gas emis-
+sions would vary among industnalized countries, because of 
+the difference existing among them in their resource endow-
+ments, the relative structure of energy prices, the ability 
+for fuel substitution and the achieved levels of energy effi-
+ciency. The studies reviewed to date in this effort indicate 
+that the costs of applying carbon tax measures could reduce 
+G D P growth in industrialized countries. The costs could be 
+reduced if flexible, phased, comprehensive and concerted 
+response strategies were adopted to control greenhouse 
+gases. Further systematic and comprehensive analysis of 
+available studies is needed on this important and complex 
+subject. 
+31 
+
+The impacts of these measures will not be limited to indus­
+trialized economies, but will also affect the economies of 
+developing countries. One general economic study by the 
+World Bank indicates that a change in O E C D growth could 
+affect the growth rate of developing countries rather sig­
+nificantly without off-setting programmes. Factors of this 
+economic interdependency include energy prices, balance of 
+trade, developing country revenue, extemal debt, invest­
+ment and aid flows. 
+9) Analysis of factors affecting energy 
+consumption and CO2 emissions and their 
+regional and sectoral differences 
+This assessment deals with factors affecting regional and 
+sectoral differences in energy consumption and related C O , 
+emissions. The supporting material contains: (a) analysis of 
+factors affecting total and sectoral C O , emissions; (b) 
+regional comparison of changing rates of factors; (c) long 
+run changes in carbon intensity and technology improve­
+ments; and (d) non-commercial energy consumption in 
+developing countries. The assessment indicates that such 
+factors as economic development, population growth, ener­
+gy conservation, changes in industrial structure, fuel 
+switching, and technological advance influence the region­
+al and sectoral pattems of historical energy consumption and 
+C O , emissions. Other factors such as climatic conditions 
+could be also considered. These factors function different­
+ly in different countries and regions. 
+Analysis of energy consumption and C O , emissions would 
+be important to select and plan a suitable set of options for 
+mitigating global warming. The analytical methods 
+reviewed in the assessment underway can be useful tools. 
+Some methods discussed can provide a common analytical 
+framework for countries, even with present limitations on 
+data availability. The analysis will also deepen common 
+understanding of historical and current situations of indi­
+vidual countries. 
+Future subjects of this interim assessment include: (a) sep­
+aration of industrial structure changes and energy efficiency 
+improvements in the energy conservation factors; and (b) 
+sectoral analysis of factors affecting energy consumption 
+and C O , emissions in developing countries. The analyses 
+discussed in this study could serve as starting points. 
+Further detailed research would be useful on more factors 
+affecting energy consumption, economic cycles and C O , 
+emissions in each sector, on the basis of results obtained in 
+the work now underway. 
+10) Country studies 
+A survey of country studies has been developed in cooper­
+ation with U N E P and through a review of other sources. 
+The term "country studies" is defined to include any official 
+national study on greenhouse gas emission inventories, 
+impact assessments, and emission mitigation analyses. It 
+includes energy and industry, agriculture, forests and other 
+sectors. Numerous other studies have been undertaken by 
+institutions in various countries which are not reflected in 
+this survey, since they have not been endorsed as official 
+national studies. 
+A s of February 1992, more than fifty 
+countries have or plan to initiate some form of country 
+study through internal, bilateral or multilateral support *. In 
+addition, several countries have indicated a wish to partic­
+ipate in country studies, but lack the financial and/or 
+technical resources to carry out such studies. 
+As yet, a comprehensive methodology for country studies 
+has not been developed, although work is underway in sev­
+eral IPCC working groups and elsewhere to partially address 
+this need. Current efforts include a project supported by 
+U N E P to establish a consistent methodological framework 
+for undertaking cost assessments of greenhouse gas abate­
+ment options. The project is being implemented by Riso 
+National Laboratory in Denmark. In addition, draft guide­
+lines have been prepared by Finland and the U S . A l l these 
+activities may assist countries in preparing future studies, but 
+there is an urgent need to give a higher priority to these 
+activities. 
+FUTURE WORK 
+Draft final reports from subtasks (2), (3), and (4) and draft 
+preliminary reports from subtasks (1), (7), (8), (9), and (10) 
+were distributed to I P C C participants in February 1992. 
+After the review comments are incoфorated, these reports 
+will be produced as final or intenm reports in June 1992. 
+Subtask (5) was met by use of a complete l E A report. 
+Subtask (6) is just beginning under Austrian leadership with 
+a contribution from l E A . 
+As can be seen from the foregoing summaries, several ongo­
+ing projects require continuing work. Several of the studies 
+need to be expanded to include other regions. 
+A n element of Task 3 which has not yet been undertaken is 
+the "identification of the full economic, environmental and 
+other types of costs and benefits." It may be useful to ini­
+tiate a review and assessment of alternative methodologies 
+or concepts which could be of value in such analyses. 
+Aii>enrma. Austialia. Ausriia. Bangladesh. Belanim, Brazil. Canada China. Congo. Cona Rita. C:echo.slo\aUa. Denmark. Finland. France. 
+Gambia, Geimanw India. Iialy. Indonesia. Ireland. Japan. Kenya. Korea DPR. Koiea. Rep . Malaysia. Mauritius. Mexico. МопцоЬа. Morocco.
+Myanmai. Netheilands. New Zealand. Nigeiia. Norway. Pakistan. Philippines. Poland. Romania. Senegal. Seychelles. Sri Lanka. Sweden
+SKitzeiland. Tanzania. Thailand. Tuikey. Tu\alu Uganda. United Kingdom. United States. Venezuela. Vietnam. Zimbabwe 
+32 
+
+SECTION V. 
+TASK 4: AGRICULTURE AND FORESTRY RELATED ISSUES 
+BY WORKING GROUP III. 
+INTRODUCTION 
+During the session of W G III on I November 1991 and in 
+accordance with decisions of the Fifth Session of IPCC 
+(Geneva. March, 1991), the Subgroup (AFOS) was 
+charged to contribute to the ongoing update of the IPCC 
+Response Strategies Report (1990) by: 
+(a) 
+an assessment of the greenhouse gas (GHG) emis-
+sions, taking into consideration sources and sinks 
+in agriculture, forestry and other related human 
+activities, and 
+(b) 
+an assessment of technologies and management 
+systems in these areas for mitigation and adapta-
+tion to climate change. 
+AGRICULTURE 
+Present and future agricultural GHG 
+emissions 
+Recent improvements in scientific understanding support 
+the previous findings of the 1990 report, in particular the fol-
+lowing. 
+As far as the net carbon dioxide release from agricultural 
+activities is concerned, forest clearing in the tropical and 
+subtropical areas of the worid continue to be the major 
+source. Additionally, the cultivation of virgin land, whether 
+in tropical or temperate agricultural areas, results in grad-
+ual carbon losses. 
+Its relative contribution, however, to 
+C O , concentrations is still to be determined. At the other 
+extreme, long-standing arable soils do not constitute a major 
+net source of C O , , because their carbon contents reach 
+equilibria which do not change very much unless cropping 
+and management practices are altered. 
+Projections of the future G H G emissions related to land use 
+depend on the initial use. the rate of land conversion, and 
+productivity including cultivation density. If production did 
+not increase, expected population growth and rising food 
+demand would require the area of tropical agriculture to 
+expand by over 60% by the year 2025. It is unlikely this 
+additional land would be available. If all the additional land 
+were to come from forest or grassland, it would cause a 
+gradual breakdown of soil organic matter, releasing C O , . 
+There may be another effect in that global warming will 
+speed up the decomposition of soil organic matter, thereby 
+releasing additional C O , to the atmosphere. Model calcu-
+lations, assuming no increase in organic residue returns, 
+predict this soil carbon loss to be up to 60 Gtons within 
+about 60 years. This corresponds to a current global C O , 
+release from fossil fuel of about 10 years. On the other 
+hand, there are indications that this could be offset by an 
+enhanced plant residue formation both above and below 
+ground, due to the C O , fertilization effect. 
+As for the release of methane, total global and individual 
+source emission estimates remain essentially as presented 
+in the IPCC First Assessment Report ( 1990), but with some 
+individual source changes. There has been a réévaluation 
+of some sources, particularly rice, and the additional sources 
+such as animal and domestic wastes. A large portion of 
+these emissions comes from liquid waste handling systems. 
+Uncertainties in global and regional emissions remain sig-
+nificant. A detailed analysis of new information on rice 
+suggests annual emissions in the lower end of the 20-150 
+Tg/year range. 
+In the absence of mitigation measures, methane emissions 
+are likely to continue to increase from each source as 
+increases in animal products and rice are required in order 
+to feed the world population. Current emissions for ani-
+mals, rice, and animal wastes could grow by about 40-60%, 
+50-60% and 30-40% respectively by 2025. 
+Unfortunately, the data conceming the release of nitrous 
+oxide from agriculture still cannot be reliably derived. 
+Keeping in mind that the annual increase of N , 0 in the 
+atmosphere is 3 - 4.5 Tg of nitrogen as N , 0 , and knowing 
+that the release from combustion processes has thus far been 
+overestimated, most of this net increase may be due to anthro-
+pogenic nitrogen inputs. About 80 Tg of industrially-fixed 
+nitrogen is presently applied to world agriculture. Taking 
+the upper value of estimates for the conversion of fertiliz-
+er nitrogen into N , 0 , which is 3.2 %, the fertilizer-induced 
+release for 1990 could be calculated as 2.5 Tg of nitrogen 
+as N , 0 . Since another 90 Tg of nitrogen or so are fixed by 
+managed leguminous plants, this combination could account 
+for most of the increase of N , 0 in the atmosphere. 
+Large nitrogen suфluses are frequent, especially in inten­
+sive agricultural systems. This excess nitrogen is prone to 
+both nitrate leaching and denitrification, although the ratio 
+of N , to N , 0 formation varies considerably from case to 
+case. However, it should also be borne in mind that not only 
+the unused but virtually the whole nitrogen introduced by 
+mankind into the worid ecosystem will sooner or later 
+become denitrified, thus adding to the overall N , 0 increase 
+in the atmosphere. 
+The significant unknown is the time 
+scale over which this will occur. 
+Background assumptions about future food and land 
+demand being the same as above, nitrogen fertilizer con­
+sumption may increase by the year 2025 from 80 to more 
+33 
+
+than 120 Tg of nitrogen per year. Without changes in tech-
+nology, the fertilizer-derived release of nitrous oxide is 
+likely to increase by some 50%. 
+Agricultural potentials for mitigation and 
+adaptation 
+In order to reduce the net carbon dioxide release from agri-
+culture, improving the productivity of existing arable land 
+should be given priority over the cultivation of virgin soils. 
+Furthermore, in the less populated areas of the worid, 
+marginal farmland could be set aside for either rangeland or 
+forest use. 
+Reduced soil tillage, improved utilization of organic wastes 
+as amendments of carbon into the soil and crop rotations 
+including forages are agricultural practices which reduce 
+carbon losses and/or sequester additional carbon in soils. 
+Although these practices may sequester several gigatonnes 
+(Gt) of carbon over a few decades, this represents only a 
+fraction of the release of carbon from fossil fuels over the 
+same period. This is because soils have a finite capacity for 
+accumulating organic matter. Nevertheless, these manage-
+ment practices are essential if soil fertility is to be 
+maintained or enhanced. 
+As for the control of methane, while investigations are con-
+tinuing on emission reducing options, the principal 
+approaches remain as reported in 1990 report. Opportunities 
+exist to reduce methane from enteric fermentation and ani-
+mal waste storage, for example, by modifying feeding 
+practices, using productivity enhancing practices and agents, 
+and modifying waste, management practices. Emissions 
+reductions of 25 to 75% per unit product in some animal 
+management systems appear feasible. Due to the diversity 
+of animal management systems, including economic and 
+socio-cultural factors, the importance of categorizing man-
+agement systems and matching emission-reducing options 
+to the systems is now being emphasized. Additionally, the 
+implications of reduction options for the emissions from ani-
+mal waste of other greenhouse gases, including nitrous 
+oxide, are now being addressed. 
+Methane emissions from rice cultivation may potentially be 
+reduced while maintaining or enhancing productivity. 
+Mitigative practices may include modifying water depth 
+and timing of irrigation, the type, rate, and application 
+method of fertilizer, alternative cultivation technologies, 
+and cultivar selection. Much research is still required in 
+order to realize these opportunities, and therefore a short-
+term reduction of methane emissions from rice growing 
+cannot be expected. However, over a number of decades, 
+while doubling rice production, an integrated management 
+approach may succeed in reducing methane releases by 20 
+- 40%. 
+Better balanced nitrogen budgets, especially in intensive 
+agriculture, are a key measure for reducing overall nitrous 
+oxide emissions. This should also include a better account-
+ing for the nitrogen from livestock wastes within fertilizer 
+application regimes. Other options include nitrification 
+inhibitors or improved fertilizer formulations and applica-
+tion. 
+However, the most promising way to reduce N , 0 
+losses is an integrated nitrogen-management system which 
+maximises nitrogen recycling while minimising fertilizer 
+inputs. This is all the more important since N , 0 , due to its 
+long lifetime, will accumulate in the atmosphere, constitut-
+ing an increasing threat to the ozone layer. 
+In addition to these mitigation strategies, future efforts of 
+A F O S should assess the ability of agricultural systems to 
+adapt to climate change. 
+FORESTRY 
+Forests provide mankind with a wide range of economic, 
+social and environmental benefits, but they are increasing-
+ly being threatened by unsustainable forest management 
+practices, air pollution, and climate change. 
+Concerted 
+action needs to be taken at national and intemational levels 
+to protect the worid's forests. Action will be successful only 
+if it takes into account the interdependence of the econom-
+ic, social and cultural factors that bear on the management 
+of forests. 
+Status of forests 
+It is difficult to determine the present extent of tropical for-
+est cover. Recent estimates on a country basis indicate that 
+there are approximately 1.9 billion hectares of tropical 
+forests. 
+One concem has been given particular attention since the 
+1990 report is the rate of deforestation globally and in indi-
+vidual countries. 
+The F A O estimated rates of global 
+deforestation for the I980's in closed forests (about 14 mil-
+lion hectares/year) and in closed and open forests (about 17 
+million hectares/year) are much higher than for the late 
+1970's), by 90% and 50%, respectively. Calculations by 
+other authoritative sources show significantly lower fig-
+ures in the order of about 10 million hectares. 
+Approximately 770 million hectares of forests belong to 
+the temperate zones with an estimated carbon storage of 25 
+Gt in biomass excluding soils. Forest area in boreal zones 
+amounts to about 920 million hectares, storing 150-190 Gt 
+of carbon in biomass including soils. In addition a consid-
+erable amount of carbon is stored in forest soils and 
+peatlands, especially in boreal zones. 
+Forestry options 
+The following four options were identified: 
+Slowing currently ongoing deforestation and forest degra- 
+dation 
+For an accurate assessment of cost effectiveness, it would 
+be necessary to quantify the reduction of the amount of car-
+bon released to the atmosphere. 
+So far, only preliminary 
+34 
+
+estimates сап be given. Nevertheless, it seems evident that 
+first priority should be given to this option, thus maintain­
+ing already existing biomass in natural as well as in 
+managed forests. 
+In tropical regions, it is necessary to 
+involve local people in sustainable silvicultural practices. In 
+temperate and boreal zones, this refers especially to the 
+new type of forest decline attributed to man-made air pol­
+lution, logging, and to the potential effects of climate change 
+Itself Slowing deforestation and forest degradation bears 
+a significant potential to keep carbon stored in biomass. 
+retards desertification and is the requirement for further 
+action. 
+Increasing forest biomass 
+There is generally a significant potential for increasing 
+biomass in forests, especially in young, understocked, over-
+logged and/or misused forests. 
+However, the costs and 
+time-frame are uncertain. 
+Improved use of wood 
+The use of wood for long-lived products provides benefits 
+in terms of carbon storage as well as sustainable forest man­
+agement. 
+Industrialised countries have possibilities for 
+improved use of wood, such as the recycling of paper and 
+paperboard, and the replacement of more fossil energy 
+intensive raw-materials by wood. The use of wood as a 
+source of energy offers important opportunities for reduc­
+ing G H G emissions by substituting fossil fuels (as described 
+in the EIS report). 
+Afforestation 
+The potential for afforestation in boreal, temperate and trop­
+ical biomes is uncertain. However, the current estimates for 
+afforestation are 50-150 million hectares in boreal, 50-125 
+million hectares in temperate and 400-750 million hectares 
+in tropical zones (200-300 million hectares in dry tropical 
+areas). For tropical zones, the land potentially available will 
+be less than the amount physically capable of afforestation 
+because the ultimate decisions on land use are based on 
+many other factors. For the boreal zones, the potential to 
+increase the forest area is limited because not all non-forest­
+ed land is environmentally capable of supporting forest 
+ecosystems. 
+At present, plantations account for most of the afforestation 
+in temperate zones. Preliminary assessments of gross costs 
+of afforestation have recently become available and range 
+from US$ 30 - US$ 60 per ton of carbon in boreal and tem­
+perate zones and US$ 10 - US$ 30 per ton of carbon in the 
+tropical zone. However, it is uncertain how much carbon 
+could be sequestered at such costs. 
+Noordwijk request 
+The Noordwijk Conference on "Atmospheric Pollution and 
+Climate Change' in November 1989 established the target 
+of a net global increase in forest area of 12 million hectare 
+a year by the beginning of the next century. The Bangkok 
+Workshop (1991) concluded that the prospect of attaining 
+the target was very limited, and that the net rate of forest loss 
+would be slowed or reversed over a longer period of time. 
+However, the option of afforestation would still be impor­
+tant and better data need to be developed to assess the 
+potential. 
+OTHER HUMAN ACTIVITIES 
+Present and future emissions 
+Efforts to better understand the emissions of methane from 
+domestic wastes managed in landfills have produced results 
+which are consistent with the previously estimated 20-70 
+Tg/year from this source and better describe the regional dif­
+ferences in waste generated per capita and quantities of 
+waste landfilled. Currently, about 60% of these emissions 
+are from the O E C D countries. No additional information is 
+available to describe the 20-25 Tg/year of estimated 
+methane emissions from wastewater lagoons primarily in 
+developing countries. 
+Forecasting efforts continue to estimate 50-90 Tg/year from 
+landfills globally by 2025. Developing countries will rep­
+resent an increasing share of these emissions, over 50% by 
+2025. This IS due to the expected increases in urban popu­
+lations over the next 30 years and the increasing prevalence 
+m these countries of landfilling, which generates more 
+methane than waste piles. No additional work appears to 
+have been performed for wastewater lagoons. 
+Potentials for mitigation 
+Recent work better characterizes the technological options 
+for reducing methane emissions identified in the 1990 
+report. This work continues to show a range of options are 
+available that can reduce methane emissions at modern 
+landfill sites by 60 to 90% and up to 80% from wastewater 
+lagoons. These options require varying degrees of initial 
+capital and are of varying levels of technical complexity. 
+They generally provide other benefits such as increased 
+safety, better air quality, better waste management and fuel 
+recovery, and therefore can have positive economic returns. 
+Continued efforts need to address barriers which limit the 
+further implementation of these options such as availabili­
+ty of capital and technical information. 
+Competing land use 
+Currently, most developed countries have virtually static 
+populations and have achieved high productivity growth 
+rates. In developing countries, the situation is the reverse, 
+with low productivity, high population growth, unfavourable 
+climatic conditions, lack of appropriate technology and 
+inadequate infrastructure. Consequently, food security in 
+these countries remains uncertain and economic growth 
+may continue to be slow or even stagnant. It is clear that the 
+historic growth pattern for land use cannot be sustained 
+35 
+
+over the next century. 
+For example, between 1882 and 
+1991, arable land use expanded by 74%. Similar rates of 
+expansion in the future would exceed the area of land poten-
+tially suitable for ecologically sound and sustainable 
+agriculture, it is also clear that the pressure for additional 
+land use for agriculture is largely an issue for the develop­
+ing countries, with competing demands for agriculture and 
+forestry. 
+CONCLUDING REMARKS 
+This updated report supports and confirms that some indi­
+vidual options in the different sectors of agriculture and 
+forestry to mitigate G H G emissions or even to sequester 
+existing C O , are relatively small on a global basis, but 
+together they may contribute significantly to national or 
+global abatement strategies. 
+SECTION VI. 
+TASK 5: 
+VULNERABILITY TO SEA LEVEL RISE 
+BY WORKING GROUP III 
+INTRODUCTION 
+In 1991, the Coastal Zone Management Subgroup ( C Z M S ) 
+of Working Group III, began to implement the recommen­
+dations in its report entitled: 
+S T R A T E G I E S F O R 
+A D A P T A T I O N T O S E A L E V E L RISE ( C Z M S R E P O R T , 
+1990). Among the recommendations was the need to pro­
+vide to coastal countries, including small island nations, in 
+the context of their socio-economic development, technical 
+assistance to: 
+(i) 
+identify coastal areas at risk; 
+(ii) 
+assess their vulnerability to potential impacts of an 
+accelerated sea level rise ( A S L R ) as described in 
+the IPCC First Assessment Report 1990); and, 
+(iii) 
+idevelop and, where possible, implement compre­
+hensive coastal zone management plans to reduce 
+vulnerability to A S L R before the year 2000. espe­
+cially for countries with vulnerable coastal areas. 
+The benefits of these steps should be seen in the context of 
+accelerating socio-economic development worldwide in 
+coastal areas and the related increasing environmental stress 
+on coastal resources. In this regard, integrated coastal plan­
+ning would facilitate sustainable development of coastal 
+areas and conservation of natural ecosystems. 
+Capacity building and institutional strengthening to devel­
+op and implement coastal zone management is identified as 
+a priority for low-lying coastal areas. Related to this, the 
+present intemational framework for cooperation should be 
+strengthened. 
+In order to better assess and respond to the needs of coastal 
+countries, the C Z M S has: 
+(1) 
+developed a common methodology to be used in 
+country studies to assess vulnerability and consider 
+possible response strategies; 
+(2) 
+assisted in coordinating a number of case studies 
+which incoфorate the assessment steps identified in 
+the common methodology; and have initiated work on 
+global vulnerability assessment in close cooperation 
+with IPCC Working Groups I and II; 
+(3) 
+identified the need for strengthening the capabilities of 
+vulnerable developing countries in implementing adap­
+tive C Z M programmes, aiming at sustainable and 
+ecologically sound development, and identified the 
+need for structural facilities for bilateral and multilat­
+eral financing of: 
+sharing information, data and methodologies; and 
+assisting in implementation of C Z M programmes; 
+and 
+strengthening institutional capabilities. 
+While all of the assessment work has not been completed, 
+what has been learned to date is in line with the conclusions 
+and findings of the C Z M S as presented in the IPCC First 
+Assessment Report (FAR). 
+IPCC TASK 5 OBJECTIVES 
+Following the conclusions of the F A R , the C Z M S was 
+tasked at the March 1991 IPCC Plenary to address the fol­
+lowing: 
+commence an assessment of the vulnerability of 
+developing and developed countries to A S L R ; 
+• 
+develop a common methodology for assessing 
+vulnerability through country case studies; 
+undertake developing country case studies on a 
+bilateral basis and in cooperation with the U N E P 
+Regional Seas Programme; 
+support the development of C Z M plans that 
+incorporate 
+response 
+measures 
+to 
+reduce 
+vulnerability to A S L R and address pressing coastal 
+management concems, where appropriate, by the 
+year 2000; 
+36 
+
+develop links with the coastal zone impacts studies 
+being undertaken by WGII while undertaking the 
+country case study assessments; 
+convene workshops to assess the results of the case 
+studies undertaken; 
+identify the appropriate response strategies and 
+mechanisms for implementing them; 
+estimate the level and kind of assistance needed 
+from intemational organizations and donor nations 
+for further assessments and implementation of 
+coastal management plans; and, 
+consider recommendations for proposed future 
+work. 
+Completion of the task is a long-term objective. In the 
+short-term, the task requires the development of a method­
+ology to assess vulnerability to A S L R , the application of the 
+methodology to assessment work underway, and the con­
+sideration of the needs of coastal developing countries for 
+assistance. 
+ASSESSMENT WORK COMPLETED 
+IPCC First Assessment Report. The C Z M S contributed 
+to the IPCC F A R by producing a C Z M S Report on the 
+S T R A T E G I E S F O R A D A P T A T I O N T O S E A L E V E L 
+RISE. 
+As a result of the significant participation from 
+developing countries at two major intemational workshops 
+held in Miami (November 1989) and Perth (February 1990), 
+the C Z M S report identified the response strategies for 
+coastal areas: to retreat, to accommodate, or to protect 
+from the potential adverse impacts associated with A S L R 
+(including the conservation and protection of natural coastal 
+defense, e.g., tidal flats, mangroves, sea grass beds and 
+coral reefs). Each response strategy has implications for 
+trade-offs and can be implemented within a framework of 
+integrated coastal zone management planning. 
+The C Z M S Report. The C Z M S made 10 recommenda­
+tions divided among three major categories: 
+National 
+Coastal Planning; Intemational Cooperation; and Research, 
+Data and Information. A suggested ten-year timeline for the 
+implementation of comprehensive C Z M planning was 
+included, along with an estimated cost for providing five 
+years of technical assistance to support this effort. Lastly, 
+the Report provided a "Worid-wide Cost Estimate of Basic 
+Coastal Protection Measures." 
+Common Methodology. The C Z M S developed "The 
+Seven Steps to the Assessment of the Vulnerability of 
+Coastal 
+Areas to Sea 
+Level 
+Rise - A C o m m o n 
+Methodology" in eariy 1991. After a detailed process of 
+review, comments and revisions made by IPCC partici­
+pants, the C Z M S feels that the Common Methodology 
+provides a useful methodological framework for coastal 
+countries to assess their vulnerability to A S L R and consid­
+er response strategies. The use of this common methodol­
+ogy could for many countries, be a first step in the 
+establishment of a systematic approach in the management 
+of coastal areas. Such C Z M planning would facilitate the 
+decision making process for socio-economic development 
+and the mitigation of vulnerability of coastal areas and 
+resources. As more countries conduct vulnerability analy­
+sis assessments, the Common Methodology would provide 
+a framework for global assessments based on a global 
+database. In addition, this information could facilitate pri­
+ority setting by institutional bodies. 
+The C o m m o n 
+Methodology has been translated into French, Spanish and 
+Arabic. 
+Case studies. In many instances, the C Z M S has been suc­
+cessful in serving as a coordination body bringing together 
+countries to conduct case studies assessing vulnerability. 
+For example, Australia, France, Japan, The Netherlands, 
+the United Kingdom and the United States are sponsoring, 
+on a bilateral basis, more than two dozen case studies in 
+developing countries, as well as conducting studies within 
+their own borders. The U N E P is also conducting a number 
+of case studies. Coordination between the two efforts has 
+provided mutual benefits. The results of the case studies will 
+be presented at a C Z M S workshop hosted by Venezuela in 
+March 1992, after which a report will be produced. A full 
+list of countries participating in the vulnerability pro­
+grammes and list of countries still desiring assistance is 
+presented in the supporting IPCC C Z M S report. 
+The interest expressed by developing countries for con­
+ducting vulnerability analysis and identifying 
+response 
+strategies has been tremendous, with a number of countries 
+asking for country study assistance. A number of develop­
+ing countries have also conducted their own country studies, 
+which indicates the seriousness of the matter to them. 
+However, because much of the work is being done on an ad 
+hoc basis, the C Z M S is not able to satisfy the demand. To 
+better respond to the many requests that arise from vulner­
+able developing coastal countries, both the institutional and 
+the financial aspects need further attention. 
+Status of country activities. The C Z M S prepared a one-
+page questionnaire regarding the current status of country 
+activities concerning A S L R and C Z M planning. This ques­
+tionnaire was answered by 37 countries. The preliminary 
+results indicate that nearly 90 percent of those who respond­
+ed expect that all or portions of their coastlines will be 
+vulnerable to sea level rise, that only 30 percent have con­
+ducted an impact study of sea level nse on their coastal zone 
+resources with even fewer (20 percent) studying response 
+options, and that only 20 percent have some form of coastal 
+zone management which includes policies that incoфorate 
+sea level rise. On the positive side is the fact that more than 
+50 percent of those responding have some form of coastal 
+management policy "in-place". On the potential demand 
+side, more than 80 percent expressed a willingness to coop­
+erate with assisting countries in conducting vulnerability 
+assessment studies. 
+37 
+
+COMMON METHODOLOGY 
+The Common Methodology is a guideline for assessing vul­
+nerability to A S L R . In assessing vulnerability, three levels 
+of boundary conditions and scenarios are incoфorated in the 
+methodology: (1) the impacts on socio-economic develop­
+ments; (2) the impacts on the natural coastal systems; and 
+(3) the implications of possible response strategies for adap­
+tation. 
+The Common Methodology now includes consideration of 
+the present situation and a rise of 0.3 meters and 1.0 meters 
+by the year 2100. These scenarios represent the low and the 
+high estimates of the 1990 IPCC F A R . Appropriate modi­
+fications are made for subsidence, uplift and storm surges 
+and any other circumstances peculiar to a study area. At the 
+present stage, the focus of the Common Methodology is on 
+the effects of A S L R (and existing storm pattems). In the 
+future, more attention will have to be given to the vulnera­
+bility of coastal areas with regard to other aspects of climate 
+change, such as changing storm intensities, storm pattems, 
+and soil moisture. 
+The objectives of the present Common Methodology are: 
+(a) 
+to provide a basis for coastal countries to assess the 
+vulnerability of their coastal areas to A S L R ; 
+(b) 
+to provide a basis for a world-wide comparative 
+assessment of vulnerability of coastal areas; 
+(c) 
+to provide a mechanism for identifying priority 
+needs of developing coastal countries; and 
+(d) 
+to provide a basis for decisions on responsive mea­
+sure. 
+The process, therefore, helps each country to identify the 
+actions needed to plan for and cope with the impacts asso­
+ciated with potential A S L R . 
+The.se steps will help each 
+country: to define its vulnerability; to examine the feasi­
+bility of response options, including their institutional, eco­
+nomical, technical and social implications; and to identify 
+needs for assistance in order to apply the response options. 
+CASE STUDIES AND WORKSHOPS 
+The evaluation of vulnerability to A S L R is being under­
+taken in a number of countries. As of 1 January 1992. 
+studies were either completed, in progress or in planning in 
+27 countries by members of the C Z M S with an additional 
+14 cases being sponsored through the U N E P Regional Seas 
+Programme. These case studies represent different types of 
+coasts and a wide range of techniques and methodologies. 
+Some studies are a portion of a larger country study on cli­
+mate change impacts, while others are focused on A S L R . 
+Some have evaluated response options, including the need 
+for C Z M S planning to reduce vulnerability to A S L R . 
+As each coastal country undertakes vulnerability assess­
+ment studies, that information will assist in providing a 
+better global picture of the potential problems of A S L R on 
+coastal resources and level of effort that may be required in 
+response. The C Z M S is now working on a world-wide esti­
+mate of socio-economic and ecological implications of sea 
+level rise (e.g., the number of people at risk and an estimate 
+of ecological impacts). This analysis will be based on 
+information made available through case studies, ques­
+tionnaires, and additional fact finding. 
+The Common Methodology is being used and tested in 
+more than a dozen case studies. From these efforts, advan­
+tages and disadvantages are being revealed which are 
+proving very valuable to the development of the method­
+ology. The Common Methodology will be updated based 
+on the case studies discussed at the Venezuela workshop in 
+March 1992 and as appropriate in the future. 
+The consensus is that the Common Methodology provides 
+a broad basis for coastal countries to assess their vulnera­
+bility to A S L R and to identify, evaluate and select response 
+The Common Methodology utilizes a seven-step approach as shown in Table A : 
+Table A 
+Common Methodological Steps to 
+Determine and Reduce Vulnerability 
+from Future Sea Level Rise 
+1. 
+Delineate case study area and specify A S L R and Climate Change conditionds. 
+2. 
+Inventory study area characteristics. 
+3. 
+Identify relevant development factors. 
+4. Assess physical changes and natural system responses. 
+5. 
+Formulate response strategies identifying potential costs and benefits. 
+6. 
+Assess the vulnerability profile and i n t e ф r e t results. 
+7. 
+Identify future needs and develop plan of action. 
+38 
+
+options to reduce their vulnerability to A S L R . This broad 
+basis allows for flexibility such that local and national con-
+ditions can be fully taken into account. The studies indicate 
+that coastal planning can reduce vulnerability to A S L R . 
+Vulnerability to A S L R is the cumulative effect of natural 
+processes, coastal development and climate change. C Z M 
+can reduce the effects of development on natural processes 
+and the effects of natural processes on development. As a 
+result, coastal planning can reduce vulnerability to A S L R 
+while promoting sustainable development. 
+International workshops. International workshops have 
+played a significant role in the gathering of information 
+from a wide variety of sources. Two intemational work-
+shops will be convened to discuss the results of the case 
+studies. At the Venezuela workshop, representatives of 25 
+countries will present reports on their case studies. Much 
+will be leamed, including information on the potential costs 
+and benefits of various response options or strategies, and 
+on each country's capability to respond to A S L R within the 
+framework of comprehensive C Z M planning. Another 
+workshop will be held in New Caledonia in April 1992 that 
+will focus on climate change, sea level rise and coastal zone 
+management in the South Pacific. 
+INTERNATIONAL COOPERATION 
+The C Z M S was asked to estimate the level and kind of 
+assistance needed from international organizations and 
+donor nations for further assessments and implementation 
+of national management plans. So far, there is only a rough 
+estimate of resources required to meet the target: "by the 
+year 2000 all relevant coastal countries should have com-
+prehensive coastal management programs to reduce their 
+vulnerability to A S L R and other impacts of climate change". 
+Considerable resources would be required and many coun-
+tries would need financial support. 
+To support an efficient and effective development of such 
+plans, intemational cooperation is important, especially to 
+ensure: 
+• 
+the continuation of vulnerability assessments; 
+the development of guidelines for C Z M planning 
+programs; and 
+an efficient coordination through bilateral and 
+multilateral cooperation. 
+CONCLUSIONS AND 
+RECOMMENDATIONS 
+Conclusions. Since its creation in 1989, the C Z M S has: 
+held international workshops that were widely 
+attended by developing and developed nations and 
+initiated global assessments of vulnerability to 
+A S L R ; 
+• 
+developed a common methodology for conducting 
+assessments of the vulnerability of coastal areas to 
+A S L R ; and 
+served as a coordinator of 30 case studies conducted 
+on a bilateral basis between C Z M S 
+member 
+countries. 
+Throughout this period, it has become increasingly clear of 
+the need for coastal countries: 
+to assess the multiple components of their 
+vulnerabilities to future sea level rise and related 
+extreme events in relation to development and the 
+protection of coastal ecosystems; 
+to understand its implications to their natural, 
+social, legal and economic systems; and 
+to begin to plan appropriate response strategies in 
+areas of awareness and institution building. 
+Part of this response would be to develop integrated coastal 
+management planning capable of addressing, in a compre-
+hensive way, the impacts of A S L R , along with the other 
+pressing problems impacting coastal resources. This inte-
+grated planning in coastal areas must focus on sustainable 
+development. Strengthening the institutional and legal capa-
+bility of vulnerable developing countries is a base line 
+condition and can be stimulated by information exchange 
+and technology cooperation within the framework of a net-
+work as established by the IPCC C Z M S in association with 
+U N E P . 
+The C Z M S has identified a growing awareness in coastal 
+countries of the potential impacts on the coastal resources 
+due to A S L R and other impacts of climate change. This 
+awareness has manifested itself in their interest in integrat-
+ed management planning. This interest must be encouraged 
+and assisted. Most coastal developing countries have not 
+developed C Z M planning capabilities, or made assessments 
+of their vulnerability to A S L R . Even though, in many cases, 
+long lead times are required to begin the process of adapta-
+tion to sea level rise, very few have begun any planning or 
+taken any measures as might be necessary. 
+The C Z M S still has much to accomplish. Preliminary find-
+ings indicate there is a need to: 
+Complete current and requested country case 
+studies and conduct additional studies in the 
+framework of C Z M S , in cooperation with the 
+U N E P , W M O , I O C and other 
+international 
+organizations. 
+Promote further research on the effects of climate 
+change on coastal areas, in particular with regard to 
+extreme events. 
+39 
+
+Include, as regional climate models improve, their 
+results (e.g., the potential changing intensity and 
+patterns of cyclones, hurricanes and typhoons), in 
+the assessment of vulnerability of coastal areas to 
+A S L R and other impacts of global climate change. 
+Recommendations. The following recommendations are 
+made based on the progress to date: 
+• 
+Coastal countries, that have not already done so, 
+should: 
+(1) 
+as.sess their vulnerability to A S L R and other 
+potential impacts of global climate change and 
+assess the assets at risk: 
+(2) 
+start the planning process for appropriate 
+response strategies; and 
+(3) 
+adevelop, by the year 2000, comprehensive 
+coastal management programmes to reduce 
+their vulnerability to A S L R and other impacts 
+of global climate change. 
+Countries should continue to support relevant 
+intergovernmental and intemational organizations 
+and programmes and their members should 
+continue to: 
+(1) 
+support research and observations on A S L R 
+and related severe storms, (e.g., under the 
+Global Ocean Observing System and the Global 
+Climate Observing System) and on other coastal 
+impacts of global climate change (e.g., coastal 
+inundation and habitat destruction resulting 
+from changes in the frequency and intensity of 
+severe storms): 
+(2) 
+assist developing countries in building their 
+own national capacity to participate in intema-
+tional activities on research and observations in 
+these areas: 
+(3) 
+support research on cost-effective response 
+measures to assist coastal nations to adapt to the 
+adverse impacts of global climate change; 
+(4) 
+promote public education and initiatives which 
+increase awareness of the implications of A S L R 
+and other potential impacts of global climate 
+change on coastal resources and of the feasibil-
+ity of response options to mitigate or adapt to 
+those impacts; 
+(5) 
+strengthen national, regional and international 
+programmes and institutions, with a view to 
+coordinating the assessment of the vulnerabili-
+ty of coastal areas to A S L R and the needs, in 
+this regard, of developing countries for assis-
+tance; and 
+(6) 
+recognize the effectiveness of a world-wide 
+cooperation between coastal nations and inter-
+national organizations as has been developed 
+under the I P C C framework, and to give further 
+support to the C Z M S and its network as a 
+catalyst for strengthening worid-wide coopera-
+tion by data and information exchange, 
+technology cooperation, integrated coastal zone 
+management, training programmes and com-
+munications. 
+FUTURE ACTIVITIES 
+The following C Z M S future activities are proposed: 
+The C Z M S envisages producing additional global 
+vulnerability assessment reports working jointly 
+with Working Group I and Working Group II, and 
+in cooperation with other relevant United Nations 
+organizations. Because of the close links between 
+impacts and response strategies, the C Z M S has 
+coordinated with WGII, which has a major focus on 
+the concem impacts of climate change, including 
+A S L R , on coral and mangrove ecosystems and on 
+commercial and subsistence fisheries. The focus of 
+C Z M S is to identify response options to manage 
+these resources to reduce their vulnerability to A S L ; 
+The development of C Z M guidelines,as being 
+discussed in the United Nations Conference on 
+E n v i r o n m e n t and D e v e l o p m e n t process, in 
+cooperation with U N E P by the year 1994; 
+IPCC Second Assessment Report (1994 or 1995) In 
+cooperation with W G I and WGII, complete a global 
+assessment of the vulnerability of coastal areas to 
+A S L R , as a first step to C Z M p l a n i n g and 
+programs, using the Common Methodology; and 
+Support Coastal Zone Management Planning, in 
+cooperation 
+with 
+the 
+U N E P 
+and 
+other 
+organizations, and provide technical cooperation, as 
+requested, to assist coastal countries to develop 
+integrated coastal management plans by the year 
+2000. 
+In order to execute the above-mentioned activities, it would 
+be necessary to seek funding for the work of IPCC C Z M S 
+as mentioned in the recommendations. 
+Further analysis 
+should be made to assess the availability of funds from 
+U N E P , other intemational organizations and donor countries 
+and the pace and scope of work which could thereby be sup-
+ported. Intemational cooperation is essential for the success 
+of these activities. 
+40 
+
+SECTION VII 
+RESUME OF THE POLICYMAKER SUMMARY (1990) OF THE IPCC SPECIAL 
+COMMITTEE ON THE PARTICIPATION OF DEVELOPING COUNTRIES 
+INTRODUCTION 
+The IPCC, in its sixth session (Geneva, 29-31 October 
+1991 ), decided that a resume of the recommendations of its 
+Special Committee on the Participation of Developing 
+Countries would be included in the 1992 IPCC Supplement. 
+Further, it "agreed with the Chairman's proposal that the 
+IPCC Secretariat be tasked to draft the resume from the 
+Policymaker Summary of the Special Committee (see the 
+IPCC First Assessment Report, 1990) for review by all 
+countries". This contribution is the result of that decision. 
+Resume of the Executive Summary of the 
+Special Committee 
+Full participation includes the development of national 
+competence to address all issues of concem such as the 
+appreciation of the scientific basis of climate change, the 
+potential impacts on society of such change and evaluations 
+of practical response strategies for national/regional appli-
+cations. 
+Actions to promote the full participation of the developing 
+countries in climate change issues should not await the out-
+come of negotiations on the Framework Convention on 
+Climate Change. They need to be taken now, through exist-
+ing arrangements and should be planned and carried out for 
+several years. 
+The factors identified by the Special Committee as inhibit-
+ing the full participation of the developing countries in the 
+IPCC process, inter alia, are: 
+• insufficient information; 
+• insufficient communication; 
+• limited human resources; 
+• institutional difficulties; 
+• limited financial resources. 
+(i) 
+Insufficient information: Many developing coun-
+tries do not have sufficient information on the 
+issue of potential climate change to appreciate the 
+concern it evokes elsewhere in the world. 
+Information is often insufficient with respect to the 
+scientific basis for concem, on the potential phys-
+ical and socio-economic impacts of climate change 
+as well as on response options. This applies not 
+only to scientific milieux but also to policymakers 
+and public opinion. 
+(ii) 
+Insufficient communication: Even if the situation 
+with respect to information were to improve, there 
+is the problem of insufficient internal and extemal 
+communication mechanisms for the proper dis-
+semination of the information on matters related to 
+climate change. 
+(iii) 
+Limited human resources: Lack of adequate num-
+ber of trained personnel in almost all areas ranging 
+from academic, scientific efforts to applications of 
+knowledge to food and energy production, to 
+water management, to human settlements prob-
+lems, to trade and economic growth, and to a host 
+of other related endeavours is common to many 
+developing nations. Most of them, if not all, can 
+command only limited pool of experts and respon-
+sible and knowledgeable officials, and even that 
+only in a few of these areas. 
+(vi) 
+Institutional difficulties: The multi-disciplinary 
+and cross-cutting nature of the issues involved 
+demands relatively high degree of co-ordination 
+among the various departments/ ministries of gov-
+ernments. 
+(v) 
+Limited financial resources: Survival needs come 
+first. After that, the limited financial, and conse-
+quent general lack of technological, resources 
+dictate the priorities. Means of meeting the incre-
+mental costs of ensuring a viable environment 
+frequently cannot be found. Also, local immedi-
+ate, environmental concerns generally receive 
+political priority over impersonal, global concems. 
+The legitimate concerns on the part of the developing coun-
+tries that, although their impact on global climate change is 
+minimal, its impact on them can be grave, need to be taken 
+into account. 
+RECOMMENDED ACTIONS 
+Uninterrupted travel assistance to the developing countries 
+for attendance at the meetings of IPCC and follow-up activ-
+ities should be ensured. The Special Committee called the 
+attention of the Panel to the importance of continuing this 
+effort and of the donor nations continuing and increasing 
+their financial support to the effort. 
+Serious consideration should be given to supporting more 
+than one expert from each participating developing coun-
+try to those climate-change-related meetings that deal with 
+several aspects of the problem. 
+Govemments and organizations from the industrialized 
+nations are encouraged to continue and increase their efforts 
+41 
+
+in organizing seminars. Developing countries could orga­
+nize, under the sponsorship of intemational organizations or 
+otherwise, regional seminars and workshops in order to 
+exchange scientific and technical information. For this pur­
+pose, necessary programmes and lists of experts should be 
+developed. As part of the continuing process of information 
+exchange, the Special Committee recommended that IPCC 
+circulate the P o l i c y m a k e r Summary (of the Special 
+Committee) to all concemed. The developing countries on 
+their part could where appropriate designate focal points, as 
+soon as possible, for transmittal of reports, documentation, 
+data and information on seminars. Such focal points should 
+be briefed on forwarding the material to appropriate recip­
+ients within the nation for response, review etc. 
+The establishment of mechanisms for national co-ordination 
+of all (national) activities related to climate change could be 
+considered by the developing countries. The mechanisms 
+could aid such areas as information dissemination, devel­
+opment and implementation of plans for research and 
+monitoring, and formulation of policy options. The indus­
+trialized countries could consider assisting the developing 
+countries in setting up the mechanisms. 
+The Special Committee recommended that acquisition, anal­
+yses and interpretation of information on climatic and 
+related data would enable developing countries to take more 
+effective account of climate change considerations in for­
+mulating national policies. Such actions are necessary also 
+at regional levels to undertake and refine impact studies. 
+The current unevenness in the acquisition and use of such 
+data which is evident between the hemispheres should be 
+eliminated. The Special Committee further recommended 
+that the developing countries take immediate action to iden­
+tify their specific financial needs in this regard. It would also 
+be necessary to mobilize appropriate funding in order to 
+mount a sustained programme and create regional centres to 
+organize information networks on climate change. 
+In many developing countries the meteorological/ hydro-
+logical service is the main and often the only institution 
+collecting and recording data with relevance to climate. If 
+associated weather pattems arc modified, as some predict 
+they would as a result of climate change, then the capabil­
+ities of such services need to be reinforced to enhance their 
+contributions to sustainable development. 
+The Special Committee further recommended that its find­
+ings be duly taken into account in all relevant areas of the 
+work of IPCC. Programmes of action should be developed 
+and implemented (and the concepts which would lead to 
+such programmes of action developed where needed) with­
+out delay, with a view to ensure, provided the necessary 
+means are made available, the full participation of devel­
+oping countries in the future work and activities on climate 
+change. 
+U N E P and W M O should take the lead in this 
+regard and initiate the necessary consultations. Other mul­
+tilateral or bilateral organizations should also be contacted 
+for elaborating and implementing these programmes of 
+action. 
+SECTION VIII. 
+SUMMARY OF COMMENTS AND ISSUES FOR FURTHER CONSIDERATION 
+BROUGHT OUT AT THE SEVENTH SESSION OF IPCC 
+Discussion of the result,s described in the reports of the 
+three Working Groups identified a number of areas for pri­
+ority emphasis in the future work of IPCC. In the plenary 
+meetings, references were made to issues and recent work 
+not fully taken into account or peer-reviewed during the 
+preparation of the Working Groups' supplementary reports. 
+A l l available studies should be thoroughly peer-reviewed as 
+part of the IPCC follow-up process. 
+Desertification 
+Climate change and drought and desertification are issues 
+of great importance in many parts of the world. Extensive 
+study of the links between climatic variations, climate 
+change and desertification is urgent and has been request­
+ed by numerous affected countries in Sahelian and other 
+parts of Africa, in Latin America, and in Australia, India. 
+China and other parts of Asia. Desertification is a complex 
+phenomenon largely associated with human causes such as 
+land degradation exacerbated by climatic variability; the 
+affected arid and semi-arid regions are therefore most like­
+ly to be vulnerable to climate change. The declaration fol­
+lowing the Intemational Congress on Impacts of Climate 
+Variations and Sustainable Development in Semi-Arid 
+Regions (Fortaleza. Brazil. 1992)) emphasizes the urgency 
+of addressing the issue of desertification in respect of its 
+causes of observed impacts on affected human societies. 
+Fluorinated greenhouse gas species, not 
+included in the Montreal Protocol 
+There are two species concerned: firstly, the hydrofluoro-
+carbons (HFCs), now replacing the chlorofluorocarbons 
+(CFCs); secondly, some fully fluorinated species with high 
+G W P s and very long lifetimes such as tetrafluoromethane 
+(CF^), hexafluoroethane (С,Е^) and sulphur hexafluoride 
+(SFg). Consideration should be given to achieving a better 
+understanding of sources and sinks and to including these 
+gases in the IPCC methodology for national inventories of 
+greenhouse gas emissions and sinks, as well as to assessing 
+response options. 
+42 
+
+Regional climate predictions 
+The Panel continued to stress that research leading to infor-
+mation on likely regional climate change (and its association 
+with global change) was of the highest priority, and noted 
+that there are certain aspects of regional climate change 
+which are particularly important in some areas. 
+Among 
+these are tropical cyclones and the tidal surges associated 
+with such storms. Guidance on likely changes in frequen-
+cy, intensity and distribution of such events, as a result of 
+climate change. Is urgently needed in states in and border-
+ing the Pacific. Indian and Atlantic Oceans. 
+Special 
+attention should be given to the needs of small island states 
+which are particularly vulnerable to climate change. 
+Prediction of regional precipitation is another area of par-
+ticular concern. Moreover, the connections between local, 
+regional and global pollution requires further study. 
+The question of the validity of the technique of palaeo-ana-
+logue for the prediction of regional climate change was 
+raised. Although, palaeo-data conceming past climate are 
+of great value, clear analogues from the past which can be 
+applied to future climate change have not yet been identi-
+fied. In the further work of IPCC, all methods of regional 
+climate prediction should be reviewed and assessed on a 
+continuing basis. 
+Country studies and methodologies 
+The Panel recognized the valuable work on methodologies 
+for country studies - such as those for national inventories 
+of greenhouse gas emissions and sinks, vulnerability to sea 
+level rise and other impacts assessments - which were being 
+carried out by the three Working Groups and elsewhere. It 
+acknowledged that this is a cross-cutting issue. It recog-
+nized the utility of further work on methodologies for both 
+limitation and adaptation and. in particular, their integration 
+into a broader framework. There was a consensus that pri-
+ority should be given to further assessing the work in 
+progress and to development of coherent guidelines for 
+country studies, keeping in mind the circumstances of dif-
+ferent countries and the evolving nature and pattern of their 
+natural resource use. The next step in this process should 
+be the convening of a workshop possibly prior to the eighth 
+Session of the Panel, with a report to be reviewed at that 
+time. 
+Nuclear energy technologies 
+Nuclear power, along with safety and waste disposal issues, 
+should be fully evaluated by the IPCC as an alternative 
+energy source to mitigate climate change. 
+Inventory of possible response options 
+Future work should include the preparation of a broad inven-
+tory of possible response options to identify an evolving list 
+of measures that countries may wish to consider in their 
+national context. With regard to each option, the invento-
+ry should include feasibility factors that will enable coun-
+tries to assess the applicability of an individual option to 
+national situations. These factors include 
+• technical factors 
+• economic factors 
+• other factors 
+that may Inhibit the introduction of these technologies or 
+practices in a specific national situation. 
+The options considered should include management prac-
+tices, techniques and technologies, and should cover all 
+sectors, including energy, industry, transportation, agricul-
+ture and forestry as well as adaptation measures for natural 
+and developed areas. 
+The Technology Characterization Inventory is the first step 
+towards this goal. The report on task 4 also identifies spe-
+cific response options, and the repon on task 5 notes coastal 
+zone management practices that can facilitate adaptation 
+to sea-level rise. 
+Natural gas prospects 
+The concem over the future availability of natural gas to 
+meet expected higher demand, including its relation to 
+reducing greenhouse gas emissions, was raised. Assessment 
+of natural gas availability, deliverability and demand beyond 
+the year 2005 is needed, particulariy in non-OECD coun-
+tries. 
+Economic impacts of response measures 
+Some studies very recently became available and could not 
+be considered by the IPCC in the review described in this 
+report. These studies indicate mixed results and show the 
+need for a continuing examination of the question of the 
+effects of carbon taxes and other measures on national G D P 
+growth. 
+Other areas to be considered for future work 
+Specification of a minimum set of parameters for 
+m o n i t o r i n g for impact analyses, and how to 
+measure them. 
+Impacts on mountain ecosystems (forests, water 
+resources, socio-economic impacts, etc.). 
+Impacts of climate change on urban areas and other 
+human 
+settlements. 
+Indirect GWPs. 
+• 
+Monitoring and databases. 
+• 
+Further follow-up on the Noordwijk afforestation 
+targets. 
+43 
+
+Emissions from road transportation and other 
+transportation sectors which could be used as 
+alternative options. 
+• 
+Development of an action plan to fulfil 
+the 
+recommendations of the IPCC Special Committee on 
+the Participation of Developing Countries, especially 
+the long-term objectives (see section VII). 
+Dissemination of IPCC information 
+With financial support provided by some countries, the 
+IPCC has conducted a series of information exchange sem-
+inars in several developing countries, and the IPCC First 
+Assessment Report (1990) and some other IPCC reports 
+have been translated into several languages. Non-govern-
+mental organizations are also contributing significantly to 
+the dissemination of information on climate change. The 
+seminars have attracted participation from all levels of soci-
+ety, including heads of state and government ministers, 
+experts, non-governmental organisations and the public. 
+They have contributed significantly to the understanding of 
+the various aspects of the climate change issue. Further 
+seminars in other developing countries could be undertak-
+en in response to requests, but this depends on the 
+availability of financial and human resources. 
+Resource issues 
+The I P C C assessments are fundamentally dependent on 
+research and development carried out under intemational 
+programmes and by research teams within countries of the 
+world. The need to increase these research efforts has 
+become obvious in the course of the I P C C work. 
+Insufficient knowledge and understanding of both the cli-
+mate change issue itself as well as all socio-economic 
+impacts and further societal implications exist at all levels 
+of society. The 
+I P C C strongly urges that increasing 
+resources be made available for these activities and that the 
+major international global programmes be adequately 
+resourced. It is particularly important that means are made 
+available to permit developing countries to become genuine 
+partners in this global research effort. The progress of our 
+understanding is indeed dependent upon addressing the 
+global environment in its entirety. 
+44 
+
+LIST OF ACRONYMS AND CHEMICAL SYMBOLS 
+A S L R 
+Accelerated Sea Level Rise 
+CF4 
+Tetrafluoromethane 
+CFCs 
+Chlorofluorocarbons 
+C,Fg 
+Hexafluoroethane 
+C G C M 
+Coupled General Circulation Model 
+CH4 
+Methane 
+C O 
+Carbon monoxide 
+C O , 
+Carbon dioxide 
+C N G 
+Compressed Natural Gas 
+E N S O 
+El-Nino Southem Oscillation 
+G C O S 
+Global Climate Observing System 
+G E F 
+Global Environment Facility 
+G H G 
+Greenhouse Gas 
+GtC 
+Gigatonnes ( 10' tonnes) carbon 
+G W P 
+Global Warming Potential 
+H C F C 
+Hydrochlorofluorocarbon 
+H F C 
+Hydrofluorocarbon 
+ICSU 
+Intemational Council of Scientific Unions 
+IGBP 
+Intemational Geosphere-Biosphere Programme 
+IPCC 
+Intergovemmental Panel on Climate Change 
+ISTlG 
+Intercooled, Steam Injected Gas Turbine 
+IS92a-f 
+1992 IPCC Emissions Scenarios 
+Mha 
+Million hectares 
+M S U 
+Microwave Sounding Unit 
+Mt 
+Mégatonne ( 10^ tonnes) 
+N , 0 
+Nitrous oxide 
+NOx 
+Nitrogen oxides 
+N H 
+Northem Hemisphere 
+N M H C 
+Non-methane hydrocarbons 
+O3 
+Ozone 
+O E C D 
+Organization for Economic Cooperation and Development 
+pa 
+Per annum 
+ppm 
+Part per million 
+SFj 
+Sulphur hexafluoride 
+tC 
+Tonnes Carbon 
+Tg 
+Teragram (10'- grams) 
+U N 
+United Nations 
+U N E P 
+United Nations Environment Programme 
+W M O 
+World Meteorological Organization 
+45 
+

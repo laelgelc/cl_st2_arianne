@@ -1,0 +1,856 @@
+Climate Change 2007:
+Impacts, Adaptation and Vulnerability
+The Intergovernmental Panel on Climate Change (IPCC) was set up jointly by the World Meteorological Organization
+and the United Nations Environment Programme to provide an authoritative international statement of scientific
+understanding of climate change. The IPCC’s periodic assessments of the causes, impacts and possible response strate-
+gies to climate change are the most comprehensive and up-to-date reports available on the subject, and form the
+standard reference for all concerned with climate change in academia, government and industry worldwide. Through
+three working groups, many hundreds of international experts assess climate change in this Fourth Assessment Report.
+The Report consists of three main volumes under the umbrella title Climate Change 2007, all available from
+Cambridge University Press:
+Climate Change 2007 – The Physical Science Basis
+Contribution of Working Group I to the Fourth Assessment Report of the IPCC
+(ISBN 978 0521 88009-1 Hardback; 978 0521 70596-7 Paperback)
+Climate Change 2007 – Impacts, Adaptation and Vulnerability
+Contribution of Working Group II to the Fourth Assessment Report of the IPCC
+(978 0521 88010-7 Hardback; 978 0521 70597-4 Paperback)
+Climate Change 2007 – Mitigation of Climate Change
+Contribution of Working Group III to the Fourth Assessment Report of the IPCC
+(978 0521 88011-4 Hardback; 978 0521 70598-1 Paperback)
+Climate Change 2007 – Impacts, Adaptation and Vulnerability provides the most comprehensive and up-to-date
+scientific assessment of the impacts of climate change, the vulnerability of natural and human environments, and the
+potential for response through adaptation. The report:
+•
+evaluates evidence that recent observed changes in climate have already affected a variety of physical and
+biological systems and concludes that these effects can be attributed to global warming;
+•
+makes a detailed assessment of the impacts of future climate change and sea-level rise on ecosystems, water
+resources, agriculture and food security, human health, coastal and low-lying regions and industry and settle-
+ments;
+•
+provides a complete new assessment of the impacts of climate change on major regions of the world (Africa,
+Asia, Australia/New Zealand, Europe, Latin America, North America, polar regions and small islands);
+•
+considers responses through adaptation;
+•
+explores the synergies and trade-offs between adaptation and mitigation;
+•
+evaluates the key vulnerabilities to climate change, and assesses aggregate damage levels and the role of
+multiple stresses.
+This latest assessment by the IPCC will form the standard scientific reference for all those concerned with the
+consequences of climate change, including students and researchers in ecology, biology, hydrology, environmental
+science, economics, social science, natural resource management, public health, food security and natural hazards, and
+policymakers and managers in governments, industry and other organisations responsible for resources likely to be
+affected by climate change.
+
+From reviews of the Third Assessment Report – Climate Change 2001:
+‘This volume makes another significant step forward in the understanding of the likely impacts of climate change on a
+global scale.’ 
+International Journal of Climatology
+‘The detail is truly amazing . . . invaluable works of reference . . . no reference or science library should be without a
+set [of the IPCC volumes]. . . unreservedly recommended to all readers.’ 
+Journal of Meteorology
+‘This well-edited set of three volumes will surely be the standard reference for nearly all arguments related with global
+warming and climate change in the next years. It should not be missing in the libraries of atmospheric and climate
+research institutes and those administrative and political institutions which have to deal with global change and
+sustainable development.’ 
+Meteorologische Zeitschrift
+‘The IPCC has conducted what is arguably the largest, most comprehensive and transparent study ever undertaken by
+mankind . . . The result is a work of substance and authority, which only the foolish would deride.’ 
+Wind Engineering
+‘ . . . the weight of evidence presented, the authority that IPCC commands and the breadth of view can hardly fail to
+impress and earn respect. Each of the volumes is essentially a remarkable work of reference, containing a plethora of
+information and copious bibliographies. There can be few natural scientists who will not want to have at least one of
+these volumes to hand on their bookshelves, at least until further research renders the details outdated by the time of
+the next survey.’ 
+The Holocene
+‘The subject is explored in great depth and should prove valuable to policy makers, researchers, analysts, and
+students.’ 
+American Meteorological Society
+From reviews of the Second Assessment Report – Climate Change 1995: 
+‘ … essential reading for anyone interested in global environmental change, either past, present or future. … These
+volumes have a deservedly high reputation’ 
+Geological Magazine
+‘… a tremendous achievement of coordinating the contributons of well over a thousand individuals to produce an
+authoritative, state-of-the-art review which will be of great value to decision-makers and the scientific community at
+large … an indispensable reference.’ 
+International Journal of Climatology
+‘... a wealth of clear, well-organized information that is all in one place ... there is much to applaud.’ 
+Environment International
+
+Climate Change 2007:
+Impacts, Adaptation and Vulnerability
+Edited by
+Martin Parry
+Osvaldo Canziani
+Jean Palutikof
+Co-Chair, 
+Co-Chair, 
+Head, Technical Support Unit
+IPCC Working Group II
+IPCC Working Group II
+IPCC Working Group II
+Paul van der Linden
+Clair Hanson
+Deputy Head, Technical Support Unit       Deputy Head, Technical Support Unit
+IPCC Working Group II                          IPCC Working Group II
+Contribution of Working Group II 
+to the Fourth Assessment Report of the 
+Intergovernmental Panel on Climate Change
+Published for the Intergovernmental Panel on Climate Change
+
+CAMBRIDGE UNIVERSITY PRESS
+Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, São Paolo, Delhi
+Cambridge University Press
+32 Avenue of the Americas, New York, NY 10013-2473, USA
+www.cambridge.org
+Information on this title: www.cambridge.org/9780521880107
+© Intergovernmental Panel on Climate Change 2007
+This publication is in copyright. Subject to statutory exception and to the provisions of relevant collective licensing agreements, no
+reproduction of any part may take place without the written permission of the Intergovernmental Panel on Climate Change.
+First published 2007
+Printed in Canada by Freisens
+A catalogue record for this book is available from the British Library
+ISBN 978 0521 88010-7 hardback
+ISBN 978 0521 70597-4 paperback
+Cambridge University Press has no responsibility for the persistence or accuracy of URLs for external or third-party internet web sites
+referred to in this publication and does not guarantee that any content on such web sites is, or will remain, accurate or appropriate.
+Please use the following reference to the whole report:
+IPCC, 2007: Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment
+Report of the Intergovernmental Panel on Climate Change, M.L. Parry, O.F. Canziani, J.P. Palutikof, P.J. van der Linden and C.E.
+Hanson, Eds., Cambridge University Press, Cambridge, UK, 976pp.
+Editorial Board: M.L. Parry and O.F Canziani (Co-Chairs), E. de Alba Alcaraz, A. Allali, L. Kajfež-Bogataj, G. Love, J. Stone, 
+J.P. van Ypersele, J.P. Palutikof (Head of Technical Support Unit)
+Cover photo: 
+© Bjorn Svensson/Science Photo Library
+
+Contents
+Foreword
+vii
+Preface
+ix
+Introduction to the Working Group II Fourth Assessment Report
+1
+Summary for Policymakers
+7
+Technical Summary
+23
+1
+Assessment of observed changes and responses in natural and managed systems
+79
+2
+New assessment methods and the characterisation of future conditions
+133
+3
+Freshwater resources and their management
+173
+4
+Ecosystems, their properties, goods and services
+211
+5
+Food, fibre and forest products
+273
+6
+Coastal systems and low-lying areas
+315
+7
+Industry, settlement and society
+357
+8
+Human health
+391
+9
+Africa
+433
+10
+Asia
+469
+11
+Australia and New Zealand
+507
+12
+Europe
+541
+13
+Latin America
+581
+14
+North America
+617
+15
+Polar regions (Arctic and Antarctic)
+653
+16
+Small islands
+687
+17
+Assessment of adaptation practices, options, constraints and capacity  
+717
+18
+Inter-relationships between adaptation and mitigation
+745
+19
+Assessing key vulnerabilities and the risk from climate change
+779
+20
+Perspectives on climate change and sustainability
+811
+Cross-chapter case studies
+843
+Appendix I
+Glossary
+869
+Appendix II
+Contributors to the IPCC WGII Fourth Assessment Report
+885
+Appendix III
+Reviewers of the IPCC WGII Fourth Assessment Report
+899
+Appendix IV
+Acronyms
+933
+Appendix V
+Permissions to publish
+937
+Index
+939
+CD-ROM
+Inside back cover:
+This volume:
+Summary for Policymakers, Technical Summary, Chapters, Appendices, Index
+Together with:
+Supporting material, Chapter supplementary material, Regional and subject 
+database of references, Figures in Powerpoint from SPM and TS
+
+.
+
+Foreword
+The Intergovernmental Panel on Climate Change (IPCC) was
+established by the World Meteorological Organization and the
+United Nations Environment Programme in 1988 with the
+mandate to provide the world community with the most up-to-
+date and comprehensive scientific, technical and socio-economic
+information about climate change. The IPCC multivolume
+assessments have since then played a major role in motivating
+governments to adopt and implement policies in responding to
+climate change, including the United Nations Framework
+Convention on Climate Change and the Kyoto Protocol. The
+“Climate Change 2007” IPCC Fourth Assessment Report could
+not be timelier for the world’s policy makers to help them
+respond to the challenge of climate change.
+“Climate Change 2007: Impacts, Adaptation and Vulnerability”,
+is the second volume of the IPCC Fourth Assessment Report.
+After confirming in the first volume on “The Physical Science
+Basis” that climate change is occurring now, mostly as a result of
+human activities, this volume illustrates the impacts of global
+warming already under way and the potential for adaptation to
+reduce the vulnerability to, and risks of climate change.
+Drawing on over 29,000 data series, the current report provides a
+much broader set of evidence of observed impacts coming from
+the large number of field studies developed over recent years.
+The analysis of current and projected impacts is then carried out
+sector by sector in dedicated chapters. The report pays great
+attention to regional impacts and adaptation strategies, identi-
+fying the most vulnerable areas. A final section provides an
+overview of the inter-relationship between adaptation and
+mitigation in the context of sustainable development.
+The “Impacts, Adaptation and Vulnerability” report was made
+possible by the commitment and voluntary labour of a large
+number of leading scientists. We would like to express our
+gratitude to all Coordinating Lead Authors, Lead Authors,
+Contributing Authors, Review Editors and Reviewers. We would
+also like to thank the staff of the Working Group II Technical
+Support Unit and the IPCC Secretariat for their dedication in
+organising the production of another successful IPCC report.
+Furthermore, we would like to express our thanks to Dr Rajendra
+K. Pachauri, Chairman of the IPCC, for his patient and constant
+guidance to the process, and to Drs Osvaldo Canziani and Martin
+Parry, Co-Chairs of Working Group II, for their skillful leader-
+ship.
+We also wish to acknowledge and thank those governments and
+institutions that contributed to the IPCC Trust Fund and
+supported the participation of their resident scientists in the IPCC
+process. We would like to mention in particular the Government
+of the United Kingdom, which funded the Technical Support
+Unit; the European Commission and the Belgian Government,
+which hosted the plenary session for the approval of the report;
+and the Governments of Australia, Austria, Mexico and South
+Africa, which hosted the drafting  sessions to prepare the report.
+M. Jarraud
+Secretary General
+World Meteorological Organisation
+A. Steiner
+Executive Director
+United Nations Environment Director
+vii
+
+.
+1
+
+ix
+Preface
+This volumes comprises the Working Group II contribution to
+the IPCC Fourth Assessment (AR4) and contains a Summary
+for Policymakers, a Technical Summary, the chapters of the
+Assessment and various annexes. The scope, content and
+procedures followed are described in the Introduction which
+follows.
+Acknowledgements
+This Report is the product of the work of many scientists who
+acted as Authors, Reviewers or Editors (details are given in the
+Introduction, Section E). We would like to express our sincere
+thanks to them for their contribution, and to their institutions
+for supporting their participation.   
+We thank the members of the Working Group II Bureau
+(Edmundo de Alba Alcarez, Abdelkader Allali, Lucka Kajfež-
+Bogataj, Geoff Love, John Stone and Jean-Pascal van
+Ypersele), for carrying out their duties with diligence and
+commitment.
+Costs of the Technical Support Unit (TSU) and of Dr Parry
+were covered by the UK Department for the Environment,
+Food and Rural Affairs (Defra). The TSU was based in the Met
+Office Hadley Centre in the UK. We thank David Warrilow
+(Defra), Dave Griggs and John Mitchell (Met Office) for their
+support through these agencies.
+Four meetings of Authors were held during the preparation of
+the Report, and the governments of Austria, Australia, Mexico
+and South Africa, through their Focal Points, kindly agreed to
+act as hosts. The Approval Session of the Working Group II
+contribution to the Fourth Assessment was held in Brussels at
+the generous invitations of the Government of Belgium,
+through Martine Vanderstraeten, and the European Community,
+through Lars Mueller. We thank all these governments, institu-
+tions and individuals for their hospitality and hard work on
+behalf of the Working Group II process.
+We thank the IPCC Secretary, Renate Christ, and the Secretariat
+staff Jian Liu, Rudie Bourgeois, Annie Courtin, Joelle
+Fernandez and Carola Saibante for their efficient and courteous
+attention to Working Group II needs; and Marc Peeters, WMO
+Conference Officer, for his work on the organisation of the
+Brussels Approval Meeting.
+Thanks go to ProClim (Forum for Climate and Global Change)
+and Marilyn Anderson for producing the index to this Report.
+Last, but by no means least, we acknowledge the exceptional
+commitment of the members of the Technical Support Unit
+throughout the preparation of the Report: Jean Palutikof, Paul
+van der Linden, Clair Hanson, Norah Pritchard, Chris Sear,
+Carla Encinas and Kim Mack.
+Rajendra Pachauri
+Chair IPCC
+Martin Parry
+Co-Chair IPCC Working Group II
+Osvaldo Canziani
+Co-Chair IPCC Working Group II
+
+.
+
+Introduction to the Working Group II 
+Fourth Assessment Report
+
+Introduction
+2
+A.   The Intergovernmental Panel on    
+Climate Change
+The Intergovernmental Panel on Climate Change (IPCC) was
+established by the World Meteorological Organization and the
+United Nations Environment Programme in 1988, in response
+to the widespread recognition that human-influenced emissions
+of greenhouse gases have the potential to alter the climate
+system. Its role is to provide an assessment of the understanding
+of all aspects of climate change.  
+At its first session, the IPCC was organised into three Working
+Groups. The current remits of the three Working Groups are for
+Working Group I to examine the scientific aspects of the climate
+system and climate change; Working Group II to address
+vulnerabilities to, impacts of and adaptations to climate change;
+and Working Group III to explore the options for mitigation of
+climate change. The three previous assessment reports were
+produced in 1990, 1996 and 2001.
+B. The Working Group II Fourth Assessment
+The decision to produce a Fourth Assessment Report was taken
+by the 19th Session of the IPCC at Geneva in April 2002. The
+report was to be more focussed and shorter than before. The
+Working Group II contribution was to be finalised in mid-
+2007.
+The IPCC Fourth Assessment is intended to be a balanced
+assessment of current knowledge. Its emphasis is on new
+knowledge acquired since the IPCC Third Assessment (2001). This
+required a survey of all published literature, including non-English
+language and ‘grey’ literature such as government and NGO reports.
+Two meetings were held in 2003 to scope the Fourth Assessment,
+from which emerged the outline for the Working Group II
+Assessment submitted to IPCC Plenary 21 in November 2003 for
+approval and subsequent acceptance.  
+The Report has twenty chapters which together provide a
+comprehensive assessment of the climate change literature. These
+are shown in Table I.1. The opening chapter is on observed
+changes, and addresses the question of whether observed changes
+in the natural and managed environment are associated with
+anthropogenic climate change. Chapter 2 deals with the methods
+available for impacts analysis, and with the scenarios of future
+climate change which underpin these analyses. These are followed
+by the core chapters, which assess the literature on present day
+and future climate change impacts on systems, sectors and
+regions, vulnerabilities to these impacts, and strategies for
+adaptation. Chapters 17 and 18 consider possible responses
+through adaptation and the synergies with mitigation. The two
+final chapters look at key vulnerabilities, and the inter-
+relationships between climate change and sustainability. 
+Chapters 9 to 16 of the Working Group II Fourth Assessment
+consider regional climate change impacts. The definitions of these
+regions are shown in Table I.2.
+Section A.
+ASSESSMENT OF OBSERVED CHANGES
+1. Assessment of observed changes and responses in natural and managed systems
+Section B.
+ASSESSMENT OF FUTURE IMPACTS AND ADAPTATION: SYSTEMS AND SECTORS
+2. New assessment methods and the characterisation of future conditions
+3. Freshwater resources and their management
+4. Ecosystems, their properties, goods and services
+5. Food, fibre and forest products
+6. Coastal systems and low-lying areas
+7. Industry, settlement and society
+8. Human health
+Section C.
+ASSESSMENT OF FUTURE IMPACTS AND ADAPTATION: REGIONS
+9. Africa
+10. Asia
+11. Australia and New Zealand
+12. Europe
+13. Latin America
+14. North America
+15. Polar regions (Arctic and Antarctic)
+16. Small islands
+Section D.
+ASSESSMENT OF RESPONSES TO IMPACTS
+17. Assessment of adaptation practices, options, constraints and capacity
+18. Inter-relationships between adaptation and mitigation
+19. Assessing key vulnerabilities and the risk from climate change
+20. Perspectives on climate change and sustainability
+Table I.1.  The chapters of the Working Group II contribution to the IPCC Fourth Assessment.
+
+Introduction
+3
+Table I.2. Countries by region (see Chapters 9 to 16) for the Working Group II Fourth Assessment.
+Africa
+Algeria
+Angola
+Benin
+Botswana
+Burkina Faso
+Burundi
+Cameroon
+Central African Republic
+Chad
+Congo, Republic of
+Congo, Democratic Rep. of
+Côte d’Ivoire
+Djibouti
+Egypt
+Equatorial Guinea 
+Eritrea
+Ethiopia
+Gabon
+Ghana
+Guinea
+Guinea-Bissau
+Kenya
+Lesotho 
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Morocco
+Mozambique
+Namibia
+Niger
+Nigeria
+Reunion
+Rwanda
+Senegal
+Sierra Leone
+Somalia
+South Africa
+Sudan
+Swaziland
+Tanzania
+The Gambia
+Togo
+Tunisia
+Uganda
+Zambia
+Zimbabwe
+Asia
+Afghanistan
+Bahrain
+Bangladesh
+Bhutan
+Brunei Darussalam
+Cambodia
+China
+East Timor
+India
+Indonesia
+Iran, Islamic Republic of 
+Iraq
+Israel
+Japan
+Jordan
+Kazakhstan
+Korea, Dem. People’s Rep.
+Korea, Republic of
+Kuwait
+Kyrgyz Republic 
+Laos
+Lebanon
+Malaysia 
+Mongolia
+Myanmar
+Nepal
+Oman 
+Pakistan
+Papua New Guinea
+Philippines
+Qatar
+Russia – East of the Urals
+Saudi Arabia 
+Singapore
+Sri Lanka
+Syria
+Tajikistan
+Thailand
+Turkey
+Turkmenistan
+United Arab Emirates 
+Uzbekistan
+Vietnam 
+Yemen 
+Australia and New Zealand 
+Australia
+New Zealand
+Europe 
+Albania
+Andorra
+Armenia
+Austria
+Azerbaijan
+Belarus
+Belgium
+Bosnia and Herzegovina 
+Bulgaria
+Croatia
+Czech Republic 
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia 
+Moldova, Republic of 
+Monaco
+Montenegro
+Norway
+Poland
+Portugal
+Romania
+Russia – West of the Urals
+San Marino 
+Serbia
+Slovak Republic 
+Slovenia
+Spain
+Sweden
+Switzerland
+The Netherlands 
+Ukraine
+United Kingdom
+Vatican City, State of 
+Polar Regions
+Antarctic
+North of 60°N (including Greenland and Iceland)
+Latin America
+Argentina
+Belize
+Bolivia
+Brazil
+Chile
+Colombia
+Costa Rica 
+Ecuador
+El Salvador 
+French Guiana 
+Guatemala
+Guyana
+Honduras
+Mexico
+Nicaragua
+Panama
+Paraguay
+Peru
+Suriname
+Uruguay
+Venezuela 
+North America 
+Canada
+United States of America 
+Small islands: non-autonomous small islands are also included in the assessment but are not listed here
+Antigua and Barbuda 
+Barbados
+Cape Verde
+Comoros
+Cook Islands 
+Cuba
+Cyprus
+Dominica
+Dominican Republic 
+Fed. States of Micronesia
+Fiji
+Grenada
+Haiti
+Jamaica
+Kiribati
+Maldives
+Malta
+Marshall Islands 
+Mauritius
+Nauru
+Palau
+Saint Kitts and Nevis 
+Saint Lucia 
+Saint Vincent & Grenadines
+Samoa
+São Tomé & Príncipe 
+Seychelles
+Solomon Islands
+The Bahamas 
+Tonga
+Trinidad and Tobago 
+Tuvalu
+Vanuatu
+
+Introduction
+4
+C.  Cross-chapter case studies
+Early in the writing of the Working Group II contribution to the
+Fourth Assessment, there emerged themes of environmental
+importance and widespread interest which are dealt with from
+different perspectives by several chapters. These themes have
+been gathered together into ‘cross-chapter case studies’, which
+appear in their entirety at the end of the volume and are included
+in the CD-ROM which accompanies this volume. A ‘roadmap’
+in Table I.3 shows where the cross-chapter case study material
+appears in the individual chapters. 
+The four cross-chapter case studies are:
+1. The impact of the European 2003 heatwave
+2. Impacts of climate change on coral reefs
+3. Megadeltas: their vulnerabilities to climate change
+4. Indigenous knowledge for adaptation to climate change
+D. Regional and subject database 
+of references
+This Assessment is based on the review of a very large amount of
+literature for all parts of the world and for many subjects.  For
+those interested in accessing this literature for a given region or
+subject, a regional and subject database of references is provided
+on the CD-ROM which accompanies this volume. The database
+contains in full all the references in this volume and can be viewed
+by region and subject.  
+E.  Procedures followed in this Assessment 
+by the authors, reviewers and 
+participating governments
+In total, the Working Group II Fourth Assessment involved 48
+Coordinating Lead Authors (CLAs), 125 Lead Authors (LAs),
+and 45 Review Editors (REs), drawn from 70 countries. In
+addition, there were 183 Contributing Authors and 910 Expert
+Reviewers.
+Each chapter in the Working Group II Fourth Assessment had a
+writing team of two to four CLAs and six to nine LAs. Led by
+the CLAs, it was the responsibility of this writing team to
+produce the drafts and finished version of the chapter. Where
+necessary, they could recruit Contributing Authors to assist in
+their task. Three drafts of each chapter were written prior to the
+production of the final version. Drafts were reviewed in two
+separate lines of review, by experts and by governments. It was
+the role of the REs (two to three per chapter) to ensure that the
+review comments were properly addressed by the authors. 
+The authors and REs were selected by the Working Group II
+Bureau from the lists of experts nominated by governments.
+Due regard was paid to the need to balance the writing team
+with proper representation from developing and developed
+countries, and Economies in Transition. In the review by
+experts, chapters were sent out to experts, including all those
+nominated by governments but not yet included in the
+assessment, together with scientists and researchers identified
+by the Working Group II Co-Chairs and Vice-Chairs from their
+knowledge of the literature and the global research community.
+F.  Communication of uncertainty in the 
+Working Group II Fourth Assessment
+A set of terms to describe uncertainties in current knowledge is
+common to all parts of the IPCC Fourth Assessment, based on
+the Guidance Notes for Lead Authors of the IPCC Fourth
+Assessment Report on Addressing Uncertainties1, produced by
+the IPCC in July 2005.
+Description of confidence
+On the basis of a comprehensive reading of the literature and
+their expert judgement, authors have assigned a confidence level
+to the major statements in the Report on the basis of their
+assessment of current knowledge, as follows:
+Terminology
+Degree of confidence in being correct
+Very high confidence
+At least 9 out of 10 chance of being correct
+High confidence
+About 8 out of 10 chance
+Medium confidence
+About 5 out of 10 chance
+Low confidence
+About 2 out of 10 chance
+Very low confidence
+Less than a 1 out of 10 chance
+Description of likelihood
+Likelihood refers to a probabilistic assessment of some well-
+defined outcome having occurred or occurring in the future, and
+may be based on quantitative analysis or an elicitation of expert
+views. In the Report, when authors evaluate the likelihood of
+certain outcomes, the associated meanings are: 
+Terminology 
+Likelihood of the occurrence/ outcome 
+Virtually certain
+>99% probability of occurrence
+Very likely
+90 to 99% probability
+Likely
+66 to 90% probability
+About as likely as not
+33 to 66% probability
+Unlikely
+10 to 33% probability
+Very unlikely
+1 to 10% probability
+Exceptionally unlikely
+<1% probability
+1 http://www.ipcc.ch/activity/uncertaintyguidancenote.pdf
+
+Introduction
+5
+Table I.3. Cross-chapter Case Studies: location in text. 
+The impact of the European 2003 heatwave
+Topic:
+Chapter:
+Location in chapter:
+Scene-setting and overview
+The European heatwave of 2003
+Chapter 12
+12.6.1
+Impacts on sectors
+Ecological impacts of the European heatwave 2003
+Chapter 4
+Box 4.1
+European heatwave impact on the agricultural sector
+Chapter 5
+Box 5.1
+Industry, settlement and society: impacts of the 2003 heatwave in Europe
+Chapter 7
+Box 7.1
+The European heatwave 2003: health impacts and adaptation
+Chapter 8
+Box 8.1
+Impacts of climate change on coral reefs
+Present-day changes in coral reefs
+Observed changes in coral reefs
+Chapter 1
+Section 1.3.4.1
+Environmental thresholds and observed coral bleaching
+Chapter 6
+Box 6.1
+Future impacts on coral reefs
+Are coral reefs endangered by climate change?
+Chapter 4
+Box 4.4
+Impacts on coral reefs
+Chapter 6
+Section 6.4.1.5
+Climate change and the Great Barrier Reef
+Chapter 11
+Box 11.3
+Impact of coral mortality on reef fisheries
+Chapter 5
+Box 5.4
+Multiple stresses on coral reefs
+Non-climate-change threats to coral reefs of small islands
+Chapter 16
+Box 16.2
+Megadeltas: their vulnerabilities to climate change
+Introduction
+Deltas and megadeltas: hotspots for vulnerability
+Chapter 6
+Box 6.3
+Megadeltas in Asia
+Megadeltas in Asia
+Chapter 10
+Section 10.6.1, Table 10.10
+Climate change and the fisheries of the lower Mekong – an example of multiple stresses on a
+megadelta fisheries system due to human activity
+Chapter 5
+Box 5.3
+Megadeltas in the Arctic
+Arctic megadeltas
+Chapter 15
+Section 15.6.2
+Case study of Hurricane Katrina
+Hurricane Katrina and coastal ecosystem services in the Mississippi delta
+Chapter 6
+Box 6.4
+Vulnerabilities to extreme weather events in megadeltas in a context of multiple stresses: the
+case of Hurricane Katrina
+Chapter 7
+Box 7.4
+Indigenous knowledge for adaptation to climate change
+Overview
+Role of local and indigenous knowledge in adaptation and sustainability research  
+Chapter 20
+Box 20.1
+Case studies
+Adaptation capacity of the South American highlands´ pre-Colombian communities
+Chapter 13
+Box 13.2
+African indigenous knowledge systems
+Chapter 9
+Section 9.6.2
+Traditional knowledge for adaptation among Arctic peoples
+Chapter 15
+Section 15.6.1
+Adaptation to health impacts of climate change among indigenous populations
+Chapter 8
+Box 8.6
+
+Introduction
+6
+G. Definitions of key terms
+Climate change in IPCC usage refers to any change in climate
+over time, whether due to natural variability or as a result of
+human activity. This usage differs from that in the Framework
+Convention on Climate Change, where climate change refers to
+a change of climate that is attributed directly or indirectly to
+human activity that alters the composition of the global
+atmosphere and that is in addition to natural climate variability
+observed over comparable time periods. 
+Adaptation is the adjustment in natural or human systems in
+response to actual or expected climatic stimuli or their effects,
+which moderates harm or exploits beneficial opportunities.  
+Vulnerability is the degree to which a system is susceptible to,
+and unable to cope with, adverse effects of climate change,
+including climate variability and extremes. Vulnerability is a
+function of the character, magnitude, and rate of climate
+change and variation to which a system is exposed, the
+sensitivity and adaptive capacity of that system.

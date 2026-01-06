@@ -1,0 +1,4526 @@
+Policymaker Summary of Working Group III 
+(Formulation of Response Strategies) 
+Chairman's Introduction 
+The First Plenary Meeting of Working Group III of the IPCC, 
+the Response Strategies Working Group (RSWG), was held in 
+Washington, 30 January—2 February 1989. This meeting was 
+largely organizational (see Figure 1 ), and it was not until after 
+a subsequent R S W G Officers Meeting in Geneva, 8—12 May 
+1989. that the real work by the four R S W G subgroups, the 
+Emissions Scenarios Task Force (Task A), and "Implementation 
+Measures"' Topic Coordinators (Task B) began. 
+The Second R S W G Plenary Session was held in Geneva, from 
+2 to 6 October 1989, to discuss the implementation measures: 
+1) 
+public education and information; 
+2) 
+technology development and transfer: 
+3) 
+financial measures: 
+4) 
+economic measures; and 
+5) 
+legal measures, including elements of a framework 
+climate convention. A consensus was reached on five 
+topical papers dealing with these measures, with the 
+understanding that they would be "living documents" 
+subject to further modification as new information and 
+developments might require. 
+The Third Plenary Meeting of R S W G , held in Geneva, 5—9 
+June 1990, achieved three objectives: 
+I ) 
+It reached consensus on the attached "policy summary"', 
+the first intenm report of the R S W G . 
+2) 
+It completed final editing and accepted the reports of the 
+four R S W G subgroups, of the coordinators of Task A , and 
+of the coordinators of the five Task В topical papers. 
+These documents compnse the underlying material for the 
+consensus report of this meeting, the policymaker 
+summary; they are not themselves the product of a 
+R S W G plenary consensus although many govemments 
+participated in their formulation. 
+Finally. 
+3) 
+The Working Group agreed to submit comments on its 
+suggested future work programme to the R S W G 
+Chairman by I July 1990, for transmission to the Chair 
+of the IPCC. There was general agreement that the work 
+of the R S W G should continue. 
+The primary task of the R S W G was, in the broad sense, 
+technical, not political. The charge of IPCC to R S W G was to 
+lay out as fully and fairiy as possible a set of response policy 
+options and the factual basis for those options. 
+Consistent with that charge, it was not the puфose of the 
+R S W G to select or recommend political actions, much less to 
+carry out a negotiation on the many difficult policy questions 
+that attach to the climate change issue, although clearly the 
+information might tend to suggest one or another option. 
+Selection of options for implementation is appropriately left to 
+the policymakers of govemments and/or negotiation of a 
+convention. 
+The work of R S W G continues. The Energy and Industry 
+Subgroup has. since the June R S W G Plenary Meeting, held 
+another very productive meeting in London, the results of 
+which are not reflected in this report. 
+It should be noted that quantitative estimates provided in the 
+report regarding CFCs, including those in Scenario A (Business-
+as-Usual), generally do not reflect decisions made in June 
+1990 by the Parties to the Montreal Protocol. Those decisions 
+accelerate the timetable to phase out production and 
+consumption of CFCs, halons, carbon tetrachloride and methyl 
+chloroform. 
+It should further be noted that quantitative estimates of forestry 
+activities (eg, deforestation, biomass burning, including fuel 
+wood, and other changes in land-use practices), as well as 
+agncultural and other activities, provided in the Report continue 
+to be reviewed by experts. 
+Two specific items of unfinished business submitted to R S W G 
+by the Ministers at the November 1989 meeting in Noordwijk 
+are the consideration of the feasibility of achieving: (1) targets 
+to limit or reduce CO2 emissions, including e g a 20 percent 
+reduction of CO2 emission levels by the year 2005; (2) a world 
+net forest growth of 12 million hectares a year in the beginning 
+of the next century. The R S W G hopes to complete this analysis 
+before the Second World Climate Conference in November of 
+this year. 
+The subgroup chairs and topic coordinators look the 
+responsibility for completing their individual reports and. along 
+with their respective govemments, contributed generously of 
+their time and resources to that end. 
+The R S W G Policymaker Summary is the culmination of the 
+first year of effort by this body. The R S W G has gone to 
+considerable lengths to ensure that the summary accurately 
+reflects the work of the vanous subgroups and tasks. Given the 
+very stnct time schedule under which the R S W G was asked to 
+work, this first report can only be a beginning. 
+Frederick M . Bemthal 
+Chairman, 
+Response Strategies Working Group 
+115 
+
+Formulation of Response Strategies 
+IPCC 
+RESPONSE STRATEGIES 
+WORKING GROUP 
+"Task A": 
+Emissions 
+Scenarios 
+STEERING 
+COMMITTEE 
+"Task B": 
+Implementation 
+Mechanisms: 
+Legal Measures (U.K., Canada, Malta) 
+Financial Measures (France, Neth.) 
+Economie Measures (Australia, N.Z.) 
+Technology Measures (Japan, India) 
+Public Education Measures (U.S., PRC) 
+Energy and 
+Industry 
+Subgroup 
+(Japan and 
+China) 
+Agriculture 
+and Forestry 
+Subgroup 
+(FRG and 
+Zimbabwe) 
+Coastal Zone 
+Management 
+Subgroup 
+(N. Zealand & 
+Netherlands) 
+Resource Use 
+Management 
+Subgroup 
+(France, India, 
+and Canada) 
+Figure 1. 
+116 
+
+Formulation of Response Strategies 
+Executive Summary 
+1. 
+Working Group III (Response Strategies Working 
+Group) was tasked to formulate appropriate response 
+strategies to global climate change. This was to be done in 
+the context of the work of Working Group I (Science) and 
+Working Group II (Impacts) which concluded that: 
+"We are certain emissions resulting from human 
+activities are substantially increasing the atmospheric 
+concentrations of the greenhouse gases: carbon 
+dioxide, methane, chlorofluorocarbons (CFCs) and 
+nitrous oxide. These increases will enhance the 
+greenhouse effect, resulting on average in an additional 
+warming of the Earth's surface. 
+"The longer emissions continue at present day rates, 
+the greater 
+reductions would have to be for 
+concentrations to stabilize at a given level. 
+"The 
+long-lived gases would require immediate 
+reductions in emissions from human activities of over 
+60% to stabilize their concentrations at today's levels. 
+"Based on current model results, we predict under the 
+I P C C Business-as-Usual emissions of greenhouse 
+gases, a rate of increase of global mean temperature 
+during the next century of about 0.3°C per decade 
+(with an uncertainty range of 0.2°C to 0.5°C per 
+decade), greater than that seen over the past 10,000 
+years; under the same scenario, we also predict an 
+average rate of global mean sea level rise of about 6 
+cm per decade over the next century (with an 
+uncertainty range of 3—10 cm per decade). 
+"There are many uncertainties in our predictions 
+particularly with regard to the timing, magnitude and 
+regional pattems of climate change. 
+"Ecosystems affect climate, and will be affected by a 
+changing climate and by increasing carbon dioxide 
+concentrations. Rapid changes in climate will change 
+the composition of ecosystems; some species will 
+benefit while others will be unable to migrate or adapt 
+fast enough and may become extinct. Enhanced levels 
+of carbon dioxide may increase productivity and 
+efficiency of water use of vegetation. 
+"In many cases, the impacts will be felt most severely 
+in regions already under stress, mainly the developing 
+countries. 
+"The most vulnerable human settlements are those 
+especially exposed to natural hazards, e g, coastal or 
+river flooding, severe drought, landslides, severe 
+storms and tropical cyclones". 
+2. 
+Any responses will have to take into account the 
+great diversity of different countries" situations and their 
+responsibility for and negative impacts on different countries 
+and consequently would require a wide variety of responses. 
+Developing countries for example are at widely varying 
+levels of development and face a broad range of different 
+problems. They account for 75% of the world population 
+and their primary resource 
+bases differ 
+widely. 
+Nevertheless, they are most vulnerable to the adverse 
+consequences of climate change because of limited access 
+to the necessary information, infrastructure, and human and 
+financial resources. 
+Main findings 
+3. 
+The main findings are: 
+i) 
+Climate change is a global issue; effective responses 
+would require a global effort which may have a 
+considerable impact on humankind and individual 
+societies. 
+ii) 
+Industrialized countries and developing countries have 
+a common responsibility in dealing with problems 
+arising from climate change. 
+ii) 
+Industrialized countries have specific responsibilities 
+on two levels: 
+a) major part of emissions affecting the atmosphere at 
+present originates in industrialized countries where 
+the scope for change is greatest. Industrialized 
+countries should adopt domestic measures to limit 
+climate change by adapting their own economies in 
+line with future agreements to limit emissions; 
+b) to co-operate with developing countries in 
+intemational action, without standing in the way of the 
+latter's development, by contributing additional 
+financial resources, by appropriate transfer of 
+technology, by engaging in close co-operation 
+concerning scientific observation, by analysis and 
+research, and finally by means of technical co-
+operation geared to forestalling and managing 
+environmental problems. 
+iv) 
+Emissions from developing countries are growing and 
+may need to grow in order to meet their development 
+requirements and thus, over time, are likely to 
+represent an increasingly significant percentage of 
+global emissions. Developing countries have the 
+responsibility, within the limits feasible, to take 
+measures to suitably adapt their economies. 
+v) 
+Sustainable development requires the proper concem 
+for environmental protection as the necessary basis 
+for continuing economic growth. 
+Continuing 
+economic development will increasingly have to take 
+into account the issue of climate change. 
+It is 
+imperative that the right balance between economic 
+and environmental objectives be struck. 
+117 
+
+Formulation of Response Strategies 
+Vl) 
+Limitation and adaptation strategies must 
+be 
+considered as an integrated paci<age and should 
+complement each other to m i n i m i z e net costs. 
+Strategies that limit greenhouse gases emissions also 
+make it easier to adapt to climate change. 
+vii) 
+The potentially serious consequences of climate 
+change on the global environment give sufficient 
+reasons to begin by adopting response strategies that 
+can be justified immediately, even in the face of 
+significant uncertainties. 
+viii) A well-infonmed population is essential to promote 
+awareness of the issues and provide guidance on 
+positive practices. The social, economic and cultural 
+diversity of nations will require tailored approaches. 
+A flexible and progressive approach 
+4. 
+Greenhouse gas emissions from most sources are 
+likely to increase significantly m the future if no response 
+measures are taken. 
+Although some controls have been 
+put in place under the Montreal Protocol for C F C s and 
+halons, emissions of C O , , CH4, N , 0 and other gases such 
+as several CFC-substitutes w i l l grow. 
+Under these 
+scenarios, it is estimated that C O , emissions will increase 
+from approximately 7 billion (or 1,000 million) tonnes 
+carbon (BtC)in 1985 to between 11 — 15 B t C by 2025. 
+Similarly, man-made methane emissions are estimated to 
+increase from about 300 teragrams (Tg) to over 500 Tg by 
+the year 2025. Based on these projections. W o r k i n g 
+Group 1 estimated that global warming of 0.3°C/decade 
+could occur. 
+5. 
+The climate scenario studies of Working Group I 
+further suggest that control policies on emissions can indeed 
+slow global warming, perhaps from 0 . 3 ° C / d e c a d e to 
+0.1 °C/decade. The social, economic and environmental 
+costs and benefits of these control policies have not been 
+fully assessed. It must be emphasized that implementation 
+of measures to reduce global emissions are very difficult as 
+energy use, forestry, and land use patterns are primary 
+factors in the global economy. To take maximum advantage 
+of our increasing understanding of scientific and 
+socioeconomic aspects of the issue, a flexible and 
+progressive approach is required. Subject to their particular 
+circumstances, individual nations may wish to consider 
+taking steps now to attempt to limit, stabilize or reduce the 
+emission of greenhouse gases resulting from human 
+activities and prevent the destruction and improve the 
+effectiveness of sinks. One option that govemments may 
+wish to consider is the setting of targets for CO2 and other 
+greenhouse gases. 
+6. 
+Because the -large, projected increase in world 
+population will be a major factor in causing the projected 
+increase in global greenhouse gases, it is essential that global 
+climate change strategies include strategies and measures to 
+deal with the rate of growth of the worid population. 
+Shorter-term 
+1. 
+The Working Group has identified measures at 
+the national, regional and intemational levels as applicable 
+which, while helping to tackle climate change, can yield 
+other benefits. 
+8. 
+Limitation 
+Improved energy efficiency reduces emissions of 
+carbon dioxide, the most significant greenhouse gas, 
+while improving overall economic performance and 
+reducing other pollutant emissions and increasing 
+energy security. 
+Use of cleaner energy sources and technologies 
+reduces carbon dioxide emissions, while reducing 
+other pollutant emissions that give rise to acid rain and 
+other damaging effects. 
+• 
+Improved forest management and, where feasible, 
+expansion of forest areas as possible reservoirs of 
+carbon. 
+Phasing out of C F C s under the Montreal Protocol, 
+thus removing some of the most powerful and long-
+lived greenhouse gases, while also protecting the 
+stratospheric ozone layer 
+Agnculture, forestry and other human activities are 
+also responsible for substantial quantities of 
+greenhouse gas emissions. 
+In the short term, 
+reductions can be achieved through improved livestock 
+waste management, altered use and formulation of 
+fertilizers, and other changes to agricultural land use, 
+without affecting food security, as well as through 
+improved management m landfill and wastewater 
+treatment. 
+9. 
+Adaptation 
+• 
+Developing emergency and disaster preparedness 
+policies and programmes. 
+Assessing areas at risk from sea-level rise and 
+developing comprehensive management plans to 
+reduce future vulnerability of populations and coastal 
+developments and ecosystems as part of coastal zone 
+management plans. 
+Improving the efficiency of natural resource use, 
+research on control measures for desertification and 
+enhancing adaptability of crops to saline regimes. 
+Longer-term 
+10. 
+Governments should prepare for more intensive 
+action which is detailed in the report. To do so, they should 
+undertake now: 
+118 
+
+Formulation of Response Strategies 
+Accelerated and coordinated research programmes to 
+reduce scientific and socioeconomic uncertainties with 
+a view towards improving the basis for response 
+strategies and measures. 
+Development of new technologies in the fields of 
+energy, industry and agriculture. 
+• 
+Review planning m the fields of energy, industry, 
+transportation, urban areas, coastal zones and resource 
+use and management. 
+Encourage beneficial behavioral and structural (eg, 
+transportation and housing infrastructure) changes. 
+• 
+Expand the global ocean observing and monitonng 
+systems. 
+11. 
+It should be noted that no detailed assessments 
+have been made as of yet of the economic costs and benefits, 
+technological feasibility or market potential of the 
+underlying policy assumptions. 
+International cooperation 
+12. 
+The measures noted above require a high degree of 
+international cooperation with due respect for national 
+sovereignty of states. The international negotiation on a 
+framework convention should start as quickly as possible 
+after the completion of the IPCC First Assessment Report. 
+This, together with any additional protocols that might be 
+agreed upon, would provide a firm basis for effective 
+cooperation to act on greenhouse gas emissions and adapt to 
+any adverse effects of climate change. 
+The convention 
+should, at a minimum, contain general principles and 
+obligations. It should be framed in such a way as to gain the 
+adherence of the largest possible number and most suitably 
+balanced range of countries while permitting timely action 
+to be taken. 
+13. 
+Key issues for negotiation will include the criteria, 
+timing, legal form and incidence of any obligations to 
+control the net emissions of greenhouse gases, how to 
+address equitably the consequences for all, any institutional 
+mechanisms that may be required, the need for research 
+and monitoring, and in particular, the request of the 
+developing countries for additional financial resources and 
+for the transfer of technology on a preferential basis. 
+Further consideration 
+14. 
+The issues, options and strategies presented in this 
+document are intended to assist policymakers and future 
+negotiators in their respective tasks. Further consideration 
+of the summary and the underlying reports of Working 
+Group III should be given by every govemmeni as they cut 
+across different sectors in all countries. It should be noted 
+that the scientific and technical information contained in the 
+Policymaker Summary and the underlying reports of 
+Working Group III do not necessarily represent the official 
+views of all govemments, particulariy those that could not 
+participate fully in all Working Groups. 
+119 
+
+Formulation of Response Strategies 
+1. 
+Sources of anthropogenic 
+greenhouse gases 
+1.0.1 
+A wide range of human activities result in the 
+release of greenhouse gases, particularly CO2, CH4. C F C s 
+and N , 0 . into the atmosphere. Anthropogenic emissions 
+can be categorized as arising from energy production and 
+use, non-energy industrial activities (primarily the 
+production and use of CFCs), agricultural systems, and 
+changes in land-use pattems (including deforestation and 
+biomass burning). The relative contributions of these 
+activities to radiative forcing during the 1980s are 
+discussed in the text and shown in Figure 2 (see Working 
+Group I report for further explanation of the radiative 
+forcing of the various greenhouse gases; see also the 
+C h a i r m a n ' s introduction regarding the quantitative 
+estimates of the contributions to radiative forcing from 
+these activities). 
+1.0.2 
+I P C C W o r k i n g G r o u p I calculated that the 
+observed increases in the atmospheric concentrations of 
+C O i , , C H 4 , C F C s and N j O during the 1980s, which 
+resulted from human activities, contributed to the 
+enhanced radiative forcing by 56%, 15%, 24% and 5%, 
+respectively. 
+Figure 2: Estimated contribution of different 
+human activities to the change in radiative 
+forcing during the decade from 1980 to 1990* 
+OTHER (3%) 
+FORESTRY (18%) 
+*Perceniages derned fi от е.чпmated greenhouse gas 
+concenti aliona in the atmosphere and the global warming 
+potentials of these greenhouse gases given m the Policymakers 
+Summary of Working Group I 
+1.1 
+Energy 
+1.1.1 
+The single largest anthropogenic source of 
+radiative forcing is energy production and use. The 
+consumption of energy from fossil fuels (coal, petroleum 
+and natural gas excluding fuel wood) for industrial 
+commercial, residential, transportation and other purposes 
+results in large emissions of CO2 accompanied by much 
+smaller emissions of CH4 from coal mining and the 
+venting of natural gas; the energy sector accounts for an 
+estimated 46% (with an uncertainty range of 38—54%) of 
+the enhanced radiative forcing resulting from human 
+activities. 
+1.1.2 
+Natural fluxes of C O i . into the atmosphere are 
+large (200 Bt/yr'). but inputs of man-made sources are large 
+enough to significantly disturb the atmospheric balance. 
+1.2 
+Industry 
+1.2.1 
+The production and use of C F C s and other 
+halocarbons in various industrial processes comprise 
+about 24% of the enhanced radiative forcing. 
+Forestry 
+1.2.2 
+Deforestation, biomass burning including fuel 
+wood, and other changes in land-use practices, release 
+CO2. CH4, and N2O into the atmosphere and together 
+comprise about 18% (with an uncertainty range of 
+9—26%) of the enhanced radiative forcing. 
+' Billion (or 1000 million) tonnes per year 
+Agriculture 
+1.2.3 
+Methane releases from rice cultivation and from 
+livestock systems, and nitrous oxide released during the use 
+of nitrogenous fertilizers together comprise about 9% (with 
+an uncertainty range of 4—13%) of the enhanced radiative 
+forcing. 
+Other sources 
+1.2.4 
+Carbon dioxide from cement manufacturing and 
+methane from land-fills together comprise about 3% (with 
+an uncertainty range of 1—4%) of the enhanced radiative 
+forcing. 
+1.2.5 
+Estimates of current greenhouse gas emissions are 
+not precise because of uncertainties regarding both total 
+emissions and emissions from individual sources. Global 
+emissions from certain sources are particularly difficult to 
+determine, e g. CO2 emission from deforestation, CH4 
+emission from rice cultivation, livestock systems, biomass 
+buming, coal mining and venting of natural gas, and N2O 
+emissions from all sources. The range of such estimates 
+can be quite large, typically, a factor of 1.5 for methane from 
+livestock, a factor of 4 for CO2 from deforestation, and up 
+to a factor of 7 for rice. 
+2. 
+Future emissions of greenhouse 
+gases 
+2.0.1 
+Greenhouse gas emissions from most sources are 
+likely to increase significantly in the future if no policy 
+120 
+
+Formulation of Response Strategies 
+measures are taken. As economic and'population growth 
+continue, in particular in the developing countries, there is 
+expected to be an increase in energy use, industrial and 
+agricultural activity, deforestation, and other activities which 
+result in a net increase of greenhouse gas emissions. 
+Although some controls have been put in place under the 
+Montreal Protocol for certain C F C s and halons, emissions 
+of CO2, methane, nitrous oxide, and other greenhouse gases 
+are likely to increase under current pattems of economic 
+activity and growth. 
+2.0.2 
+However, because of the inherent limitations in our 
+ability to estimate future rates of population and economic 
+growth, etc, there is some'uncertainty in the projections of 
+greenhouse 
+gas 
+emissions, 
+individual 
+behaviour, 
+technological innovation, and other factors which are crucial 
+for determining emission rates over the course of the next 
+century. This lends uncertainty to projections of greenhouse 
+gas emissions over several decades or longer. Reflecting 
+these inherent difficulties, the R S W G ' s work on emissions 
+scenarios are the best estimates at this time covering 
+emissions over the next century but further work needs to be 
+done. 
+2.0.3 
+The R S W G used two methods to develop 
+scenarios of future emissions as discussed in Sections 2.1. 
+and 2.2. One method used global models to develop four 
+scenarios which were subsequently used by Working Group 
+I to develop estimates of future warming. The second 
+method used studies of the energy and agriculture sectors 
+submitted by over 21 countries and 
+international 
+organizations to estimate emissions. These latter studies 
+were aggregated into a reference scenario. Both approaches 
+show that emissions of C O , and CH4 will increase in the 
+future. Both approaches indicate that CO2 emissions will 
+grow from approximately 7 BtC to between 11 —15 BtC by 
+the year 2025. 
+2.1 
+Emissions scenarios 
+2.1.1 
+One of the R S W G ' s first tasks was to prepare 
+some initial scenarios of possible future greenhouse gas 
+emissions for the use of the three IPCC Working Groups. 
+A n experts" group was formed which looked at four 
+hypothetical future pattems of greenhouse gas emissions 
+and their effect on the atmosphere. The cumulative effect 
+of these emissions was calculated using the concept of 
+equivalent CO2 concentrations (e g, the contributions of all 
+greenhouse gases to radiative forcing are converted into 
+their equivalent in terms of C02Concentrations). Global 
+economic growth rates were taken from W o r l d Bank 
+projections and population estimates were taken from U N 
+studies and assumed equal for all scenarios. 
+2.1.2 
+The first of the scenarios, called the Business-as-
+Usual or the 2030 High Emissions Scenario, assumes that 
+few or no steps are taken to limit greenhouse gas emissions. 
+Energy use and clearing of tropical forests continue and 
+fossil fuels, in particular coal, remain the world's primary 
+energy source. The Montreal Protocol comes into effect but 
+without strengthening and with less than 100 percent 
+compliance. 
+Under this scenario, the equivalent of a 
+doubling of pre-industrial C O , levels occurs, according to 
+Working Group I, by around 2025. 
+2.1.3 
+The predicted anthropogenic contributions to 
+greenhouse gas emissions in 2025 are shown in Table 1. 
+The R S W G attempted to synthesize and compare the results 
+of the A F O S / E I S Reference Scenario and the Task A 
+"Business-as-Usual" (or "2030 High Emissions") Scenario 
+(see figure 3). The figure shows the equivalent CO2 
+concentrations for the Task A "Business-as-Usual" Scenario 
+and the AFOS/EIS Reference Scenario with its higher C O , 
+emissions and the C F C phaseout agreed to by the Parties to 
+the Montreal Protocol. The results indicate that the C O , 
+equivalent concentrations and thus the effect ori the global 
+climate are similar for both scenarios. 
+2.1.4 
+The second of the scenarios, the 2060 L o w 
+Emissions 
+Scenario, assumes that 
+a 
+number 
+of 
+environmental and economic concems result in steps to 
+reduce the growth of greenhouse gas emissions. Energy 
+efficiency measures, which might only be possible with 
+government intervention, are implemented, emissions 
+controls are adopted globally, and the share of the world's 
+primary energy provided by natural gas increases. 
+Full 
+compliance with the Montreal Protocol is achieved and 
+tropical deforestation is halted and reversed. Under this 
+scenario, the cumulative effect of such measures is a C O , 
+equivalent doubling around 2060. 
+2.1.5 
+The remaining two scenarios reflect futures where 
+steps in addition to those in the 2060 L o w Emissions 
+Scenario are taken to reduce greenhouse gas emissions. 
+These steps include rapid utilization of renewable energy 
+sources, strengthening of the Montreal Protocol, and 
+adoption of agricultural policies to reduce emissions from 
+livestock systems, rice paddies, and fertilizers. 
+2.1.6 
+A l l of the above scenarios provide a conceptual 
+basis for considering possible future pattems of emissions 
+and the broad responses that might affect those pattems. 
+However, they represent assumptions rather than cases 
+derived from specific studies. In addition, no full assessment 
+was made as yet of the total economic costs and benefits, 
+technological feasibility, or market potential of the 
+underlying policy assumptions. 
+2.2 
+Reference scenario 
+2.2.1 
+Table 2 shows the results of the EIS Reference 
+Scenario (for CO2 emissions from the energy sector only) 
+divided by region. The table is incomplete and does not 
+include CO2 emissions from non-energy sources nor other 
+greenhouse gases and sinks. While it is not directly a 
+measure of a region's climate forcing contribution, this table 
+does portray a future where, in the absence of specific policy 
+measures, global emissions of one major gas, CO2, grow 
+121 
+
+Formulation of Response Strategies 
+T A B L E l:Anthropogenic Greenhouse Gas Emissions From Working Group III Scenarios 
+AFOS/EIS Reference 
+Scenario modiried to 
+include C F C phaseout -
+Task A "Business-as-
+UsuaT'Scenario 
+1985 
+2025 
+1985 
+2025 
+CO2 Emissions (BtC) 
+Energy 
+5.1 
+12.4 
+5.1 
+9.9 
+Deforestation 
+1.7З 
+2.6 
+0.74 
+1.4 
+Cement 
+0.1 
+0.2 
+0.1-
+0.2 
+Total 
+6.9 
+15.2 
+5.9 • 
+11.5 
+CH4 Emission (TgCH4) 
+Coal Mining 
+44 
+126 
+35 
+85 
+Natural Gas 
+22 
+59 
+45 
+74 
+Rice 
+110 
+149 
+110 
+149 
+Enteric Ferm. 
+75 
+125 
+74 
+125 
+Animal Wastes 
+37 
+59 
+-
+-
+Landfills 
+30 
+60 
+40 
+71 
+Biomass Burning 
+53 
+73 
+53 
+73 
+Total 
+371 
+651 
+357 
+577 
+N2O (TgN)5 
+4.6 
+8.7 
+4.4 
+8.3 
+C0(TgC)5 
+473 
+820 
+443 
+682 
+NOx (TgN)^ 
+38 
+69 
+29 
+47 
+CFCs (Gg) 
+CFC-11 
+278 
+11 
+278 
+245 
+CFC-12 
+362 
+10 
+362 
+303 
+HCFC-22 
+97 
+1572 
+97 
+1340 
+CFC-113 
+151 ' 
+151 
+122 
+CFC-114 
+15 
+0 
+15 
+9 
+CFC-115 
+5 
+0 
+5 
+5 
+CCI 4 
+87 
+110 
+87 
+300 
+CH3CCI3 
+814 
+664 
+814 
+1841 
+Halón 1301 
+2.1 
+1.8 
+2.1 
+7.4 
+- The estimates for emissions of CFCs in 1985 and 2025 reflect the decisions taken at the meeting of the Parties to the Montreal Protocol 
+in London in June 1990. At that meeting, the parties agreed to accelerate the phase out of the production and consumption of CFCs, halons, 
+carbon tetrachloride and methyl chloroform. 
+з Midrange estimates for deforestation and biomass consistent with preferred value from Working Group I 
+•* Assuming low biomass per hectare and deforestation rates. 
+Differences in the 1985 emissions figures are due to differences in definitions and qualifying the emissions from these particular sources. 
+122 
+
+Formulation of Response Strategies 
+EIS/AFOS Reference Scenario - Task A: Business as Usual 
+CO2 Equivalent Concentrations 
+(ppm) 
+1,4001 
+1,200 
+1,000 
+800 
+600 
+400 
+200 
+EIS/AFOS Reference Scenario ^ » * 
+TASK A: BUSINESS AS USUAL SCENARIO 
+2000 
+2020 
+2040 
+2060 
+_L 
+2080 
+2100 
+Figure 3. 
+from5.15 B t C i n 1985, to 7.30 BtC in 2000 and 12.43 BtC 
+in 2025. 
+Primary energy demand more than doubles 
+between 1985 and 2025, an average annual growth rate of 
+2.1%. 
+2.2.2 
+The annual rate of growth in CO2 emissions varies 
+between 0.7% in Western Europe, 1.3% in North America 
+and the Pacific O E C D Countries, and 3.6% in developing 
+countries. The share of emissions between regions varies 
+over time. 
+2.2.3 
+Under this scenario, the per capita emissions in the 
+industrialized countries increase from 3.1 tonnes carbon 
+(TC) per capita in 1985 to 4.7 T C per capita in 2025. For 
+the developing countries, the per capita emissions rise from 
+0.4 T C per capita in 1985 to 0.8 T C per capita in 2025. 
+2.2.4 
+The Reference Scenario sets out an example of 
+the scope of the reductions in total global emissions which 
+might be necessary to stabilize or reduce C O , emissions. 
+The stabilization of global emissions at 1985 levels would 
+require reductions of 29% by 2000 and 59% by 2025. A 
+reduction of global emissions to 20% below 1985 levels 
+would require reductions of 44% in 2000 and 67% by 2025. 
+2.2.5 
+The carbon intensity figures show, for each region, 
+the amount of carbon emitted per unit of energy consumed. 
+The contribution of energy consumption in a region to global 
+warming is largely a function of its carbon intensity, total 
+fuel use, and of the efficiency with which it consumes fossil 
+fuels. Carbon intensity for industrialized countries changes 
+from 16.3 tonnes carbon per gigajoule (TC-GJ) in 1985 to 
+15.5 in 2025. In the developing worid the change is from 
+14.2 T C - G J to 15.6. 
+3. 
+Response strategies for 
+addressing global climate 
+change 
+3.0.1 
+Because climate change could potentially result 
+in significant impacts on the global environment and human 
+activities, it is important to begin considering now what 
+measures might be taken in response. 
+Working Group I 
+found that under a "Business-as-Usual" scenario global 
+average temperature could rise by 0.3 degrees centigrade per 
+decade; it also found that under the Accelerated Control 
+Policies Scenario (scenario D) with extremely stringent 
+emissions reductions the temperature rise could perhaps be 
+reduced to 0.1 degree centigrade per decade. The R S W G 
+identified a wide range of options for the intemational 
+community to consider. These include measures both to 
+limit net greenhouse gas emissions and to increase the ability 
+of society and managed ecosystems to adapt to a changing 
+climate. 
+3.0.2 
+Strategies which focus only on one group of 
+emission sources, one type of abatement option or one 
+particular greenhouse gas will not achieve this. Policy 
+responses should, therefore, be balanced 
+against 
+altemative abatement options among the energy, industry, 
+forestry and agricultural sectors, and adaptation options 
+and other policy goals where applicable at both national 
+and international levels. Ways should be sought to 
+account for other countries, and intergenerational issues, 
+when making policy decisions. 
+3.0.3 
+The consideration of climate change response 
+strategies, however, presents formidable difficulties for 
+123 
+
+Formulation, of Response Strategies 
+TABLE 2 GROSS C O 2 EMISSIONS FROM THE ENERGY SECTOR* 
+(From the Reference Scenario) 
+C O T Emissions in the Reference Scenario (billion tonnes carbon/year) 
+1985 
+% 
+2000 
+% 
+2025 
+% 
+Global Totals 
+5.15 
+(100) 
+7.30 
+(100) 
+12.43 
+(100) 
+Industrialized 
+3.83 
+(74) 
+4.95 
+(68) 
+6.95 
+(56) 
+North America 
+1.34 
+(26) 
+1.71 
+(23) 
+2.37 
+(19) 
+Westem Europe 
+0.85 
+(16) 
+0.98 
+(13) 
+1.19 
+(10) 
+O E C D Pacific 
+0.31 
+(6) 
+0.48 
+(7) 
+0.62 
+(5) 
+Centrally Planned Europe 
+1.33 
+(26) 
+1.78 
+(24) 
+2.77 
+(22) 
+Developing 
+1.33 
+(26) 
+2.35 
+(32) 
+5.48 
+(44) 
+Africa 
+0.17 
+(3) 
+0.28 
+(4) 
+0.80 
+(6) 
+Centrally Planned Asia 
+0.54 
+(10) 
+0.88 
+(12) 
+1.80 
+(14) 
+Latin America 
+0.22 
+(4) 
+0.31 
+(4) 
+0.65 
+(5) 
+Middle East 
+0.13 
+(3) 
+0.31 
+(4) 
+0.67 
+(5) 
+South and East Asia 
+0.27 
+(5) 
+0.56 
+(8) 
+1.55 
+(12) 
+1985 
+2000 
+2025 
+P C * * 
+C I * * * 
+P C 
+C I 
+P C 
+C I 
+Global Totals 
+1.06 
+15.7 
+1.22 
+15.8 
+1.56 
+16.0 
+Industrialized 
+3.12 
+16.3 
+3.65 
+16.1 
+4.65 
+16.0 
+North America 
+5.08 
+15.7 
+5.75 
+15.8 
+7.12 
+16.6 
+Westem Europe 
+2.14 
+15.6 
+2.29 
+15.1 
+2.69 
+14.6 
+O E C D Pacific 
+2.14 
+16.1 
+3.01 
+16.1 
+3.68 
+14.8 
+Non O E C D Europe 
+3.19 
+17.5 
+3.78 
+16.9 
+5.02 
+16.4 
+Developing 
+0.36 
+14.2 
+0.51 
+15.2 
+0.84 
+16.0 
+Africa 
+0.29 
+12.3 
+0.32 
+13.2 
+0.54 
+15.2 
+Centrally Planned Asia 
+0.47 
+17.3 
+0.68 
+18.8 
+1.15 
+19.6 
+Latin America 
+0.55 
+11.5 
+0.61 
+11.4 
+0.91 
+11.8 
+Middle East 
+1.20 
+16.7 
+1.79 
+16.1 
+2.41 
+15.5 
+South and East Asia 
+0.19 
+12.3 
+0.32 
+14.3 
+0.64 
+15.6 
+* This table presents regional CO2 emissions and does not include CFCs, CH4, O3. N2O, or sinks. Climate change critically depends 
+on all GHG from all economic sectors. This table should be lnteфreted with care. 
+** PC - Per capita carbon emissions in tonnes carbon per person. 
+*** CI - Carbon Intensity in kilograms carbon per gigajoule. 
+policymakers. On the one hand, the information available 
+to make sound policy analyses is inadequate because of: 
+(a) 
+remaining scientific uncertainties regarding the 
+magnitude, timing, rate, and regional consequences 
+of potential climate change; 
+b) 
+uncertainty with respect to how effective specific 
+response options or groups of options would be in 
+actually averting potential climate change; and 
+(c) 
+uncertainty with respect to the costs, effects on 
+economic growth, and other economic and social 
+implications of specific response options or groups of 
+options. 
+3.0.4 
+The potentially serious consequences of climate 
+change on the global environment, however, give sufficient 
+reasons to begin by adopting response strategies that can be 
+justified immediately even in the face of such significant 
+uncertainties. 
+124 
+
+Formulation of Response Strategies 
+3.0.5 
+Recognizing these factors, a large number of 
+options were preliminarily assessed. It appears that some of 
+these options may be economically and socially feasible 
+for implementation in the near-term while others, because 
+they are not yet technically or economically viable, may be 
+more appropriate for implementation in the longer-term. In 
+general, the R S W G found that the most effective response 
+strategies, especially in the short-term, are those which are: 
+beneficial for reasons other than climate change and 
+justifiable in their own right, for example increased 
+energy efficiency and lower greenhouse gas emission 
+technologies, better management of forests and other 
+natural resources, and reductions in emissions of CFCs 
+and other ozone depleting substances that are also 
+radiatively important gases: 
+economically efficient and cost effective, in particular 
+those that use market-based mechanisms: 
+able to serve multiple social, economic, and 
+environmental puфoses; 
+flexible and phased, so that they can be easily modified 
+to respond to increased understanding of scientific, 
+technological and economic aspects of climate change: 
+economic growth and the concept of sustainable 
+development; 
+administratively practical and effective in terms of 
+application, monitoring, and enforcement; and 
+reflecting obligations of both industrialized and 
+developing countries in addressing this issue, while 
+recognizing the special needs of developing countries, 
+in particular in the areas of financing and technology. 
+3.0.6 
+The degree to which options are viable will also vary 
+considerably depending on the region or country involved. For 
+each country, the implications of specific options will depend 
+on its social, environmental, and economic context. Only 
+through careful analysi.s of all available options will it be 
+possible to determine which are best suited to the 
+circumstances of a particular country or region. Initially, the 
+highest priority should be to review existing policies with a 
+view to minimizing conflicts with the goals of climate change 
+strategies. New policies will be required. 
+4. 
+Options for limiting greenhouse 
+gas emissions 
+4.0.1 
+The R S W G reviewed potential measures for 
+mitigating climate change by limiting net emissions of 
+greenhouse 
+gases 
+from 
+the 
+energy, 
+industry, 
+transportation, housing and building, forestry, agriculture, 
+and other sectors. 
+These measures include those which 
+limit emissions from greenhouse gas sources (such as 
+energy production and use), those which increase the use 
+of natural sinks (such as immature forests and other 
+biomass) for sequestering greenhouse gases, as well as 
+those measures aimed at protecring reservoirs such as 
+existing forests. 
+While R S W G was not mandated to 
+consider the role of the oceans. Working Group I noted 
+that oceans also play an equally important role as sinks 
+and reservoirs for carbon dioxide. A discussion of both 
+short and long-term options for each major emissions 
+sector is provided below. 
+4.0.2 
+It also should be recognized that the large, 
+projected increase in the world population, to as much as ten 
+billion people during the next century, will be a major factor 
+in causing the projected increase in global greenhouse gases. 
+This is because larger populations will be accompanied by 
+increased consumption of energy and of food, more land 
+clearing, and other activities, all of which will cause an 
+increase in net greenhouse gas emission. It is essential, 
+therefore, that policies designed to deal effectively with the 
+issue of potential global climate change include strategies 
+and measures to reduce the rate of growth of the world 
+population. 
+4.1 
+Limitation of net emissions from the 
+energy sector 
+4.1.1 
+The energy sector plays a vitally important role in 
+economic well-being and development for all nations. At 
+the same time, because energy production and use accounts 
+for approximately one half of the radiative forcing from 
+human activities, energy policies need to ensure that 
+continued economic growth occurs in a manner that, 
+globally, conserves the environment for future generations. 
+However, there is no single, quick-fix technological option 
+for limiting greenhouse gas emissions from energy sources. 
+A comprehensive strategy is necessary which deals with 
+improving efficiency on both the demand and supply sides 
+as a priority and emphasizes technological research, 
+development, and deployment. 
+4.1.2 
+The R S W G recognizes the particular difficulties 
+which will be faced by countries, particularly developing 
+countries, whose economy is heavily dependent on the 
+production and/or export of fossil fuels, as a consequence of 
+actions taken by other countries to limit or reduce energy 
+related greenhouse gas emissions. These difficulties should 
+be taken into account when elaborating international 
+strategies. 
+4.1.3 
+Various potential options have been identified for 
+reducing greenhouse gas emissions from energy systems. 
+The most relevant categories of options appear to be: 
+efficiency improvements and conservation in energy 
+supply, conversion, and end use; 
+• 
+fuel substitution by energy sources which have lower 
+or no greenhouse gas emissions; 
+125 
+
+Formulation of Response Strategies 
+e 
+i 
+СЛ 
+DC 
+с 3 
+оа 
+00 
+с 
+о 
+ов 
+о . , 
+«J 
+о 
+и 
+с 
+"О Р 
+(U 
+Où > ч 
+о 
+с 
+с 
+и 
+U 
+11 
+тз с 
+£ 
+> 
+р 
+5. 
+1 ^ 
+? 
+Е ст-
+— u 
+1 
+Л1 
+о 
+2 . r i 
+° 8 о i I 
+•а 
+и 
+p Í : | ? | . = 
+l S . | . Í ^ | ' S 2 | E 
+— 
+u 0 0..= .= .= n..s (D Э XJ Э о с 
+и 
+II 
+о u 
+о g 
+Я о 
+I . 
+Q. С 
+р.«г 
+оа с ^ с 
+— 
+О 2Р?з 
+а s ' i l . i 
+H s 
+¿•I 
+о ¿ 
+> 
+К 5 1я 
+(U 
+IL) 
+Ofl и 00 
+- 'i, -
+C.5Í 
+D 
+О 
+u и с 
+III 
+.H CL 5 
+OO D. D. 
+ta О 
+-a-a-o 
+D U O 
+> > > 
+E S 2 
+o. a. a.-
+E с E 
+О о о 
+\^ 
+'о о 
+u t o 
+о и -о 
+1) 
+ü о « i : 
+с 2 " с 
+I E S S 
+t 
+— 
+СП и 
+и 
+СЛ 
+о о. 
+с ее 
+u 
+H 
+u 
+с u 
+u 
+СЛ 
+. i l l 
+00 а 
+с — 
+u с 
+о 
+с 
+.Ü Р 
+! Л 
+о = g 
+- i l 
+= 
+„ 
+u 
+СЛ 
+• -
+"ü тз '5 
+<u 
+> -а ^ - r - = 
+T; 
+_g •-
+^ ^ 
+'5 u 
+СЛ tu . 
+^ 
+СЛ 
+^ 
+u 
+СЛ 
+^ 
+i 
+СЛ 
+= 
+E y i= g .H о i : 
+с 5 00 5 
+00 Q- и 
+з; > 'й •ç — E -ç 
+£ Л 
+> 
+СЛ 
+— 
+= 
+Ü с <^ о 
+СЛ Я ТЗ Я О 
+U я 
+> 
+2 , 
+а. СЛ 
+Е.У 
+" i 
+2 
+СЛ я 
+о с 
+СЛ 
+•= >. 3 
+Е тз XI 
+я о с 
+*- Е 
+u (U о 
+о я 
+о 
+о Sí 
+Q. 
+c « 
+00 
+o r e 
+•g g-'i 
+> 1" h 
+0 Û 3 
+00 
+•= ¿ с с lu 
+I 
+с 
+- g 
+>1 
+1^ 
+> > 
+СЛ 
+ОО 
+= 
+| § 
+с и 
+j= := 
+о JD 
+t- а. 
+СЛ 
+U -
+il 
+С 
+^ 
+— 
+« 
+^ 
+3 ^ ^ 
+V "
+О
+С 
+я 
+. г: я 
+. Е ^ Е ^ 
+u 
+а. 
+u .Е тз J = X ь оа .Е 
+00 
+2 u 
+— 
+> 
+С-о 
+= с 
+о л 
+Е с' " 
+га с 
+rj 
+х : 
+U У 
+" Е « 
+1_ 00 К 
+•с я я 
+Q Е Е 
+1. 
+о 
+СЛ 
+с о 
+с 
+00. 
+. л 
+и 
+2 P Í 
+E 2^ 
+•S I i 
+O B I 3 
+i on s i T3 
+СЛ 'z: 
+= 
+СЛ 
+о 
+00 о 
+. S - а 
+е л о 
+^ 
+СЛ с 
+С 
+-••5 
+у 5 s 
+я к 
+Н о и 
+1 ё 
+-о 
+с 
+ё 
+п. u 
+^. ° с 
+5-si 
+£ о 
+ё ° - | 
+« != 3 
+00.= 
+£ 
+1» 
+с 
+о 
+с 
+О 
+и 
+5-. 
+U 
+g 
+u 
+> 
+о 
+00 
+с 
+Oc_.i: 
+S 00.-= 
+u u 
+О 0 > . й 
+b o = 
+Cl..— . 
+•c c¿ -iH ' 
+£ 
+й о 
+2 2 
+• i l "S 
+и 
+СЛ 
+13 . , 
+•— «J ..^ ' S 
+s 
+'й ~ о en .2 о 
+lu 
+ó 
+о 
+Q. 
+X) 
+•a-= «7 
+^ 
+" О 
+D л 
+(D (U u 
+с 
+I'll S S 
+H = b £-0 
+с о с Ь u 
+.= u — я х > 
+,2-g 5 
+0 . 2 2 — u 
+с 
+u 
+2 - - g l a 
+| - u 
+S ^ S I ^ E E 
+— a. u u 
+о 
+с 
+É 0 >> 
+о 
+•_ о 
+EI 
+СЯ 
+> 4 О 
+1 = 
+s.2 
+а.Й 
+i 
+£ 5 H 
+i 
+00 СЛ 
+•a 
+с ra 
+с 
+,0 
+2 
+S. ai 
+il 
+II 
+СЛ 
+> » 
+5 " 
+Ô 
+О 
+> lU 
+О T; 
+о 
+t . 
+0=2 
+= « 
+•o 'G 2 
+BE 
+a 
+СЛ <U 
+U 00 
+T3 p 
+126 
+
+Formulation of Response Strategies 
+о 
+о 
+ou 
+о 
+с 
+о 
+15 
+-о 
+с сз 
+00 
+... 2 S 
+= = ^ 
+u 5 _ 
+. > 
+— 
+и 
+— 
+, 3 
+= £ И 
+5 2 
+о 
+ад с 
+« 
+III 
+= ~ 
+3 
+•а 
+O A ' S 
+. О 
+.
+S
+i
+s 
+1 I 
+00 î = 
+Q. 
+-О - a 
+о 
+00 
+> 
+с 
+Е 
+О •= 
+•л 5 
+•а '~ 
+и 
+u 
+S о -3 
+•адй.е 
+3 о 
+о 
+сл Е- I I 
+tj 
+0 J 
+с 
+О 
+. ., 
+^ -
+« 
+с 
+в « 
+u 
+s 
+сл о 
+о с о 
+CJ 
+(U 
+> 
+О 
+I 
+л =^ 
+- 
+1_ 
+a. о 
+b. 
+с 
+О о 
+ад 
+Е 
+3 о 
+C J 
+и 
+О С 
+я 
+. о 
+= н = 
+° 
+с > 
+сл 
+С 
+с_ 
+О 
+О 
+сл 
+с 
+а. 
+о к 
+и Ш 
+я 
+и- 
+u 
+о — 
+с 
+~ 
+о щ 
+il 
+i- 
+я 
+I s 
+о 2 
+и сл 
+00 
+« 
+ё 
+£ £ 
+5 
+о "5 
+0 0 - ; 
+C i - 
+^ 
+ё Ô 
+"S S = 
+H Q = 
+C
+E
+U 
+i " 
+СЛ 
+СЛ 
+я o 
+СЛ 
+с -o 
+O 
+С 
+сл P 
+i2 G 
+сл 
+сл 
+3 ч_ 
+сл 
+О 
+00 
+с 
+о 
+с 
+с 
+(— cu 
+о = к 
+Я ? 
+Р я = 
+Q.-Q.-S 
+X Щ •-
+Ш0£ 5 
+I I I I 
+I I I I 
+Z 
+О 
+< 
+X 
+о 
+Z 
+о 
+< 
+э и 
+QÍ 
+NN и 
+ы 
+pi 
+- i < > 
+о 
+ы 
+te. 
+с 
+•а s 
+~>» 
+ее 
+u 
+и 
+о 
+и 
+— 
+С 
+> 1 
+u 
+1 ) 
+о 
+с 
+u 
+и 
+•а 
+с я 
+= 
+Е 
+о 
+и 
+с^ 
+О 
+00 
+u 
+и 
+с 
+1 ) 
+с 
+?о 
+я 
+•а 
+с 
+Ç 
+я 
+я -5 
+Ü 
+- 
+> 
+2 
+с 
+Е 
+о 
+ТЗ 
+с 
+2 
+п. 
+,о 
+— 
+с 
+о 
+•X. 
+и 
+1 ) 
+-а 
+о 
+(1> 
+Т З 
+с 
+1.1^ 
+о с 
+Ü 
+-
+ûi £ 
+я 
+сл 
+ОО . cu 
+1 00 
+и 
+1? 
+г з 
+и 
+c f - i 
+о а 
+82 
+z; VD 
+с £ 
+Е = 
+— 
+® 
+II 
+с 
+2 
+с 
+о 
+сл и 
+О > 
+ТЗ 
+О 
+Z 
+"к 
+о 
+сл 
+О 
+и 
+с^ 
+о 
+р 
+с 
+р J, 
+'сл 
+¥ 
+.22 
+й 
+£ 
+о о 
+u 
+Ü 
+~ 
+3 
+^ 2 
+2 с 
+Q. U 
+Е Ï 
+i 
+00 
+127 
+
+Formulation of Response Strategies 
+Ш 
+_ j 
+CQ 
+< 
+Oí 
+z ы 
+о ы 
+СЯ 
+э 
+о 
+Z 
+< 
+si 
+|1 
+о 
+н и 
+^z' 
+••5 S 
+¿j О 
+IS Oí 
+eu 
+* и 
+tt¡ ас 
+i s 
+^ и 
+Z ы 
+Ü 
+Щ 
+> 
+О 
+Oí 
+CU 
+V 
+СЯ 
+ОС 
+с 
+3 
+аз 
+СЯ 
+u о 
+а. 
+сл 
+с 
+u 
+СЯ 
+> 1 
+•а 
+с 
+с 
+о 
+Е о 
+£? 
+и 
+с 
+u 
+-о 
+о Е 
+? Г сл 
+с >> 
+О . 
+•ice? 
+ta га u 
+С 
+О 
+с 
+E 
+.2 я 
+о 
+СД 
+и 
+>. 
+СЯ 
+tu) 
+E S 
+00 3 
+с 
+.= ё to 
+ТЗ 00 
+. 
+•5 
+о 
+'3 
+= В 
+M u ^ >1 « о -5 
+2 з 
+— 
+: : : 
+1_ u 
+СЯ о с 
+во т; и о ¿ ^ 0 0 
+1 ^ g-g 
+•а 
+О ) > 
+2 
+D. 
+Z c ° 
+С 00 
+И
+р 
+с о 
+СЯ 
+Е S 
+1) о 
+1) с! 
+'s ~ • 
+о с: с« 
+~ 
+с 
+u 
+о • 
+Z S 
+— 
+. - 
+СЯ S) 
+U 
+СЯ - .2^ 
+3 
+О ) 
+^ 
+СЯ 
+• 
+_ 
+О ) 
+Ü 
+.у S ' a 
+P-i 
+с 
+о 
+п. 
+15 
+СЯ 
+s 
+о. 
+2 
+СЯ йп 
+s 
+S e s 
+-а 
+- - — 
+•о 
+> 
+u 
+р 
+^ 
+й. _ 
+й. СЯ 
+U 
+СЯ 00 и i: .2 
+lililí 
+й 
+ra 
+ü E сл 
+с ^ и s 
+О 
+> 
+U 
+<u'i S 
+сл с 
+о 
+сл - L У 
+1 ^ 5 
+= =1 
+5 " 
+- 
+2 
+й 
+• - 00 E о 
+СЯ 
+n 
+•5 Й 5¿ 8 § 
+D 
+00 
+u . 
+£ ? 
+с Н с 
+СЯ U 
+oofe 
+о 5 
+СЯ 
+2 
+р - : : 
+= = 1) 
+i l l 
+|s| 
+5 oû E 
+> 
+> 
+•a о -о 
+< гг< 
+. « j 
+О ) 00 
+о о 
+я 
+5 
+О 
+о ~. 
+>. 
+>ч 00 
+00 
+u с 
+. i ; 
+С 
+Я 
+— 
+•а У -I 
+СЯ Ç 
+u 
+О 
+Б.2 
+О 
+3 
+128 
+
+Formulation of Response Strategies 
+> 
+0Û 
+с 
+•о 
+с a 
+S п. 
+e 
+•а 
+£ 
+о 
+'Б 
+о 
+— 
+D O 
+ü 
+1 ) _ 
+о 
+й g i s w) 
+>. о u с 
+с 
+о 
+_ 
+bû 
+r- c^ 
+gô 
+01) и .5 
+y 
+es 
+D 
+O 
+u 
+( Л 
+СЯ 
+u- 
+. ' 
+ë я £ Q.Í2 
+~ о £ "ЗЗ <2 
+о 
+_ 
+Ü • - 
+_ 
+> ^ > >> о 
+2 Ь 2i:.c 
+g- g g-.£P S 
+и 
+— I ra 
+l
+i
+l
+i 
+1 ^ 
+> с 
+с u 
+я p 
+о 
+• = 
+Ъ 00 
+u с: 
+с*. 2 
+о 
+P 
+о тз 
+= о 
+s-§ 
+I I 
+XI 
+я 
+о. 
+U 
+U 
+о 
+с 
+о 
+с 
+00 
+z о 
+<: 
+>< 
+p¿ 
+о z о 
+< 
+.J 
+Э 
+и 
+и 
+ы 
+е£ 
+< 
+> 
+О 
+ы 
+0£ 
+я 
+U 
+Z 
+с 
+X Í 
+я 
+> 
+2 
+Q. 
+£ 
+3 
+8. > 
+я 
+о. 
+00 
+о 
+— 
+^ 
+£ 
+_я 
+о 
+о о 
+я 
+05 
+X 
+о 
+я 
+а 
+.1.' о 
+га > 
+Е 2 
+i t 
+га я 
+Q. 
+о о 
+= 
+СЛ СЛ 
+I I 
+и 
+ъ 
+а 
+тз 
+о 
+я > 
+тз 
+< 
+(U 
+о 
+Si 
+о 
+g 
+= 
+о и с о 
+3 
+X £ 
+о 
+u 
+тз 
+> 
+о 
+*— 
+а. 
+Е 
+о 
+3 
+тз 
+о а. 
+О •= 
+о 
+тз 
+с 
+1 2 
+-й 
+00 
+_о 
+о 
+00 
+тз 
+с га 
+с 
+о 
+Q. 
+о 
+и 
+129 
+
+Formulation of Response Strategies 
+• 
+reduction of greenhouse gas emissions by removal, 
+recirculation or fixation; 
+management and behavioural changes (e.g. increased 
+work in homes through information technology) and 
+structural changes (e.g. modal shift in transport). 
+4.1.4 
+From an analysis of the technologies in these 
+categories, it appears that some technologies are available 
+now or in the short-term 
+while others need further 
+development 
+to lower costs or to improve 
+their 
+environmental characteristics. 
+4.1.5 
+Tables 3 and 4 provide various examples of 
+technological options within each of the broad categories 
+defined above, and their possible application in the short, 
+medium, and longer-term. This distinction among time 
+frames is used in order to reflect the remaining technological 
+needs in each category and to assist in formulating 
+technological strategies. Short-term technologies are those 
+which apparently are or will be both technically and 
+economically ready for introduction and/or demonstration 
+up to the year 2005 and beyond. Mid-term technologies are 
+those which, while technically available now. are not yet 
+economic and thus may not be implemented until the period 
+from 2005 to 2030. Longer-term technologies are not yet 
+available but may emerge after 2030 as a result of research 
+and development. Such time frames could be influenced by 
+such factors as the pace of the technological changes and 
+economic conditions. 
+4.1.6 
+The technical, economic, and market potential of 
+technological options will vary depending upon the sector 
+in which they are to be applied. The technical potential of 
+an energy technology is its capacity to reduce potential 
+emissions, irrespective of the costs involved, and is largely 
+a function of technical feasibility and resource availability. 
+Economic potential refers to whether the application of the 
+options is economically efficient and cost-effective—it may 
+be significantly less than technical potential where there 
+are positive resource costs. 
+Market potential refers to 
+whether the consumer or user is likely to adopt the option— 
+it might be even less than economic potential due to market 
+imperfections, attitudes to risk, and the presence of non-
+monetary costs. 
+4.1.7 
+There is, in general, extensive information 
+available on the technical potential of the 
+many 
+technological options listed. For example: 
+in the Transportation sector, vehicle efficiency 
+improvements have very high technical potential (e.g. 
+50 percent improvement from the average vehicle on 
+the road in some countries); 
+in the Electricity Generation sector, efficiency 
+improvements of 15 to 20 percent could be achieved 
+for retrofits of coal plants and up to 65 percent for new 
+generation versus average existing coal plants; fuel 
+substitution could achieve 30 percent (for oil to natural 
+gas) to 40 percent (for coal to natural gas) reduction in 
+emissions of CO2; 
+• 
+in the Buildings sector, new homes could be roughly 
+twice as energy efficient and new commercial 
+buildings up to 75 percent as energy efficient as 
+existing buildings; retrofitting existing homes could 
+average 25 percent 
+improvement and existing 
+commercial buildings around 50 percent; 
+• 
+in the Industry sector, the technical potential for 
+efficiency improvements ranges from around 15 
+percent in some sub-sectors to over 40 percent in 
+others (i.e. the best available technology versus the 
+stock average). 
+4.1.8 
+The constraints to achieving the technical potential 
+in these sectors can be generally categorized as: 
+capital costs of more efficient technologies vis-à-vis 
+the cost of energy; 
+relative prices of fuels (for fuel substitution); 
+lack of infrastructure; 
+• 
+remaining performance drawbacks of alternative 
+technologies; 
+replacement rates; 
+reaching the large number of individual decision-
+makers involved. 
+4.1.9 
+Each of these constraints may be more or less 
+significant depending on the sector in question. While not 
+a constraint, behavioural changes (eg, improved driver 
+behaviour, better vehicle maintenance and turning off 
+unused lights) can make significant contributions to 
+emissions reduction in all sectors. Achieving such changes 
+requires the engagement of both the energy supplier and the 
+consumer. Likewise, improvements in operational practices 
+on the part of industry and govemment (e.g. better traffic 
+management or boiler operation) offer significant potential 
+but require increased attention. 
+Transport and housing 
+policies (e.g. promotion of public transport, home insulation) 
+could also reduce greenhouse gas emissions. 
+A more 
+comprehensive assessment of the measures to overcome 
+these constraints is contained in section 7 of this 
+Policymaker Summary. 
+4.1.10 
+Factors external to the energy sector also 
+significantly constrain potential. These include the difficulty 
+of: 
+making basic changes in the structure of economies 
+(e.g. development of new transportation and housing 
+infrastructure); 
+130 
+
+Formulation of Response Strategies 
+• 
+making fundamental changes in attitudinal and social 
+factors (e.g. preferences for smaller and higher 
+efficiency vehicles). 
+4.1.11 
+The challenge to policymakers is to enhance the 
+market uptake of technological options and behavioural and 
+operational changes as well as to address the broader issues 
+outside the energy sector in order to capture more of the 
+potential that exists. 
+Options and strategies 
+4.1.12 
+Tables 3 and 4 summarize the technological, 
+regulatory, and institutional approaches which could form 
+elements of strategies to control greenhouse gases. 
+4.1.13 
+A list of options recommended by EIS as measures 
+for addressing greenhouse gas emissions is given below. 
+Countries are encouraged to evaluate the social, economic 
+and environmental consequences of these options. 
+• 
+taking steps now^ to attempt to limit, stabilize or 
+reduce the emission of energy-related 
+greenhouse 
+gases and prevent the destruction and improve the 
+effectiveness of sinks. One option that govemments 
+may wish to consider is the setting of targets for CO2 
+and other greenhouse gases; 
+• 
+adopting a flexible progressive approach, based on 
+the 
+best 
+available scientific, economic 
+and 
+technological knowledge, to action needed to respond 
+to climate change; 
+• 
+drawing up specific policies and implementing wide-
+ranging comprehensive programmes which cover all 
+energy-related greenhouse gases; 
+starting with implementing strategies which have 
+multiple social, economic and environmental benefits, 
+are cost effective, are compatible with sustainable 
+development and make use of market forces in the 
+best way possible: 
+• 
+intensifying intemational, multilateral and bilateral 
+co-operation in developing new energy strategies to 
+cope with climate change. 
+In this 
+context, 
+industrialized countries are encouraged to promote 
+the development and the transfer of energy-efficient 
+and clean technologies to other countries; 
+increasing public awareness of the need for external 
+environmental costs to be reflected in energy prices, 
+markets and policy decisions to the extent that they can 
+be determined; 
+<> There was significant concem expressed at the RSWG meeting 
+about the immediacy implied by the word now in option one, when 
+implementation could only be considered al a rate consistent with 
+countries' level of knowledge and particular circumstances. 
+increasing public awareness of energy-efficiency 
+technologies and products and altematives, through 
+public education and information (e.g. labelling); 
+strengthening 
+research 
+and development 
+and 
+intemational collaboration in energy technologies, and 
+economic and energy policy analysis, which are 
+relevant for climate change; 
+encouraging the participation of industry, the general 
+public, and NGOs in the development and implement-
+ation of strategies to limit greenhouse gas emissions. 
+Short-term strategy options 
+4.1.14 
+Short-term strategies for all individual nations 
+include: 
+improving diffusion of energy-efficient and altemanve 
+energy technologies which are technically and 
+commercially proven; 
+• 
+improving energy efficiency of mass produced goods 
+including motor vehicles and electrical appliances and 
+equipment and buildings (eg, through improved 
+standards); 
+developing, diffusing and transferring technologies to 
+limit energy-related greenhouse gas emissions; 
+reviewing energy-related price and tariff systems and 
+policy decisions on energy planning to better reflect 
+environmental costs. 
+Long-term strategy options 
+4.1.15 
+Over the longer term, sustainable development 
+will remain a central theme of policies and strategies. 
+Specific approaches within a sustainable development policy 
+framework will evolve as our understanding of climate 
+change and its implications improves. 
+4.1.16 
+Long-term strategies for all individual nations 
+include: 
+accelerating work to improve the long-term potential 
+of efficiency in the production and use of energy; 
+encouraging a relatively greater reliance on no or lower 
+greenhouse gas emissions energy sources and 
+technologies; and enhancing natural and man-made 
+means to sequester greenhouse gases: 
+further reviewing, developing and deploying policy 
+instmments, which may include public information, 
+standards, taxes and incentives, tradeable permits, and 
+environmental impact assessments, which will induce 
+sustainable energy choices by producers 
+and 
+consumers without jeopardizing energy security and 
+economic growth; 
+131 
+
+Formulation of Response Strategies 
+developing methodologies to evaluate the trade-off 
+between limitation and adaptation strategies and 
+establishing changes in infrastructure (e.g. pipelines, 
+electrical grids, dams) needed to limit or adapt to 
+climate change. 
+4.2 
+Limitation of net emissions from the 
+industry sector 
+4.2.1 
+The most significant source of greenhouse gases 
+associated with industrial activity not related to energy 
+use is the production and use of C F C s and other 
+halocarbons. C F C s represent a very important source of 
+greenhouse gas emissions and account for about 24% of 
+the total contributions to the enhanced radiative forcing 
+for the period of the 1980s. 
+While the R S W G did not 
+consider control strategies for these gases since the issue 
+is already addressed under the Montreal Protocol on 
+Substances that Deplete the Ozone Layer, it noted that the 
+review of the Montreal Protocol now under way should 
+take mto account the global w a r m i n g potential of 
+potential C F C substitutes. 
+4.2.2 
+The R S W G did develop future emission scenarios 
+for C F C s and H C F C - 2 2 (HCFC-22 was used as a surrogate 
+for a potential mix of H C F C s and H F C s substitutes). The 
+potential impact of such substitutes on radiative forcing 
+was assessed by Working Group I. For a given emission rate, 
+H C F C s and HFCs are less effective greenhouse gases than 
+the C F C s because of their shorter lifetimes. The growth 
+rates assumed in the I P C C scenarios will result in the 
+atmospheric concentrations of HFCs and H C F C s becoming 
+comparable to the C F C s during the next several decades 
+assuming that the C F C s had continued to be used at current 
+rates. Assuming the IPCC scenarios for HFCs and H C F C s , 
+W o r k i n g Group I calculated that these gases would 
+contribute up to 10% of the total additional radiative forcing 
+for the period 2000—2050. 
+4.3 
+Limitation of net emissions from the 
+agriculture sector 
+4.3.1 
+About 9 percent of anthropogenic 
+greenhouse 
+gas emissions can be attributed to the agricultural sector, 
+in particular livestock systems, rice cultivation, and the 
+use of nitrogenous fertilizers. Limitation of emissions 
+from this sector presents a challenge because the 
+processes by which greenhouse gases, in particular 
+methane and nitrous oxide, are released in agricultural 
+activities are not well understood. 
+In addition, response 
+options in the agricultural sector must be designed to 
+ensure maintenance of food supply. 
+There appear, 
+however, to be a number of short-term response options, 
+some economically beneficial in their own right, which 
+could contribute to a limitation of net emissions from 
+agricultural sources. 
+Where appropriate the removal of 
+subsidies, incentives and regulatory barriers that 
+encourage 
+greenhouse 
+gas 
+e m i s s i o n s 
+from 
+the 
+agricultural sector would be both environmentally and 
+economically beneficial. In addition, there are a number 
+of promising technologies and practices which, in the 
+longer term, could significantly reduce greenhouse gas 
+emissions. 
+Short-term options: 
+4.3.2 
+Livestock systems- Methane emissions could be 
+reduced through improved management of livestock 
+wastes, expansion of supplemental feeding practices, and 
+increased use of production and growt-enhancing agents 
+with safeguards for human health. 
+4.3.3. 
+Fertilizer use- Nitrous oxide emissions may be 
+reduced by using existing improved fertilizer formulations, 
+judicious use of animal manures and compost, and improved 
+application technology and practices. 
+4.3.4 
+Marginal lands: Areas marginally suitable for 
+annual cropping systems may be shifted to perennial cover 
+crops for fodder, pastoral land uses or forests if soils are 
+suitable. Such actions would increase carbon uptake, both 
+in the vegetation and soil, and would yield other benefits. 
+4.3.5 
+Sustainable 
+agricultural 
+practices: 
+Where 
+possible, m i n i m u m or n o - t i l l systems should be 
+introduced for those countries currently using tillage as 
+part of the annual cropping sequence, thus maintaining 
+and increasing soil organic matter. 
+Longer-term options: 
+4.3.6 
+Rice cultivation: A comprehensive approach, 
+including management of water regimes, improvement of 
+c u l t i v a r s , efficient use of fertilizers, and 
+other 
+management practices, could lead to a 10 to 30 percent 
+reduction in methane emissions from flooded rice 
+cultivation although substantial research is necessary to 
+develop and demonstrate these practices. 
+It is estimated 
+that at least 20 years would be needed to introduce such 
+practices. Adaptable altemative crops research is needed 
+to provide a more diverse crop base for rice growing 
+regions. 
+4.3.7 
+Livestock: Through a number of technologies it 
+appears that methane emissions may be reduced from 
+livestock systems by up to 25—75 percent per unit of 
+product in dairy and meat production, although many 
+uncertainties exist. 
+4.3.8 
+Fertilizers: 
+Fertilizer-derived emissions of 
+nitrous oxide potentially can be reduced (although to what 
+extent is uncertain) through changes in practices such as 
+using fertilizers with controlled nitrogen conversion rates, 
+i m p r o v i n g fertilizer-use e f f i c i e n c y , and adopting 
+altemative agricultural systems where possible. 
+4.3.9 
+Desertification: Enhanced research on control 
+measures. 
+132 
+
+Formulation of Response Strategies 
+4.4 
+Limitation of net emissions from 
+forestry and other activities 
+4.4.1 
+Forestry and related aspects of land use cannot be 
+considered in isolation, and solutions must be based on an 
+integrated approach which links forestry to other policies, 
+such as those concerned with poverty and land resources, 
+which should be supported by strong institutions in order to 
+enhance overall forest management. The forest crisis is 
+rooted in the agricultural sector and in people's needs for 
+employment and income. Deforestation will be stopped 
+only when the natural forest is economically more valuable 
+for the people who live in and around the forests than 
+alternative uses for the same land. 
+4.4.2 
+Forestry practices and other human activities 
+associated with land use, such as biomass burning and 
+landfills, account for about 18 percent of anthropogenic 
+greenhouse gas emissions. A number of short and long-term 
+response options for limiting net emissions from these 
+sectors have been identified. 
+Short-term options: 
+4.4.3 
+Improvement of forest-management and reduction 
+of deforestation and forest degradation which should be 
+supported by: 
+reduction of air pollution which contributes to forest 
+degradation; 
+• 
+elimination of inappropriate economic incentives and 
+subsidies that contribute to forest loss, where 
+appropriate; 
+• 
+integration of forest conservation requirements and 
+sustainable development in all relevant sectors of 
+national development planning and policy, taking 
+account of the interests of local communities; 
+co-ordinated remote sensing, data collection and 
+analyses to provide the required data; 
+• 
+a meeting o f interested countries from the 
+developing and the industrialized worlds and of 
+appropriate international agencies to identify 
+possible key elements of a world forest conservation 
+protocol in the context of a climate convention 
+process that also addresses energy supply and use, 
+and practical means of implementing it. Such a 
+meeting should also develop a framework and 
+methodology for analyzing the feasibility of the 
+Noordwijk remit including alternative targets, as 
+well as the full range of costs and benefits; 
+strengthening the Tropical Forestry Action Plan 
+(TFAP) and in the light of the independent review 
+which is being undertaken, the Intemational Tropical 
+Timber Organization (ITTO), and other intemational 
+organizations whose objective is to help developing 
+countries in achieving conservation, and sustainable 
+development and management of forests; 
+• 
+an assessment of incentives and disincentives for 
+sustainable forest management, for example, the 
+feasibility of labelling; 
+introduction of sustainable forest harvesting and 
+management; 
+development of enhanced regeneration methods; 
+development and implementation of (large-scale) 
+national afforestation and forest conservation plans, 
+where feasible. 
+4.4.4 
+Where appropriate expand forest areas, especially 
+by afforestation, agroforestry and regreening of available 
+suфlus agricultural, urban and marginal lands. 
+4.4.5 
+Where appropriate strengthen and improve the use 
+of forest products and wood through measures such as 
+substituting a portion of fossil energy sources by wood or 
+other sustainable managed biomass; partial replacement of 
+high energy input materials by wood; further recycling of 
+forest products; and improved efficiency of use of fuel 
+wood. 
+4.4.6 
+Development of methane recovery systems for 
+landfill and waste water treatment facilities and their use. in 
+particular, in industrialized countries 
+Longer-term options: 
+4.4.7 
+Maintain the health and the continuance of existing 
+forests as major natural carbon reservoirs, especially 
+through the development and implementation of: 
+silvicultural adjustment and stress management 
+strategies; 
+• 
+special forest protection strategies (developed under 
+climate change scenarios); 
+• 
+environmentally sound treatment practices for 
+peatlands; 
+standardization of methods of forest inventory and 
+bio-monitoring to facilitate global forest management. 
+4.4.8 
+Expand forest biomass, especially of intensively 
+managed temperate forests, by silviculture measures and 
+genetically improved trees. 
+4.4.9 
+With regard to waste management, use of gas 
+collection and flaring to reduce methane emissions from 
+landfills and development of biogas plants to reduce 
+methane 
+emissions from 
+wastewater 
+treatment. 
+133 
+
+Formulation of Response Strategies 
+Demonstration, training and technology transfer are 
+necessary to realize these potentials, which may range 
+from 30 to 90 percent for landfills and up to 100 percent 
+for wastewater treatment. 
+5. 
+Further work on greenhouse 
+gas emission limitation loals 
+5.0.1 
+There has been considerable international 
+d i s c u s s i o n of targets for specific greenhouse gas 
+emissions, in particular, C O , , which is the most abundant 
+of the greenhouse gases. The final declaration at the 
+November 1989 Noordwijk Conference on Atmospheric 
+Pollution and Climate Change encouraged the I P C C to 
+include in its First Assessment Report an analysis of 
+quantitative targets to limit or reduce CO2 emissions, and 
+urged all industrialized countries to investigate the 
+feasibility of achieving such targets, including, for 
+example, a 20 percent reduction of CO2 emissions by the 
+year 2005. The Conference also called for assessing the 
+feasibility of increasing net global forest growth by 12 
+million hectares per year. 
+During its Third Plenary, the 
+I P C C accepted the mandate. 
+5.0.2 
+Although the feasibility of quantitative targets on 
+greenhouse gas emissions fell within the R S W G ' s original 
+mandate through its Energy and Industry Subgroup (EIS), 
+it was agreed that these new, specific tasks would require 
+more time, data and analyses in order to be dealt with 
+properly. It was decided, therefore, that the results of the 
+deliberations of the EIS on these remits could not be fully 
+included in its report, but only treated in an incomplete and 
+preliminary way. A progress report is to be presented to the 
+Fourth IPCC Plenary following an international workshop 
+to be hosted by the United Kingdom in June 1990. As for the 
+Noordwijk remit on global forest growth, the R S W G 
+through its Agriculture, Forestry and Other Human 
+Activities Subgroup (AFOS) noted that a framework and 
+methodology for analyzing its feasibility should be 
+developed. 
+5.0.3 
+While the technical potential of a number of 
+options has been demonstrated, there is very little 
+information available on the actual economic and social 
+feasibility associated with implementation of such options. 
+A n adequate understanding of the benefits, in terms of 
+changes in climate variables that are avoided, is also 
+seriously lacking. It is imperative that further work on the 
+cost and benefit implications of response strategies be 
+undertaken. These issues have been identified as one of the 
+most important areas for future research by the R S W G , 
+concerned international organizations, and individual 
+countries. 
+5.0.4 
+The material available to the EIS demonstrates the 
+important role emissions of industrialized countries play in 
+total global emissions in the near term. The material also 
+indicates that the technical potential for reduction is large. 
+and differs greatly between regions and countries. Therefore, 
+in the near term, no significant progress in limiting global 
+emissions will occur without actions by the industrialized 
+countries. Some countries have already decided to stabilize 
+or reduce their emissions. 
+6. 
+Measures for adapting to 
+global climate change 
+6.0.1 
+In addition to the limitation options discussed 
+above, the R S W G reviewed measures for adapting to 
+potential climate change. The consideration of adaptation 
+options is critical for a number of reasons. First, because it 
+is believed that there is likely to be a lag time between 
+emissions and subsequent climate change, the climate may 
+already be committed to a certain degree of change. 
+Implementation of adaptation measures may thus be 
+necessary regardless of any limitation actions which may be 
+taken. Secondly, natural climatic variability 
+itself 
+necessitates adaptation. 
+6.0.2 
+Furthermore, should significant adverse climate 
+change occur, it would be necessary to consider limitation 
+and adaptation strategies as part of an integrated package in 
+which policies adopted in the two areas complement each 
+other so as to minimize costs. Limitation and adaptation 
+options should be developed and analyzed recognizing the 
+relationship between the timing and costs of limitation and 
+adaptation. 
+For example, the more net emissions are 
+reduced and the rate of climate change potentially slowed, 
+the easier it would be to adapt. A truly comprehensive 
+approach should recognize that controlling the different 
+gases might have different effects on the adaptive capacity 
+of natural resources. 
+6.0.3 
+The R S W G explored two broad categories of 
+adaptation options: 
+Coastal zone management, or options which maximize 
+the ability of coastal regions to adapt to the projected 
+sea level rise and to reduce vulnerability to storms; and 
+Resource use and management, or options which 
+address the potential impacts of global climate change 
+on food security, water availability, natural and 
+managed ecosystems, land, and biodiversity. 
+6.1 
+Coastal zone management 
+6.1.1 
+Under the 2030 high emissions scenario, global 
+climate change is predicted to raise global mean sea level 65 
+cm (with an uncertainty range of 30 to 100 cm) by the year 
+2100. If sea level rises by 1 metre, hundreds of thousands 
+of square kilometres of coastal wetlands and other lowlands 
+could be inundated, while ocean beaches could erode by as 
+much as a few hundred metres over the next century. 
+Flooding would threaten lives, agriculture, livestock, and 
+structures, while saltwater would advance inland into 
+134 
+
+Formulation of Response Strategies 
+aquifers, estuaries, and soils, thus threatening water supplies 
+and agriculture in some areas. Loss of coastal ecosystems 
+would threaten fishery resources. 
+6.1.2 
+Some nations would be particularly vulnerable to 
+such changes. Eight to ten million people live within one 
+metre of high tide in each of the unprotected river deltas of 
+Bangladesh, Egypt, and Vietnam. Half a million people live 
+in coral atoll nations that lie almost entirely within three 
+metres of sea level, such as the Maldives, the Marshal 
+Islands, Tuvalu, Kiribati, and Tokelau. Other states with 
+coastal areas, archipelagos and island nations in the Pacific 
+and Indian Oceans and the Caribbean could lose much of 
+their beaches and arable lands, which would cause severe 
+economic and social disruption. 
+6.1.3 
+Available responses to sea-level rise fall broadly 
+into three categories: 
+Retreat: Under this option no actions would be taken 
+to protect the land from the sea—the focus would 
+instead be on providing for people and ecosystems to 
+shift landward in an optimal fashion. This choice 
+could be motivated by either excessive costs of 
+protection or by a desire to maintain ecosystems. 
+Accommodation: Under this strategy, while no attempt 
+would be made to protect the land at risk, measures 
+would be taken to allow for continued habitation of the 
+area. 
+Specific responses under this options would 
+include erecting flood shelters, elevating buildings on 
+pilings, converting agriculture to fish farming, or 
+growing flood- or salt-tolerant species. 
+Protection: A protection strategy uses site-specific 
+features such as sea walls, dikes, dunes, and vegetation 
+to protect the land from the sea so that existing land 
+uses can be retained. 
+6.1.4 
+There are various environmental, economic, 
+social, cultural, legal, institutional and technological 
+implications for each of these options. Retreat could lead 
+to a loss of property, potentially costly resettlement of 
+populations, and. in some notable cases, 
+refugee 
+problems. 
+Accommodation could result in declining 
+property values, and costs for modifying infrastructure. 
+Protecting existing development from a one metre sea 
+level rise would require about 360,000 kilometres of 
+coastal defences at. a total cost of US$ 500 billion, over 
+the next 100 years. 
+The annual cost of protection 
+represents, on average, 0.04 percent of total gross national 
+product (GNP). and ranges from zero to 20 percent for 
+individual countries. The estimate is not discounted and 
+does not reflect present coastal defence needs or impacts 
+of salt water intrusion or flooding of unprotected lands. 
+Further, the protection could have negative impacts on 
+fisheries, wildlife and recreation. The loss of traditional 
+environments could potentially disrupt family life and 
+create social instability. 
+Actions to prepare for possible sea level rise 
+6.1.5 
+A number of response options are available which 
+not only enhance the ability of coastal nations to adapt to sea 
+level rise, but are also beneficial in their own right. 
+Implementation of such options would be most effective if 
+undertaken in the short-term, not because there is an 
+impending catastrophe, but because there are opportunities 
+to avoid adverse impacts by acting now—opportunities 
+which may not be as effective if the process is delayed. 
+These options include: 
+National coastal planning: 
+Development and implementation in the short term 
+of comprehensive national coastal zone management 
+plans which (a) deal with both sea level rise and other 
+impacts of global climate change and (b) ensure that 
+risks to populations are minimized while recognizing 
+the need to protect and maintain important coastal 
+ecosystems. 
+Identification of coastal areas at risk. National efforts 
+are needed to (a) identify functions and resources at 
+risk from a one metre rise in sea level and (b) assess 
+the implications of adaptive response measures on 
+them. 
+Provisions to ensure that coastal development does 
+not increase vulnerability to sea-level rise. Actions 
+in particular need of review include river levees and 
+dams, conversions of mangroves and other wetlands 
+for agriculture and human habitation, harvesting of 
+coral and increased settlement in low-lying areas. In 
+addition, while structural measures to prepare for 
+sea-level ri.se are not yet warranted, the design and 
+location of coastal infrastructure and coastal 
+defenses should include consideration of sea-level 
+rise and other coastal impacts of climate change. It 
+is somerimes less expensive to design a structure 
+today, incoфorating these factors, than to rebuild it 
+later. 
+Review and strengthening of emergency preparedness 
+and coastal zone response mechanisms. Effons are 
+needed to develop emergency preparedness plans for 
+reducing vulnerability to coastal storms through better 
+evacuation planning and the development of coastal 
+defense mechanisms that recognize the impact of sea 
+level rise. 
+/nternational cooperation : 
+Maintenance of a continuing intemational focus on 
+the impacts of sea-level rise. Existing intemational 
+organizations should be augmented 
+with new 
+mechanisms to focus attention and awareness on sea-
+level change and to encourage the nations of the worid 
+to develop appropriate responses. 
+135 
+
+Formulation of Response Strategies 
+Provision of technical assistance and co-operation to 
+developing nations. 
+Institutions offering financial 
+support should take into account the need for technical 
+assistance and co-operation in developing coastal 
+management plans, assessing coastal resources at risk, 
+and increasing a nation's ability—through education, 
+training, and technology transfer—to address sea level 
+rise. 
+• 
+Support by international organizations for national 
+efforts to limit population growth in coastal areas. In 
+the final analysis, rapid population growth is the 
+underlying problem with the greatest impact on both 
+the efficacy of coastal zone management and the 
+success of adaptive response options. 
+Research, data, and information: 
+Strengthening of research on the impacts of global 
+climate change on sea-level rise. Intemational and 
+national climate research programmes need to be 
+directed at understanding and predicting changes in 
+.sea-level, extreme events, precipitation, and other 
+impacts of global climate change on coastal areas. 
+Development and implementation of a global ocean 
+observing network, for example through the efforts 
+of the I O C , W M O and U N E P , to establish a 
+coordinated international ocean observing network 
+that will allow for accurate assessment and continuous 
+monitoring of changes in the world's oceans and 
+coastal areas, particulariy sea-level change and coastal 
+erosion. 
+Dissemination of data and information on sea-level 
+change and adaptive options. 
+A n international 
+mechanism could be identified with the participation 
+of the parties concemed for collecting and exchanging 
+data and information on climate change and its impact 
+on sea-level and the coastal zone and on various 
+adaptive options. Sharing this information with 
+developing countries is critically important for 
+preparation of coastal management plans. 
+6.1.6 
+A programme could begin now to enable 
+developing 
+countries 
+to 
+implement coastal 
+zone 
+management plans by the year 2000. The programme would 
+provide for training of country experts, data collection and 
+technical assistance and co-operation. Estimated funding to 
+provide the necessary support over the next 5 years is US$ 
+10.000,000. It is suggested that intemational organizations 
+such as U N E P and W M O consider co-ordinating this 
+programme in consultation with interested nations. 
+6.2 
+Resource use and management 
+6.2.1 
+The reports of Working Groups I and II indicate 
+significant and unavoidable impacts, both positive and 
+negative, upon the very resources that humans and other 
+species rely on to live. These resources include water, 
+agriculture, livestock, fisheries, land, forests, and wildlife. 
+The R S W G addressed these resource issues in the context 
+of considering options for ensuring food security; 
+conserving biological diversity; maintaining water 
+supplies; and using land rationally for managed and 
+unmanaged ecosystems. 
+6.2.2 
+The potential impacts of climate change on natural 
+resources and human activities are poorly understood. First, 
+credible regional estimates of changes in critical climatic 
+factors, such as temperature, soil moisture, annual and 
+seasonal variability, and frequencies of droughts, floods 
+and storms, are simply not available. For many of these 
+critical climatic factors even the direction of change is 
+uncertain. Secondly, methods for translating these changes 
+into effects on the quantity and quality of resources are 
+generally lacking. While it is clear that some of the impacts 
+of climate change on resources could be negative and others 
+positive, a more specific quantification of those impacts is 
+not possible at this time. Nevertheless, these uncertainties do 
+not preclude taking appropriate actions, especially if they are 
+worthwhile for other non-climate related reasons. However, 
+it can be said that: 
+(a) 
+those resources which are managed by humans (e.g. 
+agriculture, forestry) are more suited to successful 
+adaptation than unmanaged ecosystems; and 
+(b) 
+the faster the rate of change, the greater the impact. In 
+that regard, it is very important to realize that some 
+species will not be able to survive rapid climate 
+changes. 
+6.2.3 
+Through the ages societies and living things have 
+developed the capability to adapt to the climate's natural 
+variability and to extreme events. Several climatic zones 
+span the globe, and resource use and management is an 
+ongoing challenge in each of these zones. Therefore, society 
+could borrow from this existing large reservoir of experience 
+and knowledge in developing policies to adapt to possible 
+climate change. In addition, expected future economic and 
+technological progress would provide the financial and 
+technical resources required to better adapt to a changing 
+climate. 
+Nevertheless, significant costs, and legal, 
+institutional and cultural adjustments may be necessary to 
+implement adaptation measures. 
+6.2.4 
+In recognition of the uncertainties regarding the 
+impacts of climate change on resource use and management, 
+the following sections provide general, rather than specific, 
+options in three categories. The appropriateness of these 
+options for individual countries may vary depending on the 
+specific social, environmental and economic context. 
+Short-term research related options 
+6.2.5 
+There are a number of actions which would 
+augment our knowledge base for making reasoned 
+136 
+
+Formulation of Response Strategies 
+judgments about response strategies. These include: 
+• 
+Developing inventories, data bases, monitoring 
+systems, and catalogues of the current state of 
+resources and resource use and 
+management 
+practices. 
+Improving our scientific understanding of and 
+predictive tools for critical climatic factors, their 
+impacts on natural resources, and their socio-economic 
+consequences. 
+Undertaking studies and assessments to gauge the 
+resilience and adaptability of resources and their 
+vulnerability to climate change. 
+Encouraging research and development by both public 
+and private enteфrises directed toward more efficient 
+resource use and biotechnological innovation (with 
+adequate safeguards for health, safety, and the 
+environment), including allowing innovators to benefit 
+from their work. 
+Continuing existing research and development of 
+methods 
+to cope 
+with 
+the potentially 
+worst 
+consequences of climate change, such as developing 
+more drought- or salinity-resistant cultivars or using 
+classical and modern breeding techniques to help keep 
+farming and forestry options open, and research on 
+agrometeorology or agroclimatology. 
+Increasing research on the preservation of biological 
+resources in situ and ex situ, including investigations 
+into the size and location of protected natural areas and 
+conservation corridors. 
+Short-term policy options 
+6.2.6 
+Some response strategies are available which are 
+probably economically justified under 
+present-day 
+conditions and which could be undertaken for sound 
+resource management reasons, even in the absence of 
+climate change. In general, these relate to improving the 
+efficiency of natural resource use, fuller utilization of the 
+"harvested" component of resources, and waste reduction. 
+Measures that could be implemented in the short-term 
+include: 
+Increased emphasis on the development and adoption 
+of technologies which may increase the productivity or 
+efficiency (per unit of land or water) of crops, forests, 
+livestock, fisheries, and human settlements, consistent 
+with the principles of sustainable development. Such 
+efficiencies reduce the demand for land for human 
+activities and could also help reduce emissions of 
+greenhouse gases. Examples of specific options 
+include more efficient milk and meat production; 
+improved food storage and distribution: and better 
+water management practices. 
+Increased promotion and strengthening of resource 
+conservation and sustainable resource use—especially 
+in highly vulnerable areas. Various initiatives could be 
+explored for conserving the most sensitive and 
+valuable 
+resources, 
+including 
+strengthening 
+conservation measures, managing development of 
+highly 
+vulnerable 
+resources, 
+and 
+promoting 
+reforestation and afforestation. 
+Acceleration of economic development efforts in 
+developing countries. Because these countries often 
+have largely resource-based economies, efforts at 
+improving agriculture and natural resource use would 
+be particularly beneficial. Such efforts would also 
+promote capital formation, which would generally 
+make adaptation to climate change and sustainable 
+development more feasible. 
+Developing methods whereby local populations and 
+resource users gain a stake in conservation and 
+sustainable resource use, for example by investing 
+resource users with clear property rights and long-
+term tenure, and allowing voluntary water transfer or 
+other market mechanisms. 
+Decentralizing, as practicable, decision-making on 
+resource use and management. 
+Longer-term options 
+6.2.7 
+There are also a number of other possible 
+responses which are costly or otherwise appear to be more 
+appropriate for consideration in the longer term, once 
+uncertainties regarding climate change impacts are reduced. 
+Options in this category include: 
+Building large capital structures (such as dams) to 
+provide for enhanced availability of water and other 
+resources. 
+Strengthening and enlarging protected natural areas 
+and examining the feasibility of establishing 
+conservation corridors to enhance the adaptation 
+prospects for unmanaged ecosystems. 
+As appropriate, reviewing and eliminating direct and 
+indirect subsidies and incentives for inefficient 
+resource use, and other institutional barriers to efficient 
+resource use. 
+7. 
+Mechanisms for implementing 
+response strategies 
+7.0.1 
+The R S W G also considered several priority areas 
+which must be addressed in order to adequately implement 
+limitation or adaptation responses. These "implementation 
+mechanisms" represent the primary vehicles through which 
+national, regional and intemational responses to climate can 
+137 
+
+Formulation of Response Strategies 
+be brought into force. The specific implementation 
+mechanisms considered were: 
+• 
+public information and education; 
+• 
+technology development and transfer; 
+economic (market) mechanisms; 
+financial 
+mechanisms; 
+• 
+legal and institutional mechanisms, including possible 
+elements of a framework convention on climate 
+change. 
+7.0.2 
+The results of the R S W G ' s deliberations on these 
+issues are provided below. 
+7.1 
+Public information and education 
+7.1.1 
+A well informed global population is essential for 
+addressing and coping with an issue as complex as climate 
+change. Because climate change would affect, either directly 
+or indirectly, almost every sector of society, broad global 
+understanding of the issue will facilitate the adoption and 
+implementation of such response options as deemed 
+necessary and appropriate. The dissemination of information 
+also represents a powerful economic instrument for ensuring 
+that markets accurately take into account potential 
+consequences and/or opportunities of climate change. 
+7.1.2 
+The core aims of public education and information 
+programmes are to: 
+promote awareness and knowledge of climate change 
+issues; 
+provide guidance for positive practices to limit and/or 
+adapt to climate change; 
+encourage wide participation of all sectors of the 
+population of all countries, both developed and 
+developing, in addressing climate change issues and 
+developing appropriate responses; and 
+especially emphasize key target groups, such as 
+children and youth, as well as individuals at household 
+levels, policymakers and leaders, media, educational 
+institutions, scientists, business and agricultural 
+sectors. 
+7.1.3 
+G i v e n the importance of a well-informed 
+population, the R S W G developed suggestions 
+and 
+approaches for improving intemational awareness of the 
+potential causes and impacts of climate change. 
+In this 
+process it was recognized that, while broad-based 
+understanding is essential, no single mechanism can work 
+for every group or in every culture or country. The social, 
+economic, and cultural diversity of nations will likely require 
+educational approaches and information tailored to the 
+specific requirements and resources of particular locales, 
+countries or regions. The importance of education and 
+information 
+for 
+developing 
+countries 
+cannot 
+be 
+overemphasized. 
+7.1.4 
+A number of national and intemational actions 
+should be taken to disseminate broadly information on 
+climate change. These include the: 
+Establishment of national committees or clearing 
+houses to collect, develop, and disseminate objective 
+materials on climate change issues. This could help 
+provide focal points for information on issues such as 
+energy efficiency, energy savings, forestry, agriculture, 
+etc. 
+• 
+Use by intemational organizations ( U N E S C O , U N E P , 
+W M O , etc.) and non-governmental organizations of 
+I P C C and other relevant reports in developing and 
+providing to all countries an adequate understanding 
+for future actions. 
+Use of an existing international institution, or 
+development of a new institution, if necessary, to serve 
+as a clearing house for informational and educational 
+materials. 
+Upon completion of the I P C C reports, or eariier, 
+arrange a series of short seminars targeted to inform 
+high priority decision makers, worid leaders and others 
+of causes and effects of climate change. 
+7.2 
+Technology development and transfer 
+7.2.1 
+The development and transfer of technologies is 
+vital to any effort to address global climate change. The 
+development of new technologies may provide the means by 
+which societies can meet their energy, food, and other needs 
+in the face of changes in global climate, while at the same 
+time minimizing emissions of greenhouse gases. Prompt 
+transfer of technologies, especially to developing countries, 
+is likewi.se an important aspect of any effort to limit or 
+adapt to climate change. 
+Technology research and development 
+7.2.2 
+T e c h n o l o g i c a l 
+development, 
+i n c l u d i n g 
+improvement and reassessment of existing technologies, 
+is needed to limit or reduce anthropogenic greenhouse gas 
+emissions; absorb such gases by protecting and increasing 
+sinks; adapt human activities and resource use and 
+management to the impacts of climate change; and detect, 
+monitor and predict climate change and its impacts. 
+Technological development could be pursued in a wide 
+range of activities such as energy, industry, agriculture, 
+transport, water supply, coastal protection, management 
+of 
+natural 
+resources, 
+and housing and 
+b u i l d i n g 
+construction. 
+138 
+
+Formulation of Response Strategies 
+7.2.3 
+Adequate and trained human resources are a 
+prerequisite for development and transfer of technologies, 
+and technological actions, founded on a sound scientific 
+basis, must be consistent with the concept of sustainable 
+development. 
+7.2.4 
+Criteria for selecting technologies include such 
+factors as the existence of economic and social benefits in 
+addition to environmental benefits, economic efficiency 
+taking into account all the extemal costs, suitability to local 
+needs, ease of administration, information needs, 
+acceptability to the public. 
+7.2.5 
+Appropriate pricing policies where applicable, 
+information exchange on the state of development of 
+technologies, and the support of governments are important 
+measures that can promote technology development. Also of 
+importance are intemational collaborative efforts, especially 
+between the industrialized and the developing countries in 
+the bilateral and multilateral context. 
+Technology transfer 
+l.l.b 
+There is a need for the rapid transfer to the 
+developing countries, on a preferential basis, of technologies 
+for addressing climate change. Developing countries are of 
+the view that transfer of technologies on a non-commercial 
+basis is necessary and that specific bilateral and multilateral 
+arrangements should be established to promote this. Some 
+other countries where technologies are not owned by the 
+govemment believe that transfer of technologies would be 
+a function of commercial negotiations. 
+The issue of 
+intellectual property rights also presents a case where 
+intemational opinion is mixed. 
+7.2.7 
+A number of impediments also exist which 
+hinder the effective transfer of technologies to developing 
+countries. 
+These include lack of financial resources, 
+necessary institutions, and trained human resources. 
+Existing institutions could be strengthened, or new 
+mechanisms established, where appropriate, to finance 
+technology transfers, train human resources, and evaluate, 
+introduce and operate existing or new technologies. Legal 
+barriers and restrictive trade practices are also impeding 
+factors. 
+7.2.8 
+It has not been possible to bridge the difference of 
+views on some of the questions mentioned above. 
+It is 
+extremely important to reach early intemational agreement 
+on these issues in order to promote effective flow of 
+technologies to monitor, limit or adapt to climate change. 
+One area where intemational agreement may be possible is 
+the promotion of C F C substitutes and provision of assistance 
+and cooperation to the developing countries in the 
+acquisition and manufacture of such substitutes. 
+7.2.9 
+Several countries have suggested that the issue of 
+technology transfer to Eastern European countries be 
+addressed. 
+7.3 
+Economic mechanisms 
+7.3.1 
+It is important that any potential measures to limit 
+or adapt to global climate change be as economically 
+efficient and cost-effective as possible, while taking into 
+account important social implications. In general, 
+environmental objectives can be achieved either through 
+regulations requiring the use of a specific technology or 
+attainment of specified goals, or economic instruments such 
+as emissions fees, subsidies, tradeable permits or sanctions. 
+7.3.2 
+Economic 
+instruments, 
+through 
+their 
+encouragement of flexible selection of abatement measures, 
+frequently offer the possibility of achieving environmental 
+improvements at lower cost than regulatory mechanisms. 
+Unlike many regulations, they tend to encourage innovation 
+and the development of improved technologies and practices 
+for reducing emissions. Economic mechanisms also have 
+the potential to provide the signals necessary for more 
+environmentally sensitive operation of markets. 
+It is 
+unlikely, however, that economic instruments will be 
+applicable to all circumstances. 
+7.3.3 
+Three factors are considered as potential barriers to 
+the operation of markets and/or the achievement of 
+environmental objectives through market mechanisms. 
+These are: information problems, which can often cause 
+markets to produce less effective or unfavourable 
+environmental outcomes: existing measures and institutions, 
+which 
+can 
+encourage 
+individuals to 
+behave 
+in 
+environmentally damaging ways; and balancing competing 
+objectives (social, environmental, and economic). A n initial 
+response strategy may therefore be to address information 
+problems directly and to review existing measures which 
+may be barriers. For example, prior to possible adoption of 
+a system of emission charges, countries should examine 
+existing subsidies and tax incentives on energy and other 
+relevant greenhouse-gas-producing sectors. 
+7.3.4 
+A general advantage of market based economic 
+instruments is that they encourage limitations or reductions 
+in emissions by those who can achieve them at least cost. 
+They aLso provide an ongoing incentive for industry and 
+individual consumers 
+to apply the most 
+efficient 
+limitation/reduction measures through, for example, more 
+efficient and cleaner technologies. Such incentives may be 
+lacking in the case of regulations. 
+7.3.5 
+Regulations, are the customary means of controlling 
+pollution in both market and centrally planned economies. An 
+advantage of regulations is that, in certain circumstances, they 
+create more certainty as to desired outcomes, whereas major 
+disadvantages are that they may discourage innovation, 
+introduce inflexibilities in meeting objectives, can discourage 
+resource use efficiency, and offer few or no incentives to 
+reduce emissions below specified levels. 
+7.3.6 
+It is evident that the question of adoption of any 
+form of economic instrument, whether domestically or 
+139 
+
+Formulation of Response Strategies 
+internationally, raises many complex and difficult issues. 
+Careful and substantive analysis of all implications of 
+such instruments is needed. 
+Possible specific economic 
+instruments which have been identified for consideration 
+include: 
+• 
+A system of tradeable emissions permits: A n 
+emission penmit system is based on the concept that 
+the 
+e c o n o m i c 
+costs 
+of attaining 
+a given 
+environmental goal can be minimized by allowing 
+for the trading of emissions rights. Once an overall 
+limit on emissions has been set, emissions 
+entitlements amounting to that limit c o u l d be 
+provided to emitting sources and free trading of such 
+entitlements allowed. This would reduce the costs 
+of meeting a given emission target because: (a) as in 
+trade, comparative advantages between trading 
+entities would be maximized; and (b) economic 
+incentives would be created for the development of 
+improved greenhouse gas limitation technologies, 
+sink enhancement, and resource use efficiency 
+(energy conservation). Concerns with this approach 
+include the limited experience with this instrument, 
+the potential scope and size of trading markets and 
+the need for the development of an administrative 
+structure not currently in place. 
+• 
+A system of emission charges: Emission charges are 
+levied on specified emissions depending on their 
+level of contribution to climate change. 
+Such 
+charges may provide a means o f encouraging 
+emitters to limit or reduce emissions and provide an 
+incentive for diverse parties to implement efficient 
+means of limiting or reducing emissions. Another 
+advantage of charges is that they generate revenue 
+which could provide a funding base for further 
+pollution abatement, research, and administration, 
+or allow other taxes to be lowered. Concems with 
+this approach include the difficulty of deciding on 
+the basis and size o f the tax, and the lack of 
+certainty that the tax w i l l achieve the agreed 
+emission reduction target. 
+Subsidies: 
+Subsidies are aimed at encouraging 
+environmentally sound actions by lowering their 
+costs. 
+Subsidies c o u l d be used, inter alia, to 
+encourage the use of energy-efficient equipment 
+and non-fossil energy sources, and the development 
+and greater use of e n v i r o n m e n t a l l y 
+sound 
+technologies. 
+Concerns with subsidies include the 
+possible size of the required financial commitment 
+of governments, the need for careful design, the 
+need for review, and the intemational trade aspects 
+of such measures. 
+Sanctions: A final type of economic instrument is 
+the use of economic sanctions for the enforcement of 
+international agreements. This would require an 
+international convention to establish a system of 
+agreed trade or financial sanctions to be imposed on 
+countries not adhering to agreed regimes. 
+Many 
+contributors expressed considerable reservations 
+about applying this approach to greenhouse gas 
+emissions because of the complexity of the situation. 
+The concems include a belief that sanctions could 
+appear to be arbitrary, could create confusion and 
+resentment and could be used as a pretext to impose 
+new non-tariff trade barriers. 
+7.3.7 
+It has also been suggested that environmental 
+protection could be advanced and economic costs of 
+meeting greenhouse-gas l i m i t a t i o n targets, i f any, 
+m i n i m i z e d by addressing, to the extent feasible, all 
+greenhouse gas sources and sinks comprehensively. This 
+approach could employ an "index" relating net emissions 
+of various greenhouse gases by further development of 
+the index formulated by Working Group I. 
+7.3.8 
+Each of the approaches outlined above, however, 
+poses potentially significant challenges in terms of 
+implementation and acceptability. There is an incomplete 
+understanding of the economic and social consequences 
+of these various approaches. 
+It is evident that further 
+work is required in all countries, and in ongoing I P C C 
+work, to fully evaluate the practicality of such measures 
+and costs and benefits associated with 
+different 
+mechanisms, especially with their use intemationally. It 
+has, however, been pointed out that an international 
+system o f tradeable permits, or, alternatively, an 
+intemational system of emissions charges, could offer the 
+potential of serving as a cost-efficient main instrument for 
+achieving a defined target for the reduction of greenhouse 
+gas emissions. 
+7.3.9 
+Finally, it was stressed that in order to share 
+equitably the economic burdens, implementation of any of 
+the intemational economic instruments discussed above 
+should take into account the circumstances that most 
+emissions affecting the atmosphere at present originated 
+in the industrialized countries, where the scope for change 
+is the greatest, and that, under present conditions, 
+emissions from developing countries are growing and 
+may need to grow in order to meet their development 
+requirements and thus, over time, are likely to represent 
+an increasingly significant percentage of global emissions. 
+It is appreciated that each instrument assessed has a role 
+in meeting greenhouse-gas emission objectives, but the 
+suitability of particular instruments is dependent on the 
+particular circumstances and at this stage no measure can 
+be considered universally superior to any other available 
+mechanisms. 
+7.4 
+Financial meclianisms 
+7.4.1 
+Industrialized and developing countries consider 
+it important that assurances of financial mechanisms are 
+needed for undertaking adequate measures to limit and/or 
+adapt to climate change. 
+140 
+
+Formulation of Response Strategies 
+Guiding Principles 
+7.4.2 
+The following principles should guide the financial 
+approach; 
+a) 
+Industrialized countries and developing countries have 
+a common responsibility in dealing with problems 
+arising from climate change, and effective responses 
+require a global effort. 
+b) 
+Industrialized countries should take the lead and have 
+specific responsibilities on two levels: 
+i) 
+a major part of emissions affecting the atmosphere 
+at present originates in industrialized countries where 
+the scope for change is greatest. 
+Industrialized 
+countries should adopt 
+domesdc measures to limit 
+climate change by adapting their own economies in 
+line with future agreements to limit emissions; 
+ii) to cooperate 
+with developing countries in 
+international action, without standing in the way of the 
+latter's development, by contributing additional 
+financial resources, by appropriate transfer of 
+technology, by engaging in close cooperation 
+concerning scientific observation, by analysis and 
+research, and finally by means of technical co-operation 
+geared to forestalling and managing environmental 
+problems; 
+c) emissions from developing countries are growing 
+and may need to grow in order to meet their 
+development requirements and thus, over time, are 
+likely to represent an increasingly significant 
+percentage of global emissions. Developing countries 
+should, within the limits feasible, take measures to 
+suitably adapt their economies. 
+7.4.3 
+Financial resources channelled to developing 
+countries would be most effective if focused on those 
+activities which contribute both to limiting greenhouse gas 
+emissions and promoting economic development. Areas for 
+cooperation and assistance could include: 
+efficient use of energy resources and the increased use 
+of fossil fuels with lower greenhouse gas emission 
+rate or non-fossil sources; 
+rational forest management practices and agricultural 
+techniques which reduce greenhouse gas emissions; 
+facilitating technology transfer and technology 
+development; 
+measures which enhance the capacity of developing 
+countries to develop programmes to address climate 
+change, including research and development activities 
+and public awareness and education; 
+participation by developing countries in intemational 
+fora on global climate change, such as the IPCC. 
+7.4.4 
+It was also recognized that co-operation and 
+assistance for adaptive measures would be required, noting 
+that for some regions and countries, adaptation rather than 
+limitation activities are potentially most important. 
+7.4.5 
+A number of possible sources for generating 
+financial resources were considered. These include general 
+taxation, specific taxation on greenhouse gas emissions, 
+and emissions trading. For the significant complexities and 
+implications of such taxes, reference is made to the economic 
+measures paper (section 7.3). Creative suggestions include 
+using undisbursed official resources, which might result 
+from savings on govemment energy bills and lower levels 
+of military expenditures, a fixed percentage tax on travel 
+tickets, and levies on countries that have been unable to 
+meet their obligations. The question has also been raised of 
+whether such financial cooperation and assistance should 
+only be given to those countries which abstain from activities 
+producing greenhouse gases. A positive international 
+economic environment, including further reduction of trade 
+barriers, and implementation of more equitable trade 
+practices would help to generate resources which can be 
+applied towards pressing needs. 
+7.4.6 
+With respect to institutional mechanisms for 
+providing financial co-operation and assistance to developing 
+countries, a two-track approach was considered: 
+i) 
+one track built on work under way or planned in 
+existing institutions. In this regard, the World Bank, 
+a number of regional banks, other multilateral 
+organizations, and bilateral agencies have initiated 
+efforts to incorporate global climate change issues into 
+their programmes. 
+Bilateral donors could further 
+integrate and reinforce the environmental components 
+of their assistance programmes and develop co-
+financing arrangements with multilateral institutions 
+while ensuring that this does not impose inappropriate 
+environmental conditions; 
+ii) 
+parallel to this track the possibility of new mechanisms 
+and facilities was considered. Some developing and 
+industrialized countries suggested that new mechanisms 
+directly related to a future climate convention and 
+protocols, such as a new international fund, were 
+required. It was added that such new instruments 
+could be located within the World Bank (with new 
+rules) or elsewhere. It was also noted that the Global 
+Environmental Facility proposed by the World Bank in 
+collaboration with U N E P and U N D P was welcomed by 
+industrialized and developing countries at the Worid 
+Bank Development Committee meeting in May 1990. 
+7.4.7 
+It was noted that the issue of generating financial 
+resources was distinct from that of allocating those resources. 
+7.4.8 
+Areas identified for future work include studies, 
+with donor assistance, for developing countries on their 
+current and projected net emissions levels and assistance and 
+141 
+
+Formulation of Response Strategies 
+cooperation needs for limiting such emissions. 
+Further 
+consideration is also needed of the important role which the 
+private sector might play, through technology transfer, foreign 
+direct investment and other means to assist and cooperate with 
+developing countries to respond to climate change. 
+7.5 
+Legal and institutional mechanisms 
+7.5.1 
+A number of institutions and intemational legal 
+mechanisms exist which have a bearing on the climate change 
+issue, in particular those dealing with the environment, science 
+and technology, energy, natural resources, and financial 
+assistance. 
+One of these existing international legal 
+mechanisms, the Vienna Convention on the Protection of the 
+Ozone Layer and its associated Montreal Protocol on 
+Substances that Deplete the Ozone Layer, deals specifically 
+with reducing emissions of important greenhouse gases which 
+also deplete the ozone layer. However, there is a general 
+view that, while existing legal instruments and institutions 
+related to climate change should be fully utilized and further 
+strengthened, they are insufficient alone to meet the challenge. 
+7.5.2 
+A consensus emerged at the 44th session of the U N 
+General Assembly on the need to prepare, as a matter of 
+urgency, a framework convention on climate change, laying 
+down, as a minimum, general principles and obligations. It 
+should, in the view of R S W G , be framed in such a way as 
+to gain the adherence of the largest possible number and most 
+suitably balanced range of countries while permitting timely 
+action to be taken. It may contain provision for separate 
+annexes/protocol(s) to deal with specific obligations. As part 
+of the commitment of the parties to action on greenhouse gas 
+emissions and adverse effects of climate change, the 
+convention should also address the particular financial and 
+other needs of the developing countries (notably tho.se most 
+vulnerable to climate change agriculturally or otherwise), the 
+question of access to and transfer of technology, the need for 
+research and monitoring, and institutional requirements. 
+7.5.3 
+Decisions will have to be taken on a number of key 
+issues. The.se include: 
+the political imperative of striking the correct balances 
+(a) between the arguments for a far-reaching, action-
+oriented convention and the need for urgent adoption of 
+a convention so as to begin tackling the problem of 
+climate change; and (b) among the risks of inaction, the 
+costs of action and current levels of scientific uncertainty; 
+the extent to which specific obligations, particularly on 
+the control of emissions of greenhouse gases, should 
+be included in the convention itself, possibly as 
+annexes, or be the subject of a separate protocol(s); 
+the timing of negotiation of protocol(s) in relation to the 
+negotiations on the convention; 
+the introduction as appropriate of sound scientific 
+bases for establishing emission targets (such as total 
+emission levels, per capita emissions, emissions per 
+G N P , emissions per energy use, climatic conditions, 
+past performance, geographic characteristics, fossil 
+fuel resource base, carbon intensity per unit of energy, 
+energy intensity per G N P , socio-economic costs and 
+benefits or other equitable considerations); 
+the extent to which specific goals with respect to global 
+levels of emissions or atmospheric concentrations of 
+greenhouse gases should be addressed; 
+whether obligations should be equitably differentiated 
+according to countries' respective responsibilities for 
+causing and combatting climate change and their level 
+of development; 
+the need for additional resources for developing 
+countries and the manner in which this should be 
+addressed, particularly in terms of the nature, size and 
+conditions of the funding, even if detailed arrangements 
+form the subject of a separate protocol; 
+the basis on which the promotion of the development 
+and transfer of technology and provision of technical 
+assistance and co-operation to developing countries 
+should take place, taking into account considerations 
+such as terms of transfer (preferential or non-
+preferential, commercial or non-commercial), assured 
+access, intellectual property rights, the environmental 
+soundness of such technology, and the financial 
+implications; 
+the nature of any new institutions to be created by the 
+convention (such as a Conference of the Parties, an 
+Executive Organ, as well as other bodies), together with 
+their functions, composition and decision-making 
+powers, e.g. whether or not they should exercise 
+supervision 
+and control over the 
+obligations 
+undertaken. 
+7.5.4 
+The international negotiation on a framework 
+convention should start as quickly as possible after the 
+completion of the IPCC interim report. The full and effective 
+participation of developing countries in this process is 
+essential. Many, essentially developing, countries stressed 
+that the negotiation must be conducted in the forum, manner 
+and with the timing to be decided by the U N General 
+Assembly. This understanding also applies to any associated 
+protocols. In the view of many countries and intemational and 
+non-governmental organizations, the process should be 
+conducted with a view of concluding it not later than the 1992 
+U N Conference on Environment and Development. 
+7.5.5 
+The foregoing does not necessarily constitute an 
+exclusive list of issues which will arise in the negotiations. 
+However, a readiness to address these fundamental problems 
+will be a prerequisite for ensuring the success of the 
+negotiations and the support of a sufficiently wide and 
+representative spread of nations. 
+7.5.6 
+The legal measures topic paper developed by the 
+Working Group is given in Annex I. 
+142 
+
+Formulation of Response Strategies 
+ANNEX I 
+LEGAL AND INSTITUTIONAL 
+MECHANISMS: REPORT OF 
+TOPIC COORDINATORS 
+(Canada, Malta and the UK) 
+Executive Summary 
+1. The co-ordinators" report has as its primary objective the 
+compilation of elements that might be included in a future 
+framework Convention on Climate Change, and a discussion 
+of the issues that are likely to arise in the context of 
+developing those elements. 
+2. There is a general view that while existing legal 
+instruments and institutions with a bearing on climate should 
+be fully utilized and further strengthened, they are 
+insufficient alone to meet the challenge. A very broad 
+intemational consensus has therefore emerged in the IPCC, 
+confirmed notably at the 44th United Nations General 
+Assembly, on the need for a framework Convention on 
+Climate Change. 
+Such a Convention should generally 
+follow the format of the Vienna Convention for the 
+Protection of the Ozone Layer, in laying down, as a 
+minimum, general principles and obligations. It should 
+further be framed in such a way as to gain the adherence of 
+the largest possible number and most suitably balanced 
+spread of countries while permitting timely action to be 
+taken; 
+it should contain provision for separate 
+annexes/protocols to deal with specific obligations. As part 
+of the commitment of the parties to action on greenhouse gas 
+emissions and the adverse effects of global warming, the 
+Convention would also address the particular financial needs 
+of the developing countries, the question of the access to and 
+transfer of technology, and institutional requirements. 
+3. The paper points out a number of issues to be decided in 
+the negotiation of a Convention. In general these are: 
+the political imperative of striking the correct balances: 
+on the one hand, between the arguments for a far-
+reaching, action-oriented Convention and the need for 
+urgent adoption of such a Convention so as to begin 
+tackling the problem of climate change: and, on the 
+other hand, between the cost of inaction and the lack 
+of scientific certainty; 
+the extent to which specific obligations, particularly on 
+the control of emissions of carbon dioxide and other 
+greenhouse 
+gases, should be included in the 
+Convention itself or be the subject of separate 
+protocol(s): 
+• 
+the timing of negotiation of such protocol(s) in relation 
+to the negotiations on the Convention. 
+4. In particular, within the Convention the following specific 
+issues will need to be addressed: 
+a) 
+Financial needs of developing countries: The need for 
+additional resources for developing countries and the 
+manner in which this should be addressed, particularly 
+in terms of the nature, size and conditions of the 
+funding, even if detailed arrangements form the subject 
+of a separate protocol, will have to be considered by 
+the negotiating parties. 
+b) 
+Development and transfer of technology: The basis on 
+which the promotion of the development and transfer 
+of technology and provision of technical assistance to 
+developing countries should take place will need to be 
+elaborated, taking into account considerations such as 
+terms of transfer, assured access, intellectual property 
+rights and the environmental soundness of such 
+technology. 
+c) 
+Institutions: Views differ substantially on the role 
+and powers of the institutions to be created by the 
+Convention, particularly in exercising supervision and 
+control over the obligations undertaken. 
+5. The inclusion of any particular element in the paper does 
+not imply consensus with respect to that element, or the 
+agreement of any particular government to include that 
+element in a Convention. 
+6. The co-ordinators have not sought to make a value 
+judgement in listing and summarizing in the attached paper 
+the elements proposed for inclusion in a framework 
+Convention: 
+their text seeks merely to assist the future 
+negotiators in their task. They note however that a readiness 
+to address the foregoing fundamental problems in a realistic 
+manner will be a prerequisite for ensuring the success of the 
+negotiations and the support of a sufficiently wide and 
+representative spread of nations. 
+143 
+
+Formulation of Response Strategies 
+Possible elements for inclusion in a 
+Framework Convention on Climate 
+Change 
+Preamble 
+In keeping with common treaty practice including the format 
+of the Vienna Convention, the Climate Change Convention 
+would contain a preamble which might seek to address 
+some or all of the following items: 
+a description of the problem and reasons for action 
+(need for timely and effective response without 
+awaiting absolute scientific certainty): 
+• 
+reference to relevant intemational legal instruments 
+(such as the V i e n n a Convention and Montreal 
+Protocol) and declarations (such as U N G A Resolution 
+43/53 and Principle 21 of the Stockholm Declaration); 
+recognition that climate change is a common concem 
+of mankind, affects humanity as a whole and should be 
+approached within a global framework, without 
+prejudice to the sovereignty of states over the airspace 
+superadjacent to their territory as recognized under 
+international law; 
+recognition of the need for an environment of a quality 
+that permits a life of dignity and well-being for present 
+and future generations; 
+• 
+reference to the balance between the sovereign right of 
+states to exploit natural resources and the concomitant 
+duty to protect and conserve climate for the benefit of 
+mankind, in a manner not to diminish either; 
+endorsement and elaboration of the concept of 
+sustainable development; 
+• 
+recognition of the need to improve scientific 
+knowledge (e.g. through systematic observation) and 
+to study the social and economic impacts of climate 
+change, respecting national sovereignty; 
+• 
+recognition of the importance of the development and 
+transfer of technology and of the circumstances and 
+needs, particularly financial, of developing countries; 
+need for regulatory, supportive and adjustment 
+measures to take into account different levels of 
+development and thus differing needs of countries; 
+• 
+recognition of the responsibility of all countries to 
+make efforts at the national, regional and global levels 
+to limit or reduce greenhouse gas emissions and 
+prevent activities which could adversely affect climate, 
+while bearing in mind that: 
+most emissions affecting the atmosphere at present 
+originate in industrialized countries where the scope 
+for change is greatest; 
+implementation may take place in different time 
+frames for different categories of countries and may be 
+qualified by the means at the disposal of individual 
+countries and their scientific and technical capabilities; 
+emissions from developing countries are growing and 
+may need to grow in order to meet their development 
+requirements and thus, over time, are likely to 
+represent an increasingly significant percentage of 
+global emissions; 
+recognition of the need to develop strategies to absorb 
+greenhouse gases, i e. protect and increase greenhouse 
+gas sinks; to limit or reduce anthropogenic greenhouse 
+gas emissions; and to adapt human activities to the 
+impacts of climate change. 
+Other key issues which will have to be addressed 
+during the development of the preambular language 
+include: 
+should mankind's interest in a viable environment be 
+characterized as a fundamental right? 
+is there an entitlement not to be subjected, directly or 
+indirectly, to the adverse effects of climate change? 
+should there be a reference to the precautionary 
+principle? 
+in view of the inter-relationship among all greenhouse 
+gases, their sources and sinks, should they be treated 
+collectively? 
+should countries be permitted to meet their aggregate 
+global climate objectives through joint arrangements? 
+should reference be made to weather modification 
+agreements such as the E N M O D treaty as relevant 
+legal instruments? 
+is there a common interest of mankind in the 
+development and application of technologies to protect 
+and preserve climate? 
+does the concept of sustainable development exclude 
+or include the imposition of new conditionality in the 
+provision of financial assistance to developing 
+countries, and does it imply a link between the 
+protection and preservation of the environment, 
+including climate change, and economic development 
+so that both are to be secured in a coherent and 
+consistent manner? 
+should the preamble address the particular problems of 
+countries with an agricultural system vulnerable to 
+144 
+
+Formulation of Response Strategies 
+climate change and with limited access to capital and 
+technologies, recognizing the link with sustainable 
+development? 
+is there a minimum standard of living which is a 
+prerequisite to adopting response strategies to address 
+climate change? 
+Defínitions 
+As is the practice, definitions will need to be elaborated in 
+a specific article on definitions. The terms which will need 
+to be defined will depend on the рифозе of the Convention 
+and thus the language used by the negotiating parties. 
+General obligations 
+F o l l o w i n g the format of such treaties as the Vienna 
+Convention, an article would set out the general obligations 
+agreed to by the parties to the Convention. Such obligations 
+may relate to, for example: 
+• 
+the adoption of appropriate measures to protect against 
+the adverse effects of climate change, to limit, reduce, 
+adapt to and, as far as possible, prevent climate change 
+in accordance with the means at the disposal of 
+individual countries and their scientific and technical 
+capabilities; and to avoid creating other environmental 
+problems in taking such measures; 
+the protection, stabilization and improvement of the 
+composition of the atmosphere in order to conserve 
+climate for the benefit of present and 
+future 
+generations; 
+• 
+taking steps having the effect of limiting climate change 
+but which are already justified on other grounds; 
+the use of climate for peaceful puфoses only, in a 
+spirit of good neighbourliness; 
+co-operation by means of research, 
+systematic 
+observation and information exchange in order to 
+understand better and assess the effects of human 
+activities on the climate and the potential adverse 
+environmental and socio-economic impacts that could 
+result from climate change, respecting national 
+sovereignty; 
+the encouragement of the development and transfer of 
+relevant technologies, as well as the provision of 
+technical and financial assistance, taking into account 
+the particular needs of developing countries to enable 
+them to fulfill their obligations; 
+• 
+co-operation in the formulation and harmonization of 
+policies and strategies directed at limiting, reducing, 
+adapting to and, as far as possible, preventing climate 
+change; 
+• 
+co-operation in the adoption of appropnate legal or 
+administrative measures to address climate change; 
+provision for bilateral, multilateral and regional 
+agreements or arrangements not incompatible with 
+the Convention and any annex/protocol, including 
+opportunities for groups of countries to fulfill the 
+requirements on a regional or sub-regional basis; 
+• 
+co-operation 
+with 
+competent 
+international 
+organizations effectively to meet the objectives of the 
+Convention; 
+the encouragement 
+of and co-operation in the 
+promotion of public education and awareness of the 
+environmental and socio-economic impacts of 
+greenhouse gas emissions and of climate change; 
+the strengthening or modificaron if necessary of 
+existing legal and institutional instruments and 
+arrangements relating to climate change; 
+a provision on funding mechanisms. 
+Other key issues which will have to be addressed in the 
+process of elaborating this article include the following: 
+• 
+Should there be a provision setting any specific goals 
+with respect to levels of emissions (global or national) 
+or atmospheric concentrations of greenhouse gases 
+while ensuring stable development of the world 
+economy, particularly stabilization by industrialized 
+countries, as a first step, and later reduction of CO2 
+emissions and emissions of other greenhouse gases 
+not controlled by the Montreal Protocol? 
+Such 
+provision would not exclude the application of more 
+stringent national or regional emission goals than those 
+which may be provided for in the Convention and/or 
+any annex/protocol. 
+In light of the preambular language, should there be a 
+provision recognizing that implementation of 
+obligations may take place in different time frames for 
+different categories of country and/or may be qualified 
+by the means at the disposal of individual countries 
+and their scientific and technical capabilities? 
+Should there be a commitment to 
+formulate 
+appropriate measures such as annexes, protocols or 
+other legal instruments and, if so, should such 
+formulation be on a sound scientific basis or on the 
+basis of the best available scientific knowledge? 
+• 
+In addressing the transfer of technology particularly to 
+developing countries, what should be the terms of 
+such transfers (i e. commercial vs. non-commercial, 
+preferential vs. non-preferential, the relationship 
+between transfers and the protection of intellectual 
+property rights)? 
+145 
+
+Formulation of Response Strategies 
+Should funding mechanisms be limited to making full 
+use of existing mechanisms or also entail new and 
+additional resources and mechanisms? 
+• 
+Should provision be made for environmental impact 
+assessments of planned activities that are likely to 
+cause significant climate change as well as for prior 
+notice of such activities? 
+What should be the basis of emission goals eg. total 
+• emission levels, per capita emissions, emissions per 
+G N P , emissions per energy use, climatic conditions, 
+past performance, geographic characteristics, fossil 
+fuel resource base, carbon intensity per unit of energy, 
+energy intensity per G N P , socio-economic costs and 
+benefits, or other equitable considerations? 
+• 
+Should the particular problem of sea-level rise be 
+specifically addressed? 
+Is there a link between nuclear stockpiles and climate 
+change? 
+Institutions 
+It has been the general practice under international 
+environmental agreements to establish various institutional 
+mechanisms. The parties to a Climate Change Convention 
+might, therefore, wish to make provision for a Conference 
+of the Parties, an Executive Organ and a Secretariat. 
+The Conference of the Parties may. among other things: 
+keep under continuous review the implementation of the 
+Convention and take appropriate decisions to this end; 
+review current scientific information; and promote 
+harmonization of policies and strategies directed at limiting, 
+reducing, adapting to and, as far as possible, preventing 
+climate change. 
+Questions that will arise in developing provisions for 
+appropriate institutional mechanisms include: 
+• 
+Should any of the Convention's institutions (e.g. the 
+Conference of the Parties and/or the Executive Organ) 
+have the ability to take decisions inter alia on response 
+strategies or functions in respect of surveillance, 
+verification and compliance that would be binding on 
+all the parties and, if so, should such an institution 
+represent all of the parties or be composed of a limited 
+number of parties e.g. based on equitable geographic 
+representation? 
+What should be the role of the Secretariat? 
+What should be the decision-making procedures, 
+including voting requirements (e.g. consensus, 
+majority)? 
+• 
+If a trust fund or other financial mechanism were 
+established under the Convention, how should it be 
+administered? 
+Should scientific and/or other bodies be established on 
+a permanent or ad hoc basis, to provide advice and 
+make recommendations to the Conference of the 
+Parties concerning research activities and measures 
+to deal with climate change? 
+Should the composition of the above bodies reflect 
+equitable climatic or geographic representation? 
+Should there be a provision for working groups, e.g. on 
+scientific matters as well as on socio-economic 
+impacts and response strategies? 
+Is there a need for innovative approaches 
+to 
+institutional mechanisms in the light of the nature of 
+the climate change issue? 
+What should be the role of non-governmental 
+organizations? 
+Research, Systematic Observations and 
+Analysis 
+It would appear to follow general practice to include 
+provision for co-operation in research and systematic 
+monitoring. In terms of research, each party might be called 
+upon to undertake, initiate, and/or co-operate in, directly or 
+through intemational bodies, the conduct of research on and 
+analysis of: 
+physical and chemical processes that may affect 
+climate; 
+substances, practices, processes and activities that 
+could modify the climate; 
+techniques for monitoring and measuring greenhouse 
+gas emission rates and their uptake by sinks; 
+improved climate models, particulariy for regional 
+climates; 
+• 
+environmental, social and economic effects that could 
+result from modifications of climate; 
+altemative substances, technologies and practices; 
+environmental, social and economic effects of 
+response strategies; 
+human activities affecting climate; 
+coastal areas with particular reference to sea-level rise; 
+• 
+water resources; and 
+energy efficiency. 
+146 
+
+Formulation of Response Strategies 
+The parties might also be called upon to co-operate in 
+establishing and improving, directly or through competent 
+intemational bodies, and taking fully into account national 
+legislation and relevant on-going activities at the national, 
+regional and intemational levels, joint or complementary 
+programmes for systematic monitoring and analysis of 
+climate, including a possible worldwide system; and co­
+operate in ensuring the collection, validation and 
+transmission of research, observational data and analysis 
+through appropriate data centres. 
+Other issues that will arise in developing this provision 
+include: 
+Should consideration be given to the establishment of 
+panels of experts or of an independent scientific board 
+responsible for the co-ordination of data collection 
+from the above areas of research and analysis and for 
+periodic assessment of the data? 
+Should provision be made for on-site inspection? 
+Should there be provision for open and non­
+discriminatory access to meteorological data 
+developed by all countries? 
+Should a specific research fund be established? 
+Information exchange and reporting 
+Precedents would suggest the inclusion of a provision for the 
+transmission of information through the Secretariat to the 
+Conference of the Parties on measures adopted by them in 
+implementation of the Convention and of protocols to which 
+they are рапу. In an annex to the Vienna Convention, the 
+types of information exchanged are specified and include 
+scientific, technical, socio-economic, commercial and legal 
+information. 
+For the puфoses of elaborating this provision, issues having 
+to be addressed by the negotiating parties include the 
+following: 
+Is there a need for the elaboration of a comprehensive 
+intemational research programme in order to facilitate 
+co-operation 
+in the 
+exchange 
+of scientific, 
+technological and other information on climate 
+change? 
+Should parties be obliged to report on measures they 
+have adopted 
+for the 
+implementation 
+of 
+the 
+Convention, with the possible inclusion of regular 
+reporting on a comparable basis of their emissions of 
+greenhouse gases? 
+Should each party additionally be called upon to 
+develop a national inventory of emissions, strategies 
+and available technologies for addressing climate 
+change? If so, the Convention might also call for the 
+exchange of information on such inventories, strategies 
+and technologies. 
+Development and transfer of technology 
+While the issue of technology has been addressed in the 
+section on General Obligations, it might be considered 
+desirable to include separate provisions on technology 
+transfer and technical co-operation. Such provisions could 
+call upon the parties to promote the development and 
+transfer of technology and technical co-operation, taking 
+into account particulariy the needs of developing countries, 
+to enable them to take measures to protect against the 
+adverse effects of climate change, to limit, reduce and, as far 
+as possible, prevent climate change, or to adapt to it. 
+Another issue which will arise is: should special terms be 
+attached to climate-related transfers of technology (such as 
+a preferential and/or non-commercial basis and assured 
+access to, and transfer of, environmentally sound 
+technologies on favourable terms to developing countries), 
+taking into consideration the protection of intellectual 
+property rights? 
+Settlement of disputes 
+It would be usual international practice to include a 
+provision on the settlement of disputes that may arise 
+concerning the interpretation or application of the 
+Convention and/or any annex/protocol. Provisions similar to 
+those in the Vienna Convention for the Protection of the 
+Ozone Layer might be employed, i.e. voluntary resort to 
+arbitration or the Intemational Court of Justice (with a 
+binding award) or, if neither of those options is elected, 
+mandatory resort to conciliation (with a recommendatory 
+award). 
+Other provisions 
+It would be the usual intemational practice to include clauses 
+on the following topics: 
+amendment of the Convention; 
+status, adoption and amendment of annexes; 
+adoption and entry into force of, and amendments to, 
+protocols; 
+signature; 
+ratification; 
+• 
+accession; 
+right to vote; 
+relationship between the Convention and any 
+protocol(s); 
+147 
+
+Formulation of Response Strategies 
+entry into force; 
+reservations; 
+withdrawal; 
+depositary; 
+authentic texts. 
+Annexes and protocols 
+The negotiating parties may wish the Convention to provide 
+for the possibility of annexes and/or protocols. Annexes 
+might be concluded as integral parts of the Convention, 
+while protocols might be concluded subsequently (as in the 
+case of the Montreal Protocol to the Vienna Convention on 
+Protection of the Ozone Layer). While it is recognized that 
+the Convention is to be all-encompassing, the negotiating 
+parties will have to decide whether greenhouse gases, their 
+sources and sinks, are to be dealt with: individually, in 
+groups or comprehensively; in annexes or protocols to the 
+Convention. The following, among others, might also be 
+considered as possible subjects for annexes or protocols to 
+the Convention: 
+agricultural practices; 
+forest management; 
+funding mechanisms; 
+research and systematic observations; 
+energy conservation and alternative sources of energy; 
+• 
+liability and compensation; 
+intemational emissions trading; 
+intemational taxation system; 
+development and transfer of climate change-related 
+technologies. 
+• 
+Issues that w i l l arise in connection with the 
+development of annexes and protocols include: 
+timing, i e. negotiating parties advocating a more 
+action-oriented Convention may seek to include 
+specific obligations in annexes as opposed to 
+subsequent protocols and/or negotiate one or more 
+protocols in parallel with the Convention negotiations; 
+sequence, i e. if there is to be a series of protocols, in 
+what order should they be taken up? 
+148 
+
+Formulation of Response Strategies 
+LIST O F A C R O N Y M S A N D C H E M I C A L S Y M B O L S 
+A F O S 
+Agriculture, Forestry and Other Human Activities Subgroup of I P C C Working Group III 
+BaU 
+Business-as-Usual Scenario. Same as Scenario A of Working Group III 
+Bt 
+Billion (1000 million) tonnes 
+B T C 
+Billion (or 1000 millions) tonnes Carbon 
+CFCs 
+Chlorofluorocarbons 
+CH4 
+Methane 
+CI 
+Carbon Intensity in kilogram carbon per gigajoule 
+C O 
+Carbon monoxide 
+CO2 
+Carbon dioxide 
+EIS 
+Energy and Industry Subgroup of Working Group III 
+G g 
+Gigagram (10^ grams) 
+G H G 
+Greenhouse Gas 
+G D P 
+Gross Domestic Product 
+G N P 
+Gross National Product 
+GtC 
+Gigatonnes ( 10^ tonnes) carbon 
+H C F C 
+Hydrochlorofluorocarbon 
+H F C 
+Hydrofluorocarbon 
+IOC 
+Intergovernmental Océanographie Commission of U N E S C O 
+IPCC 
+Intergovemmental Panel on Climate Change 
+ICSU 
+Intemational Council of Scientific Unions 
+ITTO 
+Intemational Tropical Timber Organization 
+Mt 
+Mégatonnes (10^ tonnes) 
+N20 
+Nitrous oxide 
+NGOs 
+Non-Governmental Organizations 
+NOx 
+Nitrogen oxides 
+О3 
+Ozone 
+O E C D 
+Organization for Economic Cooperation and Development 
+pa 
+per annum 
+PC 
+per capita carbon emissions in tonne carbon 
+ppm 
+part per million 
+R S W G 
+Respone Strategies Working Group of IPCC Working Group III 
+SOx 
+Sulphur oxides 
+T C 
+Tonne Carbon 
+T C - G J 
+Tonne Carbon per GigaJoule 
+I F A P 
+Tropical Forstry Action Plan 
+Tg 
+Teragrams ( 1 o' ^ grams) 
+TgC 
+Teragram Carbon 
+TgCH4 
+Teragram Methane 
+TgN 
+Teragram Nitrogen 
+U N 
+United Nations 
+U N D P 
+United Nations Development Programme 
+U N E P 
+United Nations Environment Programme 
+U N E S C O 
+United Nations Educational, Scientific and Cultural Organization 
+VOCs 
+Volatile Organic Compounds 
+W M O 
+World Meteorological Organization 
+149 
+

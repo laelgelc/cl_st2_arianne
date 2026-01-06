@@ -1,0 +1,1912 @@
+20 
+Decision IPCC/XLIV-5. Sixth Assessment Report (AR6) Products, Outline of the Methodology 
+Report(s) to refine the 2006 Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+The Intergovernmental Panel on Climate Change decides, 
+ 
+1. To prepare a Methodology Report to refine the 2006 IPCC Guidelines for National Greenhouse 
+Inventories” with the following format and title: 
+ 
+The format should be one single Methodology Report comprising an Overview Chapter and 
+five volumes following the format of the 2006 IPCC Guidelines for National Greenhouse 
+Gas Inventories (2006 IPCC Guidelines). 
+ 
+The title of the Methodology Report should be “2019 Refinement to the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories”. 
+2. To adopt the terms of reference for the production of a Methodology Report to refine the 2006 
+IPCC Guidelines for National Greenhouse Gas Inventories as contained in Annex 1 to this 
+Decision. 
+3. To adopt the table of contents of the Methodology Report as contained in Annex 2 to this 
+Decision. 
+4. To take note of document IPCC-XLIV/INF.7. 
+5. That the budget for the production of this Methodology Report is as contained in Decision 
+(IPCC/XLIV-1) on the IPCC Trust Fund Programme and Budget. 
+ 
+ 
+ 
+ 
+
+ 
+21 
+ANNEX 1  
+ 
+Terms of Reference for the production of a Methodology Report to refine the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+Background 
+ 
+1. The 26th Meeting of Task Force Bureau (TFB) (28 - 29 August 2014, Ottawa) concluded that: 
+- 
+The 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2006 IPCC 
+Guidelines) provide a technically sound methodological basis of national greenhouse gas 
+inventories, and therefore fundamental revision is unnecessary. 
+- 
+To maintain the scientific validity of the 2006 IPCC Guidelines, certain refinements may 
+be required, taking into account scientific and other technical advances that have 
+matured sufficiently since 2006. 
+2. Following these conclusions by the TFB and approval by the IPCC at its 40th Session, the 
+Task Force on National Greenhouse Gas Inventories (TFI) started a technical assessment of 
+IPCC Inventory Guidelines through an on-line questionnaire survey and four expert meetings 
+in 2015 and 2016. The technical assessment revealed that there has been abundant new 
+scientific and empirical knowledge published since 2006 which the IPCC should take into 
+account, particularly with respect to data for emission factor development for some 
+categories and gases. Consequently, the necessity and usefulness of refining the current 
+methodological guidance (e.g. updating default emission factors) has been recognized by 
+TFB. 
+3. A refinement of the 2006 IPCC Guidelines is required as early as possible in order to 
+address the issues that were identified through the technical assessment referred to in 
+paragraph 2 above. The refinement will help all UNFCCC Parties use good practice 
+inventory methodologies based on up-to-date scientific knowledge. 
+ 
+Scope 
+ 
+4. The IPCC at its 43rd Session (11-13 April 2016, Nairobi) approved the proposal on 
+“Refinement of 2006 IPCC Guidelines for National Greenhouse Gas Inventories, including 
+production of a Methodology Report(s)” as contained in the Decision IPCC/XLIII-8 “Update of 
+methodologies on National Greenhouse Gas Inventories”, and decided to consider the draft 
+Methodology Report(s) at a Plenary session of the IPCC in May 2019 as contained in the 
+Decision IPCC/XLIII-7 “Sixth Assessment Report (AR6) Products. Strategic Planning”. 
+5. The overall aim of the refinement of the 2006 IPCC Guidelines is to provide an updated and 
+sound scientific basis for supporting the preparation and continuous improvement of national 
+greenhouse gas inventories.  
+6. In order to achieve the overall aim, the Methodology Report will: 
+- 
+Provide supplementary methodologies for sources or sinks of greenhouse gases only 
+where currently there are gaps or where new technologies and production processes 
+have emerged requiring elaborated methodologies or for sources or sinks that are not 
+well covered by the 2006 IPCC Guidelines; 
+- 
+Provide updated default values of emission factors and other parameters based on the 
+latest available science only where significant differences from currently adopted factors 
+are identified; 
+- 
+Provide additional or alternative up-to-date information and guidance, where possible, as 
+clarification or elaboration of existing guidance in the 2006 IPCC Guidelines. 
+ 
+
+22 
+7. In line with paragraph 6 above, the Methodology Report will clearly indicate what type of 
+refinement is provided in each section. The types of refinement are defined in Appendix 1. 
+These terms should be used consistently throughout the Methodology Report. 
+8. For the purpose of elaborating on and clarifying the existing IPCC guidance, the 
+Methodology Report should aim to address any important needs for clarification arising from 
+GHG inventory reviews or the technical analysis of inventories as part of biennial update 
+reports under the UNFCCC if such needs are identified in time during the elaboration of the 
+report. 
+9. The refinement work will not revise the 2006 IPCC Guidelines, but will update, supplement 
+and/or elaborate the 2006 IPCC Guidelines where gaps or out-of-date science have been 
+identified. The Methodology Report will not replace the 2006 IPCC Guidelines, but will be 
+used in conjunction with the 2006 IPCC Guidelines. 
+ 
+Approach 
+ 
+10. The result of this work will be an IPCC Methodology Report “2019 Refinement to the 2006 
+IPCC Guidelines for National Greenhouse Gas Inventories”. 
+11. The authors will follow Appendix 2 “Instructions to Experts and Authors” to ensure a 
+consistent and coherent approach across all the volumes or chapters, including the use of 
+common terminology.  
+12. Literature will be considered up to a cut-off date at the start of the Government/Expert 
+Review. 
+13. Table 1 provides the time table for this task. 
+ 
+ 
+ 
+ 
+
+ 
+23 
+Table 1: Work Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date 
+Action 
+Comments 
+October 2016 
+IPCC-44 
+IPCC Plenary approves ToR, chapter outline, work plan and guidance to authors 
+November 2016 
+Call for Nomination of Authors and Review 
+Editors 
+IPCC invites nominations from governments and international organizations 
+February 2017 
+TFB select Authors and Review Editors 
+Selection by TFB considering expertise and geographical coverage 
+June 2017 
+1st Lead Author Meetings  
+LAM1a (non-AFOLU) and LAM1b (AFOLU) and LAM1c (General Guidance and 
+Reporting). To develop zero order draft 
+September 2017 
+2nd Lead Author Meeting 
+To develop first order draft for review 
+December 2017– January 2018 
+Expert Review 
+8 weeks review by experts 
+March 2018 
+Science Meeting 
+A small meeting of CLAs and some LAs to discuss specific issues that require 
+intensive discussion to reinforce the writing process. 
+April 2018 
+3rd Lead Author Meeting 
+To consider comments and produce second order draft for review 
+xxx 2018 
+Literature cut-off date 
+Only papers published before this date will be considered 
+July-August 2018 
+Government & Expert Review 
+8 weeks review by governments and experts 
+October 2018 
+4th Lead Author Meeting 
+To consider comments and produce final draft 
+January 2019 
+Government Review  
+Distribute to governments for their consideration prior to approval (at least 4 weeks 
+prior to the Panel) 
+May 2019 
+Adoption/acceptance by IPCC-49  
+Final draft submitted to IPCC Panel for adoption/acceptance 
+xxx 2019 
+Distribute Report 
+Distribute to governments and international organizations 
+
+ 
+24 
+Appendix 1: Types of refinement 
+ 
+The following three refinement types should be indicated in the refined sections of the 
+Methodology Report. 
+ 
+1. Update 
+This is to update existing guidance (table, section, or an entire chapter) to 
+address the needs explained in the first or second bullet under paragraph 6 
+in this TOR. New elements that do not change default approaches in the 
+existing guidance is considered “update”. A typical example is to provide new 
+default values for EFs contained in a table in the 2006 IPCC Guidelines, and 
+in this case it is considered “Update of Table X.X (on default EFs)”. 
+Update of section or entire chapter is to rewrite an existing section or chapter 
+including existing information and new information in the case it is difficult to 
+provide only the new information without overlap with existing guidance. 
+From the inventory compiler’s view point, “update” of existing guidance 
+means that they are encouraged to use the table/section/chapter in the new 
+Methodology Report instead of the corresponding table/section/chapter in 
+the 2006 IPCC Guidelines. 
+2. Elaboration 
+This is to elaborate existing guidance to address the needs explained in the 
+first or third bullet under paragraph 6 in this TOR. 
+New elements that may be added to default approaches in the existing 
+guidance is considered “elaboration”. Also, additional or alternative up-to-
+date information and guidance provided to clarify existing guidance is 
+considered “elaboration”. A typical example is to include the contents in 
+FAQs in TFI website in the new Methodology Report(s). 
+Elaboration of section or entire chapter is NOT to rewrite an existing section 
+or chapter, but to provide a sub-section or section which contains additional 
+or alternative up-to-date information without overlap with existing guidance. 
+From the inventory compiler’s view point, “elaboration” of existing guidance 
+means that they are encouraged to use the table/section/chapter in the new 
+Methodology Report in conjunction with the corresponding 
+table/section/chapter in the 2006 IPCC Guidelines. 
+3. New guidance 
+This is to add completely new guidance on issues for which there is 
+essentially no guidance in the 2006 IPCC Guidelines to address the needs 
+explained in the first bullet under paragraph 6 in this TOR. 
+Creation of default approaches to issues that are not well covered in the 
+2006 IPCC Guidelines is considered “new guidance”. 
+From the inventory compiler’s view point, “new guidance” means that they 
+are encouraged to use the section/chapter in the new Methodology Report 
+without reference to specific sections/chapters in the 2006 IPCC 
+Guidelines, recognizing that there is essentially no corresponding guidance 
+in the 2006 IPCC Guidelines. 
+ 
+Besides, “No refinement” should indicate that no refinement has been made in that section. 
+ 
+
+ 
+25 
+Appendix: Instructions to Experts and Authors 
+ 
+ 
+Instructions to Experts and Authors  
+ 
+ 
+1. Work on a Methodology Report to refine the 2006 IPCC Guidelines for National Greenhouse 
+Gas Inventories (2006 IPCC Guidelines) will be guided by the IPCC procedures for the 
+Preparation, Review, Acceptance, Adoption, Approval and Publication of the IPCC Reports 
+(Appendix A to the Principles Governing the IPCC Work1). This document is consistent with 
+the IPCC procedures, and applies to all experts engaged in the production of a new 
+Methodology Report.  
+2. In this document the term “experts” covers Co-Chairs, members of the TFI Bureau (TFB), 
+TSU Staff, Coordinating Lead Authors (CLAs), Lead Authors (LAs), and Review Editors 
+(REs) as well as Contributing Authors (CAs) and Expert Reviewers. 
+3. These notes are intended as guidance to experts contributing to a new Methodology Report. 
+They are intended to ensure a consistent and coherent approach across all the volumes or 
+chapters and to promote common terms used. 
+ 
+Confidentiality 
+ 
+4. Authors meetings are closed meetings. Any discussions are confidential except for any 
+published report of the meeting. This is to ensure that experts participating in the meetings 
+can express themselves and discuss issues freely and openly. 
+5. The IPCC considers the drafts of a new Methodology Report, prior to acceptance, to be pre-
+decisional, provided in confidence to reviewers, and not for public distribution, quotation or 
+citation. 
+6. The TSU will keep drafts of a new Methodology Report sent for the IPCC review, any 
+comments received on them and the responses by authors. All written expert and 
+government review comments will be made available to reviewers on request. These will be 
+made available on the IPCC website as soon as possible after the acceptance by the Panel 
+and the finalisation of the report.  
+ 
+Conflict of Interest 
+ 
+7. It is important that all experts involved in the IPCC activities avoid any conflict of interest or 
+the direct and substantial appearance of a conflict of interest. It is recognised that many 
+experts in Emission Inventories are employed by, or funded by, parties with some interest in 
+the outcome (e.g. most inventory compilers are funded by national governments or 
+industry). It is therefore important to be open and transparent about financial and other 
+interests. 
+8. The IPCC implements a Conflict of Interest (COI) Policy2 3 that applies to all individuals 
+directly involved in the preparation of IPCC reports, including senior IPCC leadership (IPCC 
+Chair and Vice-Chairs), other Bureau and Task Force Bureau members, authors with 
+responsibilities for report content (CLAs, LAs), Review Editors and staff of the Technical 
+                                                        
+1 http://www.ipcc.ch/pdf/ipcc-principles/ipcc-principles-appendix-a-final.pdf 
+2 http://www.ipcc.ch/pdf/ipcc-principles/ipcc-conflict-of-interest.pdf 
+3 The IPCC COI Policy including the COI Form is currently being reviewed and may be revised at the 44th Session of the IPCC in Bangkok, 
+Thailand, on 17-20 October 2016. If it is revised at that session of the IPCC, paragraphs 8-11 of this document will be revised accordingly. 
+
+ 
+26 
+Support Units. The overall purpose of this policy is to protect the legitimacy, integrity, trust, 
+and credibility of the IPCC and of those directly involved in the preparation of reports, and its 
+activities.  
+9. Before an individual is appointed as a CLA, LA and RE for a new Methodology Report, the 
+TFB will request the individual to complete a Conflict of Interest Disclosure Form (“the COI 
+Form”) contained in Annex B to the COI Policy which will be submitted to the TFI TSU. The 
+TFB will then evaluate the form to determine whether the individual has a conflict of interest 
+that cannot be resolved. 
+10. All CLAs, LAs and REs will inform the TFI TSU annually of any changes in the information 
+provided in their previously submitted COI Form. The TFB will evaluate the revised 
+information. 
+11. All COI Forms and any records of the deliberations of the COI Expert Advisory Group, 
+deliberations and/or decisions of the COI Committee in relation to conflict of interest issues 
+in respect of specific individuals and any information disclosed by individuals for the 
+purposes of the COI Policy will be transferred to the Secretariat after they have been 
+reviewed and will be securely archived by the Secretariat and retained for a period of five 
+years after the end of the assessment cycle during which the relevant individual contributed, 
+after which the information will be destroyed. Subject to requirement to notify the existence 
+of a conflict of interest to others, the information referred to above will be considered 
+confidential and will not be used for any purpose other than consideration of conflict of 
+interest issues under these Implementation Procedures without the express consent of the 
+individual providing the information. 
+ 
+Responsibilities of authors and other experts 
+ 
+12. The role of authors is to impartially assess ALL the available literature and to describe the 
+best methodologies available. Experts should be impartial. Authors should review all 
+literature available up to a cut-off date to be decided by the TFB as part of the agreed work 
+plan. 
+13. After drafting the report authors will be asked to consider all comments received on the 
+drafts and to adjust and revise the text accordingly. They should document their responses. 
+If they do not accept a comment this should be explained. Review Editors should check 
+whether the accepted changes were fully incorporated in the revised text. 
+14. Responsibilities and duties of authors and other experts are currently explained in more 
+detail in the IPCC procedures for the Preparation, Review, Acceptance, Adoption, Approval 
+and Publication of the IPCC Reports (Appendix A to the Principles Governing the IPCC 
+Work). 
+
+ 
+27 
+ 
+Literature 
+ 
+15. The use of literature should be open and transparent. In the drafting process, emphasis is to 
+be placed on the assurance of the quality of all cited literature. Priority should be given to 
+peer-reviewed scientific, technical and socio-economic literature if available. 
+16. It is recognized that other sources provide crucial information for IPCC Reports. These 
+sources may include reports from governments, industry, and research institutions, 
+international and other organizations, or conference proceedings. Use of this literature 
+brings with it an extra responsibility for the author teams to ensure the quality and validity of 
+cited sources and information. In general, newspapers and magazines are not valid sources 
+of scientific information. Blogs, social networking sites, and broadcast media are not 
+acceptable sources of information for IPCC Reports. Personal communications of scientific 
+results are also not acceptable sources. 
+17. For any sources written in a language other than English, an executive summary or abstract 
+in English is required. 
+18. All sources will be integrated into a reference section of an IPCC Report. 
+19. For more details of the procedure on the use of literature in IPCC Reports, see Annex 2 to 
+the IPCC procedures for the Preparation, Review, Acceptance, Adoption, Approval and 
+Publication of the IPCC Reports (Appendix A to the Principles Governing the IPCC Work). 
+Principles of the new Methodology Report 
+ 
+20. Guidance in the new Methodology Report should be understandable and easy to 
+implement. Lead authors should make efforts to balance the need to produce a 
+comprehensive self-contained report with reasonable limits to the length and detail of the 
+guidance. In particular: 
+a. The guidance should follow a cookbook approach by providing clear step by step 
+instructions. It should not try to be a textbook. Detailed background information on 
+emission processes, scientific studies, etc. is generally referenced rather than 
+included.  
+b. Lead authors must consider all recent scientific developments and national methods 
+used by countries in their inventories. 
+c. Significant changes from the 2006 IPCC Guidelines will have significant implications 
+for all countries. Parties to the UNFCCC use the IPCC Guidelines to prepare national 
+inventories and national communications. Substantial changes should only be 
+introduced if they can be justified on sound scientific and technical grounds. 
+d. Authors should bear in mind that the target audience is a diverse group of readers 
+who are primarily concerned with the elaboration of national inventories.  For this 
+reason, the emphasis should be on ensuring clear communication of practical and 
+understandable guidance. 
+21. This work aims to cover all IPCC inventory sectors but only those categories where the 
+science is considered to have sufficiently advanced since the 2006 or where new or 
+additional guidance is required, namely the categories that were selected through technical 
+assessment carried out in 2015 and 2016 and the Scoping Meeting held in August 2016 
+using the significance and prioritization criteria as shown below. However, authors should 
+also develop modifications for other parts of the 2006 IPCC Guidelines if deemed necessary 
+to achieve consistency with the refinements mandated by the IPCC Plenary. On the other 
+hand, authors may conclude no refinement should be made even for the categories that 
+
+ 
+28 
+were selected through the process mentioned above, after comprehensive review of 
+available literature. 
+ 
+Significance and prioritization criteria 
+ 
+Significance of the source/sink and the gas within the sector on a global scale. 
+Sources significant only for a limited number of particular countries, currently or in 
+the foreseeable future, may not meet this criterion. The adequacy of the existing 
+guidance for a particular category should be considered, as should the likelihood 
+that new information would lead to a definite improvement in the IPCC Guidelines. 
+ 
+Availability of relevant new scientific results. 
+ 
+Sufficient data availability and maturity of scientific advances since 2006 to provide 
+a basis for methodological development or refinement, including: 
+o Ability to develop new or updated default emission/removal factors 
+o Feasibility of obtaining the necessary data to implement the methods 
+ 
+Emergence of new sources or gases meeting these criteria 
+ 
+22. The new Methodology Report will cover the same greenhouse gases and precursors as 
+included in the 2006 IPCC Guidelines.  
+23. The general structure, approach and definitions used in the 2006 IPCC Guidelines, such as 
+tiered approach and decision trees will be followed. Annexes may be used where necessary 
+to contain additional data to support the methodologies, although large numbers of annexes 
+will probably not be necessary. Appendices are not ruled out where scientific knowledge is 
+insufficient for countries to agree full methodologies, but please avoid as far as possible 
+work on areas that have to be relegated to an appendix. Appendices should be sub-titled by 
+“Basis for future methodological development”.  
+Reporting Tables and worksheets 
+ 
+24. Refinement of worksheets and reporting tables may be required. Worksheets reflect the 
+application of tier 1 methods only, due to the varied implementation of higher tier methods 
+by countries. Lead authors should stress the importance of documentation and archiving of 
+particular types of information of relevance to each category, although advice may be given 
+of what needs to be reported for transparency at higher Tiers. 
+ 
+Emission factors and methods 
+ 
+25. Authors should provide default emission factors. In doing this work, they should draw on the 
+widest possible range of available literature, including the IPCC Emission Factor Database 
+(EFDB), scientific articles and country reports. 
+26. All new default data should be evaluated for scientific and technical appropriateness, and 
+their development should be clearly described and referenced. The attached form (Appendix 
+3) should be used as the means for documenting data and the derivation procedure which 
+will also facilitate future integration of the EFDB and the archiving of the derivation.  Lead 
+authors should be familiar with the draft cross-cutting guidance on data collection in Volume 
+1 and the guidance on cross-cutting issues in this note on terms, data types, data demands 
+of methods and stratification requirements.  Default data should also meet the EFDB 
+evaluation criteria – robustness, documentation, and applicability.   
+
+ 
+29 
+27. Authors should develop guidance to provide additional information on rationale, references 
+and background information on parameters used for estimating of default values where such 
+information is available (similar to Annex 3A.3 of Wetland Supplement), with a view to 
+enhancing the transparency and applicability of default values presented in the new 
+Methodology Report. 
+28. IPCC default factors should in principle be presented as regional factors. In case regional 
+factors are unavailable, single IPCC default factors might be provided, ensuring that the 
+default are representative of typical conditions as far as can be determined. It may be 
+necessary or appropriate to provide a range of default factors along with clear guidance 
+about how countries should select from within the range. Lead authors may also provide 
+multiple default emission factors, disaggregated by region, technology, or another 
+classification scheme (e.g., livestock type),  
+29. It is important to provide more default emission factors that reflect the unique conditions of 
+developing countries. Default emission factors for Tier 1 should represent emissions without 
+category-specific mitigation measures. 
+30. Users of the guidelines should be encouraged to develop and use country specific data. 
+Emission factors for higher tiers need not be specified in the 2006 IPCC Guidelines. Default 
+information is included primarily to provide users with a starting point from which they can 
+develop their own national assumptions and data. Indeed, national assumptions and data 
+are always preferred because the default assumptions and data may not always be 
+appropriate for specific national contexts. 
+31. The basic principle concerning national methods will continue to apply – countries are 
+encouraged to use national data or methods so long as they are consistent with the IPCC 
+Guidelines. 
+ 
+Decision trees 
+ 
+32. Consistent with the format and structure the 2006 IPCC Guidelines, the new Methodology 
+Report may contain a decision tree for some sub-categories to assist countries in selecting 
+from the IPCC methods. These decision trees link the choice of IPCC methods to national 
+circumstances via specific questions about data availability and status as a key source 
+category4.  
+33. To ensure consistency in decision tree logic and format across categories, lead authors 
+should adhere to the following requirements: 
+a. The decision trees should be based on a series of questions with clear yes/no 
+answers, and two subsequent branches along yes/no paths.   
+ 
+b. The decision trees should start with assessing data availability for the highest tier 
+method, and then direct countries step-wise towards lower tier methods if activity 
+data, emission factors or other parameters are not available.   
+ 
+c. The decision tree should indicate the lowest tier method that is judged to be 
+appropriate for estimating emissions/removals from a key category. 
+ 
+d. If data are not available for the method referred to in 3, the ‘No’ response should 
+direct the reader to the question “Is this a key category?”  If the answer to this is 
+‘Yes’, the decision tree should recommend that the country collect the necessary 
+                                                        
+4 The most appropriate choice of estimation method (or tier) may also depend on national circumstances, including the availability of resources 
+and advice on this will be given in the cross-cutting volume. 
+
+ 
+30 
+data to implement a higher tier method.  If the answer is ‘No’, then the decision tree 
+can recommend a lower tier method. There is no need to deal with the case for a key 
+source where a country does not have the resources to gather additional data 
+needed to implement higher Tier methods. This is dealt with in Volume 1 of the 2006 
+IPCC Guidelines.  
+ 
+e. The branches of the decision trees should end in ‘out-boxes’ that correspond to 
+specific tiers identified in the guidance for that category and are labelled by Tier.  
+Lead authors may also recommend out-boxes for hybrid tiers. 
+ 
+f. 
+Lead authors may develop separate decision trees for different sub-categories.  
+Alternatively, they may include decision tree options for selecting different tiers for 
+different sub-categories.  This second option is appropriate if it is advantageous to 
+recommend a higher tier method only for significant sub-categories rather than for 
+the entire category. Decision trees that use the ‘significance’ criterion must 
+include the “25-30% rule” (i.e., a significant sub-category is one that makes up 
+more than 25-30% of emissions/removals from a category). 
+
+ 
+31 
+34. Additional Formatting Guidelines (see example): 
+a. Decision trees should be drafted in separate Microsoft Word files. The TSU will 
+integrate these files into the main text at a later date. 
+b. Decision trees should NOT ask the question: “Does this source occur in the 
+country?” This is because decision trees will only be used for sources which occur.  
+c. There should be a “START” box. 
+d. “Diamonds” should be used for questions/decisions. 
+e. “Squares” should be used for all other information. 
+f. The out-boxes should be individually numbered. 
+g. The text font should be Times New Roman 10pt. 
+h. Text should be centred within the boxes. 
+ 
+Decision tree to estimate CO2–C and N2O emissions from Peatlands Remaining 
+Peatlands 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Start
+Are
+managed peatlands
+a key category1?
+Are
+historical
+and current data
+available on the area of managed 
+peatlands and on peat
+production?
+Estimate emissions using
+country-specific
+methodology and
+emission factors (Tier 3).
+Collect or compile historical
+and current data from the national 
+peat industry, government 
+agency, or from the International 
+Peat Society
+Estimate emissions 
+using default method 
+and country-specific 
+data (Tier2).
+No
+Yes
+Yes
+Note:
+1: See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Were
+domestic studies
+done on GHG emissions/ 
+removals on industrial
+peatlands?
+Is detailed
+information available on
+land conversion for peat extraction, 
+extraction methods, peat use, fertility, 
+and on-site
+emissions?
+No
+No
+Yes
+Yes
+Estimate emissions
+using default emission
+factors and activity data
+(Tier 1).
+Estimate emissions 
+using default method 
+and emission factors 
+and national activity 
+data (Tier1).
+No
+Box 1: Tier 1
+Box 2: Tier 1
+Box 3: Tier 2
+Box 4: Tier 3
+
+ 
+32 
+IPCC Emission Factor Database (EFDB) 
+ 
+35. The EFDB is an important resource for this work, both as a source of emission factors for 
+consideration by the LAs and as a repository of emission factors once agreed for use in the 
+guidelines.  
+36. The new Methodology Report may contain Tier 1 methods and the corresponding default 
+emission factors (once the guidelines are approved by the IPCC, the default emission 
+factors cannot change). These defaults need to be recorded in to the EFDB, either because 
+they are already there, or they will have to be entered as a result of the process of 
+developing the Methodology Report. Preferably the EFDB should be populated with new 
+emission factors as the Methodology Reports are drafted, but if this proves impossible the 
+guideline emission factors should be entered in the EFDB with the underlying 
+documentation information in the property fields as soon as possible, after guidelines 
+completion.  
+37. The evolving information on peer reviewed emission factors in the EFDB will also be a 
+useful source of information for countries to refer to in applying Tier 2 and 3 methods. In 
+applying these methods (Tier 2 and/or 3) it will remain the country’s responsibility to ensure 
+that the choice of emission factors properly reflects national circumstances and is consistent 
+with the requirements of the 2006 IPCC Guidelines, and to document that this is the case. 
+38. It should be noted that Methodology Reports go through IPCC reviews, but the EFDB does 
+not. The EFDB is a long(er)-term exercise. The TSU will provide technical advice/information 
+to authors for their consideration. 
+Definitions 
+ 
+39. The following terms will be used throughout the new Methodology Report, and it is essential 
+that all Lead Authors have a common understanding of their meaning and relevance: 
+40. Tier A Tier refers to a description of the overall complexity of a methodology and its data 
+requirements. Higher tier methods are generally more complex and data-intensive than 
+lower tier methods. The guidance for each category should contain at least a Tier 1 method, 
+and in many cases there will be a Tier 2 and Tier 3. The general expectation is that Tier 2 
+and Tier 3 methods will both be consistent with good practice guidance for key sources, 
+although in some cases Tier 3 will be preferred, for example with methane from coal mines 
+where Tier 1 is a global default value, Tier 2 basin specific and Tier 3 mine specific. 
+41. Tier 1 approaches are simple methods that can be applied by all countries in all 
+circumstances. Default values for the emission factors and any other parameters needed 
+must be supplied (see below for documentation needed).  
+42. Tier 2 methods should in principle follow the same methodological approach as Tier 1, but 
+allow for higher resolution country specific emissions factors and activity data. In some 
+categories, this may not be the case. These methods should better replicate the parameters 
+affecting the emissions. Country specific emission factors are needed and possibly more 
+parameters will also be needed.  
+43. Tier 3 methods give flexibility either for country specific methods including modelling or 
+direct measurement approaches, or for a higher level of disaggregation, or both. This is a 
+more complex method, often involving a model. This will replicate many features of nation 
+emissions and require specific parameters for each country. 
+44. Default information is data that is appropriate for use where there is no better detailed, 
+country specific information. If appropriate, authors may specify regional default data. Users 
+of the guidelines should be encouraged to try to find better country specific data. Default 
+
+ 
+33 
+data are appropriate for Tier 1 methods and the guidelines should contain all the default 
+values needed. Emission factors for higher tiers need not be specified because it is a 
+function of higher tier methods to find data reflecting national circumstances. Volume 1 of 
+the 2006 IPCC Guidelines suggests that the EFDB may help identify data reflecting national 
+circumstances, but reference to the EFDB should in no case be used as a device for 
+evading the necessity of finding data for default methods. Default information is included 
+primarily to provide users with a starting point from which they can develop their own 
+national assumptions and data. Indeed, national assumptions and data are always preferred 
+because the default assumptions and data may not always be appropriate for specific 
+national contexts. In general, therefore, default assumptions and data should be used only 
+when national assumptions and data are not available. 
+45. Decision Trees. A decision tree is a graphical tool to assist countries in selecting from the 
+IPCC methods.   
+46. Sector refers to the four sectors of the guidelines (Energy; Industrial Process and Product 
+Use (IPPU); Agriculture, Forests and Other Land Use (AFOLU) and Waste) these are 
+divided into source/sink categories and sub categories. 
+a. Sector  1 
+b. Category 1.A 
+c. Sub-category 1st order 1.A.1 
+d. Sub-category 2nd order 1.A.1.a 
+e. Sub-category 3rd order, 1.A.1.a.i, 
+47. Worksheets. These will be printed versions of spreadsheet tables, that, when filled in, 
+enable the user to perform the emission estimation. They should contain all the calculations 
+and written text with any formulae. Additional worksheets may be required to compile the 
+results of the worksheets into the reporting tables.  
+48. Reporting Tables are tables that present the calculated emission inventory and sufficient 
+detail of other data used to prepare the inventories for others to understand the emission 
+estimates. 
+49. Usage:  
+a. Good Practice, is defined as a set of procedures intended to ensure that 
+greenhouse gas inventories are accurate in the sense that they are systematically 
+neither over nor underestimates so far as can be judged, and that uncertainties are 
+reduced so far as possible. Inventories consistent with good practice are those which 
+contain neither over- nor under-estimates so far as can be judged, and in which 
+uncertainties are reduced as far as is practicable. To say that “It is Good Practice to 
+do x” implies x is part of the good practice procedures. 
+b. “Shall” should not be used. Either say “Good Practice is…” or say what needs to be 
+done or what should be done. These all indicate what needs to be done to comply 
+with Good Practice. 
+c. "Be encouraged to" indicates a step or activity that will lead to higher quality 
+inventory, but are not required for ensuring consistency with the IPCC Guidelines.  
+d. “Recommend” should not be used. In the GPG2000, the word “recommend” was 
+avoided and “Suggested” was used instead. 
+e. “Inventory agency” is the body responsible for actually compiling the inventory, 
+perhaps from contributions from a number of other bodies while “inventory 
+compiler” is the person actually compiling the inventory, 
+
+ 
+34 
+Units 
+ 
+50. SI units shall be used throughout: in text, equations, worksheets and tables.  Emissions 
+have to be expressed in mass units and units have to be used consistently within the each 
+sector. When similar activity data is used for different sectors same units need to be used 
+(CLAs have to take care about such harmonisation). Conversion factors have to be provided 
+(for example to estimate N2O from N). Where input data available may not be in SI units 
+conversions should be provided. 
+51. Standard abbreviations for units and chemical compounds are given in Appendix 4. (See 
+also a complete discussion available at http://www.bipm.org/en/publications/si-brochure/) 
+52. For the purpose of reporting, the sign convention is positive (+) for emissions, and negative 
+(-) for removals (uptake). Where needed, for estimation of removals and carbon stock 
+increases are counted positive, and the sign reversed for reporting purposes. This is 
+consistent with the 2006 IPCC Guidelines and other Methodology Reports on national GHG 
+inventories in the past. 
+ 
+
+ 
+35 
+Appendix 3. Data Documentation 
+ 
+This form should be used to document all data used in the new Methodology Report. This gives 
+the minimum information that should be considered by the authors. 
+ 
+Author1 
+  
+IPCC Source/Sink Category 
+  
+Fuel2 (applicable only in the 
+Energy Sector): 
+  
+Gas3: 
+CO2 
+CH4 
+N2O 
+ 
+ 
+Value: 
+ 
+ 
+ 
+ 
+ 
+Unit: 
+ 
+ 
+ 
+ 
+ 
+Uncertainty (as +/% or 2.5 and 
+97.5 percentiles )4 
+ 
+ 
+ 
+ 
+ 
+Applicability5 – fill in as 
+necessary if data not generally 
+applicable. Describe appropriate  
+Technologies, Practices, 
+Abatement  Technologies, Region, 
+and/or Regional Conditions 
+  
+Source of data (chose one) 
+Measurement - Scientific Literature 
+Other Measurement 
+National Inventory Report 
+Calculated 
+Based on fuel quality 
+Expert Judgement 
+Method of derivation of the value 
+(e.g., arithmetic mean, weighted 
+mean, adjustment of a literature 
+data by expert judgment etc. 
+ 
+Reference6 
+  
+ 
+Note: 
+The author is the LA/CA/CLA who writes the relevant section and proposes the data. 
+Fuels as defined in the Energy volume 
+Add additional gases as required 
+As defined by cross-cutting volume 
+Only to be completed where it is necessary to specify the applicability of the data 
+As reference to document, report, calculation or if expert judgement to those involved (Names or group e.g. 
+“Waste BOG on Solid Waste Disposal Sites”) 
+ 
+ 
+
+ 
+36 
+Appendix 4 Units and Abbreviations 
+Abbreviations of, and how to Spell, Chemical Compounds  
+CH4 
+ 
+Methane 
+N2O 
+ 
+Nitrous oxide5  
+CO2 
+ 
+Carbon dioxide 
+CO 
+ 
+Carbon monoxide 
+NOX 
+ 
+Nitrogen oxides 
+NMVOCs 
+ 
+Non-methane volatile organic compounds 
+NH3 
+ 
+Ammonia 
+CFCs 
+ 
+Chlorofluorocarbons 
+HFCs 
+ 
+Hydrofluorocarbons 
+PFCs 
+ 
+Perfluorocarbons 
+SF6 
+ 
+Sulphur hexafluoride 
+CCl4 
+ 
+Carbon tetrachloride 
+C2F6 
+ 
+Hexafluoroethane 
+CF4 
+ 
+Tetrafluoromethane 
+S 
+ 
+Sulphur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Units and abbreviations  
+cubic metre 
+ 
+m3 
+hectare 
+ 
+Ha 
+gram 
+ 
+g 
+gigagram 
+ 
+Gg 
+tonne 
+ 
+T 
+gigatonne 
+ 
+Gt 
+joule 
+ 
+J 
+degree Celsius 
+ 
+℃ 
+calorie 
+ 
+Cal 
+year 
+ 
+Yr 
+capita 
+ 
+Cap 
+gallon 
+ 
+Gal 
+dry matter 
+ 
+Dm 
+ 
+                                                        
+5 In the IUPCA N2O is officially named “Dinitrogen Oxide”. However, “nitrous oxide” is widely used and understood in the 
+emission inventory community and by the UNFCCC and so, to avoid confusion, will be used.   
+
+ 
+37 
+ 
+Prefixes and multiplication factors  
+Multiplication Factor 
+Abbreviation 
+Prefix 
+Symbol 
+1 000 000 000 000 000 
+1015 
+peta 
+P 
+1 000 000 000 000 
+1012 
+tera 
+T 
+1 000 000 000 
+109 
+giga 
+G 
+1 000 000 
+106 
+mega 
+M 
+1 000 
+103 
+kilo 
+k 
+100 
+102 
+hecto 
+h 
+10 
+101 
+deca 
+da 
+0.1 
+10-1 
+deci 
+d 
+0.01 
+10-2 
+centi 
+c 
+0.001 
+10-3 
+milli 
+m 
+0.000 001 
+10-6 
+micro 
+ 
+ 
+ 
+Standard equivalents  
+1 tonne of oil equivalent (toe) 
+ 
+1 x 1010 calories 
+103 toe 
+ 
+41.868 TJ 
+1 short ton 
+ 
+0.9072 tonne 
+1 tonne 
+ 
+1.1023 short tons 
+1 tonne 
+ 
+1 megagram 
+1 kilotonne 
+ 
+1 gigagram 
+1 megatonne 
+ 
+1 teragram 
+1 gigatonne 
+ 
+1 petagram 
+1 kilogram 
+ 
+2.2046 lbs 
+1 hectare 
+ 
+104 m2 
+1 calorieIT 
+ 
+4.1868 joule 
+1 atmosphere 
+ 
+101.325 kPa 
+ 
+ 
+ 
+
+ 
+38 
+ANNEX 2  
+Draft Table of Contents 
+ 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories 
+ 
+Draft Table of Contents  
+ 
+Introductory Note 
+ 
+The 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2019 
+Refinement) will be a single Methodology Report comprising an Overview Chapter and five volumes following 
+the format of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (2006 IPCC Guidelines).  
+Overview Chapter 
+Volume 1: General Guidance and Reporting 
+Volume 2: Energy 
+Volume 3: Industrial Processes and Product Use 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Volume 5: Waste 
+The draft table of contents is presented below for each volume. Its structure is the same as that of the 2006 
+IPCC Guidelines so as to make it easier for inventory compilers to use this Methodology Report with the 2006 
+IPCC Guidelines. For those Chapters/Sections/Subsections where refinement is expected, the following three 
+elements are explained. 
+- Issue (which needs to be addressed) 
+- Location in 2006 IPCC Guidelines (location of relevant guidance in the 2006 IPCC Guidelines) 
+- Type of refinement (Update, Elaboration or New guidance, as explained in the draft Terms of 
+Reference) 
+On the other hand, for those Chapters/Sections/Subsections where refinement is NOT expected, “No 
+refinement” is indicated. 
+However, the following two principles need to be noted. 
+ 
+Authors should develop modifications even for those Chapters/Sections/Subsections where “No 
+refinement” is indicated in this draft table of contents, if deemed necessary to ensure consistency with 
+the refinements made in the other Chapters/Sections/Subsections.  
+ 
+Authors may conclude no refinement should be made even for the Chapters/Sections/Subsections where 
+refinement is expected in this draft table of contents, after comprehensive review of available literature. 
+In addition, authors should develop modifications for Annexes (e.g. Worksheets) at the end of each volume as 
+well, if deemed necessary to ensure consistency with the refinements made in Chapters/Sections/Subsections 
+in the same volume, even though those Annexes are not explicitly included in this draft table of contents. 
+ 
+ 
+ 
+Overview Chapter 
+ 
+Background – Technical Assessment of IPCC Inventory Guidelines 
+ 
+Fundamental principle (not revising, but refining) 
+ 
+Relationship with the 2006 IPCC Guidelines 
+ 
+Policy Relevance 
+ 
+ 
+
+ 
+39 
+Volume 1: General Guidance and Reporting 
+ 
+Chapter 1 
+Introduction to the 2006 Guidelines 
+Issue 1: Provide a better description on how to implement a national inventory management system that 
+manages all parts of Volume 1, implements continuous improvement and leads to the development of 
+mature inventories. 
+Location in 2006 IPCC Guidelines: New Section in Chapter 1 
+Type of refinement: New guidance 
+Issue 2:  Clarify the concept of “anthropogenic emissions and removals”. 
+Location in 2006 IPCC Guidelines: Section 1.1 Concepts, with Guidance contained in the IPCC KP 
+Supplement Chapter 2.3.4 and 2.3.5 and the IPCC Wetlands Supplement 
+Type of refinement: Update 
+Chapter 2 
+Approaches to Data Collection 
+Issue 1:  Add guidance for the development of country-specific emission factors, focusing on developing 
+countries. 
+Location in 2006 IPCC Guidelines: New guidance in Chapter 2 
+Type of refinement: New guidance 
+Issue 2:  Add guidance for activity data collection; technical survey indicated there is a capacity problem to 
+gather and manage national data which can be addressed by an additional guidance. 
+Location in 2006 IPCC Guidelines: New guidance in Chapter 2 
+Type of refinement: New guidance 
+Issue 3:  Add guidance on the integration of GHG emissions reported from facilities into national GHG 
+inventories 
+Location in 2006 IPCC Guidelines: New guidance in Chapter 2 
+Type of refinement: New guidance 
+Chapter 3 
+Uncertainties 
+Issue:  Refine guidance on uncertainty based on the latest scientific knowledge and simplification of guidance 
+by providing more default values, calculation examples and best practices. 
+Location in 2006 IPCC Guidelines: Chapter 3 
+Type of refinement: Update 
+Chapter 4 
+Methodological Choice and Identification of Key Categories 
+Issue: 
+Add guidance on key category analysis to address treatment of disaggregation of categories, trend 
+analysis, equations for trend analysis and the need for consistent definition of significant 
+subcategories across the different volumes of the 2006 IPCC Guidelines. 
+Location in 2006 IPCC Guidelines: Chapter 4 (and relevant guidance in the other Volumes) 
+Type of refinement: Elaboration 
+Chapter 5 
+Time Series Consistency 
+Issue: 
+Provide practical guidance on how to apply existing guidance on time series consistency because this 
+proved to be a problem for many countries. 
+Location in 2006 IPCC Guidelines: Chapter 5 
+Type of refinement: Elaboration 
+
+ 
+40 
+Chapter 6 
+Quality Assurance / Quality Control and Verification 
+Issue 1: Add guidance on the use and reporting of models 
+Location in 2006 IPCC Guidelines: New Section in Chapter 6 
+Type of refinement: New guidance 
+Issue 2:  Elaborate user-friendly description of verification, validation, audit and QA/QC because users are 
+unclear on their IPCC meanings compared to outer definitions, such as ISO as used by CDM. 
+Location in 2006 IPCC Guidelines: Section 6.1, Box 6.1 
+Type of refinement: Elaboration 
+Issue 3: Update/elaborate verification guidance because the existing guidance is outdated (especially the 
+guidance on comparisons with atmospheric measurements and new datasets). 
+Location in 2006 IPCC Guidelines: Section 6.10 
+Type of refinement: Update/Elaboration 
+Chapter 7 
+Precursors and Indirect Emissions 
+Issue: 
+Elaborate clearer guidance for the calculation of indirect CO2 emissions. 
+Location in 2006 IPCC Guidelines: Section 7.2.1.5 
+Type of refinement: Elaboration 
+Chapter 8 
+Reporting Guidance and Tables 
+No refinement 
+ 
+ 
+Volume 2: Energy 
+Chapter 1 
+Introduction 
+No refinement 
+Chapter 2 
+Stationary Combustion 
+2.1 Overview 
+No refinement 
+2.2 Description of sources 
+No refinement 
+2.3 Methodological issues 
+Issue: Link to issue related to biomass combustion and methodologies for Harvested Wood Products 
+(HWP) 
+Location in 2006 IPCC Guidelines: Section 2.3.3.4  
+Type of refinement:  Elaboration 
+2.4 Uncertainty assessment 
+No refinement 
+2.5 Inventory Quality Assurance/Quality Control QA/QC 
+No refinement 
+2.6 Worksheets 
+No refinement 
+
+ 
+41 
+Chapter 3 
+Mobile Combustion 
+No refinement 
+Chapter 4 
+Fugitive Emissions 
+4.1 Fugitive emissions from mining, processing, storage and transportation of coal 
+Issue1: Elaborate chapter to include guidance on emissions from exploration and CO2 emissions 
+(Underground coal mines, Surface coal mining) 
+Location in 2006 IPCC Guidelines: Sections 4.1.3 and 4.1.4 (Sections 4.1.1, 4.1.2 and 4.1.6 are 
+relevant)  
+Type of refinement:  Elaboration 
+Issue2: Include new section on abandoned surface coal mines 
+Location in 2006 IPCC Guidelines: Not applicable. (Next to Section 4.1.5. Sections 4.1.1, 4.1.2 
+and 4.1.6 are relevant)  
+Type of refinement:  New guidance 
+4.2 Fugitive emissions from oil and natural gas systems 
+Issue:  Update chapter including update/inclusion of EFs representative for current practice. Additional 
+guidance for unconventional oil and gas production and abandoned wells. 
+Location in 2006 IPCC Guidelines: Sections 4.2  
+Type of refinement:  Update 
+4.3 Fuel transformation [New] 
+Issue: Include new section on fuel transformation 
+Location in 2006 IPCC Guidelines: New Section in Chapter 4 (Next to Section 4.2) 
+Type of refinement:  New guidance 
+Chapter 5 
+Carbon Dioxide Transport, Injection and Geological Storage 
+No refinement 
+Chapter 6 
+Reference Approach 
+No refinement 
+ 
+ 
+Volume 3: Industrial Processes and Product Use 
+Chapter 1  
+Introduction 
+No refinement  
+Chapter 2  
+Mineral Industry Emission 
+No refinement 
+Chapter 3  
+Chemical Industry Emissions 
+3.1 Introduction 
+No refinement 
+3.2 Ammonia production 
+No refinement 
+
+ 
+42 
+3.3 Nitric acid production 
+Issue:  Update guidance on appropriate emission factors to use for dual pressure technologies for Nitric 
+Acid Production 
+Location in 2006 IPCC Guidelines: Section 3.3.2.2 and Table 3.3 
+Type of refinement:  Update 
+3.4 Adipic acid production  
+No refinement 
+3.5 Caprolactam, glyoxal and glyoxylic acid production  
+No refinement 
+3.6 Carbide production 
+No refinement 
+3.7 Titanium dioxide production  
+No refinement 
+3.8 Soda ash production 
+No refinement 
+3.9 Petrochemical and carbon black production 
+No refinement 
+3.10 Fluorochemical production 
+Issue:  Update guidance and default Tier 1 emission factors for production of fluorinated compounds other 
+than HCFC-22 
+Location in 2006 IPCC Guidelines: Section 3.10.2.2 
+Type of refinement:  Update/Elaboration 
+3.11 Hydrogen production [New] 
+Issue:  Develop guidance for estimating GHG emissions from hydrogen production 
+Location in 2006 IPCC Guidelines: New Section in Chapter 3 (Next to Section 3.10) 
+Type of refinement: New guidance 
+Chapter 4 
+Metal Industry Emissions 
+4.1 Introduction 
+No refinement 
+4.2 Iron & steel and metallurgical coke production 
+Issue:  Update emission factors for Iron and Steel Production and elaborate methodological guidance.  
+Location in 2006 IPCC Guidelines: Section 4.2.2 
+Type of refinement:  Update/Elaboration 
+4.3 Ferroalloy production 
+No refinement 
+ 
+ 
+
+ 
+43 
+4.4 Primary aluminium production 
+Issue:  Elaborate guidance and emissions factors to incorporate “low-voltage anode effect” PFC emissions 
+and integrate this guidance into the existing methodology on “high-voltage anode effect” PFC 
+emissions. Update of the Tier 1 and Tier 2 defaults. 
+Location in 2006 IPCC Guidelines: Section 4.4 
+Type of refinement:  Update/Elaboration 
+Issue: Develop a new methodology for the CO2 emissions from the alumina production. Ensuring 
+completeness and avoiding double counting 
+Location in 2006 IPCC Guidelines: New guidance in Section 4.4 
+Type of refinement:  New guidance 
+4.5 Magnesium production 
+No refinement 
+4.6 Lead production 
+No refinement 
+4.7 Zinc production 
+No refinement 
+4.8 Rare Earth elements [New] 
+Issue: Develop a new guidance on GHG emissions (PFCs and CO2) from production of Rare Earth 
+elements 
+Location in 2006 IPCC Guidelines: New Section in Chapter 4 (Next to Section 4.7) 
+Type of refinement:  New guidance 
+Chapter 5 
+Non-Energy Products from Fuels and Solvent use 
+No refinement 
+Chapter 6 
+Electronics Industry Emissions 
+Issue: 
+Update guidance and default Tier 1 and Tier 2 emission factors for Semiconductor Industry, 
+improvement of the Tier 3 guidance and elaboration of guidance on generation of by-products from 
+abatement technologies (CF4 from NF3) 
+Location in 2006 IPCC Guidelines: Section 6.2.1 and 6.2.2, and 6.3.1 (uncertainty, to the extent 
+necessary) 
+Type of refinement:  Update/Elaboration/New guidance 
+Chapter 7  
+Emissions of Fluorinated Substitutes for Ozone Depleting Substances 
+7.1 Introduction 
+No refinement 
+7.2 Solvents (non-aerosol) 
+No refinement 
+7.3 Aerosols (propellants and solvents) 
+No refinement 
+7.4 Foam blowing agents 
+No refinement 
+
+ 
+44 
+7.5 Refrigeration and air conditioning 
+Issue:  Add examples (collection of activity data, distribution of ODS substitutes by application within 
+countries). Elaborate by adding a box with “recipe-style” guidance on how to launch the ODS 
+substitutes inventory. Elaborate the reference to Montreal Protocol. Update emission factors by 
+further segregating equipment types, regions, and time periods where possible. 
+Location in 2006 IPCC Guidelines: Sections 7.5.2.1 - for the recipe, 7.5.2.2 - for emission 
+factors, 7.5.2.3 - for activity data 
+Type of refinement:  Update/Elaboration 
+7.6 Fire protection 
+No refinement 
+7.7 Other applications 
+No refinement 
+Chapter 8  
+Other Product Manufacture and Use 
+8.1 Introduction 
+No refinement 
+8.2 Emissions of SF6 and PFCs from electrical equipment 
+No refinement 
+8.3 Use of SF6 and PFCs in other products  
+Issue 1: Develop guidance for PFCs (GHG) emissions from Textile Industry. 
+Location in 2006 IPCC Guidelines: New guidance in Section 8.3  
+Type of refinement:  New guidance 
+Issue 2: Develop guidance for PFCs (GHG) emissions from water-proofing electronic circuit boards 
+Location in 2006 IPCC Guidelines: New guidance in Section 8.3  
+Type of refinement:  New guidance 
+8.4 N2O from product uses 
+No refinement 
+ 
+ 
+Volume 4: Agriculture, Forestry and Other Land Use 
+Chapter 1 
+Introduction  
+No refinement 
+Chapter 2 
+Generic Methodologies Applicable to Multiple Land-use Categories  
+2.1 Introduction  
+No refinement 
+2.2 Inventory framework 
+No refinement 
+ 
+ 
+
+ 
+45 
+2.3 Generic methods for CO2 emissions and removals 
+2.3.1 
+Change in biomass carbon stocks (above-ground biomass and below-ground biomass) 
+Issue 1: Develop guidance on the use of allometric equations for biomass estimation  
+Location in 2006 IPCC Guidelines: New Subsection in Section 2.3.1 
+Type of refinement: New guidance 
+Issue 2:  Develop guidance on how to use biomass density (amount per unit area) maps generated 
+from remote sensing data for biomass estimation 
+Location in 2006 IPCC Guidelines: New Subsection in Section 2.3.1 
+Type of refinement: New guidance 
+2.3.2 
+Change in carbon stocks in dead organic matter 
+Issue 1:  Update default values for litter stocks and develop default values for deadwood stocks 
+Location in 2006 IPCC Guidelines: Section 2.3.2.1, IPCC default values for litter and dead 
+wood (Table 2.2), 
+Type of refinement:  Update/Elaboration 
+Issue 2:  Develop equation 2.18 for estimating DOMout and associated default values 
+Location in 2006 IPCC Guidelines: Section 2.3.2.1, IPCC default values for litter and dead 
+wood (Table 2.2) 
+Type of refinement: Elaboration 
+2.3.3 
+Change in carbon stocks in soils 
+Issue 1:  Update reference carbon stocks. 
+Location in 2006 IPCC Guidelines: Section 2.3.3.1, Table 2.3 
+Type of refinement:  Update 
+Issue 2:  Develop new Tier 2 method for mineral soils that requires less activity data than the current 
+default method  
+Location in 2006 IPCC Guidelines: New guidance in Section 2.3.3.1  
+Type of refinement:  New guidance 
+Issue 3: Elaborate Tier 3 Methodologies with case study examples for soils. 
+Location in 2006 IPCC Guidelines: Tier 3 methods, Section 2.3.3.1,  
+Type of refinement:  Elaboration 
+2.4 Non-CO2 emissions 
+Issue: Replace defaults for cropland mass of fuel with crop residue estimation method in Chapter 11 
+for soil N2O method to ensure consistency in the calculation of residues between the two 
+categories, and provide a basis to estimate mass of fuel for all crops instead of just the 4 
+crops listed in Table 2.4. 
+Location in 2006 IPCC Guidelines: Section 2.4, Table 2.4 
+Type of refinement:  Update 
+2.5 Additional generic guidance for Tier 3 methods 
+Issue 1: Provide guidance on how to address inter-annual variability  
+Location in 2006 IPCC Guidelines: Chapter 2.5 
+Type of refinement: Elaboration 
+ 
+
+ 
+46 
+Issue 2:  Elaborate guidance on the use of Tier 3 methods  
+Location in 2006 IPCC Guidelines: Sections 2.5.1 and 2.5.2 
+Type of refinement: Elaboration 
+Chapter 3 
+Consistent Representation of Lands 
+3.1 Introduction  
+No refinement 
+3.2 Land-use categories  
+No refinement 
+3.3 Representing land-use areas 
+Issue: Develop guidance on how remotely sensed data, ground based data, and ancillary data can be 
+integrated and used to derive consistent time series estimates of land use and land-use change 
+Location in 2006 IPCC Guidelines: Section 3.3 and Annex 3A.1 and 3A.2  
+Type of refinement: Update/Elaboration/New guidance 
+3.4 Matching land areas with factors for estimating greenhouse gas emissions and removals 
+Issue:  Provide guidance on how to use methodologies within different methodological tiers in combination 
+with different approaches for land representation 
+Location in 2006 IPCC Guidelines: New Subsection in Section 3.4 
+Type of refinement: New guidance 
+3.5 Uncertainties associated with the Approaches 
+No refinement 
+Annex 3A.1   Examples of International land cover datasets 
+(See the above issue under Section 3.3) 
+Annex 3A.2   Development of land-use databases 
+(See the above issue under Section 3.3) 
+Chapter 4 
+Forest Land 
+4.1 Introduction 
+No refinement 
+4.2 Forest Land Remaining Forest Land 
+4.2.1 
+Biomass  
+No refinement 
+4.2.2 
+Dead organic matter 
+No refinement 
+4.2.3 
+Soil carbon 
+Issue:  Provide guidance and develop new Tier 2 method for mineral soils that requires less activity 
+data than the current default method 
+Location in 2006 IPCC Guidelines: New guidance in Section 4.2.3 
+Type of refinement:  New guidance 
+ 
+
+ 
+47 
+4.2.4 
+Non-CO2 greenhouse gas emissions from biomass burning 
+No refinement 
+4.3 Land Converted to Forest Land  
+(All issues for Section 4.2 above apply to this Section similarly.) 
+4.4 Completeness, time series, QA/QC, and reporting and documentation 
+Issue: Develop guidance on how to ensure methodological consistency of time series, such as through 
+the use of age class structure data  
+Location in 2006 IPCC Guidelines: Section 4.4.2 on time series consistency 
+Type of refinement: Elaboration  
+4.5 Tables 
+Issue: Update values for BEF/BCEF and root/shoot ratio, average biomass stocks, and average biomass 
+increments 
+Location in 2006 IPCC Guidelines: Tables 4.4, 4.5, 4.7, 4.8, 4.9, 4.10, 4.11A and 4.11B, 4.12 
+Type of refinement: Update/Elaboration 
+Chapter 5 
+Cropland 
+5.1 Introduction 
+No refinement 
+5.2 Cropland Remaining Cropland 
+5.2.1 
+Biomass 
+Issue: Update default biomass carbon parameters.  
+Location in 2006 IPCC GL: Section 5.2.1.2, Tables 5.1, 5.2, 5.3 
+Type of refinement:  Update 
+5.2.2 
+Dead organic matter 
+No refinement 
+5.2.3 
+Soil carbon 
+ 
+Issue 1: Update carbon stock change factors. 
+Location in 2006 IPCC Guidelines: Section 5.2.3.2, Table 5.5 
+Type of refinement:  Update 
+Issue 2:  Develop new Tier 2 method for mineral soils that requires less activity data than the   current 
+default method 
+Location in 2006 IPCC Guidelines: New guidance in Section 5.2.3  
+Type of refinement:  New guidance 
+5.2.4 
+Non-CO2 greenhouse gas emissions from biomass burning 
+No refinement 
+5.3 Land Converted to Cropland  
+(All issues for Section 5.2 above apply to this Section similarly.) 
+5.4 Completeness, time series, QA/QC, and reporting 
+No refinement 
+
+ 
+48 
+5.5 Methane emissions from rice cultivation 
+Issue: - Develop regionally specific default EFs 
+Location in 2006 IPCC Guidelines: Section 5.5.2, Tables 5.11 to 5.14, 
+Type of refinement:  Update 
+Annex 5A.1 Estimation of default stock change factors for mineral soil C emissions/removals for 
+cropland 
+(See the above issues under Section 5.2.3.) 
+Chapter 6 
+Grassland 
+6.1 Introduction 
+No refinement 
+6.2 Grassland Remaining Grassland  
+6.2.1 
+Biomass 
+Issue:  Update default biomass carbon parameters.  
+Location in 2006 IPCC Guidelines: Section 6.2.1.2, Table 6.1 
+Type of refinement:  Update 
+6.2.2 
+Dead organic matter 
+No refinement 
+6.2.3 
+Soil carbon 
+Issue 1:  Update carbon stock change factors. 
+Location in 2006 IPCC Guidelines: Section 6.2.3.2, Table 6.2 
+Type of refinement:  Update 
+Issue 2:  Develop new Tier 2 method for mineral soils that requires less activity data than the current 
+default method 
+Location in 2006 IPCC Guidelines: New guidance in Section 6.2.3 
+Type of refinement:  New guidance 
+6.2.4 
+Non-CO2 greenhouse gas emissions from biomass burning 
+No refinement 
+6.3 Land Converted to Grassland 
+(All Issues for section 6.2 above apply to this Section similarly.) 
+6.4 Completeness, time series, QA/QC, and reporting 
+No refinement 
+Annex 6A.1 Estimation of default stock change factors for mineral soil C emissions/removals for 
+grassland 
+(See the above issues under Section 6.2.3.) 
+Chapter 7 
+Wetlands 
+7.1 Introduction 
+No refinement 
+
+ 
+49 
+7.2 Managed peatlands 
+No refinement 
+7.3 Flooded Land  
+Issue:  Update CO2 emission factors for land converted to flooded land (Wetlands) and to develop, on the 
+basis of comprehensive review of available literature, consistent methodologies that take into 
+account factoring out of emissions and removals that would otherwise occur in the absence of the 
+flooded area for estimating CO2 and CH4 emissions from flooded lands (both land converted to 
+flooded land and flooded land remaining flooded land). 
+Location in 2006 IPCC Guidelines: Section 7.3 and associated good practice guidance in 
+Section 7.4, and Appendices 2 and 3; also relevant to Chapter 2, Section 2.3 (Generic 
+Methodologies for CO2 emissions and removals). 
+Type of refinement: New guidance/Update  
+7.4 Completeness, time series consistency, and QA/QC 
+No refinement 
+7.5 Future methodological development 
+Issue: Clarify that this section of the 2006 IPCC Guidelines is no longer relevant 
+Location in the 2006 Guidelines: Section 7.5 
+Type of refinement: Elaboration 
+7.X. Additional guidance on Tier 2 method for mineral soils [New] 
+Issue: Develop guidance to implement new Tier 2 method for mineral soils that requires less activity data 
+than the current default method, taking into consideration Chapter 5 of the 2013 Supplement to 
+the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands. 
+Location in 2006 IPCC Guidelines: New Section in Chapter 7 (Between Sections 7.3 and 7.4) 
+Type of refinement:  New guidance 
+Chapter 8 
+Settlements 
+8.1 Introduction 
+No refinement 
+8.2 Settlements Remaining Settlements  
+8.2.1 
+Biomass 
+Issue: Update default biomass carbon parameters.  
+Location in 2006 IPCC Guidelines: Section 8.2.1.2,  
+Type of refinement:  Update 
+8.2.2 
+Dead organic matter 
+No refinement 
+8.2.3 
+Soil carbon 
+Issue: Develop new Tier 2 method for mineral soils that requires less activity data than the current 
+default method 
+Location in 2006 IPCC Guidelines: New guidance in Section 8.2.3 
+Type of refinement:  New guidance 
+ 
+
+ 
+50 
+8.3 Land Converted to Settlements 
+(All Issues for section 8.2 above apply to this Section similarly.) 
+8.4 Completeness, time series consistency, QA/QC and reporting 
+No refinement 
+8.5 Basis for future methodological development 
+Issue: Clarify the elements in this section of the 2006 IPCC Guidelines that are no longer relevant 
+Location in the 2006 Guidelines: Section 8.5 
+Type of refinement: Elaboration 
+Chapter 9 
+Other Land 
+9.1 Introduction 
+No refinement 
+9.2 Other Land Remaining Other Land  
+No refinement 
+9.3 Land Converted to Other Land  
+9.3.1 
+Biomass  
+No refinement 
+9.3.2 
+Dead organic matter  
+No refinement 
+9.3.3 
+Soil carbon 
+Issue: Develop new Tier 2 method for mineral soils that requires less activity data than the current 
+default method 
+Location in 2006 IPCC Guidelines: New guidance in Section 9.3.3  
+Type of refinement:  New guidance 
+9.4 Completeness, time series, QA/QC and reporting 
+No refinement 
+Chapter 10 
+Emissions from Livestock and Manure Management 
+10.1 Introduction 
+No refinement 
+10.2 Livestock population and feed characterisation 
+Issue 1: Update Section 10.2.2 to include guidance on improved description of feeding systems  
+Location in 2006 IPCC Guidelines: Section 10.2.2 
+Type of refinement:  Update 
+Issue 2: Develop consistent system descriptions for manure management between source categories 
+(regionally/climatically stratified) for basic and enhanced characterisation for livestock populations 
+Location in 2006 IPCC Guidelines: Section 10.2.2  
+Type of refinement:  Update 
+ 
+
+ 
+51 
+10.3 Methane emissions from enteric fermentation 
+Issue:  Improve parameters based on different feeding strategies for cattle and sheep. 
+Location in 2006 IPCC Guidelines: Section 10.3.2, Table 10.11 and Table 10.12 
+Type of refinement: Update 
+10.4 Methane emissions from manure management 
+Issue 1: Update methodology, temperature relationships, Tier 1 Emission Factors and Tier 2 parameters for 
+different manure management systems 
+Location in 2006 IPCC Guidelines: Section 10.4.2  
+Type of refinement:  Update 
+Issue 2: Update guidance on how to deal with non-CO2 emissions due to biogas production. 
+Location in 2006 IPCC Guidelines: Section 10.4.2, Table 10.17 
+Type of refinement: Update 
+10.5 N2O emissions from manure management 
+Issue 1: Update N excretion parameters for all livestock categories considering updated livestock 
+characterization in Section 10.2. 
+Location in 2006 IPCC Guidelines: Section 10.5.2 
+Type of refinement:  Update 
+Issue 2: Update emission factors for N2O for manure management system descriptions. 
+Location in 2006 IPCC Guidelines: Section 10.5.2, Table 10.21 
+Type of refinement:  Update 
+Issue 3: Update manure management volatilization and leaching factors with manure management systems 
+identified in Section 10.2. 
+Location in 2006 IPCC Guidelines: Section 10.5.4, Tables 10.22 and 10.23,  
+Type of refinement:  Update 
+Issue 4: Provide text on quality control procedures that use a mass balance approach to evaluate C and N 
+flows through animal management systems. 
+Location in 2006 IPCC Guidelines: Section 10.5.6 
+Type of refinement: Elaboration 
+Chapter 11 
+N2O Emissions from Managed Soils, and CO2 Emissions from Lime and Urea 
+Application 
+11.1 Introduction 
+No refinement 
+11.2 N2O emissions from managed soils 
+11.2.1 
+Direct N2O emissions 
+Issue 1: Update N2O EF1, stratification by climate  
+Location in 2006 IPCC Guidelines: Section 11.2.1.2, Table 11.1 
+Type of refinement:  Update 
+Issue 2: Update crop parameters for calculating residue quantity and N. 
+Location in 2006 IPCC Guidelines: Section 11.2.1.4, Table 11.2 
+Type of refinement:  Update 
+
+ 
+52 
+Issue 3: Update the EF3 for N applied to soils, pasture, range and paddock by grazing animals. 
+Location in 2006 IPCC Guidelines: Section 11.2.1, Table 11.1  
+Type of refinement:  Update 
+Issue 4: Update emission factor for rice production (N2O)  
+Location in 2006 IPCC Guidelines: Section 11.2, Table 11.1 
+Type of refinement:  Update 
+11.2.2 
+Indirect N2O emissions 
+Issue: Evaluate emissions factors for indirect N2O, both the amount of leaching/runoff and 
+volatilization, as well as the indirect emission factor. 
+Location in 2006 IPCC Guidelines: Section 11.2.2, Table 11.3 
+Type of refinement:  Update 
+11.2.3 
+Completeness, Time series, QA/QC 
+No refinement 
+11.3 CO2 emissions from liming  
+No refinement 
+11.4 CO2 emissions from urea fertilization  
+No refinement 
+Annex 11A.1 
+References for crop residue data in Table 11.2 
+No refinement 
+Chapter 12 
+Harvested Wood Products (HWP) 
+Issue 1: Update the relevant technical parameters, maintaining the existing approaches in the 2006 IPCC 
+Guidelines 
+Location in 2006 IPCC Guidelines: Chapter 12 
+Type of refinement: Update 
+ 
+ 
+Volume 5: Waste  
+Chapter 1 
+Introduction 
+No refinement  
+Chapter 2 
+Waste Generation, Composition and Management Data 
+2.1 Introduction 
+No refinement 
+2.2 Waste generation and management data 
+Issue: Update default data on Municipal Solid Waste (MSW) generation and management 
+Location in 2006 IPCC Guidelines: Section 2.2.1, Table 2.1 
+Type of refinement:  Update  
+2.3 Waste composition  
+Issue 1: Update default data on MSW composition data  
+Location in 2006 IPCC Guidelines: Section 2.3.1, Table 2.3  
+
+ 
+53 
+Type of refinement:  Update  
+Issue 2: Add information on nitrogen (N) content, Biochemical Oxygen Demand (BOD) or Chemical Oxygen 
+Demand (COD) of sludge 
+Location in 2006 IPCC Guidelines: New guidance in Section 2.3.2  
+Type of refinement:  New guidance 
+Annex 2A.1 Waste Generation and Management Data - by country and regional averages 
+Issue: Update default data on MSW generation and management 
+Location in 2006 IPCC Guidelines: Table 2A.1 
+Type of refinement:  Update  
+Chapter 3 
+Solid Waste Disposal 
+3.1 Introduction 
+3.2 Methodological issues   
+Issue 1: Elaborate on the First Order Decay (FOD) method taking into account active aeration of landfills  
+Location in 2006 IPCC Guidelines: New guidance in Section 3.2.1.1 
+Type of refinement:  New guidance  
+Issue 2: Elaborate on default DOC which decomposes (DOCf) values for different waste components  
+Location in 2006 IPCC Guidelines: Section 3.2.3 (Fraction of degradable organic carbon which 
+decomposes (DOCf)) 
+Type of refinement:  Elaboration  
+ 
+3.3 Use of measurement in the estimation of CH4 emissions from solid waste disposal site 
+(SWDS) 
+No refinement  
+3.4 Carbon stored in SWDS  
+No refeinement 
+3.5 Completeness  
+No refeinement 
+3.6 Developing a consistent time series  
+No refeinement 
+3.7 Uncertainty assessment 
+Issue:  Update uncertainty for DOCf values  
+Location in 2006 IPCC Guidelines: Section 3.7.2  
+Type of refinement: Update 
+3.8 QA/QC, reporting and documentation  
+No refinement 
+Annex 3A.1  
+First Order Decay Model 
+No refinement 
+ 
+
+ 
+54 
+Chapter 4 
+Biological Treatment of Solid Waste 
+No refinement 
+Chapter 5 
+Incineration and Open Burning of Waste 
+5.1 Introduction  
+No refinement 
+5.2 Methodological issues 
+No refinement  
+5.3 Choice of activity data 
+No refinement 
+5.4 Choice of emission factors 
+Issue 1: Update oxidation factors for open burning of MSW  
+Location in 2006 IPCC Guidelines: Section 5.4.1, Table 5.2 (Oxidation factor for open burning of 
+MSW) 
+Type of refinement: Update/Elaboration  
+Issue 2: Elaborate on EF for CH4 from incineration related to new technologies gasification, pyrolysis, and 
+plasma technology) 
+Location in 2006 IPCC Guidelines: Section 5.4.2, Table 5.3 
+Type of refinement:  Elaboration  
+Issue 3: Elaborate on EF for N2O from incineration related to new technologies (e.g. gasification, pyrolysis, 
+and plasma technology) 
+Location in 2006 IPCC Guidelines: Section, 5.4.3, Table 5.4  
+Type of refinement:  Elaboration  
+5.5 Completeness  
+No refinement 
+ 
+5.6 Developing a consistent time series 
+No refinement  
+5.7 Uncertainty assessment  
+No refinement 
+5.8 QA/QC, reporting and documentation  
+No refinement 
+Chapter 6 
+Wastewater Treatment and Discharge 
+6.1 Introduction  
+Issue 1: Update introduction language to reflect current understanding of CH4 and N2O emissions from 
+wastewater treatment. 
+Location in 2006 IPCC Guidelines: Section 6.1  
+Type of refinement: Elaboration 
+
+ 
+55 
+Issue 2: Update Figure 6.1 and Table 6.1 to reflect additional types of treatment and disposal systems, such 
+as 
+aerobic/anaerobic 
+treatment 
+systems 
+(e.g., 
+anaerobic/anoxic/oxic 
+(A2O), 
+nitrification/denitrification, etc.) and constructed wetlands, as well as various types of septic 
+systems (e.g., bottomless systems). 
+Location in 2006 IPCC Guidelines: Section 6.1  
+Type of refinement:  Elaboration 
+Issue 3:  Discuss updates/changes from 2006 IPCC Guidelines. 
+Location in 2006 IPCC Guidelines: Section 6.1.1   
+Type of refinement:  Elaboration 
+6.2 Methane emissions from wastewater  
+6.2.1 
+Methodological issues  
+6.2.2 
+Domestic wastewater 
+Issue 1: Update Section 6.2.2.1. Some inventory compilers are misinterpreting Equation 6.1 and 
+combining zero emissions from aerobic systems with recovered methane from sludge 
+digestion, but missing the step of calculating emissions from sludge digestion.  
+Location in 2006 IPCC Guidelines: Section 6.2.2.1  
+Type of refinement:  Update 
+Issue 2: Develop new Methane Correction Factors (MCFs) to reflect treatment processes that may be a 
+combination of aerobic and anaerobic or anoxic zones (e.g., anaerobic/anoxic/oxic (A2O), 
+modified Ludzack-Ettinger (MLE), etc.). 
+Location in 2006 IPCC Guidelines: Section 6.2.2.2  
+Type of refinement:  Update 
+Issue 3: Consider the development of new MCFs to reflect different types of septic system (e.g., 
+bottomless) and also to consider the effect of temperature on the MCF. 
+Location in 2006 IPCC Guidelines: Section 6.2.2.2  
+Type of refinement:  Potential update 
+Issue 4: Elaborate guidance on what systems are classified as “not well managed”/overloaded for 
+centralized aerobic treatment plants. 
+Location in 2006 IPCC Guidelines: Section 6.2.2.2  
+Type of refinement:  Elaboration 
+Issue 5: Provide guidance on estimating emissions from septic systems that are connected to larger 
+centralized treatment plants. 
+Location in 2006 IPCC Guidelines: Section 6.2.2.2  
+Type of refinement:  Elaboration 
+Issue 6: Determine whether methane emissions from treated effluent should be included, particularly 
+that discharged to stagnant water or overloaded receiving waters. 
+Location in 2006 IPCC Guidelines: Section 6.2.2.2  
+Type of refinement:  Update 
+Issue 7: Provide guidance on the origin of the (maximum CH4 producing capacity) Bo values presented 
+in the chapter. 
+Location in 2006 IPCC Guidelines: Section 6.2.2.2  
+Type of refinement:  Update 
+ 
+
+ 
+56 
+6.2.3 Industrial wastewater  
+Issue 1: Develop new MCFs to reflect treatment processes that may be a combination of aerobic and 
+anaerobic or anoxic zones (e.g., anaerobic/anoxic/oxic (A2O), modified Ludzack-Ettinger 
+(MLE), etc.). 
+Location in 2006 IPCC Guidelines: Section 6.2.3.2 
+Type of refinement:  Update 
+Issue 2: Elaborate guidance on what systems are classified as “not well managed”/overloaded for 
+centralized aerobic treatment plants 
+Location in 2006 IPCC Guidelines: Section 6.2.3.2  
+Type of refinement:  Elaboration 
+Issue 3: Determine whether methane emissions from treated effluent should be included, particularly 
+that discharged to stagnant water or overloaded receiving waters. 
+Location in 2006 IPCC GL: Section 6.2.3.2 
+Type of refinement:  Update 
+Issue 4: Update uncertainty tables to include new EFs and AD  
+Location in 2006 IPCC Guidelines: Section 6.2.3.5 
+Type of refinement:  Update/Elaboration 
+6.3 Nitrous oxide emissions from wastewater 
+6.3.1 Methodological issues  
+Issue 1: Address “indirect” emissions and how this terminology interacts with Chapter 7.3, Volume 1 of 
+the 2006 IPCC Guidelines. 
+Location in 2006 IPCC Guidelines: Section 6.3.1.1  
+Type of refinement:  Elaboration 
+Issue 2: Add discussion on the latest research related to how N2O is formed and emitted in treatment 
+system  
+Location in 2006 IPCC Guidelines: Section 6.3.1.1  
+Type of refinement:  Elaboration 
+Issue 3: Consider introducing Tier 1 and Tier 2 methods, similar to the CH4 section. 
+Location in 2006 IPCC Guidelines: Section 6.3.1.1  
+Type of refinement:  Update 
+Issue 4: Correct EF for nitrification/denitrification and develop N2O emission factors for additional 
+treatment system configurations (aerobic/anaerobic/anoxic systems) as well as activated 
+sludge systems. 
+Location in 2006 IPCC Guidelines: Section 6.3.1.2  
+Type of refinement:  Update/Elaboration 
+ Issue 5: Add EF for septic systems. 
+Location in 2006 IPCC Guidelines: New guidance in Section 6.3.1.2  
+Type of refinement:  New guidance 
+Issue 6: Update text regarding N (influent) to make consistent with Table 6.11. 
+Location in 2006 IPCC Guidelines: Section 6.3.1.3  
+Type of refinement:  Elaboration 
+
+ 
+57 
+Issue 7: Clarify Food and Agriculture Organization (FAO) data in relation to protein supplied vs protein 
+consumed  
+Location in 2006 IPCC Guidelines: Section 6.3.1.3 
+Type of refinement:  Elaboration/Update 
+Issue 8: Addition of N2O emission calculation for centralized plants and septic systems 
+Location in 2006 IPCC Guidelines: Sections 6.3.1.3/6.3.1.1  
+Type of refinement:  Update 
+Issue 9: Improve the calculation of Neffluent 
+Location in 2006 IPCC Guidelines: Section 6.3.1.3 
+Type of refinement:  Update/Elaboration 
+Issue 10: Addition of N2O from industrial wastewater  
+Location in 2006 IPCC Guidelines: New guidance in Sections 6.3.1.1 and 6.3.1.3  
+Type of refinement:  New guidance 
+6.3.2 Time series consistency  
+No refinement 
+6.3.3 Uncertainties  
+Issue: Update uncertainty tables to include new EFs and AD  
+Location in 2006 IPCC Guidelines: Section 6.3.3 
+Type of refinement:  Update/Elaboration 
+6.3.4 QA/QC, completeness, reporting and documentation  
+No refinement 
+ 
+ 
+ 
