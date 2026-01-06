@@ -1,100 +1,18 @@
-1992 IPCC Supplement 
-1 
-
-
-TABLE OF CONTENTS 
-SECTION I. INTRODUCTION 
-5 
-SECTION II. SCIENTIFIC ASSESSMENT 
-6 
-SECTION ni. ASSESSMENT OF POTENTIAL IMPACTS OF CLIMATE CHANGE 
-24 
-SECTION IV. ENERGY AND INDUSTRY RELATED ISSUES 
-29 
-SECTION V. AGRICULTURE AND FORESTRY RELATED ISSUES 
-33 
-SECTION VI. VULNERABILITY TO SEA LEVEL RISE 
-36 
-SECTION VII. RESUME OF THE POLICYMAKER SUMMARY (1990) OF THE IPCC 
-SPECIAL COMMITTEE ON THE PARTICIPATION OF DEVELOPING COUNTRIES 
-41 
-SECTION VIII. SUMMARY OF COMMENTS AND ISSUES FOR FURTHER 
-CONSIDERATION BROUGHT OUT AT THE SEVENTH SESSION OF IPCC 
-42 
-LIST OF ACRONYMS AND CHEMICAL SYMBOLS 
-45 
-3 
-
-
-SECTION 1. 
-INTRODUCTION 
-At 
-its fifth 
-session (Geneva, M a r c h 
-1991), 
-the 
-Intergovernmental Panel on Climate Change ( I P C C ) 
-decided to address the six following tasks in a short-term 
-effort to produce an update of its First Assessment Report 
-(August 1990): 
-T A S K 1: 
-T A S K 2: 
-T A S K 3 
-T A S K 4 
-T A S K S 
-T A S K 6 
-Assessment of national net greenhouse gas 
-emissions: 
-Sub-section 1: Sources and sinks of 
-greenhouse gases; 
-Sub-section 2: Global Warming Potentials; 
-Predictions of the regional distributions of 
-climate change and associated impact 
-studies, including model validation studies: 
-Sub-section 1: Update of regional climate 
-models; 
-Sub-section 2: Analysis of sensitivity to 
-regional climate change; 
-Energy and industry related issues; 
-Agriculture and forestry related issues; 
-Vulnerability to sea-level rise; 
-Emissions scenarios. 
-matters requiring further work) were discussed during the 
-seventh session and are included in section VIII of the 
-Supplement. 
-Publication of the 1992 IPCC Supplement completes the 
-short-term work on the six Tasks agreed on at the fifth 
-session of the I P C C (IPCC-V). 
-Long-term work on the 
-same Tasks was also agreed on at I P C C - V and this 
-continues. 
-Each Working Group presented material consisting of a 
-supplement to the IPCC First Assessment Report (1990) 
-together with supporting documents. The supplementary 
-reports have been prepared by subgroups, and have been 
-extensively scrutinized and agreed on by open-ended 
-plenary meetings of the three W o r k i n g Groups. The 
-supporting documents are being prepared by the Working 
-Groups, subgroups or lead authors and have been or will 
-be extensively refereed. 
-The IPCC, at its seventh session (Geneva, 10-12 February 
-1992), recognized with appreciation the dedicated work of 
-many scientists in preparing the reports and supporting 
-documents, especially considering the short time available 
-for their preparation. The IPCC considered and included 
-the supplementary reports from the Working Groups as 
-contributions to the 1992 I P C C Supplement. 
-The IPCC 
-requested that any minor inconsistencies between the 
-Working Group reports be removed so far as possible. 
-Other inconsistencies will be resolved in follow-up work. 
-It was noted that the supplementary reports are overviews 
-of the work which has been carried out and that the 
-supporting documents provide a great deal of additional 
-detailed information, and it was requested that these 
-documents be made available as soon as possible. Issues 
-common to all three working groups as well as other 
-issues raised by members of the I P C C (in particular 
+SECTION 1: INTRODUCTION
+At its fifth session (Geneva, March 1991), the Intergovernmental Panel on Climate Change (IPCC) decided to address the six following tasks in a short-term effort to produce an update of its First Assessment Report (August 1990):
+TASK 1: Assessment of national net greenhouse gas emissions:
+Sub-section 1: Sources and sinks of greenhouse gases;
+Sub-section 2: Global Warming Potentials;
+TASK 2: Predictions of the regional distributions of climate change and associated impact studies, including model validation studies:
+Sub-section 1: Update of regional climate models;
+Sub-section 2: Analysis of sensitivity to regional climate change;
+TASK 3: Energy and industry-related issues;
+TASK 4: Agriculture and forestry-related issues;
+TASK 5: Vulnerability to sea-level rise;
+TASK 6: Emissions scenarios.
+Each Working Group presented material consisting of a supplement to the IPCC First Assessment Report (1990) together with supporting documents. The supplementary reports have been prepared by subgroups and have been extensively scrutinized and agreed on by open-ended plenary meetings of the three Working Groups. The supporting documents are being prepared by the Working Groups, subgroups, or lead authors and have been or will be extensively refereed.
+The IPCC, at its seventh session (Geneva, 10–12 February 1992), recognized with appreciation the dedicated work of many scientists in preparing the reports and supporting documents, especially considering the short time available for their preparation. The IPCC considered and included the supplementary reports from the Working Groups as contributions to the 1992 IPCC Supplement. The IPCC requested that any minor inconsistencies between the Working Group reports be removed so far as possible. Other inconsistencies will be resolved in follow-up work. It was noted that the supplementary reports are overviews of the work which has been carried out and that the supporting documents provide a great deal of additional detailed information; it was requested that these documents be made available as soon as possible. Issues common to all three working groups, as well as other issues raised by members of the IPCC (in particular matters requiring further work), were discussed during the seventh session and are included in Section VIII of the Supplement.
+Publication of the 1992 IPCC Supplement completes the short-term work on the six Tasks agreed on at the fifth session of the IPCC (IPCC-V). Long-term work on the same Tasks was also agreed on at IPCC-V and this continues.
 5 
 
 SECTION IL SCIENTIFIC ASSESSMENT 
@@ -4512,86 +4430,3 @@ available to permit developing countries to become genuine
 partners in this global research effort. The progress of our 
 understanding is indeed dependent upon addressing the 
 global environment in its entirety. 
-44 
-
-LIST OF ACRONYMS AND CHEMICAL SYMBOLS 
-A S L R 
-Accelerated Sea Level Rise 
-CF4 
-Tetrafluoromethane 
-CFCs 
-Chlorofluorocarbons 
-C,Fg 
-Hexafluoroethane 
-C G C M 
-Coupled General Circulation Model 
-CH4 
-Methane 
-C O 
-Carbon monoxide 
-C O , 
-Carbon dioxide 
-C N G 
-Compressed Natural Gas 
-E N S O 
-El-Nino Southem Oscillation 
-G C O S 
-Global Climate Observing System 
-G E F 
-Global Environment Facility 
-G H G 
-Greenhouse Gas 
-GtC 
-Gigatonnes ( 10' tonnes) carbon 
-G W P 
-Global Warming Potential 
-H C F C 
-Hydrochlorofluorocarbon 
-H F C 
-Hydrofluorocarbon 
-ICSU 
-Intemational Council of Scientific Unions 
-IGBP 
-Intemational Geosphere-Biosphere Programme 
-IPCC 
-Intergovemmental Panel on Climate Change 
-ISTlG 
-Intercooled, Steam Injected Gas Turbine 
-IS92a-f 
-1992 IPCC Emissions Scenarios 
-Mha 
-Million hectares 
-M S U 
-Microwave Sounding Unit 
-Mt 
-Mégatonne ( 10^ tonnes) 
-N , 0 
-Nitrous oxide 
-NOx 
-Nitrogen oxides 
-N H 
-Northem Hemisphere 
-N M H C 
-Non-methane hydrocarbons 
-O3 
-Ozone 
-O E C D 
-Organization for Economic Cooperation and Development 
-pa 
-Per annum 
-ppm 
-Part per million 
-SFj 
-Sulphur hexafluoride 
-tC 
-Tonnes Carbon 
-Tg 
-Teragram (10'- grams) 
-U N 
-United Nations 
-U N E P 
-United Nations Environment Programme 
-W M O 
-World Meteorological Organization 
-45 
-
