@@ -9,8 +9,8 @@ from tqdm import tqdm
 load_dotenv("env/.env")
 
 # Configuration
-INPUT_DIR = Path("cl_st2_ph3_arianne/corpus/01_ipcc_scraped")
-OUTPUT_DIR = Path("cl_st2_ph3_arianne/corpus/02_ipcc_cleaned")
+INPUT_DIR = Path("corpus/01_ipcc_scraped")
+OUTPUT_DIR = Path("corpus/02_ipcc_cleaned")
 MODEL = "gpt-5.1"
 CHUNK_SIZE = 1800  # Number of words per chunk
 OVERLAP = 150      # Number of words to overlap
