@@ -272,25 +272,7 @@ incoming solar radiation, both the atmosphere and the
 65 
 
 Scientific Assessment of Climate Change 
-some solar radiation 
-is reflected by the earth 
-and the atmosphere 
-some of the infra-red 
-radiation is absorbed 
-and re-emitted by the 
-greenhouse gases. 
-The effect of this is to 
-warm the surface and 
-the lower atmosphere 
-most solar 
-radiation is absorbed 
-by the earth's surface and 
-warms it 
-radiation is 
-emitted from 
-the earth's 
-surface 
-Figure 3 A simplified diagram illustrating the greenhouse effect 
+
 surface will be warmer than they would be without the 
 greenhouse gases. 
 2.1.4 
@@ -361,19 +343,7 @@ sea levels to rise; these are discussed in more detail later.
 66 
 
 Scientific Assessment of Climate Change 
-о 
-I 
-I 
-0 
-40 
-80 
-120 
-160 
-Age (thousand years before present) 
-Analysis of air trapped in Antarctic ice cores shows that methane 
-and carbon dioxide concentrations were closely correlated with 
-the local lemperatiire over the last 160 ООО years. Present-day 
-concentrations of carbon dioxide are indicated. 
+
 2.3.2 
 There are other human activities which have the 
 potential to affect climate. A change in the albedo 
@@ -463,94 +433,7 @@ ozone has decreased considerably due to the effects of CFCs,
 67 
 
 Scientific Assessment of Climate Change 
-Carbon 
-Methane 
-CFC-11 
-CFC-12 
-Nitrous 
-Dioxide 
-Oxide 
-Atmospheric concentration 
-ppmv 
-ppmv 
-pptv 
-pptv 
-ppbv 
-Pre-indublrial (1750-1800) 
-280 
-0.8 
-0 
-0 
-288 
-Presem day (1990) 
-353 
-172 
-280 
-484 
-310 
-Current rate of change per year 
-1.8 
-0015 
-95 
-17 
-08 
-(0.5%) 
-(0.9%) 
-(4%) 
-(4%) 
-(0.25%) 
-Atmospheric lifetime (years) 
-(50-200)t 
-10 
-65 
-130 
-150 
-ppmv = parts per million by volume: 
-ppbv = pans per billion (thousand million) by volume, 
-pptv = parts per trillion (million million) by volume 
-t 
-The way in which C O , is absorbed by the oceans and biosphere is not simple and a single value cannot be given: refer to the main repon 
-for further discus.sion 
-Summary of key greenhouse ga^es affeued by human activities 
-1800 
-1800 
-1850 
-1900 
-YEAR 
-1950 
-2000 
-310 
-300 h 
-1800 
-1850 
-1900 
-YEAR 
-1950 
-2000 
-a a 
-< 
-к 
-UI 
-о 
-и 
-о 
-IL 
-и 
-1800 
-1850 
-1900 
-YEAR 
-1950 
-2000 
-1800 
-1850 
-1900 
-YEAR 
-1950 
-2000 
-Concentrations of carbon dioxide and methane, after remaining relatively constant up to the 18th century, have risen sharply since 
-then due to man's activities. Concentrations of nitrous oxide have increased since the mid-l8th century, especially in the last few 
-decades CFCs were not pieseni in the atmosphere until the 1930s 
+
 68 
 
 Scientific Assessment of Climate Change 
@@ -604,19 +487,8 @@ carbon dioxide fossil fuel emissions is shown below:
 Stabilization of atmospheric concentrations. 
 Reductions in the human-made emissions of greenhouse gases 
 required to stahlize concentrations at present day levels: 
-Carbon Dioxide 
->60% 
-Methane 
-15—20% 
-Nitrous Oxide 
-70—80% 
-CFC-11 
-70—75% 
-CFC-12 
-75 85% 
-HCFC-22 
-40—50% 
-Note that the stabilization of each of these gases would 
+
+Note that the stabilization of each of these gases would
 have different effects on climate, as explained in the next 
 section. 
 (a) continuing global emissions at 1990 levels; (b) halving 
@@ -639,23 +511,8 @@ human-made emissions of a greenhouse gas must be reduced
 in order to stabilize at present day concentrations, for 
 example, is shown in the table above. For most gases the 
 reductions would have to be substantial. 
-1980 
-2000 
-2020 
-2040 
-2060 
-2080 2100 
-1980 2000 
-2020 
-2040 
-2060 
-2080 2100 
-Y E A R 
-Y E A R 
-The relationship between hypothetical fossil fuel emissions of carbon dioxide and its concentration in the atmosphere is shown in the 
-case where (a) emissions continue at 1990 levels, (b) emissions are reduced by 50% in 1990 and continue at that level, (c) emissions 
-are reduced by 2% pa from 1990, and (d) emissions, after increasing by 2% pa until 2020. are then reduced by 2% pa thereafter. 
-69 
+
+69
 
 Scientific Assessment of Climate Change 
 3.2 
@@ -689,108 +546,22 @@ They are briefly described in the Annex.
 Future 
 concentrations of some of the greenhouse gases which 
 would arise from these emissions are shown opposite. 
->• 900 
-I 
-S 
-800 
-1 
-700 
-t-
-Œ 
-600 
-U l 
-о 
-500 
-О 
-ü 
-400 
-О 
-О 
-300 
-BUSINESS- 
-у 
--
-AS-USUAL 
-у/^' 
-• 
-— • — 1 — • — 
-SCENARIO D • 
-1980 
-2000 2020 
-2040 
-2060 
-2080 2100 
-Y E A R 
-О 
-1000 
-SCENARIO D 
-1980 
-2000 2020 
-2040 
-2060 2080 
-2100 
-Y E A R 
-3,3 
-Greenhouse gas feedbacks 
-> 
-a. 
-700 
-BUSINESS-
-3,3 
-Greenhouse gas feedbacks 
-& 
-600 
-AS-USUAL ^ 
-^ 
-: 
-3.3.1 
+
+3,3
+Greenhouse gas feedbacks
+
+3.3.1
 Some of the possible feedbacks which could 
-600 
-significantly modify future greenhouse gas concentrations 
-О 
-500 -
-^,<»ss==^^^^^^ 
-SCENARIOS " 
-in a warmer world are di.scussed in the following paragraphs. 
-< 
-^,<»ss==^^^^^^ 
-SCENARIOS " 
-in a warmer world are di.scussed in the following paragraphs. 
-E 
-Ь 
-400 
-• 
-3.3.2 
+significantly modify future greenhouse gas concentrations
+in a warmer world are di.scussed in the following paragraphs.
+
+3.3.2
 The net emissions of carbon dioxide from 
-Z 
-Ul 
-300 
-terrestrial ecosystems will be elevated if higher temperatures 
-о 
-z 
-200 
-increase respiration at a faster rate than photosynthesis, or 
-о о 
-200 
-^ ^ ^ ^ ^ ^ 
-if plant populations, particularly large forests, cannot adjust 
-100 
-0 
-SCENARIOS*"***^ 
-rapidly enough to changes in climate. 
-100 
-0 
-CandD 
-—I 
-1 
-. 
-1 
-• 
-1 
-1 
-1 
-1— 
-3.3.3 
+terrestrial ecosystems will be elevated if higher temperatures
+increase respiration at a faster rate than photosynthesis, or
+if plant populations, particularly large forests, cannot adjust
+
+3.3.3
 А net flux of carbon dioxide to the atmosphere 
 may be particularly evident in warmer conditions in tundra 
 and boreal regions where there are large stores of carbon. 
@@ -810,18 +581,8 @@ dioxide between the surface layers and the deep ocean. This
 last depends upon the rate of formation of deep water in the 
 ocean which, in the North Atlantic for example, might decrease 
 if the salinity decreases as a result of a change in climate. 
-1980 
-2000 
-2020 
-2040 
-2060 
-2080 
-2100 
-Y E A R 
-Almosphenc Lonceniralions 
-of carbon dioxide, methane and 
-CFC-11 resultinafiom ihefoui IPCC emissions scenaiios 
-3.3.5 
+
+3.3.5
 Methane emissions from natural wetlands and rice 
 paddies are particularly sensitive to temperature and soil 
 moisture. Emissions are significantly larger at higher 
@@ -838,55 +599,8 @@ interglacials.
 70 
 
 Scientific Assessment of Climate Change 
-10 
-E 
-S 
-О 
-z 
-ü 
-к 
-BUSINESS 
-/ 
-AS USUAL 
-X 
-^ ^ ^ ' S C E N A R I O D 
-1120 
-560 
-280 
-> 
-E s-
-О s 
-о 
-i l 
-Э z 
-о 
-Ш 
-Ш о 
-О 
-о 
-1900 
-1950 
-2000 
-2050 
-2 1 0 0 
-YEAR 
-Increase in radiative forcing since tlie mid-ISih century, and 
-predicted lo result from the four IPCC emissions scenarios, also 
-expressed as equivalent carbon dio.xide concentrations 
-CARBON 
-DIOXIDE 
-CFCs 
-11 and 12 
-OTHER 
-CFCs 
-NITROUS 
-OXIDE 
-METHANE 
-The contribution from each of the human-made greenhouse 
-gases to the change in radiative forcing from 1980 to 1990. The 
-contribution from ozone may also be significant, but cannot be 
-quantified at present 
-3.3.7 
+
+3.3.7
 Although many of these feedback processes are 
 poorly understood, it seems likely that, overall, they will act 
 to increase, rather than decrease, greenhouse gas 
@@ -923,38 +637,7 @@ would give that forcing; this is termed the equivalent carbon
 dioxide concentration. Greenhouse gases have increased 
 since pre-industrial times (the mid-18th century) by an 
 amount that is radiatively equivalent to about a 50% increase 
-GLOBAL WARMING POTENTIALS 
-The warming effect o f an emission o f 1 kg of each gas relative to that o f CO2 
-These figures are best estimates calculated on the basis of the present day atmospheric composition 
-20 yr 
-Time Horizon 
-100 yr 
-500 
-Carbon dioxide 
-1 
-1 
-1 
-Methane (including indirect) 
-63 
-21 
-9 
-Nitrous oxide 
-270 
-290 
-190 
-C F C - 1 1 
-4500 
-3500 
-1500 
-C F C - 1 2 
-7100 
-7300 
-4500 
-H C F C - 2 2 
-4100 
-1500 
-510 
-Global Warming Potentials for a range of CFCs and potential replacements are given in the full lexi 
+
 71 
 
 Scientific Assessment of Climate Change 
@@ -1032,74 +715,12 @@ earlier reductions in emissions would be more effective
 than those made later? A n d are its sources and sinks well 
 enough known to decide which could be controlled in 
 practice? The table opposite illustrates these factors. 
-The Relative Cumulative Climate Effect of 1990 Man-Made Emissions 
-G W P 
-1990 emissions 
-Relative contribution 
-(lOOyr horizon) 
-(Tg) 
-over lOOyr 
-Carbon dioxide 
-1 
-26000t 
-61% 
-Methane* 
-21 
-300 
-15% 
-Nitrous oxide 
-290 
-6 
-4% 
-C F C s 
-Various 
-0.9 
-11% 
-H C F C - 2 2 
-1500 
-0.1 
-0.5% 
-Others* 
-Various 
-8.5% 
-* These values include the indirect effect of these emissions on other greenhouse gases via chemical reactions in the 
-atmosphere. Such estimates are highly model dependent and should be considered preliminary and subject to change. 
-The estimated effect of ozone is included under "others". The gases included under "others" are given in the full 
-report. 
-t 26 ООО Tg (teragrams) of carbon dioxide = 7 ООО Tg (=7 Gt) of carbon 
-72 
+
+72
 
 Scientific Assessment of Climate Change 
-Characteristics of Greenhouse Gases 
-G A S 
-M A J O R C O N T R I B U T O R ? 
-L O N G L I F E T I M E ? 
-S O U R C E S K N O W N ? 
-Carbon dioxide 
-yes 
-yes 
-yes 
-Methane 
-yes 
-no 
-semi-quantitatively 
-Nitrous oxide 
-not at present 
-yes 
-qualitatively 
-CFCs 
-yes 
-yes 
-yes 
-HCFCs, etc 
-not at present 
-mainly no 
-yes 
-Ozone 
-possibly 
-no 
-qualitatively 
-5. 
+
+5.
 How much do we expect climate 
 to change? 
 5.0.1 
@@ -1185,13 +806,8 @@ The global warming will also lead to increased
 73 
 
 Scientific Assessment of Climate Change 
-ESTIMATE 
-• ESTIMATE 
-ESTIMATE 
-Y E A R 
-Simulation of the increase in global mean temperature from 1850-1990 due to observed increases m greenhouse-gases, and predictions 
-of the rise between 1990 and 2100 resulting from the Business-as-Usual scenario. 
-global average precipitation and evaporation of a few 
+
+global average precipitation and evaporation of a few
 percent by 2030. Areas of sea-ice and snow are expected to 
 diminish. 
 b. 
@@ -1236,21 +852,7 @@ smaller than the global-mean in regions of sea ice in
 summer. Precipitation is predicted to increase on average in 
 middle and high latitude continents in winter (by some 5— 
 10% over 35-55°N). 
-1850 
-1900 
-1950 
-2000 
-Y E A R 
-2050 
-BUSINESS 
-AS-USUAL 
-SCENARO В 
-SCENARIO С 
-SCENARIO D 
-2100 
-Simulations of the increase in global mean temperature from 1850-1990 due to observed increases in greenhouse gases, and predictions of 
-the nse between 1990 and 2100 resulting from the IPCC Scenario B. С and D emissions, with the Business-as-Usual case for comparison. 
-lA 
+
 
 Scientific Assessment of Climate Change 
 What tools do we use to predict future climate, and how do we use them? 
@@ -1334,23 +936,7 @@ realized temperature rise at any time is about 50% of the committed temperature 
 response to a doubling of carbon dioxide) is 4.5°C and about 80% if the climate sensitivity is 1.5°C. If the forcing 
 were then held constant, temperatures would continue to rise slowly, but it is not certain whether it would take decades 
 or centuries for most of the remaining rise to equilibrium to occur. 
-Ç 
-о 
-ti. 
-Fcrcing stabilisation 
-Years 
-150 
-100 
-200 
-Years 
-Equilibrium 
-300 
-Years 
-150 
-100 
-200 
-Years 
-300 
+
 variability w i l l change in the future. In the case of 
 temperatures, assuming no change in variability, but with a 
 modest increase in the mean, the number of days with 
@@ -1697,40 +1283,7 @@ today.
 8.0.6 
 Global mean temperature alone is an inadequate 
 indicator of greenhouse-gas-induced climatic change. 
-О 
-о 
-О) 
-D î 
-С 
-03 
-s: о 
-О) 
-1 _ 
-со 
-1 _ 
-0) 
-Q-
-Е 
-0.4 
-0.2 
-0.0 
--0.2 
--0.4 
--0.6 
-m 
-Ш m 
-M L 
-1870 
-1890 
-1910 
-1930 
-1950 
-1970 
-1990 
-Year 
-Global mean combined land-aii and sea-suiface tempeiaiwe<<, ¡861—1989, 
-lelative lo the aveiagefor 
-¡951—1980 
+
 80 
 
 Scientific Assessment of Climate Change 
@@ -1749,38 +1302,8 @@ by natural variability and other (possibly man-made) factors,
 and we do not have a clear picture of these. 
 9. 
 How much will sea level rise ? 
-40 
-E 
-Ш 
-m 
-30 
-< 
-Ш 
-(Л 
-20 
-10 
--
--
-FORCING STABILISED . 
-/ 
-IN 2030 
-<—1 
-1 1 
-i 
-1 1 1 1 1 • 
-с s 
-i 
-"E 
-E 
-<5 
-1980 
-2000 
-2020 
-2040 
-Y E A R 
-2060 
-2080 2100 
-9.0.1 
+
+9.0.1
 Simple models were used to calculate the rise in 
 sea level to the year 2100: the results are illustrated below. 
 The calculations necessarily ignore any long-term changes, 
@@ -1801,45 +1324,11 @@ oceans and the melting of glaciers. Although, over the next
 100 years, the effect of the Antarctic and Greenland ice 
 sheets is expected to be small, they make a major 
 contribution to the uncertainty in predictions. 
-Commiimeni lo sea level rise in the year 2030. The сип'е shows 
-the sea level rise due to Business-As-Usual emi.ssions to 2030. 
-with the additional rise that would occur in the remainder of the 
-century even if climate forcing was slahli.sed in 2030. 
-E 
-Ш 
-m 
-ос 
-ш 
-> 
-ш 
-< 
-ш 
-(О 
-о 
-ш 
-- I 
-< ш 
-ОС 
-80 
-BUSINESS 
--
-AS-USUAL > 
--
-SCENARIO D 
-1980 
-2000 
-2020 
-2040 
-Y E A R 
-2060 
-2080 2100 
-9.0.3 
+9.0.3
 Even if greenhouse forcing increased no further, 
 there would still be a commitment to a continuing sea-level 
-Model estimates of sea-level rise from 1990—^2/00 due to all 
-four emissions scenarios. 
-Sea level rise predicted to result from Business-as-Usual emissions, showing the best-estimate and range 
-81 
+
+81
 
 Scientific Assessment of Climate Change 
 rise for many decades and even centuries, due to delays in 
@@ -2188,6 +1677,5 @@ moderated growth of emissions in developing countries
 could stabilize atmospheric concentrations. Carbon dioxide 
 emissions are reduced to 50% of 1985 levels by the middle 
 of the next century. 
-Emissions of carbon dioxide and methane (as examples) to the year 2100. in the four .scenarios developed hy IPCC Working Croup III. 
-85 
 
+85

@@ -1210,57 +1210,7 @@ assumes carbon dioxide emissions are reduced to 50% of
 dioxide 
 concentrations at about twice the pre-industrial levels towards 
 the end of the next century. 
-Figure I Projected man-made CO2 emmissions 
-(Billion or 1000 million tonnes carbon per year) 
-Figure 2 Projected man-made Methane emmissions 
-(Million tonnes per year) 
-ui 
-Q 
-X 
-о 
-3 С 
-О ^ 
-о 
-< 2 
-IS 
-20 H 
-юн 
-BUSINESS 
-AS-USUAL 
-SCENARIO D 
-900 
-1980 
-2000 
-2020 
-2040 
-2060 
-2080 210 
-YEAR 
-ш С 
-Z а 
-S í 
-t u s 
-< о 
-г ю 
-800 H 
-BUSINESS 
-AS-USUAL 
-1980 
-2000 
-2020 
-2040 
-2060 
-2080 2 1 0 0 
-YEAR 
-2 All of the scenarios assumed some level of compliance with the Montreal Protocol but not with all of the (June 1990) amendments 
-agreed to in London. The London amendments to the Montreal Protocol, when fully implemented, would result in a virtually 
-complete elimination of production of fully halogenated CFCs, halons, carbon tetrachloride and methyl chloroform early in the 21st 
-century. The Parties of the Protocol also call for later elimination of HCFCs. 
-Thus, the assumptions of Scenarios A and В 
-overestimate the radiative forcing potential of CFCs and halons. Additionally, the UN has provided recent population projections that 
-estimate higher population than used in the global model scenarios (Scenarios A through D); use of these newer projections would 
-increase future CO2 emissions. Additionally, the Reference Scenario CO2 emissions are higher than Scenario A (Business-as-Usual), 
-suggesting Scenario A (Business-as-Usual) may be an underestimate. 
+
 61 
 
 IPCC Ovei-view 
