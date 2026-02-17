@@ -48,7 +48,6 @@
     %\DeclareLanguageMapping{brazilian}{brazilian-chicago} % Use it to apply Chicago-specific language settings for Brazilian Portuguese
     \addbibresource{library.bib} % Use it to add the bibliography database for BibLaTeX
 \usepackage[utf8]{inputenc} % Sets the document encoding to UTF8
-\renewcommand{\rmdefault}{\sfdefault} % Changes to sans serif typeface
 \usepackage[brazilian, english]{babel} % Sets multilingual support to 'brazilian' and 'english'
 \usepackage{caption} % Enables better management of captions
 \usepackage{float} % Enables better management of floating objects
@@ -60,6 +59,8 @@
 \usepackage{listings} % Enables computer code listing
     \lstset{breaklines=true, breakatwhitespace=true, columns=fullflexible, postbreak=\mbox{\textcolor{lightgray}{$\hookrightarrow$}\space}}
 \usepackage[T1]{fontenc} % Switch the font encoding to T1, which provides support for the '\dh' command and other special characters
+\usepackage{lmodern}
+\renewcommand{\rmdefault}{\sfdefault} % Changes to sans serif typeface
 \renewcommand{\thesection}{\arabic{section}} % When using the 'report' document class without chapters, this setting removes the leading '0' on the numbering of sections
 \usepackage[export]{adjustbox} % Enables drawing a frame around the figures with the command '\fbox'
 \usepackage{multicol} % Enables the creation of columns of text
