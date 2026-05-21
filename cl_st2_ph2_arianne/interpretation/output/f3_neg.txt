@@ -1,0 +1,170 @@
+Below I first synthesise what the pole encodes, then propose labels and justify them.
+
+---
+
+## 1. Which texts and groups are driving this pole?
+
+- Mean scores (higher = more of the *positive* pole; lower = more of the *negative* pole):
+  - Human: 14.83  
+  - persona_gpt: 11.76  
+  - persona_gemini: 5.01  
+  - persona_grok: 5.04  
+
+The **negative pole** (f3_neg) is therefore most strongly associated with **Gemini persona texts** (they are the lowest-scoring group, i.e. closest to the negative end), and least associated with human texts (which sit strongly on the positive side of this factor).
+
+All ten high-scoring negative examples are Gemini persona texts, so this pole is clearly **LLM–Gemini–persona driven**, not human-driven.
+
+---
+
+## 2. What do the loadings tell us?
+
+High-magnitude negative loadings (i.e. defining this pole) are:
+
+- **Greenpeace ships / iconic proper nouns / organisational identity**
+  - united (-1.07)  
+  - rainbow (-0.87)  → Rainbow Warrior  
+  - arctic (-0.65)   → Arctic Sunrise  
+  - sunrise (-0.53)  → Arctic Sunrise  
+  - warrior (-0.63)  → Rainbow Warrior / “warriors of the rainbow”
+
+- **Actors and roles in activism / conflict**
+  - photographer (-0.61)  
+  - hunter (-0.44) (Bob Hunter, founder)  
+  - officer (-0.39)  
+  - police (-0.37)  
+  - opposition (-0.40)  
+  - defense (-0.46)  
+  - march (-0.35)
+
+- **Struggle, resilience, and movement language**
+  - persistence (-0.47)  
+  - determination (-0.40)  
+  - courage (-0.32)  
+  - spirit (-0.30)  
+  - displacement (-0.31)
+
+- **Place and institutional context**
+  - republic (-0.73)  
+  - east (-0.46)  
+  - basin (-0.36)  
+  - intergovernmental (-0.35)
+
+- **Symbolic / cultural elements**
+  - music (-0.46)  
+  - tradition (-0.34)  
+  - seal (-0.46) (both animal and emblematic of early Greenpeace campaigns)
+
+Taken together, these loadings point to a lexicon of:
+
+- **Greenpeace’s own history, fleet, and mythology** (Rainbow Warrior, Arctic Sunrise, Bob Hunter, “warriors of the rainbow”).
+- **Direct action and confrontation** (police, officer, defense, opposition, march).
+- **Heroic, affective framing of activism** (courage, determination, persistence, spirit).
+- **Commemoration of specific events and people** (photographer Fernando Pereira, bombing of the Rainbow Warrior, Arctic 30 case).
+- **Institutional and geopolitical framing** (republic, intergovernmental, east, basin).
+
+So lexically, this pole encodes **Greenpeace-as-movement**, with its ships, martyrs, confrontations, and collective resolve.
+
+---
+
+## 3. What do the example excerpts add?
+
+All examples are Gemini persona texts with f3_neg score = -1, each containing one of the loading words. They illustrate how the lexicon is used in context.
+
+### a. Organisational history and mythos
+
+- t000100 (rainbow): recounts Bob Hunter’s life, the founding of Greenpeace, “Warriors of the Rainbow,” Cree myth, early tactics.
+- t000942 (photographer): 30th anniversary of the bombing of the Rainbow Warrior, death of photographer Fernando Pereira, state-sponsored terrorism, apology, courage of the movement.
+- t000074 (sunrise): overview of Greenpeace ships (Esperanza, Witness, Rainbow Warrior, Arctic Sunrise) as “central to our activism,” “iconic vessels,” “vessels of peace.”
+
+These texts foreground **Greenpeace’s own narrative, symbols, and heroes**: ships, founders, martyrs, and the mythic “rainbow warrior” frame.
+
+### b. Direct action, repression, and legal struggle
+
+- t000820, t000711, t000590, t000591 (sunrise): Arctic Sunrise in Barents Sea, Arctic 30 jailed in Russia, Coast Guard arrests, European Court of Human Rights case, BP rig occupation and pursuit, injunctions, police removals, “Climate Emergency” banner.
+- t000313 (opposition): indigenous Dumagat Remontado opposition to Kaliwa Dam, sacred lands, traditions, solidarity and bayanihan.
+
+These show **confrontational activism**: boarding rigs, entering exclusion zones, arrests, court cases, indigenous resistance to destructive projects.
+
+### c. Movement affect and collective resolve
+
+- t000505 (determination): 2019 as “iconic” year of global mobilisation, “people power,” communities “united,” “strength and determination,” “resistance and resilience.”
+- t000313 again: hardship, traditions, solidarity, community pantries, connecting indigenous farmers and urban residents.
+
+Here the discourse is **explicitly about collective strength, unity, and perseverance** in the face of adversity.
+
+### d. Narrative stance
+
+Across examples, the stance is:
+
+- **Movement-centred**: “Greenpeace activists…”, “our ships…”, “we invite you…”, “our activism.”
+- **Event- and story-based**: specific actions, anniversaries, voyages, legal cases, indigenous struggles.
+- **Heroic and commemorative**: honouring ships, founders, martyrs; emphasising courage, determination, spirit.
+
+So the negative pole is not about climate science or policy per se; it is about **Greenpeace’s own story as a campaigning movement engaged in struggle**.
+
+---
+
+## 4. Human vs LLM usage
+
+Humans have the highest *positive* scores on this factor, meaning they are **least associated** with this negative-pole lexicon. Gemini persona texts are most associated with it.
+
+This suggests that, under a “Greenpeace writer” persona prompt, Gemini tends to:
+
+- Over-index on **Greenpeace’s iconic ships, founders, and dramatic actions**, and
+- Use a **heroic, movement-mythology register** (Rainbow Warrior, Arctic Sunrise, bombing, Arctic 30, courage, determination).
+
+So this pole captures a **Gemini-specific stylisation of Greenpeace as a heroic, ship-centred, struggle narrative**, more than it captures the everyday register of human-authored Greenpeace blogs.
+
+---
+
+## 5. Interpreting the discourse dimension
+
+Bringing loadings and examples together, the negative pole encodes a discourse that is:
+
+- **Movement- and organisation-centric** (Greenpeace’s identity, history, fleet, founders, martyrs).
+- **Action- and conflict-oriented** (protests, arrests, legal defence, opposition, marches, state repression).
+- **Heroic and commemorative in tone** (courage, determination, spirit, persistence; anniversaries, memorials).
+- **Symbolically rich** (Rainbow Warrior, Arctic Sunrise, Cree myth, “warriors of the rainbow,” vessels of peace).
+
+It is less about abstract climate policy or technical detail, and more about **telling the story of Greenpeace as a courageous, united movement engaged in high-stakes struggle**.
+
+---
+
+## 6. Possible labels for f3 (negative pole)
+
+Here are several candidate labels that capture this discourse, each justified by the evidence:
+
+1. **“Greenpeace Movement Mythos and Heroic Activism”**  
+   - “Movement mythos”: ships, founders, martyrs, Cree myth, anniversaries.  
+   - “Heroic activism”: courage, determination, opposition, police, defense, march, Arctic 30, BP rig occupations.
+
+2. **“Organisational Memory and Direct-Action Struggle”**  
+   - “Organisational memory”: Bob Hunter, Rainbow Warrior bombing, 30th anniversaries, fleet retrospectives.  
+   - “Direct-action struggle”: protests, arrests, legal defence, indigenous opposition to dams, Arctic oil actions.
+
+3. **“Iconic Fleet, Founders, and Collective Courage”**  
+   - “Iconic fleet”: Rainbow Warrior, Arctic Sunrise, Esperanza, Witness.  
+   - “Founders”: Bob Hunter, early campaigns (seal pups, whalers).  
+   - “Collective courage”: determination, persistence, spirit, courage, united.
+
+4. **“Narratives of Resistance, Repression, and Solidarity”**  
+   - “Resistance”: opposition, marches, occupations, legal challenges.  
+   - “Repression”: police, officer, arrests, bombing, unlawful detention.  
+   - “Solidarity”: united, spirit, indigenous–urban connections, global mobilisation.
+
+5. **“Greenpeace as Heroic Actor in Environmental Conflict”**  
+   - Emphasises Greenpeace itself (ships, activists, founders) as the central protagonist in conflicts with states and corporations.
+
+---
+
+## 7. Recommended primary label
+
+If one concise label is needed, the most encompassing and corpus-grounded is:
+
+**Greenpeace Movement Mythos and Heroic Activism**
+
+- “Greenpeace Movement” captures the organisational, ship- and founder-centred focus.
+- “Mythos” captures the commemorative, symbolic, and iconic elements (Rainbow Warrior, Arctic Sunrise, Cree myth, anniversaries).
+- “Heroic Activism” captures the lexicon of courage, determination, opposition, police, defense, marches, and the narrative of struggle and resilience.
+
+This label reflects both the **lexical profile** (ships, founders, courage, opposition, police, defense) and the **discursive function** seen in the examples: constructing Greenpeace as a united, courageous movement engaged in emblematic struggles that define its identity.

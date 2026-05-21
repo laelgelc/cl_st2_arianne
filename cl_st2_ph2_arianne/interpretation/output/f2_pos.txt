@@ -1,0 +1,137 @@
+Factor f2 (positive pole) is best interpreted as a **“climate justice / structural injustice” discourse dimension**, centred on systemic power, inequality, and frontline resistance.
+
+Below are several closely related label options, with justification grounded in the loadings and examples:
+
+---
+
+### 1. “Climate Justice and Structural Inequality Discourse”
+
+**Why this fits the loadings**
+
+High-loading items cluster very clearly around:
+
+- **Justice / rights / inequality lexicon**  
+  dignity (.71), justice (.60), injustice (.48), inequality (.52), poverty (.48), class (.42), exploitation (.42), greed (.37), crime (.31), violence (.44), right (.44), equality (.43), accountability (.41), security (.31), defense (.58), defender (.31), safeguard (.41), protection (.37), rights-related institutional terms (parliament, court, institution, framework, policy, government).
+
+- **Frontline / vulnerability / affected communities**  
+  displacement (.68), frontline (.62), vulnerability (.53), community (.52), livelihood (.50), land (.42), people (.42), youth (.46), grassroots (.42), territory (.49), identity (.47), society (.44), culture (.37), tradition (.37), woman (.30), gender (.37), labour (.31), resource (.36), wellbeing (.41).
+
+- **Systemic / structural framing**  
+  extraction (.46), profit (.41), wealth (.43), economy (.40), corporation (.30), finance (.39), policy (.41), politics (.43), system (.35), structure (.31), framework (.53), institution (.53), barrier (.47), inaction (.46), driver (.38), agenda (.38), legacy (.38), expansion (.34), dependence (.35), degradation (.32), exploitation (.42).
+
+- **Crisis and breakdown language**  
+  climate (.51), crisis (.47), breakdown (.60), brink (.45), chaos (.43), disruption (.38), emergency (.32), shock (.37), drought (.41), flood (.32), storm (.31), heatwave (.33), weather (.33), pandemic (.30).
+
+- **Normative and transformational vocabulary**  
+  justice (.60), solidarity (.47), resistance (.48), struggle (.52), courage (.45), leadership (.44), participation (.51), cooperation (.60), stewardship (.43), transformation (.41), survival (.43), future (.43), necessity (.43), possibility (.46), urgency (.34), act (.32), demand (.32), transformation (.41).
+
+This constellation is not just “climate + impacts”; it is **climate framed explicitly through justice, inequality, and systemic power relations**.
+
+**Why this fits the examples**
+
+The high-scoring texts are all persona_GPT and are saturated with:
+
+- **Justice framing and inequality**  
+  “unfinished business of decolonization”, “climate and environmental justice”, “profit over people and ecosystems”, “colonial-era extraction”, “deep poverty”, “disconnect between resource wealth and human development” (t001113, t001364, t001199, t001098).
+
+- **Frontline communities and territories**  
+  African communities, Borneo communities, Indigenous peoples (Wixárika, Guarani, Kaiowa, Wichi, etc.), women in the Global South, youth activists in Africa, “frontlines of extraction, pollution and climate impacts” (t001233, t001265, t001823, t001252).
+
+- **Structural critique of economic and political systems**  
+  Colonialism, decolonization, Omnibus Law, fossil-fuelled development models, “broken system”, “global economic model”, “planet-destroying industries”, “twentieth-century economic mindset”, “sharing economy captured by extraction” (t001113, t001364, t001470, t001709).
+
+- **Normative, movement-oriented language**  
+  solidarity, resistance, courage, leadership, grassroots, just transition, polluter pays, climate finance as solidarity, “another way is within reach”, “paradigm shift” (t001265, t001233, t001470, t001199, t001098).
+
+The loading words recur densely in the excerpts: frontline, justice, inequality, extraction, profit, wealth, community, land, people, solidarity, resistance, dignity, displacement, territory, corporation, policy, government, etc. The discourse is consistently about **who suffers, who benefits, and how systems must be transformed**.
+
+**Group pattern**
+
+- Mean scores:  
+  - persona_gpt: 25.53 (highest)  
+  - human: 20.73 (also high)  
+  - persona_grok: 9.01  
+  - persona_gemini: 7.99  
+
+Both **human Greenpeace texts and GPT-in-persona texts** are strongly associated with this pole, but the top illustrative texts are all persona_gpt. This suggests GPT, when prompted as a Greenpeace writer, **amplifies** an already strong Greenpeace discourse of climate justice and structural critique.
+
+---
+
+### 2. “Frontline Climate Justice and Resistance Discourse”
+
+This label foregrounds the **frontline / defender** aspect that is very salient in both loadings and examples:
+
+- High loadings: frontline, displacement, territory, land, community, livelihood, defender, defense, guardian, grassroots, youth, people, society, identity.
+- Excerpts:  
+  - Indigenous land defenders facing violence and murder (t001823).  
+  - African women fish processors, women farmers, and LGBTIQ communities as frontline actors (t001199).  
+  - Youth activists across Africa, Indigenous-led pipeline resistance, communities in Borneo and the Congo Basin (t001252, t001265, t001364, t001233).
+
+The discourse is not only about injustice; it is about **frontline resistance and agency**: “organising, educating, mobilising”, “legal action”, “campaign victories”, “just transition”, “defending territories”, “guardians of forests and oceans”.
+
+---
+
+### 3. “Decolonial Climate Justice and Systemic Transformation Discourse”
+
+This label highlights the **decolonial and transformative** orientation that appears repeatedly:
+
+- Loadings: decoloniality is not a single word here, but the pattern of dignity, displacement, extraction, territory, land, poverty, inequality, class, exploitation, greed, wealth, institution, framework, politics, parliament, society, culture, tradition, grassroots, youth, gender, woman, labour, resource, stewardship, transformation, legacy, root, root causes.
+
+- Excerpts:  
+  - Explicit “unfinished business of decolonization” and critique of “Western development blueprints” (t001113).  
+  - Feminist and decolonial perspectives on African women and climate (t001199).  
+  - Alternative futures grounded in Ubuntu, seven generations, global majority perspectives (t001098).  
+  - New economy beyond “twentieth-century economic mindset”, challenging capitalism and consumerism (t001709).
+
+The discourse consistently links climate to **colonial histories, global inequality, and the need for systemic economic and political transformation**, not just incremental policy tweaks.
+
+---
+
+### 4. “Intersectional Climate Justice Discourse”
+
+This label stresses the **intersectional** layering of climate with gender, race, class, and other axes:
+
+- Loadings: gender (.37), woman (.30), class (.42), poverty (.48), inequality (.52), violence (.44), suffering (.36), illness (.33), labour (.31), youth (.46), community (.52), identity (.47).
+
+- Excerpts:  
+  - African women and LGBTIQ communities in climate responses (t001199).  
+  - Migration, poverty, dignity linked to overfishing (t001233).  
+  - COVID-19 and climate as intertwined crises exposing inequality (t001470, t001098).  
+  - Youth, Indigenous peoples, and workers in just transition narratives (t001265, t001252, t001098).
+
+This pole encodes a discourse where **climate is always articulated through overlapping social injustices**.
+
+---
+
+### Why this is a distinct discourse dimension
+
+Taken together, the loadings and examples show that f2_pos is not simply:
+
+- “more environmental content”, nor
+- “more technical climate policy talk”.
+
+Instead, it is a **lexico-grammatical concentration of:**
+
+1. **Justice and rights framing** (justice, dignity, rights, inequality, exploitation, accountability).
+2. **Frontline communities and defenders** (frontline, displacement, territory, land, community, Indigenous, women, youth).
+3. **Systemic critique of economic and political structures** (extraction, profit, wealth, corporation, economy, policy, institution, framework, politics).
+4. **Crisis and urgency** (breakdown, crisis, brink, chaos, emergency, pandemic).
+5. **Transformative, movement-oriented solutions** (resistance, solidarity, cooperation, leadership, transformation, just transition, stewardship).
+
+This combination marks a **distinct discourse style**: climate change is narrated as a **struggle over power, resources, and rights**, with explicit attention to **root causes and systemic transformation**, rather than as a purely environmental, scientific, or lifestyle issue.
+
+---
+
+### Recommended primary label
+
+If you need a single, compact label for this pole:
+
+**“Climate Justice and Structural Inequality Discourse”**
+
+Alternative but compatible labels:
+
+- “Frontline Climate Justice and Resistance Discourse”
+- “Decolonial Climate Justice and Systemic Transformation Discourse”
+- “Intersectional Climate Justice Discourse”
+
+All of these capture the same underlying dimension: a discourse that centres **frontline communities, structural injustice, and transformative climate justice**.

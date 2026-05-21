@@ -1,0 +1,109 @@
+Interpretation of Factor f4 (negative pole)
+
+1. Which texts and groups drive this pole?
+
+- The **most negative scores** (i.e. strongest presence of this pole) in the examples all come from **persona_gemini** texts.
+- In the mean scores, however, **human texts are overall lowest on f4 (neg)** (mean 8.19 vs. Gemini 2.91, Grok 3.26, GPT 6.88).  
+  Since we are interpreting the **negative pole**, the groups with **lower mean scores** are more associated with this pole. So:
+  - **Most associated with f4_neg overall:** persona_gemini and persona_grok (lowest means)
+  - **Least associated with f4_neg overall:** human and persona_gpt (highest means)
+
+So this pole is primarily an **LLM–persona (especially Gemini) style** of discourse, not the dominant human Greenpeace style.
+
+2. Lexical profile of the pole
+
+High negative loadings:
+
+- **Institutional / organizational lexis**  
+  - institute, ministry, un, united, intergovernmental, council, association, forum, republic
+- **Macro-economic / fiscal / structural terms**  
+  - tax, finance, economics, inequality, equality, reduction
+- **Movement / identity / activism lexis**  
+  - grassroots, warrior, rainbow
+- **Issue- and system-level nouns**  
+  - amazon, politics, topic, innovation, seed
+
+These are mostly **abstract, system-level, institutional and structural nouns**, many naming **formal bodies (UN, ministries, councils, associations, forums)** or **macro-structural levers (tax, finance, economics, inequality)**, plus some **movement-identity terms** (grassroots, warrior, rainbow) and **symbolic issue terms** (amazon, seed).
+
+3. How these loadings appear in the excerpts
+
+The excerpts show how this lexis is embedded in discourse:
+
+- **Tax / fiscal justice as structural lever**
+  - “windfall taxes, and dividend taxation to end hunger and promote social justice” (t000048)
+  - “wealth taxes… taxing the rich, canceling debt” (t000063)
+  - “Wealth Tax in Canada… dividend bans… Make Amazon Pay” (t000367)
+  - “taxing polluters while offering incentives for the adoption of EVs” (t000597)
+  - “end tax breaks that benefit cars” (t000401)
+  - “kerosene taxes” (t000290)
+
+- **Institutional and inter-organizational actors**
+  - “UN's $51.5 billion estimate” (t000048)
+  - “World Economic Forum in Davos” (t000063, t000367)
+  - “Ecologic Institute and Greenpeace Germany” (t000597)
+  - “Food and Agriculture Organization of the United Nations (FAO)” (t000381)
+  - “Swedish Sámi association (SSR)” (t000758)
+
+- **Systemic / structural framing**
+  - “market concentration enables these firms to control supply chains” (t000048)
+  - “flaws in our industrial food system… fundamental shift away from industrial agriculture” (t000818)
+  - “capitalist solutions… consequences of capitalism itself… inequality” (t000063)
+  - “green and just recovery… systemic reforms… minor fixes proposed by the World Economic Forum” (t000367)
+  - “model of low-cost tourism… poor rail connectivity… airline subsidies” (t000290)
+
+- **Symbolic issue terms and movement identity**
+  - “genetically engineered seed corporations” (t000381)
+  - “protection of Indigenous seeds” (t000321)
+  - “Make Amazon Pay” (t000367)
+
+Across these texts, the loading words are not isolated; they sit inside **macro-structural critiques**: capitalism, inequality, industrial agriculture, global food systems, transport systems, global governance forums.
+
+4. Discourse characteristics of this pole
+
+Combining the loadings and examples, this pole encodes a discourse that is:
+
+- **Systemic and structural**  
+  Focus on **systems** (industrial agriculture, global food systems, transport systems, capitalism, inequality) rather than localised events or purely ecological description.
+
+- **Institutionally oriented**  
+  Frequent reference to **formal institutions and governance arenas** (UN, FAO, World Economic Forum, ministries, institutes, associations, councils, forums) as key sites of power and change.
+
+- **Macro-economic and redistributive**  
+  Heavy emphasis on **taxation, finance, economics, inequality/equality, debt, subsidies** as levers for climate and social justice (wealth taxes, kerosene taxes, ending tax breaks, dividend bans, taxing polluters).
+
+- **Justice- and movement-framed**  
+  Climate and environmental issues are framed through **social justice, food sovereignty, Indigenous rights, grassroots movements**, and campaigns like “Make Amazon Pay”.
+
+- **Abstract and policy-focused**  
+  The lexis is **nominal and abstract** (tax, inequality, innovation, reduction, politics, finance) and often tied to **policy prescriptions** and **global governance debates**, rather than concrete local actions alone.
+
+5. Proposed labels for f4 (negative pole)
+
+Any label should capture: (i) structural/systemic framing, (ii) institutional/governance focus, (iii) economic-justice levers.
+
+Possible labels:
+
+1. **“Structural Economic‑Justice Governance Discourse”**  
+   - “Structural”: captures the systemic, macro-level framing (capitalism, industrial systems, inequality).  
+   - “Economic‑Justice”: foregrounds tax, finance, inequality, wealth redistribution.  
+   - “Governance”: reflects the centrality of UN, FAO, ministries, forums, councils, associations.
+
+2. **“Institutional Climate‑Justice and Fiscal Reform Discourse”**  
+   - “Institutional”: for the dense institutional lexicon (UN, FAO, institutes, ministries, forums).  
+   - “Climate‑Justice”: signals the integration of climate with social and economic justice.  
+   - “Fiscal Reform”: highlights taxation, subsidies, debt, and financial levers as core themes.
+
+3. **“Systemic Policy‑and‑Tax Justice Discourse”**  
+   - “Systemic”: for the focus on whole systems (food, transport, global economy).  
+   - “Policy‑and‑Tax”: captures the concrete levers repeatedly invoked (bans, regulations, taxes, subsidies).  
+   - “Justice”: reflects the recurring inequality/equality, Indigenous rights, food sovereignty framing.
+
+Justification
+
+- The **loadings** point strongly to **institutions, macro-economics, and inequality** (institute, ministry, un, intergovernmental, council, forum, tax, finance, economics, inequality, equality, politics, reduction).
+- The **examples** show these words embedded in **critiques of capitalism and global governance**, and in **programmatic calls for wealth taxes, kerosene taxes, ending subsidies, debt cancellation, and systemic reforms**.
+- The pole is **driven mainly by LLM persona texts (especially Gemini)**, suggesting a stylised, perhaps slightly over-systematised version of Greenpeace’s justice-oriented discourse, but still clearly anchored in **institutional, economic, and justice-focused climate politics**.
+
+Among the options, the most encompassing and neutral label for this pole is:
+
+**Structural Economic‑Justice Governance Discourse**.

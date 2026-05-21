@@ -1,0 +1,161 @@
+Factor f1 (positive pole) is best interpreted as a “Greenpeace movement memory and identity” dimension, centred on human-authored, historically grounded, person‑centred narrative about the organisation and its wider ecology/peace milieu.
+
+Below I unpack the evidence and then propose concise labels.
+
+---
+
+### 1. Which group drives this pole?
+
+Mean scores:
+
+- Human: 24.69 (very high)
+- persona_gpt: 12.11 (moderate)
+- persona_grok: 4.57 (low)
+- persona_gemini: 3.99 (low)
+
+So the positive pole is overwhelmingly driven by **human-authored texts**. LLM persona texts sit much closer to zero, suggesting they only partially reproduce the discourse style encoded here.
+
+The high‑scoring examples are all human texts, and they are strongly biographical, historical, and reflective.
+
+---
+
+### 2. Lexical profile of the pole
+
+The highest loadings are very revealing:
+
+- **People and roles**: warrior, son, writer, father, daughter, officer, teacher, man, mother, woman, activist, ecologist, environmentalist, journalist, artist, lawyer, director, manager, president, captain, student, volunteer, citizen, politician, parent, colleague, friend, member, person, someone, us, humanity.
+- **Movement / organisation / media**: media, editor, book, film, university, school, union, committee, organisation, organization, board, campaign, movement, group, alliance, team, communications, communication, news, website, platform, twitter, post.
+- **Narrative and reflection**: story, history, experience, memory, background, belief, idea, opinion, thought, feeling, passion, inspiration, dream, vision, spirit, sense, understanding, relationship.
+- **Temporal and life‑course**: birth, age, morning, night, spring, day, year, week, month, summer, century, beginning.
+- **Conflict / peace / activism frame**: war, peace, bomb, weapon, attack, battle, warrior, revolution, police, officer, cancer (often metaphorical or biographical), demonstration.
+- **Greenpeace‑specific ecology lexis**: ecology, ecologist, environmentalist, earth, whale, radiation, port, coast, island, lake, village, park, world, society.
+
+This is not a technical climate-science vocabulary; it is a **social, biographical, organisational, and ideological lexicon**. It foregrounds:
+
+- named and role‑defined people
+- their relationships and life histories
+- the organisational infrastructure of Greenpeace and allied movements
+- reflective, evaluative language about ideas, beliefs, and strategies.
+
+---
+
+### 3. What the high‑scoring texts actually do
+
+Across the excerpts, the same discourse pattern recurs. Key features:
+
+#### a) Biographical and commemorative storytelling
+
+Many texts are extended biographies or collective memoirs:
+
+- Life of Bob Hunter, his philosophy, spiritual influences, media theory, burnout, death, and legacy (f1_pos_001, 004, 006, 008).
+- Irving and Dorothy Stowe’s life trajectory, political decisions, migration, family, and role in founding Greenpeace (f1_pos_003).
+- Founders’ round‑table recollections of the first voyage (f1_pos_002).
+- Profiles of volunteers and activists (f1_pos_005).
+- Sketches of key women in ecological thought and Greenpeace history (f1_pos_010).
+
+These are **thick, human‑centred narratives**: childhood, family, marriages, jobs, illnesses, deaths, spiritual journeys, and personal turning points.
+
+#### b) Movement genealogy and institutional memory
+
+The texts repeatedly reconstruct:
+
+- How Greenpeace emerged from the **peace movement, Quaker non‑violence, civil rights, feminism, anti‑Vietnam activism**.
+- The formation of specific committees, offices, campaigns, and international structures (e.g. Don’t Make a Wave Committee, Greenpeace International, early offices).
+- The role of **media tactics** (“mind bombs”, benefit concerts, iconic photographs, radio rooms, press calls).
+
+This is **movement self‑history**: how we began, who we were, what we did, how we learned.
+
+#### c) Interweaving ecology with culture, politics, and spirituality
+
+The discourse constantly links ecology to:
+
+- peace and anti‑nuclear politics (bomb, war, peace, weapons testing)
+- feminism and gender (Betty Friedan, ecofeminism, women’s roles)
+- spirituality (Taoism, Buddhism, Indigenous teachings, “Mother Earth”)
+- media and culture (Marshall McLuhan, Joni Mitchell, Jerry Garcia, novels, poetry).
+
+So ecology is framed as a **civilisational and cultural shift**, not just environmental policy.
+
+#### d) Reflexive strategic thinking
+
+Several texts are meta‑strategic:
+
+- Debates about non‑violence vs. revolution, communications vs. armed struggle.
+- Critiques of climate conferences, calls to “flip the script”, boycott, invent new tactics (f1_pos_007).
+- Reflections on organisational creativity, bureaucracy, movement vs. organisation.
+- Honest accounts of internal conflict, power struggles, leadership dilemmas (f1_pos_006).
+
+This is **self‑critical, reflective movement discourse**: how we think about what we do.
+
+#### e) Emphasis on relationships and affect
+
+The narratives foreground:
+
+- friendships, mentorships, surrogate parent–child bonds (e.g. Cormack as father figure to Hunter).
+- grief, burnout, trauma, love, humour, hope, passion, determination.
+- the idea that “behind the science … there are real people with real stories” (f1_pos_005).
+
+So the discourse is **relational and emotional**, not just informational.
+
+---
+
+### 4. How the loading words show up in the examples
+
+Many of the top loadings are directly instantiated:
+
+- warrior, Rainbow Warriors, bomb, war, peace, weapon, officer, police, battle, attack – in narratives of anti‑nuclear and anti‑war activism.
+- writer, journalist, editor, book, author, media, film, photographer – in accounts of columns, books, photos, and media strategy.
+- father, mother, son, daughter, family, child, parent – in biographical sketches and intergenerational stories.
+- activist, ecologist, environmentalist, lawyer, teacher, student, union, president, manager – as roles within the movement and its allies.
+- story, history, movement, campaign, group, organisation, board, committee – in recounting campaigns and organisational development.
+- belief, idea, opinion, passion, spirit, vision, dream, hope, fear – in articulating philosophies and emotional states.
+
+The lexical pattern and the discourse function line up: this pole is where the corpus “remembers itself” as a human movement.
+
+---
+
+### 5. Why LLM persona texts score lower
+
+Persona‑prompted LLM texts, even when mimicking Greenpeace, tend to:
+
+- focus more on **issue framing, calls to action, and generic advocacy**;
+- use less dense **named‑person biography, organisational minutiae, and long historical narrative**;
+- be less candid about internal conflict, failure, and ambivalence.
+
+So they partially pick up the activist and value‑laden vocabulary, but not the **deep, archival, memory‑work** that characterises these human texts. That’s consistent with the mean scores.
+
+---
+
+### 6. Candidate labels and justification
+
+Any label should capture:
+
+- human‑authored, narrative, reflective style
+- focus on people, roles, relationships, and life stories
+- reconstruction of Greenpeace’s origins, culture, and strategy
+- integration of ecology with peace, feminism, spirituality, and media.
+
+Possible labels:
+
+1. **“Greenpeace movement memory and identity discourse”**  
+   - “movement memory” captures the historical, commemorative, genealogical work.  
+   - “identity” captures the construction of who “we” are: founders, volunteers, allies, values, tactics.  
+   - Fits the heavy use of story, history, biography, and organisational detail.
+
+2. **“Biographical–historical ecology activism discourse”**  
+   - Highlights the biographical and historical narrative mode.  
+   - Anchors it in ecology activism rather than generic biography.
+
+3. **“Narrative eco‑movement self‑reflection”**  
+   - Emphasises the reflexive, strategic, and philosophical tone.  
+   - “Self‑reflection” points to the meta‑discussion of tactics, failures, and organisational form.
+
+Of these, I would prioritise:
+
+- **Primary label**:  
+  **Greenpeace movement memory and identity discourse**
+
+- **Secondary descriptive gloss**:  
+  A biographical–historical, people‑centred narrative mode in which Greenpeace and allied eco‑peace actors recount their origins, relationships, philosophies, and strategic lessons.
+
+This captures both the lexical pattern and the discourse functions evidenced in the high‑scoring texts.

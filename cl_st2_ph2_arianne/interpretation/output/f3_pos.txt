@@ -1,0 +1,210 @@
+Factor f3 (positive pole) is best interpreted as a **“systems‑and‑markets framing of ecological crisis and solutions”** – a discourse that explains climate and environmental issues through quantitative, techno‑economic, and supply‑chain lenses, often centred on products, industries, and resource flows.
+
+Below I propose several closely related labels, then justify the dimension in terms of loadings, examples, and group scores.
+
+### Candidate labels for f3_pos
+
+1. **Eco‑economic systems and resource‑throughput discourse**
+2. **Product‑ and market‑centred critique of ecological overshoot**
+3. **Techno‑economic, quantitative framing of environmental harm and solutions**
+4. **Systems‑of‑production and consumption discourse**
+
+Any of these would be defensible; they all capture the same core: a discourse that talks about climate/ecology via products, markets, supply chains, volumes, and quantified impacts, rather than via, say, personal narrative or purely moral rhetoric.
+
+---
+
+## 1. Group scores: who is driving the pole?
+
+Mean f3 scores:
+
+- Human: **14.83** (highest, and with large SD)
+- persona_gpt: 11.76
+- persona_gemini: 5.01
+- persona_grok: 5.04
+
+The positive pole is clearly **human‑driven**, with GPT somewhat approximating it, and Gemini/Grok much less so. So this dimension reflects a characteristic Greenpeace human style: longform, data‑rich, system‑level analysis of industries and “solutions”, rather than something introduced by LLMs.
+
+This matters for interpretation: we are not just seeing generic “technical language”, but a specific Greenpeace genre of **critical, evidence‑heavy analysis of industrial systems and policy instruments**.
+
+---
+
+## 2. Loadings: what kind of lexis defines the pole?
+
+The high‑loading items cluster into several semantic fields:
+
+### a) Markets, firms, and economic actors
+
+- customer, retailer, consumer, brand, company, business, supplier, strategist  
+- market, sale, price, dollar, budget, investment, billion, economics, growth, cost, money  
+- sector, industry, commodity, chain, supply, retailer, supermarket, store
+
+This is a **market/economy lexicon**: firms, sectors, prices, investments, and supply chains.
+
+### b) Products, materials, and resource flows
+
+- product, packaging, material, clothes, bag, bottle, stuff, plate  
+- volume, amount, tonne/ton, unit, total, number, average, rate, flow, cycle  
+- waste, recycling, reuse, zero, footprint, emission, dioxide, greenhouse, gas
+
+This is a **throughput vocabulary**: quantities of materials and emissions moving through production–consumption–waste cycles.
+
+### c) Technological and systemic framing
+
+- efficiency, innovation, technology, model, system, design, standard, program, infrastructure, pathway, scenario, analysis, study, report, datum, information  
+- control, regulation, restriction, measure, transparency, review, term, factor, element, effect, level
+
+This is a **systems/techno‑policy lexicon**: models, scenarios, standards, infrastructure, regulation, and measurement.
+
+### d) Sectors of production and environmental media
+
+- agriculture, livestock, cattle, dairy, meat, diet, waterway, forestry, soil, pesticide, chemical, mineral, factory, car, transport, electricity, energy, heating, atmosphere
+
+This ties the discourse to **specific industrial and resource sectors** (food, energy, transport, chemicals) and their environmental interfaces.
+
+### e) Quantification and scale
+
+- billion, tonne, ton, total, average, half, number, rate, budget, scale, increase, growth, burden
+
+This is a **quantitative, macro‑scale orientation**: big numbers, rates, and system‑wide burdens.
+
+Taken together, the loadings point to a discourse that:
+
+- Talks about **industries, firms, and markets** (not just “polluters” in general).
+- Focuses on **products and supply chains** (design, packaging, obsolescence, food chains).
+- Frames issues in terms of **resource and emission flows**, often quantified.
+- Uses **models, scenarios, reports, and standards** to argue about what is happening and what should change.
+
+This is why labels that foreground **systems, markets, and throughput** are appropriate.
+
+---
+
+## 3. High‑scoring examples: how is this lexis used in context?
+
+All top examples are human texts, and they consistently enact the same discourse pattern: **diagnose systemic, industrial problems using data and economic/technical concepts, then argue for systemic solutions.**
+
+### Example 1 (t003573, e‑waste and consumption)
+
+Key themes:
+
+- Electronics **production and consumption volumes**: “4 million cell phones… 1.5 billion per year”, “65 million tonnes per year”.
+- **Planned obsolescence** and business models: “output‑oriented production systems”, “business models that account for slowing growth”.
+- **Embodied energy, infrastructure, and efficiency**: “embodied energy built into our devices, our telecom infrastructure, server networks, and data centres”.
+- **Economic policy levers**: “minimum standards of durability, repairability, and upgradeability”, “full‑cost pricing and taxing, subsidies for good stewardship”.
+
+Loading words like retailer, volume, product, efficiency, footprint, market, production, consumption, investment, tonne, electricity, program, analysis, report, infrastructure, standard, measure are not incidental: they are the **core vocabulary for a systemic critique of consumer electronics and growth‑driven capitalism**.
+
+This is not just “technical description”; it is **eco‑economic systems analysis** of a sector.
+
+### Example 2 (t003158, carbon capture schemes)
+
+Key themes:
+
+- **Schemes, projects, and programs**: “Gorgon CCUS project”, “Quest plant”, “clean coal CCS project”.
+- **Tonnages and percentages**: “millions of tonnes”, “0.1% of annual CO2 emissions”.
+- **Economics and infrastructure**: “costs running into the trillions”, “equivalent to the existing worldwide infrastructure”.
+- **Public money and subsidies**: “$60 million in public hand‑outs”, “subsidy scam”, “billions of taxpayer dollars”.
+
+High‑loading words (scheme, product, footprint, ton/tonne, equivalent, system, total, waste, greenhouse, economics, billion, datum, regulation, solution, transport, unit, emission, cost, dollar, scale, flow, industry, money, report, budget, company, gas, energy) are used to **deconstruct the economic and infrastructural reality behind “net zero” rhetoric**.
+
+Again, the discourse is: **climate policy as a contested techno‑economic system**, not just as moral failure.
+
+### Example 3–4 (IPCC mitigation and assessment reports)
+
+These texts:
+
+- Summarise **IPCC Working Group III** findings on mitigation.
+- Talk about **investment flows**, **demand‑side strategies**, **infrastructure design**, **cost curves** (“costs below zero”), and **sectoral contributions** (energy, transport, agriculture, buildings).
+- Use **scenario language**: “pathway that avoids overshooting 1.5°C”, “demand‑side strategies that could cut emissions by 40–70%”.
+
+High‑loading items (efficiency, reduction, sector, investment, model, household, system, business, technology, billion, solution, transport, emission, agriculture, cost, diet, dioxide, scale, scenario, factor, flow, industry, report, infrastructure, standard, measure, energy) are deployed to **translate a scientific, model‑based mitigation discourse into activist communication**.
+
+This is quintessential **“systems‑of‑production and consumption” framing**.
+
+### Example 5–7 (food systems, wicked problems, Limits to Growth, food waste)
+
+Across these:
+
+- Food is treated as a **systemic industrial model**: “industrialised food system model”, “commodity trade model”, “supply chain”.
+- There is explicit reference to **World3 models, scenarios, material flows**: “12 scenarios”, “World3”, “30‑billion tonnes/year to 100‑billion t/yr”.
+- The texts foreground **resource throughput and overshoot**: “overshoot”, “resource depletion”, “global material flows”, “100‑billion t/yr now”.
+- They link **economic growth, markets, and ecological limits**: “business as usual scenario”, “restricting economic growth”, “end of growth”.
+
+Loading words like market, production, consumption, chain, recycling, waterway, model, trend, average, chemical, system, supply, waste, growth, cycle, flow, industry, report, pesticide, soil, standard, effect, gas, health, measure, energy, number are used to **narrate the planet as a coupled economic–ecological system with finite capacity**.
+
+### Example 8–10 (aviation, Monsanto, population & growth)
+
+These continue the pattern:
+
+- Aviation piece: **market structure, subsidies, tax regimes, efficiency improvements, alternative fuels, net‑zero schemes**.
+- Monsanto piece: **products, customers, markets, regulatory data, studies, falsified tests**.
+- Population/growth piece: **efficiency, rebound effect, scale, biomass shares, waste in industrial agriculture, slack in the system**.
+
+In all cases, the discourse is:
+
+- Strongly **quantitative** (percentages, tonnes, billions, rates).
+- Focused on **industrial sectors and corporate actors**.
+- Concerned with **regulation, standards, and policy instruments**.
+- Framed in terms of **systemic feedbacks, limits, and overshoot**.
+
+---
+
+## 4. Integrating loadings and examples: what is this dimension “about”?
+
+Giving equal weight to loadings and examples, the positive pole encodes a **lexico‑semantic package** with these core properties:
+
+1. **Systemic scale and structure**  
+   - Talks about **systems** (food system, energy system, transport system), **models**, **scenarios**, **infrastructure**, **supply chains**, and **cycles**.
+   - Uses **IPCC‑style and Limits‑to‑Growth‑style modelling language**.
+
+2. **Market and product orientation**  
+   - Names **products, retailers, brands, customers, sectors, and markets**.
+   - Critiques **business models** (planned obsolescence, cheap food, CCS as subsidy extraction).
+
+3. **Resource throughput and waste**  
+   - Emphasises **volumes, tonnages, flows, cycles, waste streams, footprints**.
+   - Frames climate and ecological crises as problems of **material and energy throughput**.
+
+4. **Quantification and evidence**  
+   - Heavy use of **numbers, rates, averages, billions, percentages**, and **reports/studies/data**.
+   - Appeals to **scientific and economic authority** (IPCC, UN reports, economists, systems scientists).
+
+5. **Techno‑economic solutions and constraints**  
+   - Discusses **efficiency, innovation, technology, standards, regulation, programs**.
+   - Evaluates **costs, investments, subsidies, and economic feasibility**.
+
+6. **Critical stance toward corporate and policy “solutions”**  
+   - Exposes **greenwashing, false solutions, subsidy scams, regulatory capture**.
+   - Contrasts **modelled/net‑zero claims** with **actual system‑level impacts**.
+
+This is not just “technical language” in the abstract; it is a **distinct discourse mode**: Greenpeace’s **eco‑economic systems critique**, where climate change is narrated as a problem of how capitalist production–consumption systems are structured, measured, and governed.
+
+---
+
+## 5. Justified labels
+
+Given all of the above, the following labels capture the pole well:
+
+1. **Eco‑economic systems and resource‑throughput discourse**  
+   - “Eco‑economic” reflects the fusion of ecological and economic lexis.  
+   - “Systems” captures models, infrastructure, sectors, and supply chains.  
+   - “Resource‑throughput” foregrounds volumes, flows, waste, and footprints.
+
+2. **Product‑ and market‑centred critique of ecological overshoot**  
+   - Highlights the focus on products, markets, and business models.  
+   - “Overshoot” ties to Limits to Growth, material flows, and planetary limits.
+
+3. **Techno‑economic, quantitative framing of environmental harm and solutions**  
+   - Emphasises the reliance on technology, economics, and numbers to frame both problems and remedies.
+
+4. **Systems‑of‑production and consumption discourse**  
+   - Directly names the central axis: production–consumption systems as the unit of analysis.
+
+Any of these could be used as the factor label, depending on how concise or explicit you want to be. If forced to choose one, I would recommend:
+
+> **Eco‑economic systems and resource‑throughput discourse**
+
+because it best integrates:
+
+- the **economic/market** vocabulary (customer, retailer, market, investment, cost, growth),
+- the **systems/modelling** vocabulary (system, model, scenario, infrastructure, standard, report),
+- and the **throughput/waste** vocabulary (volume, tonne, waste, footprint, emission, recycling, cycle).

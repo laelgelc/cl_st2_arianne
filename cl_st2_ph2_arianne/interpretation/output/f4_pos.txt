@@ -1,0 +1,170 @@
+Factor 4 (positive pole) is best interpreted as a specialised “oceans-and-fisheries” discourse dimension, strongly grounded in concrete marine ecologies and extractive practices.
+
+Below are several possible labels, followed by justification:
+
+**Candidate labels**
+
+1. Marine Ecosystems and Industrial Fishing  
+2. Ocean Biodiversity under Extractive Pressure  
+3. Seascape Conservation and Fisheries Exploitation  
+4. Ocean Wildlife, Seabeds, and Trawling Impacts  
+5. Fisheries, Bycatch, and Marine Habitat Protection  
+
+Any of these captures the core of the pole; the first two are probably the most transparent and reusable.
+
+---
+
+### Why this pole encodes a marine / fisheries discourse
+
+#### 1. Group means: who is driving the pole?
+
+Mean scores on Factor 4:
+
+- Human: **8.19** (highest, by a clear margin)  
+- persona_gpt: 6.88  
+- persona_grok: 3.26  
+- persona_gemini: 2.91  
+
+So:
+
+- The **human Greenpeace texts** are the main driver of this pole.
+- Persona-prompted LLMs do pick up some of this discourse, but at much lower intensity.
+- This suggests the pole reflects a **distinctive, expert Greenpeace house style/topic cluster** rather than a generic climate-change register.
+
+That already points us toward a dimension tied to **Greenpeace’s long-standing oceans campaigns**.
+
+#### 2. Lexical loadings: what semantic field dominates?
+
+The highest-loading items are tightly clustered around:
+
+**a. Marine environment and seascapes**
+
+- Animals: shark, turtle, penguin, seal, whale, mammal, bird, wildlife, animal, creature  
+- Habitats / features: depth, seabed, reef, ocean, sea, coastline, coast, shore, beach, basin, island, ice, layer, habitat, sanctuary, reserve, ecosystem, web, landscape, basin  
+- Spatial / measurement terms: mile, kilometre/kilometer, metre, hectare, north, northern, southeast, frontier, edge, pole, area, region, extent, size, thousand  
+
+**b. Fishing and industrial extraction**
+
+- Actors and tools: fisher, fisherman, fleet, vessel, ship, deck, boat, port, equipment, metal  
+- Activities: fishing, fishery, drilling, mining, operation, activity, monitoring, survey  
+- Catch and stocks: fish, specie/species, seafood, catch, net, stock  
+- Impacts / risks: spill, decline, threat, brink, safeguard, enforcement, protection, condition, smoke, dioxide  
+
+This is not a generic “nature” or “biodiversity” factor. It is **specifically marine**, and even more specifically about **oceans as sites of industrial extraction (fishing, mining, drilling) and conservation concern**.
+
+The co-occurrence of:
+
+- marine fauna (shark, turtle, whale, penguin, seabird terms),
+- seafloor/seabed/reef/ice,
+- and fishing/fleet/net/stock/trawling/mining/drilling
+
+strongly indicates a discourse that **links ocean wildlife and habitats to human extractive practices and their regulation**.
+
+#### 3. Evidence from the high-scoring excerpts
+
+All top-scoring texts are human-authored Greenpeace blogs, and they consistently:
+
+- Focus on **oceans, coasts, and polar regions**.
+- Combine **vivid ecological description** with **detailed accounts of industrial fishing, mining, or drilling**.
+- Frame these practices as **threats to marine ecosystems and species**, often with a call for **treaties, reserves, or sanctuaries**.
+
+Some patterns across the examples:
+
+**a. Ocean expeditions and seascape description**
+
+- Pole-to-Pole voyage, Antarctic and Amazon Reef expeditions, Saya de Malha Bank, Arctic Sunrise in Svalbard, Saya de Malha seagrass meadows, Poyang Lake, Yangtze, Mekong, coastal communities in Seychelles and Indian Ocean.
+- Frequent use of **distance and depth terms** (mile, kilometre, metre, depth, bottom, seabed) and **mapping/survey lexis** (map, survey, monitoring, document, reserve, region, area, hectare).
+
+This gives the pole a **field-science / expeditionary** flavour: documenting specific marine places and their conditions.
+
+**b. Industrial fishing and gear impacts**
+
+Repeated across texts:
+
+- Longlines, purse seines, bottom trawlers, ghost nets, FADs, trawl nets, fleets, distant-water fishing, transshipment.
+- Bycatch of sharks, turtles, seabirds, marine mammals.
+- Overfishing, depleted stocks, unsustainable fisheries, IUU fishing.
+
+The loadings fish, fishing, fishery, fleet, vessel, net, catch, stock, bottom, drilling, mining, operation, activity align perfectly with this.
+
+**c. Marine biodiversity and food webs**
+
+- Penguins, albatrosses, seabirds, whales, dolphins, porpoises, sharks, turtles, corals, seagrass, plankton, jellyfish.
+- Explicit discussion of **ecosystems and food webs**: “web of life”, “marine ecosystems”, “nurseries”, “feeding grounds”, “food web”, “ecosystem services”.
+
+This matches the loadings ecosystem, web, wildlife, species, habitat, life, animal, bird.
+
+**d. Extractive pressure and conservation framing**
+
+- Sand mining destroying river and lake ecosystems and displacing fishers.
+- Oil drilling near Amazon Reef; seabed mining; open-pit mining near marine reserves.
+- Calls for: Global Ocean Treaty, marine reserves, trawl-free zones, sanctuaries, protected areas, bans on trawling or drift nets.
+
+Lexically: drilling, mining, spill, threat, safeguard, enforcement, protection, reserve, sanctuary, basin, frontier, brink.
+
+So the discourse is not just “oceans” but **oceans under pressure from industrial extraction, with a strong conservation and justice framing**.
+
+**e. Human communities and justice**
+
+Several texts link marine extraction to:
+
+- Coastal and fishing communities’ livelihoods and food security.
+- Labour exploitation and forced labour on fishing vessels.
+- Intergenerational justice (“justice for all”, future generations, moral obligation).
+
+This is secondary in the loadings (livelihood, witness, stake appear but with lower weights), but it colours the discourse: **oceans as socio-ecological systems**, not just wildlife.
+
+#### 4. Why this is a distinct discourse dimension
+
+Compared to a generic climate-change or environmental factor, this pole is:
+
+- **Thematically narrow**: overwhelmingly about **marine and coastal systems**, not forests, energy, or general climate policy.
+- **Lexically specialised**: heavy use of **fisheries jargon** (bycatch, stock, fleet, trawling, longliners, nurseries, seagrass meadows, coral bleaching) and **marine geography** (seabed, reef, basin, pole, north, Arctic, Antarctic).
+- **Narratively patterned**: expedition narratives, ship-based observation, mapping, monitoring, and documentation of industrial impacts.
+
+The fact that human texts score highest suggests this is a **core Greenpeace oceans campaign discourse** that LLMs only partially emulate under a generic “Greenpeace persona” prompt.
+
+---
+
+### Justifying the proposed labels
+
+1. **Marine Ecosystems and Industrial Fishing**
+
+- “Marine ecosystems” captures the strong presence of **ocean habitats, species, food webs, and ecological processes**.
+- “Industrial fishing” foregrounds the **dominant human activity** in the loadings and examples (fleets, nets, trawlers, bycatch, overfishing, IUU fishing).
+- This label is concise and directly reflects both the lexical loadings and the example texts.
+
+2. **Ocean Biodiversity under Extractive Pressure**
+
+- “Ocean biodiversity” reflects the rich fauna and habitat lexis (shark, turtle, penguin, whale, reef, seabed, seagrass, coral, seabirds).
+- “Extractive pressure” generalises across **fishing, mining, drilling, sand extraction**, all present in the loadings and excerpts.
+- This label highlights the **threat framing** (decline, spill, threat, brink, enforcement, safeguard) that recurs in the texts.
+
+3. **Seascape Conservation and Fisheries Exploitation**
+
+- “Seascape” points to the **spatial, mapped, expeditionary** character (mile, kilometre, depth, map, survey, region, basin, pole).
+- “Conservation and fisheries exploitation” captures the **tension between protection (sanctuary, reserve, safeguard) and industrial use (fleet, fishery, mining, drilling)** that structures the discourse.
+
+4. **Ocean Wildlife, Seabeds, and Trawling Impacts**
+
+- This label foregrounds the **seabed / bottom-trawling** subtheme that is especially salient in several high-scoring texts (Arctic trawling, deep corals, seafloor fauna).
+- It is slightly narrower, but still well supported by high-loading items like seabed, bottom, reef, net, trawling-related descriptions.
+
+5. **Fisheries, Bycatch, and Marine Habitat Protection**
+
+- Emphasises the **fisheries management** angle (stock, fishery, fleet, catch, monitoring, reserve) and the **bycatch / habitat damage** narratives (sharks, turtles, seabirds, corals, seafloor fauna).
+- This label is more technical, aligning with the policy and science-heavy style of some excerpts.
+
+---
+
+### Summary
+
+Factor 4 (positive pole) encodes a **human-driven Greenpeace discourse about oceans as living, mapped ecosystems under intense industrial extraction, especially from large-scale fishing and seabed-related activities, and the need for strong conservation measures**.
+
+Any of the following would be an appropriate label for this pole, with the first two being the most general and accurate:
+
+- **Marine Ecosystems and Industrial Fishing**  
+- **Ocean Biodiversity under Extractive Pressure**  
+- Seascape Conservation and Fisheries Exploitation  
+- Ocean Wildlife, Seabeds, and Trawling Impacts  
+- Fisheries, Bycatch, and Marine Habitat Protection

@@ -1,0 +1,160 @@
+Below are candidate discourse-dimension labels for Factor 2 (negative pole), followed by justification grounded in the loadings, group scores, and excerpts.
+
+---
+
+## 1. Possible labels for f2 (neg) pole
+
+I would propose labels along the lines of:
+
+1. **“Consumer‑goods and retail activism discourse”**  
+2. **“Everyday consumption and brand‑focused campaigning”**  
+3. **“Lifestyle commodities and corporate accountability discourse”**  
+
+All three capture the same core: texts that frame environmental issues through consumer products, retail spaces, and named brands/companies, often in the context of campaigns and regulations.
+
+---
+
+## 2. Evidence from group scores: which texts drive this pole?
+
+Mean scores on Factor 2:
+
+- human: 20.73  
+- persona_gpt: 25.53  
+- persona_grok: 9.01  
+- persona_gemini: 7.99  
+
+Since we are interpreting the **negative** pole, we look to the **lowest** mean group scores. All groups are positive overall, but the **LLM persona texts (especially Gemini and Grok)** are closest to zero and thus relatively nearer the negative pole than the human and GPT persona texts.
+
+The high‑scoring negative examples provided are all **persona_gemini**. So, this pole is disproportionately shaped by **LLM‑generated Greenpeace‑persona texts**, not by the human originals. That matters: the dimension is picking up a particular *style of Greenpeace discourse as reproduced by LLMs*, especially around consumer campaigns.
+
+---
+
+## 3. Evidence from lexical loadings
+
+High negative loadings (strongest first):
+
+- **Environmental frontiers / regions / species**:  
+  - arctic (-.87), amazon (-.82), seal (-.36), turtle (-.33), beach (-.34), seafood (-.31), station (-.36 – likely “Arctic station”/“research station”), metre/meter (-.40/-30 – often in measurements of ice, sea level, etc.)
+- **States, institutions, and governance**:  
+  - republic (-.83), un (-.42), ministry (-.41), announcement (-.31), media (-.33)
+- **Consumer goods, retail, and branding**:  
+  - fashion (-.55), retailer (-.52), clothes (-.49), bag (-.48), packaging (-.47), brand (-.39), customer (-.38), sale (-.36), bottle (-.35), supermarket (-.31)
+- **Corporate actors / campaigns / Greenpeace identity**:  
+  - shell (-.37), captain (-.46), warrior (-.46), rainbow (-.36) (as in “Rainbow Warrior”), station (-.36)
+- **Quantification / campaign rhetoric**:  
+  - dozen (-.37), meter/metre (-.40/-30)
+
+Two clusters stand out:
+
+1. **Consumer‑goods and retail lexicon** (fashion, clothes, bag, packaging, retailer, supermarket, bottle, sale, brand, customer).  
+2. **Named places and institutions associated with high‑profile Greenpeace campaigns** (arctic, amazon, republic, un, ministry, shell, rainbow, warrior, station, seal, turtle, beach, seafood).
+
+This suggests a discourse that:
+
+- Anchors environmental issues in **everyday commodities and shopping spaces** (clothes, bags, bottles, supermarkets, retailers).  
+- Connects those commodities to **corporate and governmental responsibility** (brands, Shell, ministries, UN, republics) and to **iconic Greenpeace campaign theatres** (Arctic, Amazon, Rainbow Warrior, seals, turtles, beaches).
+
+So the pole is not “purely fashion” or “purely plastics”; it is a **campaign‑oriented, consumer‑facing framing of environmental problems and solutions**.
+
+---
+
+## 4. Evidence from the example excerpts
+
+Although the excerpts are only a sample, they align well with the loadings.
+
+### 4.1 Fashion and clothing consumption
+
+Excerpts 001–003 (Gemini persona) are classic **consumer‑lifestyle campaign texts**:
+
+- Lexical matches: fashion, clothes, brands.  
+- Content:  
+  - Clothes swap parties, fast fashion, Detox campaign, eco‑fashion, interactive maps (Excerpt 001).  
+  - Personal narrative of not buying new clothes, thrift‑shopping, upcycling, Black Friday, “wear it 30 times” (Excerpt 002).  
+  - Progress of fashion brands on Detox commitments, ranking companies (H&M, Zara, Benetton, Nike, Victoria’s Secret) (Excerpt 003).
+
+These texts:
+
+- Focus on **everyday consumer choices** (buying, swapping, repairing clothes).  
+- Name **specific brands and campaigns** (Detox, Adidas, Puma, Nike, H&M, Zara).  
+- Frame environmental harm via **lifestyle commodities** (fast fashion, disposable fashion).
+
+This is exactly what a “consumer‑goods and retail activism” dimension would capture.
+
+### 4.2 Plastics, bags, bottles, supermarkets
+
+Excerpts 005 and 009:
+
+- Lexical matches: bag, bottle.  
+- Content:  
+  - Single‑use plastic bags, microplastics, “Reduce, Reuse, Recycle,” beach cleans (Excerpt 005).  
+  - Global bans on plastic bags and bottles; specific jurisdictions (France, Morocco, Karnataka, San Francisco, Honolulu, Tasmania, Ethiopia); links to ocean pollution and a Greenpeace pledge (Excerpt 009).
+
+Again, the discourse is:
+
+- **Highly consumer‑facing** (bags, bottles, cosmetics with microbeads).  
+- **Retail and policy oriented** (bans, regulations, enforcement, seizures, pledges).  
+- Tied to **ocean wildlife** (turtles, whales, seabirds) and **beaches**, which match the loading set (turtle, beach, seafood).
+
+### 4.3 Retailers, supermarkets, and food safety
+
+Excerpt 008 (no explicit loading word in the snippet, but consistent with the set):
+
+- Mentions **supermarkets**, a **retailer (Lianhua)**, pesticide tests on produce, plastic‑wrapped items, and a **city‑wide traceability system**.  
+- Connects **consumer food choices** and **retail supply chains** to environmental and health outcomes.
+
+This fits the **retail / supermarket / customer** cluster in the loadings.
+
+### 4.4 Greenpeace identity and iconic campaigns
+
+Some loadings (captain, warrior, rainbow, shell, seal, station, arctic, amazon) point to:
+
+- **Greenpeace’s own brand and history** (Rainbow Warrior, “warriors of the rainbow,” ship captains, Arctic Sunrise, etc.).  
+- **Iconic campaign sites and targets** (Arctic drilling, Amazon deforestation, Shell, seal hunts).
+
+Excerpt 006 (Bob Hunter, “Warriors of the Rainbow”) illustrates this identity‑building discourse, even though the loading words themselves are not highlighted in the snippet.
+
+So, the negative pole also encodes **Greenpeace’s self‑presentation as a campaigning organization**, often in relation to high‑profile corporate and geopolitical actors.
+
+---
+
+## 5. Integrating loadings and examples: what discourse is encoded?
+
+Putting the evidence together:
+
+- **The loadings** show a strong concentration of:
+  - Consumer and retail vocabulary (fashion, clothes, bags, bottles, supermarkets, brands, customers, packaging, sale).  
+  - Named campaign arenas and actors (Arctic, Amazon, Shell, UN, ministries, republics, Rainbow Warrior, seals, turtles, beaches, seafood).  
+
+- **The examples** show:
+  - Campaign narratives that **translate global environmental issues into everyday consumption practices** (what you wear, what you buy, how you shop, which bags you use).  
+  - A focus on **corporate accountability and policy change** (Detox commitments, bans on plastics, lawsuits against retailers, traceability systems, brand rankings).  
+  - Frequent **calls to individual action** framed through consumer roles (swap clothes, refuse bags, avoid microbeads, join pledges, set personal shopping goals).
+
+Crucially, this is not a purely technical or scientific climate discourse; it is **campaign‑oriented, brand‑named, and lifestyle‑mediated**. Environmental harm is narrated through:
+
+- **Products** (clothes, bags, bottles, seafood).  
+- **Places of purchase** (supermarkets, retailers).  
+- **Corporate and governmental actors** (brands, Shell, ministries, UN, republics).  
+- **Charismatic species and iconic regions** (seals, turtles, Arctic, Amazon, beaches).
+
+This justifies interpreting the f2 negative pole as a **lexical dimension of environmental discourse that foregrounds consumer goods, retail spaces, and branded campaigns as the main interface between the public and climate/eco issues**.
+
+---
+
+## 6. Why these labels fit
+
+1. **“Consumer‑goods and retail activism discourse”**  
+   - “Consumer‑goods” captures fashion, clothes, bags, bottles, packaging, seafood.  
+   - “Retail” captures supermarkets, retailers, customers, sales.  
+   - “Activism discourse” captures the campaigning, bans, lawsuits, rankings, pledges, and Greenpeace’s own identity (Rainbow Warrior, Shell campaigns, Arctic/Amazon actions).
+
+2. **“Everyday consumption and brand‑focused campaigning”**  
+   - “Everyday consumption” reflects the lifestyle framing (what you wear, what you buy, how often you use it).  
+   - “Brand‑focused” reflects the naming and ranking of companies and retailers (H&M, Zara, Nike, Lianhua, Shell, Thai Union, Walmart, Sainsbury’s).  
+   - “Campaigning” reflects the strong presence of bans, lawsuits, pledges, and Greenpeace actions.
+
+3. **“Lifestyle commodities and corporate accountability discourse”**  
+   - “Lifestyle commodities” foregrounds fashion, fast fashion, eco‑fashion, plastic bags, bottles, cosmetics.  
+   - “Corporate accountability” foregrounds the pressure on brands, retailers, and corporations, often in conjunction with ministries, UN, and republics.
+
+Any of these labels would be an appropriate, corpus‑grounded characterization of the **negative pole of Factor 2** in this LMDA.
