@@ -1,0 +1,12 @@
+Text ID: t003350
+Group:   human
+Source:  human
+Model:   human
+File:    corpus/05_human/t349_human.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 8
+
+============================================================
+The Greenpeace ship Arctic Sunrise is in the Indian Ocean this month to document and expose the threats our oceans face. This area is home to incredible wildlife and ecosystems – from pygmy blue whales and dugongs to colourful coral reefs and the largest seagrass meadow in the world.
+But it’s not just marine life that needs healthy oceans. Millions of people living in the coastal areas and islands of the Indian Ocean rely on the ocean for their food and livelihoods. Industrial fishing and climate breakdown are emptying the seas of life. We need governments around the world to act to protect the oceans – join our journey.

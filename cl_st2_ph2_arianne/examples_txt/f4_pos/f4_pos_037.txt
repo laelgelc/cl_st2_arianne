@@ -1,0 +1,13 @@
+Text ID: t002884
+Group:   persona_grok
+Source:  ai
+Model:   grok
+File:    corpus/05_grok/t883_grok.txt
+
+Score (f4_pos): 15
+Loading words (f4_pos), N=15: seabed, fishing, fish, creature, ocean, sea, vessel, specie, habitat, net, ship, water, ice, document, life
+
+============================================================
+From aboard the Greenpeace ship Arctic Sunrise in the high Arctic near Svalbard, Carl Safina is documenting the impacts of trawling as shrinking sea ice and warming waters draw fish and vessels northward. Trawling often involves dragging nets across the seafloor, acting like ocean bulldozers. This practice leads to overfishing and massive bycatch of unwanted species. It also causes seafloor destabilization, coral destruction, and harm to delicate creatures like anemones and sponges. Additionally, it crushes seabed life, reducing fish habitats and food sources.
+
+Safina advocates for trawl-free zones to protect the ocean. He notes a recent agreement with retailers and fishing companies to halt expansion until protections are established. He emphasizes the moral responsibility for future generations.

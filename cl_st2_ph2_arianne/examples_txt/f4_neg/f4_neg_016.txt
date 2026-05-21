@@ -1,0 +1,13 @@
+Text ID: t000046
+Group:   persona_gemini
+Source:  ai
+Model:   gemini
+File:    corpus/05_gemini/t046_gemini.txt
+
+Score (f4_neg): 1
+Loading words (f4_neg), N=0: 
+
+============================================================
+The climate crisis disproportionately affects women, who face harsher working conditions, health risks, and displacement. Fossil fuel projects exacerbate these issues, creating a moral imperative to oppose polluting industries to prevent catastrophic weather and health hazards.
+
+The leadership of women in the fight against these industries is showcased through quotes from female Greenpeace activists worldwide. These activists include Libby, Irene Wabiwa, Dana, Zanna, Edina Ifticene, Anita Cosgrove, and Anusha Narayanan. They are at the forefront of campaigns against oil, gas, and coal extraction in places such as the Congo, the Eastern Mediterranean, the Permian Basin, and Australia's Burrup Hub. The environmental movement also celebrates women leaders like Vandana Shiva, Greta Thunberg, and Wangari Maathai.

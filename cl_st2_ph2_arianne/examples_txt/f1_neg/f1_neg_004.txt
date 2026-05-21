@@ -1,0 +1,13 @@
+Text ID: t000104
+Group:   persona_gemini
+Source:  ai
+Model:   gemini
+File:    corpus/05_gemini/t103_gemini.txt
+
+Score (f1_neg): -2
+Loading words (f1_neg), N=2: cattle, palm
+
+============================================================
+In a historic victory, Torres Strait Islanders won their United Nations case against the Australian government for its inaction on the climate crisis. In Europe, the EU passed a new law to ensure products like cattle, cocoa, and palm oil are free from deforestation. Progress was also made in Latin America, where Colombia ratified the Escazú Agreement, a crucial step to protect environmental defenders.
+
+Communities are taking direct action as well. In Senegal, residents of Cayar have sued a fishmeal factory for its polluting activities. In the United States, Greenpeace USA successfully blocked a "dirty deal" that would have fast-tracked fossil fuel projects. On the issue of forest protection, Russia has reduced its forest fire "zones of control" by an area of 2 million square kilometers. Meanwhile, New Zealand has officially banned single-use plastics, a move that Greenpeace Aotearoa is using to urge the government to take even more comprehensive action.

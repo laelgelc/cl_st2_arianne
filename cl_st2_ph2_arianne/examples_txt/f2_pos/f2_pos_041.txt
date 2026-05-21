@@ -1,0 +1,15 @@
+Text ID: t000196
+Group:   persona_gemini
+Source:  ai
+Model:   gemini
+File:    corpus/05_gemini/t195_gemini.txt
+
+Score (f2_pos): 22
+Loading words (f2_pos), N=22: justice, community, climate, resilience, poverty, crisis, knowledge, right, drought, loss, face, protection, human, urgency, government, weather, flood, limit, risk, impact, security, fuel
+
+============================================================
+For Filipino farmers and fishers, climate change has disrupted traditional weather knowledge, threatening their food security and well-being. They face frequent typhoons, floods, and droughts, with these impacts exacerbated by poverty and poor governance.
+
+The term "resilience" is often used to describe these communities, but this framing can be a critique. It burdens them with the responsibility to adapt while absolving fossil fuel companies and governments of their own responsibility for the crisis.
+
+In response, a petition was filed in 2015 against major fossil fuel producers, or "carbon majors," which led to a human rights investigation in 2019. The urgency of the situation is confirmed by the recent IPCC report, which warns of escalating climate risks and higher mortality rates in vulnerable areas. To limit warming to 1.5°C, the report stresses the need for ecosystem protection, adaptation measures, addressing loss and damage, and ensuring climate justice.

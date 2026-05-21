@@ -1,0 +1,15 @@
+Text ID: t000301
+Group:   persona_gemini
+Source:  ai
+Model:   gemini
+File:    corpus/05_gemini/t300_gemini.txt
+
+Score (f1_pos): 15
+Loading words (f1_pos), N=15: bomb, peace, ecology, boat, ecologist, test, idea, name, activist, group, inspiration, movement, one, year, campaign
+
+============================================================
+September 2021 marks fifty years since our first campaign: a protest against a U.S. nuclear bomb test scheduled for Amchitka, Alaska.
+
+Our origins can be found in 1960s Vancouver, a city that became a convergence point for peace activists, ecologists, and draft resisters. In this environment, shaped by anti-war, civil rights, and environmental movements, a group of individuals came together. Among them were Irving and Dorothy Stowe, Bob Hunter, Ben and Dorothy Metcalfe, Jim and Marie Bohlen, and Bill Darnell.
+
+They formed the Don’t Make a Wave Committee. Drawing inspiration from Quaker protests, their plan was to sail a boat to confront the nuclear test directly. It was from this core idea that a new name was adopted, one that merged the ideals of peace and ecology: Greenpeace.

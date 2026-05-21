@@ -1,0 +1,11 @@
+Text ID: t002975
+Group:   persona_grok
+Source:  ai
+Model:   grok
+File:    corpus/05_grok/t974_grok.txt
+
+Score (f1_neg): -2
+Loading words (f1_neg), N=3: enforcement, stewardship, violation
+
+============================================================
+The Forest Stewardship Council (FSC), established in 1993, certifies products from responsibly managed forests to build trust among consumers and companies. Greenpeace's Grant Rosoman highlights the suspension of three FSC certificates for Canada's Resolute Forest Products by auditor Rainforest Alliance, due to failures in obtaining First Nations' free and informed consent, protecting High Conservation Values, and gaining stakeholder support. This follows complaints from the Grand Council of the Crees, Greenpeace, and others, addressing violations in Quebec and Ontario's boreal forests, including threats to endangered areas like Montagnes Blanches and caribou habitats. The action, affecting 8 million hectares, boosts FSC credibility by rooting out poor certificates and strengthening enforcement.

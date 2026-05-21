@@ -1,0 +1,11 @@
+Text ID: t002769
+Group:   persona_grok
+Source:  ai
+Model:   grok
+File:    corpus/05_grok/t768_grok.txt
+
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 9
+
+============================================================
+In 1992, Greenpeace revolutionized refrigeration by developing GreenFreeze to replace ozone-depleting F-gases used in fridges, which were also potent greenhouse gases. Challenging chemical companies' monopoly, our German team created an efficient prototype using natural hydrocarbons with Foron. Supporters provided 70,000 pre-orders, leading to the first unit in 1993. European firms adopted it within a year, and Greenpeace made it open source, earning a UN award. Today, about one billion GreenFreeze fridges are in use worldwide, with nearly 80% of annual production expected to use the technology by 2020.

@@ -1,0 +1,17 @@
+Text ID: t001811
+Group:   persona_gpt
+Source:  ai
+Model:   gpt
+File:    corpus/05_gpt/t810_gpt.txt
+
+Score (f2_neg): 4
+Loading words (f2_neg), N=1: f3 score: 1
+
+============================================================
+Greenpeace Nordic confirms with heavy hearts that our colleague Carolina Nyberg-Steiser, 29, died in a tragic small amphibious plane crash while landing on the Rio Negro near Manaus, Brazil, on Tuesday at 11:50 AM local time.
+
+Carolina was visiting our Brazil office to meet colleagues, learn more about the Amazon protection campaign, and witness the forest firsthand. During this visit, she joined a flight over the region that ended in the fatal crash. The pilot and three other Greenpeace Brazil passengers survived with light injuries.
+
+At this time, there are no confirmed details about the cause of the crash. Out of respect for Carolina’s family, we are not providing further comments.
+
+Carolina is deeply missed by her colleagues. Our thoughts are with her family.

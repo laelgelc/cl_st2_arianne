@@ -1,0 +1,13 @@
+Text ID: t000600
+Group:   persona_gemini
+Source:  ai
+Model:   gemini
+File:    corpus/05_gemini/t599_gemini.txt
+
+Score (f1_pos): 13
+Loading words (f1_pos), N=13: student, day, art, love, creativity, school, history, movement, one, job, vision, awareness, street
+
+============================================================
+Millions of school students across the world have been protesting, not for higher fees or for jobs, but out of a love for the planet and a deep concern over climate change. Reflecting on my own school days, there was a lack of such awareness. This is an unprecedented and organic movement on a global scale, driven by the students' clear vision, honest intentions, and environmental worries.
+
+Tech-savvy millennials have revived street protests with a new creativity. They have crafted delightful banners and redefined the art of slogan-writing, becoming a part of history in the process. Among the top banner messages, one standout was, "May the force be with you."

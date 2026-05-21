@@ -1,0 +1,15 @@
+Text ID: t000074
+Group:   persona_gemini
+Source:  ai
+Model:   gemini
+File:    corpus/05_gemini/t074_gemini.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: sunrise
+
+============================================================
+Our ships are central to our activism. They travel worldwide, inspiring millions of people.
+
+In 2022, we bid farewell to the Esperanza and welcomed the Witness to our fleet, which joins the Rainbow Warrior and Arctic Sunrise. Amid the war in Ukraine, our ships have also served as vessels of peace.
+
+To honor the year, we are featuring inspiring photos of these iconic vessels. The images capture them on missions, at protests, and in campaigns as they work to protect the planet and fight for environmental justice.

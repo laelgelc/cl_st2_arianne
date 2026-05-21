@@ -1,0 +1,15 @@
+Text ID: t000002
+Group:   persona_gemini
+Source:  ai
+Model:   gemini
+File:    corpus/05_gemini/t002_gemini.txt
+
+Score (f4_neg): 1
+Loading words (f4_neg), N=0: 
+
+============================================================
+After witnessing floods in Kogi state, which were caused by climate change and plastic waste, three young Nigerian women developed the EarthExp app. The women, Angel Chukwudi-Denis, Fortune Mmesomachukwu Somuadina, and Favour Chinecherem Chibuike, are known as Eco Elixirs Nigeria.
+
+Their app, a Technovation award winner, utilizes games, virtual reality, and social features to educate users about environmental trends. It is designed to promote behavioral change and encourage actions for sustainability, such as tree planting and water conservation.
+
+EarthExp inspires climate action in the face of Nigeria's deforestation and pollution challenges. The project aligns with youth-led efforts across Africa that work to build resilient communities and counter capitalist systems.
