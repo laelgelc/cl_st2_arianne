@@ -104,13 +104,18 @@ python examples.py
 python score_details.py
 # output: examples/score_details.txt
 
+python examples_txt.py
+# Output: examples_txt (plaintext format)
+
 # interpretation
 # build prompts:
 python interpretation_prompts.py
+# Output: interpretation/input
 
-# submit prompts:
+# Submit prompts:
 python generate_interpretation_gpt.py \
     --input interpretation/input \
     --output interpretation/output \
     --model gpt-5.1 \
     --workers 4
+# Output: interpretation/output
