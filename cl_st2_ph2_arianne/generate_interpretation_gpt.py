@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
-send_interpretation_prompts_gpt.py
+generate_interpretation_gpt.py
 
-Reads files from interpretation/input (e.g., f1_pos.txt),
-sends the ENTIRE file text as a single user prompt to GPT,
-and saves GPT's response to interpretation/output with the SAME filename.
+Reads files from interpretation/input, sends each full prompt to GPT,
+and saves GPT's response to interpretation/output with the same filename.
 
 Usage:
-    python send_interpretation_prompts_gpt.py \
+    python generate_interpretation_gpt.py \
         --input interpretation/input \
         --output interpretation/output \
         --model gpt-5.1 \
@@ -20,13 +19,19 @@ import sys
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+from dotenv import load_dotenv
+
+# Load environment variables from env/.env
+env_path = Path(__file__).resolve().parent / "env" / ".env"
+load_dotenv(dotenv_path=env_path)
+
 # ------------------------------------------------------------
 # API
 # ------------------------------------------------------------
 try:
     from openai import OpenAI
 except ImportError:
-    print("Error: Install with: pip install openai")
+    print("Error: Install with: conda install openai")
     sys.exit(1)
 
 # ------------------------------------------------------------
@@ -34,35 +39,41 @@ except ImportError:
 # ------------------------------------------------------------
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Send LMDA interpretation prompts to GPT (no unpacking)."
+        description="Send LMDA interpretation prompts to GPT."
     )
+
     parser.add_argument(
         "--input", "-i",
         required=True,
         help="Directory containing prompt files."
     )
+
     parser.add_argument(
         "--output", "-o",
         required=True,
         help="Directory for GPT responses."
     )
+
     parser.add_argument(
         "--model", "-m",
         default="gpt-5.1",
-        help="Model to use (default: gpt-5.1)."
+        help="Model to use."
     )
+
     parser.add_argument(
         "--max-output-tokens", "-t",
         type=int,
         default=9000,
         help="Maximum output tokens."
     )
+
     parser.add_argument(
         "--workers",
         type=int,
         default=4,
         help="Number of parallel workers."
     )
+
     return parser.parse_args()
 
 # ------------------------------------------------------------
@@ -77,9 +88,14 @@ def write_text(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
-def call_api(client: OpenAI, model: str, full_prompt: str, max_output_tokens: int) -> str:
+def call_api(
+        client: OpenAI,
+        model: str,
+        full_prompt: str,
+        max_output_tokens: int,
+) -> str:
     """
-    Sends the ENTIRE prompt file as a single user message.
+    Send the entire interpretation prompt as a single user message.
     """
     response = client.responses.create(
         model=model,
@@ -91,26 +107,31 @@ def call_api(client: OpenAI, model: str, full_prompt: str, max_output_tokens: in
     )
 
     out = response.output_text
+
     if not out:
         raise RuntimeError("API returned empty output.")
+
     return out
 
 # ------------------------------------------------------------
 # Worker
 # ------------------------------------------------------------
 def process_prompt(
-    path: Path,
-    output_dir: Path,
-    client: OpenAI,
-    model: str,
-    max_tokens: int,
-):
-
+        path: Path,
+        output_dir: Path,
+        client: OpenAI,
+        model: str,
+        max_tokens: int,
+) -> tuple[bool, str]:
     try:
         print(f"[WORKER] Reading {path.name}")
         full_prompt = read_text(path)
 
+        if not full_prompt.strip():
+            raise ValueError("Prompt file is empty.")
+
         print(f"[WORKER] Sending to GPT: {path.name}")
+
         result = call_api(
             client=client,
             model=model,
@@ -118,58 +139,75 @@ def process_prompt(
             max_output_tokens=max_tokens,
         )
 
-        outpath = output_dir / path.name  # SAME name
+        outpath = output_dir / path.name
         write_text(outpath, result)
+
         print(f"[WORKER] Saved → {outpath}")
 
-        return True
+        return True, path.name
 
     except Exception as e:
         print(f"[ERROR] {path.name}: {e}")
-        return False
+        return False, path.name
 
 # ------------------------------------------------------------
 # Main
 # ------------------------------------------------------------
-def main():
+def main() -> None:
     args = parse_args()
 
     input_dir = Path(args.input)
     output_dir = Path(args.output)
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    if not input_dir.exists():
+        print(f"Error: input directory does not exist: {input_dir}")
+        sys.exit(1)
+
     files = sorted(input_dir.glob("*.txt"))
+
     if not files:
-        print("No prompt files found.")
+        print(f"No prompt files found in {input_dir}.")
         sys.exit(0)
 
     api_key = os.environ.get("OPENAI_API_KEY")
+
     if not api_key:
         print("Error: OPENAI_API_KEY not set.")
+        print(f"Checked environment and {env_path}")
         sys.exit(1)
 
     client = OpenAI(api_key=api_key)
 
     print(f"Submitting {len(files)} prompts using {args.workers} workers…")
 
-    futures = []
+    failures = []
+
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        for f in files:
-            futures.append(
-                pool.submit(
-                    process_prompt,
-                    f,
-                    output_dir,
-                    client,
-                    args.model,
-                    args.max_output_tokens,
-                )
+        futures = [
+            pool.submit(
+                process_prompt,
+                f,
+                output_dir,
+                client,
+                args.model,
+                args.max_output_tokens,
             )
+            for f in files
+        ]
 
         for fut in as_completed(futures):
-            fut.result()
+            ok, name = fut.result()
+            if not ok:
+                failures.append(name)
 
-    print("\nAll prompts processed.")
+    if failures:
+        print("\n⚠ Some prompts failed:")
+        for name in failures:
+            print(f"  - {name}")
+        sys.exit(1)
+
+    print("\n✓ All prompts processed successfully.")
 
 if __name__ == "__main__":
     main()
