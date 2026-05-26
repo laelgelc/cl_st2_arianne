@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t898_gemini.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: 5
+Loading words (f2_neg), N=0: 
 
 ============================================================
 In the Indian Ocean, Greenpeace activists have disabled the high-powered lights on the Explorer II vessel using water-based black paint. This action was a protest against the vessel's fish-aggregating practices, which were potentially in breach of regulations. Following the action, such lights were banned.

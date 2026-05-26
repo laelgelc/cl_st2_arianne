@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t647_human.txt
 
 Score (f2_neg): 2
-Loading words (f2_neg), N=1: f3 score: -1
+Loading words (f2_neg), N=0: 
 
 ============================================================
 2018 has been an iconic year for Greenpeace’s ships. The Rainbow Warrior, Esperanza, and Arctic Sunrise has sailed from all corners of the world – from Antarctica to Hawaii, Taiwan to New Zealand, from the dense forest of Papua to the pristine biodiverse Great Southern Reef in Australia.

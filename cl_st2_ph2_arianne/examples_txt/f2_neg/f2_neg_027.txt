@@ -5,7 +5,7 @@ Model:   grok
 File:    corpus/05_grok/t868_grok.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: 12
+Loading words (f2_neg), N=0: 
 
 ============================================================
 Samsung is recalling 4.3 million Galaxy Note 7 phones following nearly 100 reported cases of explosions. This recall involves an amount of technology equivalent to 730,000 kilograms. The company has stated it will dispose of these phones without repairing, refurbishing, or reselling them. Samsung sold 1.8 million of these devices across 10 countries and is now collecting them from customers worldwide.

@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t647_gemini.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: -1
+Loading words (f2_neg), N=0: 
 
 ============================================================
 In 2018, an iconic year for Greenpeace’s ships, the Rainbow Warrior, Esperanza, and Arctic Sunrise sailed to locations around the globe. Their journeys took them to Antarctica, Hawaii, Taiwan, New Zealand, the dense forests of Papua, and Australia's Great Southern Reef.

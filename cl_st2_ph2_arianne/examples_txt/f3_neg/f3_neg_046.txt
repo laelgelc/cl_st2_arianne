@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t748_human.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 8
+Loading words (f3_neg), N=0: 
 
 ============================================================
 The Munduruku are Indigenous People who have lived on the area around the Tapajós River, in the heart of the Brazilian Amazon, for centuries. Today, there are more than 12,000 Munduruku living in the region. They depend on the river for food, transportation and the survival of their cultural and spiritual practices, and they’ve been fighting to protect their traditional land for more than three decades.

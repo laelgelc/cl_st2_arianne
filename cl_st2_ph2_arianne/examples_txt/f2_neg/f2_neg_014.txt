@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t661_gemini.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: 13
+Loading words (f2_neg), N=0: 
 
 ============================================================
 After three years of campaigning, our Southeast Asia tuna ranking reveals a significant shift: five companies now hold Green ratings for their sustainable practices, a major improvement from nearly zero.

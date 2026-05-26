@@ -115,6 +115,11 @@ def parse_score_details(path: Path, *, num_factors: int) -> dict[str, dict[str, 
 
     Returns:
         loading_words[tid]["f<n>_pos" or "f<n>_neg"] -> list[str]
+
+    Important:
+        Keep regex matches confined to one line. Do not use \\s* after the
+        colon, because \\s can consume newlines and accidentally capture the
+        next "f<n> score" line when the loading-word line is empty.
     """
     if not path.exists():
         raise SystemExit(
@@ -128,7 +133,7 @@ def parse_score_details(path: Path, *, num_factors: int) -> dict[str, dict[str, 
     blocks = txt.split("=============================================")
 
     for block in blocks:
-        m = re.search(r"text ID:\s*(t\d+)", block)
+        m = re.search(r"^text ID:[ \t]*(t\d+)[ \t]*$", block, flags=re.MULTILINE)
         if not m:
             continue
 
@@ -136,8 +141,16 @@ def parse_score_details(path: Path, *, num_factors: int) -> dict[str, dict[str, 
         out[tid] = {}
 
         for f in range(1, num_factors + 1):
-            mp = re.search(rf"f{f} pos words \(N=\d+\):\s*(.*)", block)
-            mn = re.search(rf"f{f} neg words \(N=\d+\):\s*(.*)", block)
+            mp = re.search(
+                rf"^f{f} pos words \(N=\d+\):[ \t]*(.*)$",
+                block,
+                flags=re.MULTILINE,
+            )
+            mn = re.search(
+                rf"^f{f} neg words \(N=\d+\):[ \t]*(.*)$",
+                block,
+                flags=re.MULTILINE,
+            )
 
             pos = mp.group(1).split(",") if mp else []
             neg = mn.group(1).split(",") if mn else []

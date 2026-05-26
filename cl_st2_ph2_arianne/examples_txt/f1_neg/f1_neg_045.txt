@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t712_human.txt
 
 Score (f1_neg): 4
-Loading words (f1_neg), N=1: f2 score: 6
+Loading words (f1_neg), N=0: 
 
 ============================================================
 Greenpeace’s Antarctic Ambassadors are leading the call to Protect the Antarctic. They are a group of artists, actors, scientists, explorers and more who recognise the responsibility we all have to protect Earth’s most fragile places. They have dived to the bottom of the Antarctic Ocean, danced with penguins, met with world leaders and spread the word far and wide: the Antarctic needs our help, and it needs it now.

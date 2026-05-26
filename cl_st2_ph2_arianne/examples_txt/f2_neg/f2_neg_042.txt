@@ -5,7 +5,7 @@ Model:   gpt
 File:    corpus/05_gpt/t964_gpt.txt
 
 Score (f2_neg): 2
-Loading words (f2_neg), N=1: f3 score: 6
+Loading words (f2_neg), N=0: 
 
 ============================================================
 Reindeer, also known as caribou (Rangifer tarandus), are full of remarkable adaptations that help them thrive in some of the harshest environments on Earth. From the tips of their antlers to the pads of their hooves, almost every part of their bodies tells a story about life in the Arctic.

@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t771_gemini.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 5
+Loading words (f3_neg), N=0: 
 
 ============================================================
 Greenpeace is joining an Indigenous-led movement on Canada's Pacific coast to stop Kinder Morgan's oil pipeline.

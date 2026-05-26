@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t569_human.txt
 
 Score (f1_neg): 4
-Loading words (f1_neg), N=1: f2 score: 5
+Loading words (f1_neg), N=0: 
 
 ============================================================
 Greenpeace’s Ocean Ambassadors are leading the call to Protect the Oceans . They are a group of artists, actors, scientists, explorers and more who recognise the responsibility we all have to protect Earth’s most fragile places.

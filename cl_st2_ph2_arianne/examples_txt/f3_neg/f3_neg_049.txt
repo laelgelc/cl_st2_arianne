@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t301_human.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 5
+Loading words (f3_neg), N=0: 
 
 ============================================================
 This past May, Greenpeace International hosted a live conversation with a panel of dynamic speakers about extractivism in Latin America and the communities that are resisting it.

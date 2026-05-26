@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t914_gemini.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: 3
+Loading words (f2_neg), N=0: 
 
 ============================================================
 In China, former city dweller Hou Xueying now practices organic farming. She uses ducks to help fertilize her rice fields and sells her produce online. She also plans to educate children on where their food comes from. Li Yang has noted that consumers can influence food safety by choosing ecological produce.

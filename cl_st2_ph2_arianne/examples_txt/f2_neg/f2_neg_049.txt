@@ -5,7 +5,7 @@ Model:   gpt
 File:    corpus/05_gpt/t945_gpt.txt
 
 Score (f2_neg): 5
-Loading words (f2_neg), N=1: f3 score: 3
+Loading words (f2_neg), N=0: 
 
 ============================================================
 For seven days, Greenpeace activists aboard the Esperanza patrolled the Gulf of California, focusing on the waters near the Bay of San Felipe. During this patrol, they discovered ten illegal gillnets and documented boats fishing inside the vaquita porpoise’s protected habitat.

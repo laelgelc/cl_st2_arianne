@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t351_human.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 4
+Loading words (f3_neg), N=0: 
 
 ============================================================
 There are few events in world history that make us ask ourselves: Where was I when that happened? I still remember when the news broke about a plane crashing into the World Trade Centre in 2001 and the visuals of the giant waves hitting Indonesia and Thailand’s coast in 2004. Another shocking tragedy that affected so many of us was the tsunami hitting the nuclear power station on Fukushima’s coast. The images from these events are forever seared into memory.

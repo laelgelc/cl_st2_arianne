@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t468_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 1
+Loading words (f1_neg), N=0: 
 
 ============================================================
 Caros amigos,

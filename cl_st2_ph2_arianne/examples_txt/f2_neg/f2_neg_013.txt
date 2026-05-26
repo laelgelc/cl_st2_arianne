@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t838_gemini.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: 5
+Loading words (f2_neg), N=0: 
 
 ============================================================
 Over four days in the waters of Sierra Leone, Greenpeace, working from the ship Esperanza alongside local inspectors, uncovered multiple cases of illegal fishing.

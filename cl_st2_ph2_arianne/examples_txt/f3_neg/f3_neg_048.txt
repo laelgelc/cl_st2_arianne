@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t151_human.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 4
+Loading words (f3_neg), N=0: 
 
 ============================================================
 “Today was the worst day this year. I could have fainted today for sure,” a roadside vendor had said to me in Delhi. Things have been building up in the last few years but the heat in India this summer has been absolutely unbearable. The people most impacted are the poorest of them all – daily wagers, delivery boys, roadside vendors and anyone who can’t afford swanky air conditioners.

@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t837_human.txt
 
 Score (f1_neg): 3
-Loading words (f1_neg), N=1: f2 score: 6
+Loading words (f1_neg), N=0: 
 
 ============================================================
 I can’t imagine a world without bees. These fantastic little insects are not only a vital part of natural ecosystems, they also play a crucial role in food production.

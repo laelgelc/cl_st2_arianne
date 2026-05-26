@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t772_gemini.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 0
+Loading words (f3_neg), N=0: 
 
 ============================================================
 Around the world, inspiring women are at the forefront of environmental efforts. Kanahus Manuel, an Indigenous leader from Canada's Secwepemc First Nation, is engaged in the fight against the Trans Mountain pipeline, which is part of an intergenerational struggle for rights.

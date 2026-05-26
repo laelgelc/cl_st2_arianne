@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t076_human.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 0
+Loading words (f3_neg), N=0: 
 
 ============================================================
 2022 was another difficult year for many of us. The world tried to get back to normal but the meaning of normal has changed for many. This year, we witnessed nature’s fury in full force. Record-breaking heat waves in Europe, Africa, America and China caused wildfires, droughts and deaths, drying up lakes and rivers across the world. Pakistan experienced its worst-ever flooding, submerging one-third of the country and affecting 33 million people.

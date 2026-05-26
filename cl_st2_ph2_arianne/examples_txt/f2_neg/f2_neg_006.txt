@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t1000_gemini.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: -1
+Loading words (f2_neg), N=0: 
 
 ============================================================
 Bob Hunter, a founder of Greenpeace, died on May 2, 2005, from cancer. Born in Winnipeg in 1941, he was a rebellious journalist who left his column at the Vancouver Sun to participate in the 1971 voyage protesting a U.S. nuclear test off Amchitka. It was then that he coined the name "Greenpeace," an event which sparked global environmental activism.

@@ -5,7 +5,7 @@ Model:   gpt
 File:    corpus/05_gpt/t394_gpt.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 2
+Loading words (f3_neg), N=0: 
 
 ============================================================
 World leaders and senior politicians are gathering virtually at the UN Summit on Biodiversity to confront the intertwined nature and climate emergencies. As they meet, young climate and nature activists are making it clear that statements and promises are not enough. Through their Wake Up Call, they are demanding real, tangible action to protect people and the planet.

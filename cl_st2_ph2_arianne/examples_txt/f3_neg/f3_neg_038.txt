@@ -5,7 +5,7 @@ Model:   gpt
 File:    corpus/05_gpt/t354_gpt.txt
 
 Score (f3_neg): 1
-Loading words (f3_neg), N=1: f4 score: 0
+Loading words (f3_neg), N=0: 
 
 ============================================================
 The fight for climate justice is inseparable from the fight for global equality. Around the world, women are at the forefront of protecting our climate and environment, pushing for a future in which people and planet can thrive together. When we talk about “women” in this context, we explicitly include trans, non-binary, and cisgender individuals whose work, courage, and creativity are driving change every single day.

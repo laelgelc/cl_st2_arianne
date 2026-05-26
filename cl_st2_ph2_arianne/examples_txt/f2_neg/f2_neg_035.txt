@@ -5,7 +5,7 @@ Model:   human
 File:    corpus/05_human/t580_human.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: 0
+Loading words (f2_neg), N=0: 
 
 ============================================================
 Last week we received the sad news that one of our great specialist underwater photographers who worked extensively with Greenpeace over the years, Dr. Roger Grace, passed away recently in New Zealand.

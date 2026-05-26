@@ -5,7 +5,7 @@ Model:   gemini
 File:    corpus/05_gemini/t902_gemini.txt
 
 Score (f2_neg): 1
-Loading words (f2_neg), N=1: f3 score: 1
+Loading words (f2_neg), N=0: 
 
 ============================================================
 Annet van Aarsen describes the diving beauty of the North Sea, a place of clear waters and vibrant wrecks teeming with life, including anemones, fish, crabs, lobsters, nudibranchs, and tube worms.
