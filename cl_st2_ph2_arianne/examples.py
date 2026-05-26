@@ -48,7 +48,8 @@ FILE_IDS_PATH = Path("file_ids.txt")
 # =============================================================================
 # STOP WORDS THAT MUST NOT BE BOLD
 # =============================================================================
-STOPLIST = {"edith", "doorbell", "michael", "recorded", "attempt", "request"}
+#STOPLIST = {"edith", "doorbell", "michael", "recorded", "attempt", "request"}
+STOPLIST = {}
 
 # =============================================================================
 # LOAD FILE-ID → FILENAME MAP
