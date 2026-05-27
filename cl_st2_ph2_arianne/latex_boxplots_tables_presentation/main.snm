@@ -18,3 +18,7 @@
 \beamer@slide {fig:mosaic_by_model}{25}
 \beamer@slide {fig:mosaic_by_prompt}{26}
 \beamer@slide {fig:mosaic_by_source}{27}
+\beamer@slide {tab:anova_group}{29}
+\beamer@slide {tab:anova_model}{30}
+\beamer@slide {tab:anova_prompt}{31}
+\beamer@slide {tab:anova_source}{32}

@@ -4,3 +4,4 @@
 \beamer@sectionintoc {3}{Boxplots Dimension 3}{13}{0}{3}
 \beamer@sectionintoc {4}{Boxplots Dimension 4}{18}{0}{4}
 \beamer@sectionintoc {5}{Mosaics}{23}{0}{5}
+\beamer@sectionintoc {6}{ANOVA}{28}{0}{6}
