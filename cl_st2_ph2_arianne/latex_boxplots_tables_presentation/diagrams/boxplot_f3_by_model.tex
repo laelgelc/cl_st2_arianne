@@ -1,0 +1,64 @@
+\begin{figure}[H]
+\centering
+\hspace*{-.25in}
+\begin{tikzpicture}
+\begin{axis}[
+  boxplot/draw direction=y,
+  enlarge x limits=0.01,
+  every boxplot/.style={draw=black, fill=blue!25},
+  ylabel={Mean Dim. 3 Score},
+  ylabel style={font=\scriptsize},
+  height=0.45\textheight, width=\textwidth,
+  yticklabel style={font=\footnotesize},
+  x tick label style={rotate=60, anchor=east, font=\scriptsize},
+  x=7.5,
+  xtick={1,...,4},
+  xticklabels={
+human,
+  gpt,
+  grok,
+  gemini
+},
+]
+\addplot[red, densely dashed] coordinates {(0.5,0) (4.5,0)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(1,39) (1,39) (1,39) (1,39) (1,39) (1,40) (1,40) (1,40) (1,41) (1,41) (1,41) (1,41) (1,42) (1,42) (1,43) (1,43) (1,45) (1,45) (1,45) (1,46) (1,46) (1,46) (1,47) (1,47) (1,48) (1,48) (1,48) (1,48) (1,49) (1,50) (1,62) (1,70)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-1,
+  lower quartile=8.0,
+  median=13.0,
+  upper quartile=20.0,
+  upper whisker=38.0
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(1,14.831)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(2,34) (2,35)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-3,
+  lower quartile=6.0,
+  median=11.0,
+  upper quartile=17.0,
+  upper whisker=33.5
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(2,11.757)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(3,15) (3,15) (3,15) (3,15) (3,15) (3,15) (3,16) (3,16) (3,16) (3,16) (3,16) (3,17) (3,17) (3,17) (3,17) (3,17) (3,17) (3,17) (3,18) (3,18) (3,18) (3,18) (3,18) (3,20)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-1,
+  lower quartile=2.0,
+  median=4.0,
+  upper quartile=7.0,
+  upper whisker=14.5
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(3,5.039)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(4,15) (4,15) (4,15) (4,15) (4,15) (4,15) (4,15) (4,15) (4,15) (4,16) (4,16) (4,16) (4,16) (4,16) (4,16) (4,17) (4,17) (4,17) (4,17) (4,17) (4,17) (4,18) (4,18) (4,18) (4,18) (4,19) (4,23)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-1,
+  lower quartile=2.0,
+  median=4.0,
+  upper quartile=7.0,
+  upper whisker=14.5
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(4,5.007)};
+\end{axis}
+\end{tikzpicture}
+\caption{Mean Dim. 3 Scores by Model (R² = 28.37\%)}
+\label{fig:means_f3_by_model}
+\end{figure}

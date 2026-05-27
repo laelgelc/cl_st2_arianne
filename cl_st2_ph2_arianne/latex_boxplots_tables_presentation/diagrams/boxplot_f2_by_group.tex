@@ -1,0 +1,64 @@
+\begin{figure}[H]
+\centering
+\hspace*{-.25in}
+\begin{tikzpicture}
+\begin{axis}[
+  boxplot/draw direction=y,
+  enlarge x limits=0.01,
+  every boxplot/.style={draw=black, fill=blue!25},
+  ylabel={Mean Dim. 2 Score},
+  ylabel style={font=\scriptsize},
+  height=0.45\textheight, width=\textwidth,
+  yticklabel style={font=\footnotesize},
+  x tick label style={rotate=60, anchor=east, font=\scriptsize},
+  x=7.5,
+  xtick={1,...,4},
+  xticklabels={
+persona\_gpt,
+  human,
+  persona\_grok,
+  persona\_gemini
+},
+]
+\addplot[red, densely dashed] coordinates {(0.5,0) (4.5,0)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(1,58) (1,58) (1,59) (1,59) (1,59) (1,60) (1,61) (1,61) (1,61) (1,62) (1,64) (1,65) (1,66) (1,67) (1,69) (1,70)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=1,
+  lower quartile=17.0,
+  median=24.0,
+  upper quartile=33.0,
+  upper whisker=57.0
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(1,25.534)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(2,55) (2,55) (2,62) (2,62) (2,71)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=0,
+  lower quartile=12.0,
+  median=19.0,
+  upper quartile=28.0,
+  upper whisker=52.0
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(2,20.725)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(3,23) (3,23) (3,24) (3,24) (3,24) (3,25) (3,25) (3,25) (3,26) (3,26) (3,26) (3,27) (3,28) (3,28) (3,32)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-1,
+  lower quartile=5.0,
+  median=8.0,
+  upper quartile=12.0,
+  upper whisker=22.5
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(3,9.008)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(4,21) (4,22) (4,22)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-2,
+  lower quartile=5.0,
+  median=8.0,
+  upper quartile=11.0,
+  upper whisker=20.0
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(4,7.991)};
+\end{axis}
+\end{tikzpicture}
+\caption{Mean Dim. 2 Scores by Group (R² = 40.90\%)}
+\label{fig:means_f2_by_group}
+\end{figure}
